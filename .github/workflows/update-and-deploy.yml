@@ -5,6 +5,12 @@ on:
     # GitHub Actions uses UTC. 00:00 UTC is 08:00 in Asia/Shanghai.
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      deploy_only:
+        description: "Skip PubMed refresh and deploy the committed site"
+        required: false
+        default: false
+        type: boolean
   push:
     branches: [main]
     paths:
@@ -34,23 +40,29 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: ${{ !inputs.deploy_only }}
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Fetch PubMed records
+        if: ${{ !inputs.deploy_only }}
         run: python scripts/update_literature.py --retmax 220
 
       - name: Translate new or changed records
+        if: ${{ !inputs.deploy_only }}
         run: python scripts/translate_literature.py
 
       - name: Generate static website
+        if: ${{ !inputs.deploy_only }}
         run: python scripts/generate_static_site.py
 
       - name: Validate literature data and website
+        if: ${{ !inputs.deploy_only }}
         run: python scripts/validate_literature.py
 
       - name: Commit refreshed data
+        if: ${{ !inputs.deploy_only }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
