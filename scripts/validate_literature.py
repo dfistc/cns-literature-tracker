@@ -10,6 +10,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "literature.json"
 SITE_PATH = ROOT / "site" / "index.html"
 DOI_PATTERN = re.compile(r"^10\.\d{4,9}/\S+$", re.IGNORECASE)
+REQUIRED_DOIS = {
+    "10.1038/s41586-020-2545-9",
+    "10.1016/j.cell.2026.01.018",
+}
 
 
 def main() -> None:
@@ -36,6 +40,12 @@ def main() -> None:
             raise SystemExit(f"Missing Chinese title: {doi}")
         if not item.get("summaryZh"):
             raise SystemExit(f"Missing Chinese abstract: {doi}")
+        if not item.get("matchedTerms") or "待人工复核" in item.get("categories", []):
+            raise SystemExit(f"Missing explicit inclusion keyword: {doi}")
+
+    missing_required = REQUIRED_DOIS - seen
+    if missing_required:
+        raise SystemExit(f"Missing required landmark DOI(s): {', '.join(sorted(missing_required))}")
 
     html_text = SITE_PATH.read_text(encoding="utf-8")
     match = re.search(

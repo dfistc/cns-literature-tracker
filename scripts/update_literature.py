@@ -49,7 +49,64 @@ JOURNALS = [
     "Science Robotics",
     "Science Immunology",
 ]
-JOURNAL_CANONICAL = {name.casefold(): name for name in JOURNALS}
+JOURNAL_ALIASES = {
+    "Science": ["Science", "Science (New York, N.Y.)"],
+}
+JOURNAL_CANONICAL = {
+    alias.casefold(): canonical
+    for canonical in JOURNALS
+    for alias in JOURNAL_ALIASES.get(canonical, [canonical])
+}
+
+# These user-identified landmarks double as regression guards for the search.
+LANDMARK_PMIDS = ["32728216", "41861782"]
+LANDMARK_DOIS = ["10.1038/s41586-020-2545-9", "10.1016/j.cell.2026.01.018"]
+
+TAC_FAMILY_TERMS = [
+    "protac",
+    "proteolysis-targeting chimera",
+    "proteolysis targeting chimera",
+    "lytac",
+    "lysosome-targeting chimera",
+    "lysosome-targeting chimaera",
+    "autac",
+    "autophagy-targeting chimera",
+    "attec",
+    "autophagosome-tethering compound",
+    "abtac",
+    "antibody-based protac",
+    "kinetac",
+    "transtac",
+    "dubtac",
+    "ribotac",
+    "photac",
+    "cliptac",
+    "o'protac",
+    "bioprotac",
+    "traftac",
+    "bacprotac",
+    "protab",
+    "mode-a",
+    "cma-tac",
+    "gluetac",
+    "endtac",
+    "haloprotac",
+]
+
+TPD_CONCEPT_TERMS = [
+    "targeted protein degradation",
+    "targeted degradation",
+    "induced protein degradation",
+    "protein degrader",
+    "molecular glue degrader",
+    "molecular glue",
+    "degron",
+    "trim-away",
+    "extracellular targeted protein degradation",
+    "erad-engaging chimera",
+    "erad-targeting",
+    "eradec",
+]
 
 CATEGORY_RULES = {
     "合成生物学": [
@@ -66,19 +123,8 @@ CATEGORY_RULES = {
         "designer receptor",
     ],
     "靶向蛋白降解": [
-        "targeted protein degradation",
-        "protac",
-        "proteolysis-targeting chimera",
-        "molecular glue",
-        "degrader",
-        "degron",
-        "lytac",
-        "autac",
-        "attec",
-        "trim-away",
-        "extracellular targeted protein degradation",
-        "erad-engaging chimera",
-        "eradec",
+        *TPD_CONCEPT_TERMS,
+        *TAC_FAMILY_TERMS,
     ],
     "溶酶体/蛋白酶体": [
         "lysosome",
@@ -106,7 +152,12 @@ def fetch_text(url: str, params: dict[str, str | int]) -> str:
 
 
 def journal_query() -> str:
-    return " OR ".join(f'"{name}"[journal]' for name in JOURNALS)
+    names = [
+        alias
+        for canonical in JOURNALS
+        for alias in JOURNAL_ALIASES.get(canonical, [canonical])
+    ]
+    return " OR ".join(f'"{name}"[journal]' for name in names)
 
 
 def keyword_query() -> str:
@@ -114,23 +165,45 @@ def keyword_query() -> str:
     return " OR ".join(f'"{term}"[tiab]' if " " in term else f"{term}[tiab]" for term in terms)
 
 
-def search_pmids(retmax: int) -> list[str]:
-    pmids: list[str] = []
+def targeted_degradation_query() -> str:
+    terms = sorted(set(TPD_CONCEPT_TERMS + TAC_FAMILY_TERMS))
+    explicit = [f'"{term}"[tiab]' for term in terms]
+    # TACs alone is ambiguous, so require degradation/chimera context.
+    contextual_tacs = (
+        '"TACs"[tiab] AND '
+        '(degrad*[tiab] OR degrader*[tiab] OR chimera*[tiab] OR chimaera*[tiab])'
+    )
+    return " OR ".join(explicit + [f"({contextual_tacs})"])
+
+
+def search_one(term: str, retmax: int) -> list[str]:
+    payload = fetch_text(
+        f"{NCBI_BASE}/esearch.fcgi",
+        {
+            "db": "pubmed",
+            "term": term,
+            "retmode": "json",
+            "retmax": retmax,
+            "sort": "pub date",
+        },
+    )
+    data = json.loads(payload)
+    return data.get("esearchresult", {}).get("idlist", [])
+
+
+def search_pmids(retmax: int, tpd_retmax: int) -> list[str]:
+    pmids: list[str] = list(LANDMARK_PMIDS)
     current_year = datetime.now(timezone.utc).year
     for year in range(current_year, 2019, -1):
-        term = f"({journal_query()}) AND ({year}[dp]) AND ({keyword_query()})"
-        payload = fetch_text(
-            f"{NCBI_BASE}/esearch.fcgi",
-            {
-                "db": "pubmed",
-                "term": term,
-                "retmode": "json",
-                "retmax": retmax,
-                "sort": "pub date",
-            },
+        base = f"({journal_query()}) AND ({year}[dp])"
+        pmids.extend(search_one(f"{base} AND ({keyword_query()})", retmax))
+        time.sleep(0.34)
+        pmids.extend(
+            search_one(
+                f"{base} AND ({targeted_degradation_query()})",
+                tpd_retmax,
+            )
         )
-        data = json.loads(payload)
-        pmids.extend(data.get("esearchresult", {}).get("idlist", []))
         time.sleep(0.34)
     return list(dict.fromkeys(pmids))
 
@@ -201,7 +274,20 @@ def classify(title: str, abstract: str) -> list[str]:
         for category, terms in CATEGORY_RULES.items()
         if any(term.lower() in haystack for term in terms)
     ]
-    return categories or ["待人工复核"]
+    if has_contextual_tacs(haystack) and "靶向蛋白降解" not in categories:
+        categories.append("靶向蛋白降解")
+    return categories
+
+
+def has_contextual_tacs(haystack: str) -> bool:
+    return bool(
+        re.search(r"\btacs\b", haystack, flags=re.IGNORECASE)
+        and re.search(
+            r"\b(?:degrad\w*|chim(?:era|aera)s?)\b",
+            haystack,
+            flags=re.IGNORECASE,
+        )
+    )
 
 
 def matched_terms(title: str, abstract: str) -> list[str]:
@@ -211,6 +297,8 @@ def matched_terms(title: str, abstract: str) -> list[str]:
         for term in terms:
             if term.lower() in haystack and term not in matches:
                 matches.append(term)
+    if has_contextual_tacs(haystack):
+        matches.append("TACs + degradation/chimera context")
     return matches[:8]
 
 
@@ -241,12 +329,16 @@ def parse_articles(xml_text: str, previous: dict[str, dict]) -> list[dict]:
         abstract = node_text(article.find(".//Abstract"))
         if not pmid or not title or not doi or not year or year < 2020:
             continue
-        if doi.startswith("10.1038/d41586") or title.lower().startswith("author correction"):
+        if doi.startswith("10.1038/d41586") or title.lower().startswith(
+            ("author correction", "publisher correction", "correction", "erratum", "retraction")
+        ):
             continue
         if not journal:
             continue
         categories = classify(title, abstract)
         terms = matched_terms(title, abstract)
+        if not categories or not terms:
+            continue
         prior = previous.get(doi.lower(), {})
         clean_abstract = abstract_for_translation(abstract)
         source_fingerprint = text_fingerprint(f"{title}\n{clean_abstract}")
@@ -274,8 +366,8 @@ def parse_articles(xml_text: str, previous: dict[str, dict]) -> list[dict]:
     return records
 
 
-def fetch_records(retmax: int) -> list[dict]:
-    pmids = search_pmids(retmax)
+def fetch_records(retmax: int, tpd_retmax: int) -> list[dict]:
+    pmids = search_pmids(retmax, tpd_retmax)
     if not pmids:
         return []
     previous = {}
@@ -305,9 +397,14 @@ def fetch_records(retmax: int) -> list[dict]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--retmax", type=int, default=120)
+    parser.add_argument("--tpd-retmax", type=int, default=1000)
     args = parser.parse_args()
 
-    records = fetch_records(args.retmax)
+    records = fetch_records(args.retmax, args.tpd_retmax)
+    found_dois = {record["doi"].lower() for record in records}
+    missing_landmarks = [doi for doi in LANDMARK_DOIS if doi.lower() not in found_dois]
+    if missing_landmarks:
+        raise RuntimeError(f"Required landmark articles are missing: {', '.join(missing_landmarks)}")
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     DATA_PATH.write_text(

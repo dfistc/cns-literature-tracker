@@ -19,10 +19,12 @@ GitHub Actions 每天北京时间 08:00 自动执行：
 ## 本地更新
 
 ```powershell
-python scripts/update_literature.py --retmax 220
+python scripts/update_literature.py --retmax 220 --tpd-retmax 1000
 python scripts/translate_literature.py
 python scripts/generate_static_site.py
 python scripts/validate_literature.py
 ```
 
 中文题名和摘要由自动翻译生成，科研引用和专业术语应以 PubMed 英文原文为准。
+
+靶向蛋白降解使用独立检索通道，除 PROTAC、molecular glue、degrader 等概念词外，还显式覆盖 LYTAC、AUTAC、ATTEC、AbTAC、KineTAC、DUBTAC、RIBOTAC、PHOTAC、CLIPTAC、bioPROTAC 等 TAC 家族。`TACs` 缩写仅在同时出现 degradation、degrader 或 chimera/chimaera 上下文时纳入，以减少同名缩写造成的误收录。

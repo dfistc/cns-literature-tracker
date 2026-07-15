@@ -7,6 +7,7 @@ import re
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -97,37 +98,66 @@ def is_legacy_summary(value: str) -> bool:
     return not value or value.startswith("本文与") or "PubMed 摘要显示" in value
 
 
+def translate_item(index: int, item: dict) -> tuple[int, str, str]:
+    title_zh = item.get("titleZh", "")
+    summary_zh = item.get("summaryZh", "")
+    if not title_zh:
+        title_zh = translate_text(item.get("title", ""))
+    if is_legacy_summary(summary_zh):
+        abstract = item.get("abstractEn", "").strip()
+        summary_zh = translate_text(abstract) if abstract else "PubMed 未提供可翻译的摘要。"
+    return index, title_zh, summary_zh
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0, help="Translate at most N records; 0 means all.")
+    parser.add_argument("--workers", type=int, default=4, help="Concurrent translation workers.")
     args = parser.parse_args()
 
     data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-    translated_count = 0
-    for index, item in enumerate(data.get("items", []), start=1):
+    pending: list[tuple[int, dict]] = []
+    for index, item in enumerate(data.get("items", [])):
         item["abstractEn"] = strip_publisher_notice(item.get("abstractEn", ""))
         item["summaryZh"] = strip_publisher_notice(item.get("summaryZh", ""))
         abstract = item.get("abstractEn", "").strip()
         item["translationSource"] = source_fingerprint(item.get("title", ""), abstract)
         needs_title = not item.get("titleZh")
         needs_abstract = is_legacy_summary(item.get("summaryZh", ""))
-        if not needs_title and not needs_abstract:
-            continue
-        if args.limit and translated_count >= args.limit:
-            break
+        if needs_title or needs_abstract:
+            pending.append((index, dict(item)))
 
-        if needs_title:
-            item["titleZh"] = translate_text(item.get("title", ""))
-        if needs_abstract:
-            item["summaryZh"] = translate_text(abstract) if abstract else "PubMed 未提供可翻译的摘要。"
+    if args.limit:
+        pending = pending[: args.limit]
 
-        translated_count += 1
-        DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"[{index}/{len(data['items'])}] {item.get('doi')} translated")
+    translated_count = 0
+    errors: list[str] = []
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
+        futures = {
+            executor.submit(translate_item, index, item): (index, item.get("doi", ""))
+            for index, item in pending
+        }
+        for future in as_completed(futures):
+            original_index, doi = futures[future]
+            try:
+                index, title_zh, summary_zh = future.result()
+            except Exception as error:
+                errors.append(f"{doi}: {error}")
+                print(f"[{original_index + 1}/{len(data['items'])}] {doi} failed: {error}", flush=True)
+                continue
+
+            data["items"][index]["titleZh"] = title_zh
+            data["items"][index]["summaryZh"] = summary_zh
+            translated_count += 1
+            if translated_count % 5 == 0:
+                DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            print(f"[{index + 1}/{len(data['items'])}] {doi} translated", flush=True)
 
     data["updatedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Translated {translated_count} records")
+    if errors:
+        raise RuntimeError(f"{len(errors)} translations failed; first error: {errors[0]}")
 
 
 if __name__ == "__main__":

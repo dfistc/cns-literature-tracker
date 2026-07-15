@@ -47,11 +47,11 @@ jobs:
 
       - name: Fetch PubMed records
         if: ${{ !inputs.deploy_only }}
-        run: python scripts/update_literature.py --retmax 220
+        run: python scripts/update_literature.py --retmax 220 --tpd-retmax 1000
 
       - name: Translate new or changed records
         if: ${{ !inputs.deploy_only }}
-        run: python scripts/translate_literature.py
+        run: python scripts/translate_literature.py --workers 4
 
       - name: Generate static website
         if: ${{ !inputs.deploy_only }}
