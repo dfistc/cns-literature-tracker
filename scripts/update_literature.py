@@ -390,6 +390,40 @@ def fetch_records(retmax: int, tpd_retmax: int) -> list[dict]:
         if key not in seen:
             seen.add(key)
             unique.append(record)
+
+    # PubMed's newest-indexed result set can fluctuate between runs. Preserve a
+    # previously verified record when it still satisfies today's explicit
+    # journal, year, topic and DOI rules, even if one search response omits it.
+    for prior in previous.values():
+        key = prior.get("doi", "").lower()
+        title = prior.get("title", "")
+        abstract = prior.get("abstractEn", "")
+        journal = prior.get("journal", "")
+        year = prior.get("year", 0)
+        categories = classify(title, abstract)
+        terms = matched_terms(title, abstract)
+        if (
+            not key
+            or key in seen
+            or journal not in JOURNALS
+            or not isinstance(year, int)
+            or year < 2020
+            or title.lower().startswith(
+                ("author correction", "publisher correction", "correction", "erratum", "retraction")
+            )
+            or not categories
+            or not terms
+        ):
+            continue
+        retained = dict(prior)
+        retained["categories"] = categories
+        retained["matchedTerms"] = terms
+        retained["standard"] = (
+            "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；"
+            f"题名/摘要命中：{', '.join(terms)}。"
+        )
+        seen.add(key)
+        unique.append(retained)
     unique.sort(key=lambda row: (row["year"], row["published"], row["journal"]), reverse=True)
     return unique
 
