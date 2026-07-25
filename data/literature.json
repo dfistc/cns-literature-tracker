@@ -1,8 +1,135 @@
 {
-  "updatedAt": "2026-07-23T01:23:30+00:00",
+  "updatedAt": "2026-07-25T01:20:33+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42497282",
+      "title": "A programmable fungal platform for engineered living textiles.",
+      "titleZh": "用于工程活性纺织品的可编程真菌平台。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-24",
+      "doi": "10.1126/sciadv.aed6937",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aed6937",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42497282/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "A central challenge in engineered living materials (ELMs) is the seamless integration of macroscopic structural assembly with sustained cellular viability and programmable function. Here, we report a fungal-based living material that addresses this challenge by preserving the metabolic activity of Cordyceps militaris mycelia within macroscale, cohesive films fabricated via a low-energy process. These living textiles retain the capacity for environmental response, demonstrated by nutrient-induced aerial hyphal growth that enables surface renewal. The native mycelial architecture further allows for volumetric integration of engineered microbial partners, exemplified by coculture with pigment-producing Saccharomyces cerevisiae for in situ patterning and melanized Aspergillus niger for built-in ultraviolet shielding. This modular design decouples bulk structural fabrication from genetic functionalization, offering a plug-and-play platform for synthetic biology. Environmental assessments confirm near-complete morphological degradation within 41 days. Our work establishes a scalable and sustainable chassis for functional ELMs, bridging a critical gap between structural integrity and biological programmability.",
+      "summaryZh": "工程活性材料（ELM）的一个核心挑战是宏观结构组装与持续细胞活力和可编程功能的无缝集成。在这里，我们报告了一种基于真菌的活材料，它通过在低能量过程制造的宏观粘性薄膜中保留蛹虫草菌丝体的代谢活性来应对这一挑战。这些活性纺织品保留了环境响应能力，营养诱导的气生菌丝生长可以实现表面更新，这证明了这一点。天然菌丝体结构进一步允许工程微生物伙伴的体积整合，例如与产生色素的酿酒酵母共培养以进行原位图案化以及与黑化黑曲霉共培养以进行内置紫外线屏蔽。这种模块化设计将批量结构制造与基因功能化分离，为合成生物学提供了即插即用的平台。环境评估证实 41 天内形态几乎完全退化。我们的工作为功能性 ELM 建立了一个可扩展且可持续的基础，弥合了结构完整性和生物可编程性之间的关键差距。",
+      "translationSource": "4572d3c63ac80173"
+    },
+    {
+      "pmid": "42497269",
+      "title": "A viral protein diverts the endocytic VPS9a-Rab5 pathway to promote virus infection in plants.",
+      "titleZh": "病毒蛋白改变内吞 VPS9a-Rab5 途径，促进植物中的病毒感染。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-24",
+      "doi": "10.1126/sciadv.aeg2304",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg2304",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42497269/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：endosome。",
+      "abstractEn": "Endocytosis is central to cellular trafficking and signaling across eukaryotes, yet whether and how plant viruses actively reprogram this pathway remains unclear. Here, we show that the geminiviral betasatellite-encoded βC1 reprograms the host VPS9a-Rab5 endocytic module to promote viral infection. βC1 associates with the Rab5 GTPases ARA6 and ARA7 as well as their guanine nucleotide exchange factor VPS9a, stabilizing the VPS9a-Rab5 complex and enhancing nucleotide exchange. This catalytic potentiation sustains Rab5 activation and drives endosome proliferation, which, in turn, stabilizes βC1 to support efficient viral replication. Genetic disruption of Rab5 or VPS9a compromises endocytosis, reduces βC1 accumulation, and restricts infection by multiple geminiviruses. Together, these findings define the VPS9a-Rab5 module as a central proviral hub linking host membrane dynamics to effector stability and viral DNA amplification, revealing an unanticipated strategy in which a viral effector amplifies a cellular regulatory catalyst to reprogram a fundamental cellular pathway for virus infection.",
+      "summaryZh": "内吞作用是真核生物细胞运输和信号传导的核心，但植物病毒是否以及如何主动重新编程该途径仍不清楚。在这里，我们证明双生病毒β卫星编码的βC1重新编程宿主VPS9a-Rab5内吞模块以促进病毒感染。 βC1 与 Rab5 GTPases ARA6 和 ARA7 及其鸟嘌呤核苷酸交换因子 VPS9a 结合，稳定 VPS9a-Rab5 复合物并增强核苷酸交换。这种催化增强作用维持 Rab5 激活并驱动内体增殖，进而稳定 βC1 以支持有效的病毒复制。 Rab5 或 VPS9a 的基因破坏会损害内吞作用，减少 βC1 积累，并限制多种双生病毒的感染。总之，这些发现将 VPS9a-Rab5 模块定义为将宿主膜动力学与效应器稳定性和病毒 DNA 扩增联系起来的中央原病毒枢纽，揭示了一种意想不到的策略，其中病毒效应器放大细胞调节催化剂以重新编程病毒感染的基本细胞途径。",
+      "translationSource": "6887e006e0845450"
+    },
+    {
+      "pmid": "42490423",
+      "title": "Distinct roles of COPI proteins attenuated in cell senescence.",
+      "titleZh": "COPI 蛋白在细胞衰老过程中的独特作用减弱。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-24",
+      "doi": "10.1126/sciadv.aec2786",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec2786",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42490423/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "In senescent cells, functional alterations in organelles like mitochondria and lysosomes are well characterized, but senescence-associated changes in Golgi function are not. An RNA interference screen revealed that silencing subunits of the coatomer protein I (COPI) complex, critical for intracellular transport involving the Golgi, reduced extracellular vesicle uptake. In proliferating WI-38 fibroblasts, silencing COPI constituents COPA, COPB1, COPB2, or COPD induced ATF4 production and disrupted autophagy, apoptosis, and cytokine signaling, all hallmarks of impaired Golgi-to-endoplasmic reticulum transport, while silencing COPI constituents COPG1, COPE, or COPZ1 altered the production of extracellular matrix proteins. Furthermore, individual COPI proteins associated with Golgi and endosomal proteins, supporting roles in vesicular trafficking. In senescent WI-38 fibroblasts, silencing COPI proteins did not elicit these phenotypes. Our findings underscore the distinct, multifunctional actions of individual COPI proteins and their key roles in intracellular homeostatic transport networks that become attenuated during senescence.",
+      "summaryZh": "在衰老细胞中，线粒体和溶酶体等细胞器的功能变化已得到很好的表征，但与衰老相关的高尔基体功能变化却没有得到很好的表征。 RNA 干扰筛选显示，对涉及高尔基体的细胞内运输至关重要的外壳蛋白 I (COPI) 复合物的亚基沉默，会减少细胞外囊泡的摄取。在增殖的WI-38成纤维细胞中，沉默COPI成分COPA、COPB1、COPB2或COPD会诱导ATF4产生，并破坏自噬、细胞凋亡和细胞因子信号传导，这些都是高尔基体到内质网运输受损的标志，而沉默COPI成分COPG1、COPE或COPZ1会改变细胞外基质蛋白的产生。此外，各个 COPI 蛋白与高尔基体和内体蛋白相关，在囊泡运输中发挥支持作用。在衰老的 WI-38 成纤维细胞中，沉默 COPI 蛋白不会引发这些表型。我们的研究结果强调了各个 COPI 蛋白独特的多功能作用及其在衰老过程中减弱的细胞内稳态运输​​网络中的关键作用。",
+      "translationSource": "946bc64c5543152a"
+    },
+    {
+      "pmid": "42490421",
+      "title": "KRAS G12D inhibition reprograms the tumor-induced immunosuppressive environment and enhances NK cell-mediated antitumor immunity.",
+      "titleZh": "KRAS G12D 抑制可重新编程肿瘤诱导的免疫抑制环境并增强 NK 细胞介导的抗肿瘤免疫。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-24",
+      "doi": "10.1126/sciadv.aec9236",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec9236",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42490421/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "KRAS G12D mutation drives oncogenic progression and creates an immunosuppressive microenvironment in cancers like pancreatic ductal adenocarcinoma and colorectal cancer. We investigate the immunomodulatory mechanisms of the KRAS G12D inhibition and its synergy with natural killer (NK) cell therapies. We demonstrate that KRAS G12D inhibition with MRTX1133 remodels the immune landscape by reducing myeloid-derived suppressor cell (MDSC) accumulation and facilitating infiltration and activation of NK and CD8 + T cells. Crucially, MRTX1133 reverses systemic immunosuppression, restoring the fitness of adoptively transferred NK cells. Mechanistically, KRAS G12D inhibition impairs IFNGR1 palmitoylation and subsequent lysosomal degradation. MRTX1133 stabilizes IFNGR1 by reducing palmitoyltransferase expression and the palmitate pool. This stabilization increases IFN-γ/IFNGR signaling and up-regulates NK cell-activating ligands ICAM1 and ULBP1, thereby sensitizing cancer cells to NK cells. Consequently, combining MRTX1133 with IL-15 or adoptive NK cell therapy yields synergistic antitumor responses and prolonged survival. Our findings provide mechanistic rationale for combining KRAS G12D inhibitors with NK cell-based immunotherapies to improve outcomes for patients with KRAS G12D -mutant cancers.",
+      "summaryZh": "KRAS G12D 突变可驱动致癌进展，并在胰腺导管腺癌和结直肠癌等癌症中产生免疫抑制微环境。我们研究了 KRAS G12D 抑制的免疫调节机制及其与自然杀伤 (NK) 细胞疗法的协同作用。我们证明，MRTX1133 抑制 KRAS G12D 通过减少骨髓源性抑制细胞 (MDSC) 积累并促进 NK 和 CD8 + T 细胞的浸润和激活来重塑免疫景观。至关重要的是，MRTX1133 可逆转全身免疫抑制，恢复过继转移的 NK 细胞的健康状况。从机制上讲，KRAS G12D 抑制会损害 IFNGR1 棕榈酰化和随后的溶酶体降解。 MRTX1133 通过减少棕榈酰转移酶表达和棕榈酸酯池来稳定 IFNGR1。这种稳定性增加了 IFN-γ/IFNGR 信号传导并上调 NK 细胞激活配体 ICAM1 和 ULBP1，从而使癌细胞对 NK 细胞敏感。因此，将 MRTX1133 与 IL-15 或过继性 NK 细胞疗法相结合可产生协同抗肿瘤反应并延长生存期。我们的研究结果为将 KRAS G12D 抑制剂与基于 NK 细胞的免疫疗法相结合以改善 KRAS G12D 突变癌症患者的预后提供了机制原理。",
+      "translationSource": "3670c0001d81f375"
+    },
+    {
+      "pmid": "42490500",
+      "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation.",
+      "titleZh": "人类扁桃体 3D 基因组图谱以及环挤压在 B 细胞体细胞超突变中的作用。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-07-23",
+      "doi": "10.1126/science.adw4243",
+      "doiUrl": "https://doi.org/10.1126/science.adw4243",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42490500/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "B cell maturation within the germinal center tissue microenvironment involves immunoglobulin gene diversification by somatic hypermutation (SHM). How three-dimensional (3D) genome architecture influences SHM is not fully understood. We leveraged sequencing-based and image-based 3D genomics and transcriptomics to map single-cell 3D genome organization and gene expression across cell types and states in human tonsils and in B cell lymphoma cell lines. These analyses revealed trajectories of compartment, looping, and nuclear position changes during the B cell immune response and activation of SHM. Targeted protein degradation of cohesin component RAD21 revealed its contribution to enabling SHM. Our results provide a single-cell 3D genome atlas of human tonsil cells and outline the links between the chromatin loop extrusion machinery and SHM.",
+      "summaryZh": "生发中心组织微环境中的 B 细胞成熟涉及通过体细胞超突变 (SHM) 实现的免疫球蛋白基因多样化。三维 (3D) 基因组结构如何影响 SHM 尚不完全清楚。我们利用基于测序和基于图像的 3D 基因组学和转录组学来绘制人类扁桃体和 B 细胞淋巴瘤细胞系中跨细胞类型和状态的单细胞 3D 基因组组织和基因表达。这些分析揭示了 B 细胞免疫反应和 SHM 激活过程中区室、循环和核位置变化的轨迹。粘连蛋白成分 RAD21 的靶向蛋白质降解揭示了其对实现 SHM 的贡献。我们的结果提供了人类扁桃体细胞的单细胞 3D 基因组图谱，并概述了染色质环挤出机制和 SHM 之间的联系。",
+      "translationSource": "f0d69cbe70ab768a"
+    },
+    {
+      "pmid": "42493606",
+      "title": "Using enantioselective biosensors to evolve asymmetric biocatalysts.",
+      "titleZh": "使用对映选择性生物传感器来开发不对称生物催化剂。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-07-23",
+      "doi": "10.1038/s41589-026-02275-1",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02275-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42493606/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Biocatalysts are prized for their enantioselectivity, but slow chromatographic separations required to measure enantiomeric excess bottleneck their development. To overcome this limitation, we evolve enantioselective transcription factors (eTFs) that convert enzyme-catalyzed enantiomer concentrations into programmable gene expression outputs, focusing on imine reductases. Here, using a massively parallel reporter assay, we measure dose-response curves for over 300,000 transcription factor variants in response to an imine precursor and chiral amine products. We quantify the sensitivity, selectivity and dynamic range across variants generated by random, site-saturation and shuffling mutagenesis, isolating variants with exceptional specificity. High-resolution structures of evolved eTFs elucidate how steric effects enforce enantioselectivity, while charge interactions distinguish the imine from the amines. Using two eTFs, we create an ultrahigh-throughput chiral screen to evolve an imine reductase with inverted enantioselectivity. To support generalizability and speed, we design a genetic circuit that enables TF generation within weeks. Our methods enable rapid measurement of asymmetric reactions, supporting innovation in chemical manufacturing.",
+      "summaryZh": "生物催化剂因其对映体选择性而受到重视，但测量对映体过量所需的缓慢色谱分离成为其发展的瓶颈。为了克服这一限制，我们开发了对映选择性转录因子（eTF），将酶催化的对映异构体浓度转化为可编程的基因表达输出，重点关注亚胺还原酶。在这里，我们使用大规模并行报告分析，测量了超过 300,000 个转录因子变体对亚胺前体和手性胺产物的剂量反应曲线。我们量化随机、位点饱和和改组诱变产生的变体的敏感性、选择性和动态范围，从而分离出具有特殊特异性的变体。进化的 eTF 的高分辨率结构阐明了空间效应如何增强对映选择性，而电荷相互作用如何区分亚胺和胺。使用两个 eTF，我们创建了超高通量手性筛选，以进化出具有反向对映选择性的亚胺还原酶。为了支持通用性和速度，我们设计了一种遗传电路，可以在几周内生成 TF。我们的方法能够快速测量不对称反应，支持化学制造的创新。",
+      "translationSource": "1dbcfc08e7559948"
+    },
     {
       "pmid": "42485436",
       "title": "Tumor-specific antibodies elicited by engineered bacteria promote bladder cancer immunotherapy in preclinical mouse models.",
