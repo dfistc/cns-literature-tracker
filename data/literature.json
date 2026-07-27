@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-26T01:22:46+00:00",
+  "updatedAt": "2026-07-27T01:27:26+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42501331",
+      "title": "Human GBP4 promotes TRIM21-BIP-dependent autophagy to restrict M. tuberculosis infection by preventing SORT1-mediated progranulin degradation.",
+      "titleZh": "人 GBP4 促进 TRIM21-BIP 依赖​​性自噬，通过阻止 SORT1 介导的颗粒体蛋白前体降解来限制结核分枝杆菌感染。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-25",
+      "doi": "10.1016/j.celrep.2026.117739",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117739",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42501331/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Interferons (IFNs) are potent antimicrobial cytokines. However, effector mechanisms mediating their function in humans are poorly understood, partly because IFNs can induce numerous effector molecules. While guanylate-binding proteins (GBPs) are IFN-inducible, their role in cell-autonomous resistance to intracellular pathogens is incompletely understood. We demonstrate that human GBP1-5 significantly inhibits intracellular Mycobacterium tuberculosis (Mtb) survival, but only GBP4 mediates autophagy. GBP4 facilitates Mtb containment by promoting lysosomal acidification and autophagy via type Ⅰ IFN-dependent TFEB and FOXO3a activation. Mechanistically, GBP4 binds progranulin (GRN), reducing SORT1-mediated GRN lysosomal degradation. Moreover, GBP4 facilitates the GBP4-GRN-BIP-AKT complex assembly while inhibiting the GBP4-BIP-TRIM21 complex formation, thereby enhancing GRN-mediated BIP accumulation and AKT degradation. This leads to AKT inhibition, and concomitant TFEB and FOXO3a activation. GRN, BIP, AKT, and TRIM21 are essential for GBP4-mediated mycobactericidal activity. Our study uncovers a key role for GBP4 in regulating cell-autonomous resistance in human macrophages and may facilitate the development of host-directed therapies against tuberculosis (TB).",
+      "summaryZh": "干扰素 (IFN) 是有效的抗菌细胞因子。然而，人们对调节人类功能的效应机制知之甚少，部分原因是干扰素可以诱导大量效应分子。虽然鸟苷酸结合蛋白 (GBP) 是 IFN 诱导型的，但它们在细胞自主抵抗细胞内病原体方面的作用尚不完全清楚。我们证明人 GBP1-5 显着抑制细胞内结核分枝杆菌 (Mtb) 的存活，但只有 GBP4 介导自噬。 GBP4 通过 Ⅰ 型 IFN 依赖性 TFEB 和 FOXO3a 激活促进溶酶体酸化和自噬，从而促进 Mtb 的抑制。从机制上讲，GBP4 结合颗粒体蛋白前体 (GRN)，减少 SORT1 介导的 GRN 溶酶体降解。此外，GBP4 促进 GBP4-GRN-BIP-AKT 复合物组装，同时抑制 GBP4-BIP-TRIM21 复合物形成，从而增强 GRN 介导的 BIP 积累和 AKT 降解。这会导致 AKT 抑制，并伴随 TFEB 和 FOXO3a 激活。 GRN、BIP、AKT 和 TRIM21 对于 GBP4 介导的分枝杆菌活性至关重要。我们的研究揭示了 GBP4 在调节人类巨噬细胞的细胞自主抵抗中的关键作用，并可能促进针对结核病 (TB) 的宿主导向疗法的开发。",
+      "translationSource": "75acd4cc07b1296c"
+    },
     {
       "pmid": "42497282",
       "title": "A programmable fungal platform for engineered living textiles.",
