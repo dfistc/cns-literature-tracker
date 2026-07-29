@@ -1,8 +1,72 @@
 {
-  "updatedAt": "2026-07-28T01:15:13+00:00",
+  "updatedAt": "2026-07-29T01:17:27+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42519832",
+      "title": "Molecular basis of the HPV E7-ZER1 axis reveals a ligandable vulnerability in HPV-positive cancers.",
+      "titleZh": "HPV E7-ZER1 轴的分子基础揭示了 HPV 阳性癌症的配体脆弱性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117740",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117740",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42519832/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Persistent infection with high-risk human papillomaviruses (HPVs), notably HPV-16 and HPV-18, underlies most cervical cancers and many head and neck cancers. Here, we report the structural and functional basis by which the viral oncoprotein E7 hijacks host CRL2 ZER1 to degrade retinoblastoma (Rb) protein and drive E2F-dependent proliferation. Crystal structures reveal that the N-terminal MH/N-degron of E7 engages a defined pocket within the armadillo (ARM)-repeat domain of ZER1. Disruption of this interface abolishes E7-ZER1 binding, prevents Rb degradation, silences E2F transcriptional programs, and impairs proliferation of HPV-positive cancer cells. Guided by these insights, we identify a first-in-class small-molecule inhibitor that blocks E7-ZER1 association, restores Rb stability, and selectively suppresses HPV-positive tumor growth in vivo. These results define a viral mimicry mechanism and nominate the ZER1 degron pocket as a ligandable therapeutic target for HPV-driven malignancies, highlighting translational opportunities for targeted therapy.",
+      "summaryZh": "高危人乳头瘤病毒 (HPV)，特别是 HPV-16 和 HPV-18 的持续感染，是大多数宫颈癌和许多头颈癌的根源。在此，我们报告了病毒癌蛋白 E7 劫持宿主 CRL2 ZER1 以降解视网膜母细胞瘤 (Rb) 蛋白并驱动 E2F 依赖性增殖的结构和功能基础。晶体结构表明，E7 的 N 端 MH/N-degron 与 ZER1 的犰狳 (ARM) 重复结构域内的一个确定的口袋接合。破坏该界面会消除 E7-ZER1 结合，防止 Rb 降解，沉默 E2F 转录程序，并损害 HPV 阳性癌细胞的增殖。在这些见解的指导下，我们确定了一种一流的小分子抑制剂，它可以阻断 E7-ZER1 关联、恢复 Rb 稳定性并选择性抑制体内 HPV 阳性肿瘤的生长。这些结果定义了病毒拟态机制，并指定 ZER1 降解决定子口袋作为 HPV 驱动的恶性肿瘤的可配体治疗靶点，突出了靶向治疗的转化机会。",
+      "translationSource": "10e0a3f646a0dff7"
+    },
+    {
+      "pmid": "42509243",
+      "title": "Reversible control of post-Golgi transport by brefeldin A reveals recycling endosome maturation during glycosylphosphatidylinositol-anchored protein transport.",
+      "titleZh": "布雷菲德菌素 A 对高尔基体后转运的可逆控制揭示了糖基磷脂酰肌醇锚定蛋白转运过程中内体成熟的再循环。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-27",
+      "doi": "10.1038/s41467-026-75784-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75784-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42509243/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：endosome。",
+      "abstractEn": "Post-Golgi transport plays a crucial role in establishing and maintaining cellular function; however, its mechanism of action remains unclear. Therefore, a system to manipulate post-Golgi transport is highly desirable. In this study, we developed a brefeldin A (BFA)-controlled system to block and restart post-Golgi transport freely, allowing the detailed observation of cargo exit from Golgi stacks using live-cell imaging, electron microscopy, and biochemical analysis. Using this system, glycosylphosphatidylinositol-anchored protein (GPI-AP) transport from the trans-Golgi network (TGN) to Golgi-associated recycling endosomes (GA-REs) was visualized. GA-REs expanded during GPI-AP uptake, indicating maturation from the TGN into REs, which later detached as free REs released from the Golgi stacks. Tubular and pearled GPI-AP-positive structures formed on the TGN, which were likely GA-REs transporting GPI-AP from the TGN. REs matured in AP-1-deficient cells, whereas GA-RE detachment was impaired, and long-tubules were observed, thereby delaying GPI-AP delivery to the plasma membrane.",
+      "summaryZh": "高尔基体后运输在建立和维持细胞功能中起着至关重要的作用；然而，其作用机制仍不清楚。因此，非常需要一种操纵高尔基体后运输的系统。在这项研究中，我们开发了一种布雷菲德菌素 A (BFA) 控制的系统，可以自由地阻断和重新启动高尔基体后运输，从而可以使用活细胞成像、电子显微镜和生化分析详细观察货物从高尔基体堆中退出的情况。使用该系统，可以可视化糖基磷脂酰肌醇锚定蛋白（GPI-AP）从反式高尔基体网络（TGN）到高尔基体相关回收内体（GA-RE）的转运。 GA-RE 在 GPI-AP 摄取过程中扩张，表明从 TGN 成熟为 RE，随后作为游离 RE 从高尔基体堆栈释放。 TGN 上形成管状和珠状 GPI-AP 阳性结构，这可能是从 TGN 转运 GPI-AP 的 GA-RE。 RE 在 AP-1 缺陷的细胞中成熟，而 GA-RE 脱离受损，并且观察到长管，从而延迟了 GPI-AP 向质膜的递送。",
+      "translationSource": "c9f490a78ea8ccd8"
+    },
+    {
+      "pmid": "42509233",
+      "title": "SLC26A11 is an atypical solute carrier with dual transport-channel function mediating lysosomal sulfate transport.",
+      "titleZh": "SLC26A11是一种非典型溶质载体，具有介导溶酶体硫酸盐转运的双转运通道功能。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-27",
+      "doi": "10.1038/s41467-026-75749-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75749-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42509233/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Membrane transporters and channels are generally assumed to be based on distinct structural and functional principles. SLC26A11, a solute carrier with high expression levels in the brain, has been proposed to function as either an anion transporter or a channel. Here, we resolve this apparent discrepancy by demonstrating that SLC26A11 is a dual-function protein capable of operating as both a sulfate transporter and a chloride channel. By resolving its structure and combining biochemical studies and molecular dynamics simulations, we show that SLC26A11 exhibits all the hallmarks of a secondary transporter. The mechanistic basis for its selective ion transport identifies the protein as the elusive lysosomal sulfate exporter. Additionally, we demonstrate that SLC26A11 exhibits an uncoupled, channel-like chloride conductance gated by proton:sulfate symport. Our finding that the chloride-conducting state arises from the transport cycle may contribute to the development of therapeutic strategies for treating brain edema, and the identification of its role in lysosome sulfate efflux may provide new approaches to study and treat lysosomal storage diseases.",
+      "summaryZh": "通常认为膜转运蛋白和通道基于不同的结构和功能原理。 SLC26A11 是一种在大脑中高表达的溶质载体，被认为可以充当阴离子转运蛋白或通道。在这里，我们通过证明 SLC26A11 是一种双功能蛋白，能够同时充当硫酸盐转运蛋白和氯离子通道，解决了这种明显的差异。通过解析其结构并结合生化研究和分子动力学模拟，我们表明 SLC26A11 表现出二级转运蛋白的所有特征。其选择性离子转运的机制基础将该蛋白鉴定为难以捉摸的溶酶体硫酸盐输出蛋白。此外，我们证明 SLC26A11 表现出由质子：硫酸盐同向传递门控的非耦合通道状氯离子电导。我们发现氯离子传导状态由运输循环产生，可能有助于开发治疗脑水肿的治疗策略，并且鉴定其在溶酶体硫酸盐流出中的作用可能为研究和治疗溶酶体贮积病提供新方法。",
+      "translationSource": "8bbdb820cc603fbd"
+    },
     {
       "pmid": "42501331",
       "title": "Human GBP4 promotes TRIM21-BIP-dependent autophagy to restrict M. tuberculosis infection by preventing SORT1-mediated progranulin degradation.",
