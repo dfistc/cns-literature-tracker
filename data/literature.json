@@ -1,8 +1,135 @@
 {
-  "updatedAt": "2026-07-29T01:17:27+00:00",
+  "updatedAt": "2026-07-31T01:23:40+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42525767",
+      "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development.",
+      "titleZh": "选择性自噬受体 VISP1 通过在根发育过程中调节 A/B 型 ARR 反馈环路来增强细胞分裂素信号传导。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-31",
+      "doi": "10.1126/sciadv.aeb2089",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeb2089",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42525767/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
+      "summaryZh": "选择性自噬通过自噬受体选择性地靶向细胞质成分来维持细胞内稳态。虽然病毒诱导的小肽 1 (VISP1) 已被确定为调节植物-病毒相互作用的自噬受体，但其在植物激素反应中的功能仍知之甚少。在这里，我们证明 VISP1 通过调节 A 型和 B 型拟南芥反应调节器 (ARR) 之间的反馈回路，在根发育过程中积极调节细胞分裂素反应。与野生型植物相比，VISP1 过表达转基因株系表现出较短的初生根、较少的侧根和伸长的根毛，并伴有诱导的细胞分裂素反应。相反，visp1 突变体表现出细胞分裂素敏感性减弱。从机制上讲，细胞分裂素诱导 VISP1 转录，B 型 ARR1 转录因子直接与 VISP1 启动子结合以激活其表达。 VISP1 与多个 A 型 ARR 发生物理相互作用，促进它们的自噬降解，从而减轻它们对 B 型 ARR 的抑制。总的来说，我们的研究结果揭示了一种调节机制，其中 VISP1 通过破坏 A 型和 B 型 ARR 的负反馈环来放大细胞分裂素信号传导。",
+      "translationSource": "e3062fbd1c5ef1fc"
+    },
+    {
+      "pmid": "42531418",
+      "title": "Signatures of aging and disease in a single organelle.",
+      "titleZh": "单个细胞器中的衰老和疾病特征。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-07-30",
+      "doi": "10.1126/science.aej5901",
+      "doiUrl": "https://doi.org/10.1126/science.aej5901",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42531418/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Changes in lysosomal metabolites are associated with both aging organs and lysosomal storage diseases.",
+      "summaryZh": "溶酶体代谢物的变化与器官衰老和溶酶体贮积病有关。",
+      "translationSource": "777bfcbfc8ef24c4"
+    },
+    {
+      "pmid": "42531412",
+      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders.",
+      "titleZh": "溶酶体衰老图谱揭示了与溶酶体贮积症共有的代谢特征。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-07-30",
+      "doi": "10.1126/science.ady0832",
+      "doiUrl": "https://doi.org/10.1126/science.ady0832",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42531412/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal dysfunction is a well-recognized feature of aging. Here, we used a suite of tools for rapid lysosomal isolation to construct a multitissue atlas of the metabolite changes lysosomes undergo during aging. Aged lysosomes in brain, heart, muscle, and white adipose tissue accumulated glycerophosphodiesters and cystine, metabolites that are causally linked to juvenile lysosomal storage disorders, Batten disease, and cystinosis. Levels of these metabolites increased linearly with age, preceding organismal decline. Caloric restriction, a lifespan-extending intervention, mitigated these changes in the heart and muscle but not the brain. Our findings link lysosomal storage disorders to aging-related dysfunction and open avenues for the mechanistic investigation of how lysosomal functions deteriorate during aging and in age-associated diseases.",
+      "summaryZh": "溶酶体功能障碍是公认的衰老特征。在这里，我们使用一套快速溶酶体分离的工具来构建溶酶体在衰老过程中经历的代谢物变化的多组织图谱。大脑、心脏、肌肉和白色脂肪组织中的老化溶酶体积累了甘油磷酸二酯和胱氨酸，这些代谢物与幼年溶酶体贮积症、巴顿病和胱氨酸病有因果关系。这些代谢物的水平随着年龄的增长而线性增加，随后出现机体衰退。热量限制是一种延长寿命的干预措施，可以减轻心脏和肌肉的这些变化，但不能减轻大脑的变化。我们的研究结果将溶酶体贮积症与衰老相关功能障碍联系起来，并为溶酶体功能在衰老过程中和与年龄相关的疾病中如何恶化的机制研究开辟了途径。",
+      "translationSource": "7293d90d7f15c494"
+    },
+    {
+      "pmid": "42527668",
+      "title": "The glycolytic enzyme PGAM1 functions as a metabolic-autophagy checkpoint to coordinate growth and stress tolerance.",
+      "titleZh": "糖酵解酶 PGAM1 作为代谢自噬检查点来协调生长和应激耐受性。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-07-29",
+      "doi": "10.1038/s41556-026-02034-3",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02034-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42527668/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Cell survival requires tight coordination between growth-promoting metabolism and cellular quality-control pathways, yet how these processes are integrated remains unclear. Here we identify the conserved glycolytic enzyme PGAM1 as a metabolic-autophagy checkpoint that links glycolysis to autophagy initiation independently of its catalytic activity. Using complementary yeast and mammalian systems we show that PGAM1 functions as a molecular scaffold that recruits phosphatidylinositol 3-kinase complex I to the phagophore assembly site, thereby licensing autophagosome biogenesis. This autophagy-regulatory function is genetically essential, evolutionarily conserved and functionally separable from glycolysis. It is regulated by Atg1/ULK1-mediated phosphorylation that enhances Atg14 binding under starvation. Functionally, PGAM1 coordinates anabolic growth and stress-induced survival to maintain cellular homeostasis. In cancer, PGAM1 upregulation enhances both glycolytic flux and autophagy capacity. Disruption of either function markedly impairs tumour growth, establishing PGAM1 as a homeostatic checkpoint that is hijacked in cancer to drive both proliferation and stress tolerance.",
+      "summaryZh": "细胞生存需要促进生长的代谢和细胞质量控制途径之间的紧密协调，但这些过程如何整合仍不清楚。在这里，我们将保守的糖酵解酶 PGAM1 确定为代谢自噬检查点，它将糖酵解与自噬启动联系起来，与其催化活性无关。使用互补的酵母和哺乳动物系统，我们证明 PGAM1 作为分子支架发挥作用，将磷脂酰肌醇 3-激酶复合物 I 招募到吞噬细胞组装位点，从而许可自噬体生物发生。这种自噬调节功能在遗传上是必需的，在进化上是保守的，并且在功能上与糖酵解是分开的。它受 Atg1/ULK1 介导的磷酸化调节，从而增强饥饿条件下 Atg14 的结合。在功能上，PGAM1 协调合成代谢生长和应激诱导的生存以维持细胞稳态。在癌症中，PGAM1 上调可增强糖酵解通量和自噬能力。任一功能的破坏都会显着损害肿瘤生长，从而使 PGAM1 成为一种稳态检查点，在癌症中被劫持以驱动增殖和应激耐受。",
+      "translationSource": "f1b4c385dac100f7"
+    },
+    {
+      "pmid": "42521682",
+      "title": "Fractionated proteomics identifies a protein network mitigating resistance exercise-induced damage in human skeletal muscle.",
+      "titleZh": "分级蛋白质组学鉴定了一种蛋白质网络，可以减轻人类骨骼肌中抗阻运动引起的损伤。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1038/s41467-026-75501-y",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75501-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521682/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Resistance exercise (RE) improves strength and muscle mass, with multiple benefits for human health. However, intense RE also induces acute myofibrillar damage. The molecular mechanisms that preserve, mark, degrade, and restore damaged proteins to keep skeletal muscle working under RE are incompletely understood. Based on repeated sampling of human skeletal muscle, we show here that acute, repeated and interrupted RE induce dynamic changes of the protein landscape associated with the sarcomeric cytoskeleton. These changes correlate with changes in phosphorylation indicative of adaptation and deadaptation signaling footprints. Regulation mainly affects the protein network linked to the muscle maintenance protein BAG3, which includes mechanosensory proteins, small heat shock proteins, and a lipid droplet associated protein. All network components exhibit altered phosphorylation and increased cytoskeletal association after damaging RE. Moreover, network components cooperate to recognize strained skeletal muscle structures and mediate their degradation through chaperone-assisted selective autophagy (CASA). Our study thus identifies key regulators of skeletal muscle homeostasis in humans.",
+      "summaryZh": "抗阻运动 (RE) 可以提高力量和肌肉质量，对人类健康具有多种益处。然而，强烈的 RE 也会引起急性肌原纤维损伤。保存、标记、降解和恢复受损蛋白质以保持骨骼肌在 RE 下工作的分子机制尚不完全清楚。基于对人类骨骼肌的重复采样，我们在此表明​​，急性、重复和中断的 RE 会诱导与肌细胞骨架相关的蛋白质景观的动态变化。这些变化与指示适应和去适应信号足迹的磷酸化变化相关。调节主要影响与肌肉维持蛋白 BAG3 相关的蛋白网络，其中包括机械感觉蛋白、小热休克蛋白和脂滴相关蛋白。 RE 受损后，所有网络组件均表现出磷酸化改变和细胞骨架关联增加。此外，网络组件合作识别紧张的骨骼肌结构，并通过分子伴侣辅助选择性自噬（CASA）介导其降解。因此，我们的研究确定了人类骨骼肌稳态的关键调节因子。",
+      "translationSource": "278da0a4bae0544c"
+    },
+    {
+      "pmid": "42521791",
+      "title": "Nuclear class 3 PI3K co-activates fasting-specific chromatin remodelling.",
+      "titleZh": "核 3 类 PI3K 共同激活禁食特异性染色质重塑。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1038/s41556-026-02030-7",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02030-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521791/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Transcriptional remodelling during fasting ensures metabolic adaptation and provides health benefits across species. Although several regulators of fasting-induced transcription and chromatin are known, how nutrient levels directly influence RNA polymerase II (RNAPII) and epigenetic writers remains unclear. Here we show that lipid kinase class 3 phosphatidylinositol 3-kinase (PI3K-3), a master regulator of autophagy, also functions on chromatin as a co-activator of epigenetic writers to promote RNAPII transcription. PI3K-3 overlaps with transcriptionally engaged RNAPII phosphorylated at Ser5 and with Setd1a/COMPASS, the complex that deposits the activating H3K4me3 mark. Nuclear PI3K-3 interacts with RNAPII and Setd1a/COMPASS and promotes their chromatin binding. PI3K-3 loss reduces RNAPII-S5p and H3K4me3 at selected genes, whereas PI3K-3 overexpression co-activates p300/CBP and chromatin-targeted PI3K-3 increases H3K4me3. During starvation, PI3K-3 induces autophagy genes and drives fasted liver towards ketogenesis and lipid degradation. These findings link nutrient stress to chromatin-mediated transcriptional activation.",
+      "summaryZh": "禁食期间的转录重塑可确保代谢适应并为跨物种提供健康益处。尽管已知禁食诱导的转录和染色质的几种调节因子，但营养水平如何直接影响 RNA 聚合酶 II (RNAPII) 和表观遗传作家仍不清楚。在这里，我们表明，脂质激酶 3 类磷脂酰肌醇 3-激酶 (PI3K-3)（自噬的主要调节因子）也在染色质上发挥表观遗传写入因子的共激活剂的作用，以促进 RNAPII 转录。 PI3K-3 与转录参与的 RNAPII（Ser5 磷酸化）以及 Setd1a/COMPASS（沉积激活 H3K4me3 标记的复合物）重叠。核 PI3K-3 与 RNAPII 和 Setd1a/COMPASS 相互作用并促进它们的染色质结合。 PI3K-3 缺失会减少选定基因的 RNAPII-S5p 和 H3K4me3，而 PI3K-3 过表达会共同激活 p300/CBP，并且靶向染色质的 PI3K-3 会增加 H3K4me3。饥饿期间，PI3K-3 诱导自噬基因并驱动禁食的肝脏生酮和脂质降解。这些发现将营养应激与染色质介导的转录激活联系起来。",
+      "translationSource": "271cb9c0f247aae0"
+    },
     {
       "pmid": "42519832",
       "title": "Molecular basis of the HPV E7-ZER1 axis reveals a ligandable vulnerability in HPV-positive cancers.",
@@ -23,6 +150,135 @@
       "abstractEn": "Persistent infection with high-risk human papillomaviruses (HPVs), notably HPV-16 and HPV-18, underlies most cervical cancers and many head and neck cancers. Here, we report the structural and functional basis by which the viral oncoprotein E7 hijacks host CRL2 ZER1 to degrade retinoblastoma (Rb) protein and drive E2F-dependent proliferation. Crystal structures reveal that the N-terminal MH/N-degron of E7 engages a defined pocket within the armadillo (ARM)-repeat domain of ZER1. Disruption of this interface abolishes E7-ZER1 binding, prevents Rb degradation, silences E2F transcriptional programs, and impairs proliferation of HPV-positive cancer cells. Guided by these insights, we identify a first-in-class small-molecule inhibitor that blocks E7-ZER1 association, restores Rb stability, and selectively suppresses HPV-positive tumor growth in vivo. These results define a viral mimicry mechanism and nominate the ZER1 degron pocket as a ligandable therapeutic target for HPV-driven malignancies, highlighting translational opportunities for targeted therapy.",
       "summaryZh": "高危人乳头瘤病毒 (HPV)，特别是 HPV-16 和 HPV-18 的持续感染，是大多数宫颈癌和许多头颈癌的根源。在此，我们报告了病毒癌蛋白 E7 劫持宿主 CRL2 ZER1 以降解视网膜母细胞瘤 (Rb) 蛋白并驱动 E2F 依赖性增殖的结构和功能基础。晶体结构表明，E7 的 N 端 MH/N-degron 与 ZER1 的犰狳 (ARM) 重复结构域内的一个确定的口袋接合。破坏该界面会消除 E7-ZER1 结合，防止 Rb 降解，沉默 E2F 转录程序，并损害 HPV 阳性癌细胞的增殖。在这些见解的指导下，我们确定了一种一流的小分子抑制剂，它可以阻断 E7-ZER1 关联、恢复 Rb 稳定性并选择性抑制体内 HPV 阳性肿瘤的生长。这些结果定义了病毒拟态机制，并指定 ZER1 降解决定子口袋作为 HPV 驱动的恶性肿瘤的可配体治疗靶点，突出了靶向治疗的转化机会。",
       "translationSource": "10e0a3f646a0dff7"
+    },
+    {
+      "pmid": "42470638",
+      "title": "TTYH3 regulates a lysosomal chloride conductance and controls lysosomal fusion, autophagy and senescence.",
+      "titleZh": "TTYH3 调节溶酶体氯化物电导并控制溶酶体融合、自噬和衰老。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117703",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117703",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42470638/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
+      "abstractEn": "Chloride is the most abundant anion within lysosomes and plays a pivotal role in regulating lysosomal physiology and function. However, the mechanisms governing lysosomal chloride homeostasis remain largely elusive. Here, we identified TTYH3 as a regulator of lysosomal chloride permeability. TTYH3 mediates chloride efflux from the lysosomal lumen and enhances TRPML1-mediated lysosomal calcium release. Overexpression of TTYH3 results in markedly enlarged lysosomes by promoting lysosomal fusion via the Ca 2+ /CaM and HSP90 pathways. Moreover, TTYH3 enhances autophagy by inhibiting the AKT/mTOR signaling pathway and alleviates cellular senescence via activation of the ERK pathway. Notably, TTYH3 expression mitigates cellular phenotypes associated with lysosomal storage diseases caused by deficiencies in another lysosomal chloride channel CLN7. Collectively, our findings demonstrate that TTYH3 mediates a lysosomal chloride conductance and regulates lysosomal physiology and autophagy, and may serve as a potential therapeutic target for interventions in aging and lysosome-related diseases.",
+      "summaryZh": "氯离子是溶酶体中最丰富的阴离子，在调节溶酶体生理和功能中发挥着关键作用。然而，控制溶酶体氯化物稳态的机制在很大程度上仍然难以捉摸。在这里，我们确定 TTYH3 是溶酶体氯渗透性的调节剂。 TTYH3 介导氯离子从溶酶体腔流出并增强 TRPML1 介导的溶酶体钙释放。 TTYH3 的过度表达通过 Ca 2+ /CaM 和 HSP90 途径促进溶酶体融合，导致溶酶体显着增大。此外，TTYH3 通过抑制 AKT/mTOR 信号通路增强自噬，并通过激活 ERK 通路减轻细胞衰老。值得注意的是，TTYH3 表达可减轻与另一种溶酶体氯离子通道 CLN7 缺陷引起的溶酶体贮积病相关的细胞表型。总的来说，我们的研究结果表明，TTYH3 介导溶酶体氯化物电导并调节溶酶体生理学和自噬，并可能作为干预衰老和溶酶体相关疾病的潜在治疗靶点。",
+      "translationSource": "02a90168f097a350"
+    },
+    {
+      "pmid": "42412609",
+      "title": "Lectins of the Emp47/ERGIC-53 family target misfolded O-mannosylated ER proteins to ER-associated degradation.",
+      "titleZh": "Emp47/ERGIC-53 家族的凝集素以错误折叠的 O-甘露糖基化 ER 蛋白为目标，导致 ER 相关的降解。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117626",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117626",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42412609/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "ER-associated degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
+      "abstractEn": "O-mannosylation of misfolded endoplasmic reticulum (ER) proteins in Saccharomyces cerevisiae by the bifunctional O-mannosyltransferase complex Pbn1-Gpi14 generates signals for ER-associated degradation (ERAD), but how these signals are recognized remains unknown. To address this question, we identify the binding partners of Pbn1 and find that the ER lectins Emp47 (ERGIC-53 in mammals) and Emp46 are among the strongest interactors. Simultaneous deletion of Emp46 and Emp47, but not of the lectin Yos9, impairs ERAD of an O-mannosylated, N-glycan-deficient CPY ∗ variant. ERAD is restored by plasmid-expressed Emp47 or Emp46, but not by an Emp47 mutant lacking its carbohydrate-recognition domain (CRD). Furthermore, Emp47 interacts physically with the Hrd1 complex, suggesting that lectins of the Emp47/ERGIC-53 family recognize O-mannosylated misfolded proteins and target them for ERAD.",
+      "summaryZh": "双功能 O-甘露糖基转移酶复合物 Pbn1-Gpi14 对酿酒酵母中错误折叠的内质网 (ER) 蛋白进行 O-甘露糖基化，产生 ER 相关降解 (ERAD) 信号，但如何识别这些信号仍不清楚。为了解决这个问题，我们鉴定了 Pbn1 的结合伴侣，并发现 ER 凝集素 Emp47（哺乳动物中的 EGIC-53）和 Emp46 是最强的相互作用因子之一。同时删除 Emp46 和 Emp47，但不删除凝集素 Yos9，会损害 O-甘露糖基化、N-聚糖缺陷 CPY* 变体的 ERAD。 ERAD 可以通过质粒表达的 Emp47 或 Emp46 恢复，但不能通过缺乏碳水化合物识别域 (CRD) 的 Emp47 突变体恢复。此外，Emp47 与 Hrd1 复合物发生物理相互作用，表明 Emp47/ERGIC-53 家族的凝集素可识别 O-甘露糖基化错误折叠蛋白并将其作为 ERAD 的靶标。",
+      "translationSource": "31596a7cf78fce6b"
+    },
+    {
+      "pmid": "42400911",
+      "title": "Structural proteomics reveals that misfolded nascent proteins expose buried lysines for ubiquitination and rapid proteasomal degradation.",
+      "titleZh": "结构蛋白质组学揭示，错误折叠的新生蛋白质暴露了埋藏的赖氨酸，导致泛素化和快速蛋白酶体降解。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117620",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117620",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42400911/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "The proteasome maintains the integrity of eukaryotic proteomes by selectively degrading ubiquitinated protein substrates. Ubiquitination targets a wide range of substrates for degradation, including translationally stalled nascent chains, misfolded proteins, and properly folded but short-lived proteins destined for regulatory degradation. Distinct structural features and ubiquitination patterns across these classes of substrates remain largely undefined. In this study, we combine structural proteomics and time-resolved isotopic labeling to profile the modification sites, dynamics, and conformational properties of the human ubiquitinome. We show that proteins undergoing rapid proteasomal degradation are ubiquitinated at lysine residues that are normally buried within structured regions of their native conformations. We provide proteome-wide evidence that this high-flux subset of the ubiquitinome is enriched in newly synthesized proteins that have non-native conformations. Together, our findings demonstrate how the lack of structural integrity of misfolded nascent proteins influences their ubiquitination patterns and leads to rapid proteasomal degradation.",
+      "summaryZh": "蛋白酶体通过选择性降解泛素化蛋白质底物来维持真核蛋白质组的完整性。泛素化针对多种降解底物，包括翻译停滞的新生链、错误折叠的蛋白质以及注定要进行调节性降解的正确折叠但寿命较短的蛋白质。这些底物类别的独特结构特征和泛素化模式在很大程度上仍然未定义。在这项研究中，我们结合结构蛋白质组学和时间分辨同位素标记来分析人类泛素组的修饰位点、动力学和构象特性。我们发现，经历快速蛋白酶体降解的蛋白质在赖氨酸残基处泛素化，这些残基通常埋藏在其天然构象的结构化区域内。我们提供了整个蛋白质组的证据，表明泛素组的这种高通量子集富含具有非天然构象的新合成蛋白质。总之，我们的研究结果证明了错误折叠的新生蛋白结构完整性的缺乏如何影响其泛素化模式并导致蛋白酶体快速降解。",
+      "translationSource": "c0bcad840f4a0ca0"
+    },
+    {
+      "pmid": "42397737",
+      "title": "STING-dependent peripheral inflammaging drives neurodegeneration via extracellular vesicles.",
+      "titleZh": "STING 依赖性外周炎症通过细胞外囊泡驱动神经退行性变。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117640",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117640",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42397737/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "All animals age. However, aging is a heterogeneous process, and individual organisms age differently. Moreover, within the same organism, cells or organs do not age at the same speed. For instance, neurodegeneration, a hallmark of aging, generally manifests later than other peripheral aging signs. The genetic determinants of aging are not completely understood. Gain-of-function (GoF) mutations in leucine-rich repeat kinase 2 (LRRK2 GoF ) are major genetic risk factors for Parkinson's disease (PD). By analyzing PD patients and LRRK2 GoF mice, we show that PD represents an accelerated aging disorder driven by STING-dependent inflammation. This inflammation begins peripherally, disrupts the blood-brain barrier, and causes dopaminergic neurodegeneration. Mechanistically, aging or LRRK2 GoF causes endolysosomal decline, resulting in cytosolic self-DNA accumulation and the release of DNA-containing extracellular vesicles (EVs) that activate the cGAS-STING pathway within and between cells. Our findings identify LRRK2 GoF as a key driver of accelerated aging and systemic inflammaging through DNA-containing EVs, highlighting potential therapeutic targets to counteract inflammaging and neurodegeneration.",
+      "summaryZh": "所有动物都会衰老。然而，衰老是一个异质过程，个体生物体的衰老程度也不同。此外，在同一生物体中，细胞或器官的衰老速度并不相同。例如，神经变性是衰老的标志，通常比其他外周衰老迹象出现得晚。衰老的遗传决定因素尚不完全清楚。富含亮氨酸重复激酶 2 (LRRK2 GoF ) 的功能获得 (GoF) 突变是帕金森病 (PD) 的主要遗传风险因素。通过分析 PD 患者和 LRRK2 GoF 小鼠，我们发现 PD 是一种由 STING 依赖性炎症驱动的加速衰老性疾病。这种炎症从外周开始，破坏血脑屏障，并导致多巴胺能神经变性。从机制上讲，衰老或 LRRK2 GoF 会导致内溶酶体衰退，导致细胞质自身 DNA 积累和含有 DNA 的细胞外囊泡 (EV) 的释放，从而激活细胞内和细胞间的 cGAS-STING 通路。我们的研究结果确定 LRRK2 GoF 是通过含有 DNA 的 EV 加速衰老和全身炎症的关键驱动因素，强调了对抗炎症和神经退行性变的潜在治疗靶点。",
+      "translationSource": "cc72eb7124b9c9c2"
+    },
+    {
+      "pmid": "42378087",
+      "title": "TUSC3 serves as a rate-limiting gatekeeper of a glycan-mediated ER triage checkpoint for BMP4/Dpp.",
+      "titleZh": "TUSC3 充当 BMP4/Dpp 聚糖介导的 ER 分类检查点的限速看门人。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117628",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117628",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42378087/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "ER-associated degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
+      "abstractEn": "Trimming of the three glucose residues decorating nascent N-glycoproteins is a critical step for their entry into the endoplasmic reticulum quality control (ERQC) and recognition by ER chaperones. However, the functional relevance of the second glucose (G2) and the regulatory step upstream of its removal by glucosidase II (GCS2) remain poorly understood. Here, we report that TUSC3, a component of the oligosaccharyltransferase (OST) complex, regulates G2 to G1 trimming on N-glycosylated bone morphogenetic protein 4 (BMP4) and its Drosophila homolog Dpp to promote their ERQC entry. Loss- and gain-of-function genetic experiments and biochemical assays in mammalian cells and flies indicate that TUSC3 serves as a dosage-sensitive gatekeeper that influences the decision between proper folding and secretion versus elimination by ER-associated degradation for the BMP4 molecules, thereby tuning BMP signaling. Together, these data reveal an unrecognized role for an OST component in early glycoprotein maturation, relevant to a major developmental signaling pathway.",
+      "summaryZh": "修饰新生 N-糖蛋白的三个葡萄糖残基的修剪是它们进入内质网质量控制 (ERQC) 并被 ER 伴侣识别的关键步骤。然而，第二个葡萄糖 (G2) 的功能相关性以及葡萄糖苷酶 II (GCS2) 去除其上游的调节步骤仍然知之甚少。在这里，我们报道TUSC3是寡糖转移酶（OST）复合物的一个组成部分，调节N-糖基化骨形态发生蛋白4（BMP4）及其果蝇同源物Dpp的G2到G1修剪，以促进它们进入ERQC。哺乳动物细胞和果蝇中的功能丧失和获得功能遗传实验以及生化测定表明，TUSC3 作为剂量敏感的看门人，影响 BMP4 分子的正确折叠和分泌与 ER 相关降解消除之间的决定，从而调节 BMP 信号传导。总之，这些数据揭示了 OST 成分在早期糖蛋白成熟中未被认识的作用，与主要的发育信号通路相关。",
+      "translationSource": "8b17138ce931ce42"
+    },
+    {
+      "pmid": "42319829",
+      "title": "The pyruvate transporter hermes regulates autophagy and health by modulating ROS production.",
+      "titleZh": "丙酮酸转运蛋白 Hermes 通过调节 ROS 的产生来调节自噬和健康。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1016/j.celrep.2026.117574",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117574",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42319829/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Autophagy is a catabolic process that degrades cytoplasmic materials and is controlled by nutrient availability and signaling. The plasma membrane-associated pyruvate-solute carrier hermes (hrm) is required for regulation of the mechanistic target of rapamycin (mTOR) signaling and the activation of autophagy during development. Here, we screen for pyruvate-influencing genes that suppress the hrm mutant phenotype. We show that the inhibitory effect of hrm loss on autophagy depends on pyruvate transport into mitochondria and the Krebs cycle. Loss of hrm results in an increase in reactive oxygen species (ROS), and attenuation of the increase in ROS is sufficient to suppress the effects of hrm loss on autophagy and mTOR signaling. Importantly, we show that in adult animals, loss of hrm results in decreased lifespan, with defects in autophagy in intestine tissues. These results link a plasma membrane pyruvate carrier to mitochondrial pyruvate metabolism, ROS, autophagy, and organismal health.",
+      "summaryZh": "自噬是一种降解细胞质物质的分解代谢过程，并受到营养物质可用性和信号传导的控制。质膜相关的丙酮酸溶质载体 Hermes (hrm) 是调节雷帕霉素 (mTOR) 信号传导的机制和发育过程中自噬激活所必需的。在这里，我们筛选了抑制 hrm 突变表型的丙酮酸影响基因。我们发现 hrm 损失对自噬的抑制作用取决于丙酮酸转运到线粒体和克雷布斯循环。 hrm 的缺失会导致活性氧 (ROS) 的增加，而 ROS 增加的减弱足以抑制 hrm 缺失对自噬和 mTOR 信号传导的影响。重要的是，我们发现在成年动物中，hrm 的缺失会导致寿命缩短，并导致肠道组织自噬缺陷。这些结果将质膜丙酮酸载体与线粒体丙酮酸代谢、ROS、自噬和机体健康联系起来。",
+      "translationSource": "6029577d81d1f628"
     },
     {
       "pmid": "42509243",
@@ -388,29 +644,6 @@
       "abstractEn": "Developing cancer therapies that induce specific death of malignant cells is critical for preventing relapse. Highly effective strategies, such as immunotherapy, exemplify this principle. Here, we provide the mechanistic basis for a small-molecule approach that leverages chemically induced proximity (CIP) to kill diffuse large B cell lymphoma, the most common non-Hodgkin lymphoma. We developed lysine acetyltransferase (KAT)-based TCIPs (transcriptional/epigenetic chemical inducers of proximity), or KAT-TCIPs, which redirect p300/CREB-binding protein (CBP) to activate cell-death networks repressed by the oncogenic driver BCL6. Our lead KAT-TCIP reprograms the epigenome to initiate apoptosis. The crystal structure of the chemically induced p300-BCL6 complex reveals how chance protein-protein interactions may be exploited to confer the potency and selectivity of KAT-TCIPs. Thus, oncogenic drivers can be co-opted to activate robust cell death. Consistent with their gain-of-function mechanism, TCIPs recruiting different transcriptional activators-p300, BRD4, or CDK9-produce distinct genomic responses, suggesting specialized therapeutic uses.",
       "summaryZh": "开发诱导恶性细胞特异性死亡的癌症疗法对于预防复发至关重要。免疫疗法等高效策略就是这一原则的例证。在这里，我们为小分子方法提供了机制基础，该方法利用化学诱导邻近（CIP）来杀死弥漫性大 B 细胞淋巴瘤（最常见的非霍奇金淋巴瘤）。我们开发了基于赖氨酸乙酰转移酶 (KAT) 的 TCIP（转录/表观遗传邻近化学诱导剂）或 KAT-TCIP，它可以重定向 p300/CREB ​​结合蛋白 (CBP)，以激活被致癌驱动程序 BCL6 抑制的细胞死亡网络。我们的主要 KAT-TCIP 重新编程表观基因组以启动细胞凋亡。化学诱导的 p300-BCL6 复合物的晶体结构揭示了如何利用蛋白质-蛋白质相互作用的机会来赋予 KAT-TCIP 的效力和选择性。因此，可以选择致癌驱动因素来激活强有力的细胞死亡。与其功能获得机制一致，TCIP 招募不同的转录激活因子（p300、BRD4 或 CDK9）产生不同的基因组反应，表明其具有专门的治疗用途。",
       "translationSource": "d7a1fb9ddc75c08f"
-    },
-    {
-      "pmid": "42470638",
-      "title": "TTYH3 regulates a lysosomal chloride conductance and controls lysosomal fusion, autophagy and senescence.",
-      "titleZh": "TTYH3 调节溶酶体氯化物电导并控制溶酶体融合、自噬和衰老。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-07-18",
-      "doi": "10.1016/j.celrep.2026.117703",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117703",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42470638/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
-      "abstractEn": "Chloride is the most abundant anion within lysosomes and plays a pivotal role in regulating lysosomal physiology and function. However, the mechanisms governing lysosomal chloride homeostasis remain largely elusive. Here, we identified TTYH3 as a regulator of lysosomal chloride permeability. TTYH3 mediates chloride efflux from the lysosomal lumen and enhances TRPML1-mediated lysosomal calcium release. Overexpression of TTYH3 results in markedly enlarged lysosomes by promoting lysosomal fusion via the Ca 2+ /CaM and HSP90 pathways. Moreover, TTYH3 enhances autophagy by inhibiting the AKT/mTOR signaling pathway and alleviates cellular senescence via activation of the ERK pathway. Notably, TTYH3 expression mitigates cellular phenotypes associated with lysosomal storage diseases caused by deficiencies in another lysosomal chloride channel CLN7. Collectively, our findings demonstrate that TTYH3 mediates a lysosomal chloride conductance and regulates lysosomal physiology and autophagy, and may serve as a potential therapeutic target for interventions in aging and lysosome-related diseases.",
-      "summaryZh": "氯离子是溶酶体中最丰富的阴离子，在调节溶酶体生理和功能中发挥着关键作用。然而，控制溶酶体氯化物稳态的机制在很大程度上仍然难以捉摸。在这里，我们确定 TTYH3 是溶酶体氯渗透性的调节剂。 TTYH3 介导氯离子从溶酶体腔流出并增强 TRPML1 介导的溶酶体钙释放。 TTYH3 的过度表达通过 Ca 2+ /CaM 和 HSP90 途径促进溶酶体融合，导致溶酶体显着增大。此外，TTYH3 通过抑制 AKT/mTOR 信号通路增强自噬，并通过激活 ERK 通路减轻细胞衰老。值得注意的是，TTYH3 表达可减轻与另一种溶酶体氯离子通道 CLN7 缺陷引起的溶酶体贮积病相关的细胞表型。总的来说，我们的研究结果表明，TTYH3 介导溶酶体氯化物电导并调节溶酶体生理学和自噬，并可能作为干预衰老和溶酶体相关疾病的潜在治疗靶点。",
-      "translationSource": "02a90168f097a350"
     },
     {
       "pmid": "42467786",
@@ -1043,27 +1276,6 @@
       "translationSource": "ab217949fd8f0775"
     },
     {
-      "pmid": "42412609",
-      "title": "Lectins of the Emp47/ERGIC-53 family target misfolded O-mannosylated ER proteins to ER-associated degradation.",
-      "titleZh": "Emp47/ERGIC-53 家族的凝集素以错误折叠的 O-甘露糖基化 ER 蛋白为目标，导致 ER 相关的降解。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-07-07",
-      "doi": "10.1016/j.celrep.2026.117626",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117626",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42412609/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "ER-associated degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
-      "abstractEn": "O-mannosylation of misfolded endoplasmic reticulum (ER) proteins in Saccharomyces cerevisiae by the bifunctional O-mannosyltransferase complex Pbn1-Gpi14 generates signals for ER-associated degradation (ERAD), but how these signals are recognized remains unknown. To address this question, we identify the binding partners of Pbn1 and find that the ER lectins Emp47 (ERGIC-53 in mammals) and Emp46 are among the strongest interactors. Simultaneous deletion of Emp46 and Emp47, but not of the lectin Yos9, impairs ERAD of an O-mannosylated, N-glycan-deficient CPY ∗ variant. ERAD is restored by plasmid-expressed Emp47 or Emp46, but not by an Emp47 mutant lacking its carbohydrate-recognition domain (CRD). Furthermore, Emp47 interacts physically with the Hrd1 complex, suggesting that lectins of the Emp47/ERGIC-53 family recognize O-mannosylated misfolded proteins and target them for ERAD.",
-      "summaryZh": "双功能 O-甘露糖基转移酶复合物 Pbn1-Gpi14 对酿酒酵母中错误折叠的内质网 (ER) 蛋白进行 O-甘露糖基化，产生 ER 相关降解 (ERAD) 信号，但如何识别这些信号仍不清楚。为了解决这个问题，我们鉴定了 Pbn1 的结合伴侣，并发现 ER 凝集素 Emp47（哺乳动物中的 EGIC-53）和 Emp46 是最强的相互作用因子之一。同时删除 Emp46 和 Emp47，但不删除凝集素 Yos9，会损害 O-甘露糖基化、N-聚糖缺陷 CPY* 变体的 ERAD。 ERAD 可以通过质粒表达的 Emp47 或 Emp46 恢复，但不能通过缺乏碳水化合物识别域 (CRD) 的 Emp47 突变体恢复。此外，Emp47 与 Hrd1 复合物发生物理相互作用，表明 Emp47/ERGIC-53 家族的凝集素可识别 O-甘露糖基化错误折叠蛋白并将其作为 ERAD 的靶标。",
-      "translationSource": "31596a7cf78fce6b"
-    },
-    {
       "pmid": "42409845",
       "title": "Salmonella SopB suppresses post-transcriptionally regulated cytokine release to reduce early tissue inflammation and delay disease progression.",
       "titleZh": "沙门氏菌 SopB 抑制转录后调节的细胞因子释放，以减少早期组织炎症并延缓疾病进展。",
@@ -1146,49 +1358,6 @@
       "abstractEn": "Inhibition of PARPs is a key strategy to treat tumours with defects in homologous recombination (HR), including those with mutations in the tumour suppressor gene BRCA2. PARP inhibitors generate replication stress, creating a dependence on HR to repair the resulting DNA damage. However, the DNA lesions generated upon PARP inhibition that impede replication fork progression and trigger a requirement for BRCA2 in cell survival are poorly defined. Here, we demonstrate that elevated levels of G-quadruplex (G4) DNA structures is a determinant of genome instability and PARP inhibitor toxicity, while suppressing these structures results in PARP inhibitor resistance. The HUWE1-associated stress response protein HAPSTR1 and BRCA2 function in parallel pathways to PARP1/PARP2 to suppress G4 levels during S-phase. Mechanistically, PARP1/PARP2 disruption in HAPSTR1 or BRCA2-deficient cells leads to G4-replication conflicts, ssDNA gaps, replication-associated DNA damage and genome instability. HAPSTR1 turnover is regulated through HUWE1-dependent proteasome degradation. As such, HUWE1 disruption results in elevated HAPSTR1 and suppression of elevated G4 levels in BRCA2-deficient cells, resulting in PARP inhibitor resistance. Together, these data identify G4 structures as a determinant of PARP inhibitor toxicity, while the HAPSTR1/HUWE1 axis is essential to suppress these structures and confer PARP inhibitor resistance.",
       "summaryZh": "抑制 PARP 是治疗同源重组 (HR) 缺陷肿瘤的关键策略，包括肿瘤抑制基因 BRCA2 突变的肿瘤。 PARP 抑制剂会产生复制压力，从而依赖 HR 来修复由此产生的 DNA 损伤。然而，PARP 抑制产生的 DNA 损伤阻碍复制叉进展并触发细胞存活对 BRCA2 的需求，但目前尚不清楚。在这里，我们证明 G-四链体 (G4) DNA 结构水平的升高是基因组不稳定和 PARP 抑制剂毒性的决定因素，而抑制这些结构会导致 PARP 抑制剂耐药。 HUWE1 相关应激反应蛋白 HAPSTR1 和 BRCA2 通过与 PARP1/PARP2 平行的途径发挥作用，抑制 S 期的 G4 水平。从机制上讲，HAPSTR1 或 BRCA2 缺陷细胞中的 PARP1/PARP2 破坏会导致 G4 复制冲突、ssDNA 缺口、复制相关 DNA 损伤和基因组不稳定。 HAPSTR1 周转通过 HUWE1 依赖性蛋白酶体降解进行调节。因此，HUWE1 破坏会导致 BRCA2 缺陷细胞中 HAPSTR1 升高并抑制 G4 水平升高，从而导致 PARP 抑制剂耐药。总之，这些数据确定 G4 结构是 PARP 抑制剂毒性的决定因素，而 HAPSTR1/HUWE1 轴对于抑制这些结构并赋予 PARP 抑制剂耐药性至关重要。",
       "translationSource": "701a324e8d4cc16c"
-    },
-    {
-      "pmid": "42400911",
-      "title": "Structural proteomics reveals that misfolded nascent proteins expose buried lysines for ubiquitination and rapid proteasomal degradation.",
-      "titleZh": "结构蛋白质组学揭示，错误折叠的新生蛋白质暴露了埋藏的赖氨酸，导致泛素化和快速蛋白酶体降解。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-07-03",
-      "doi": "10.1016/j.celrep.2026.117620",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117620",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42400911/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
-      "abstractEn": "The proteasome maintains the integrity of eukaryotic proteomes by selectively degrading ubiquitinated protein substrates. Ubiquitination targets a wide range of substrates for degradation, including translationally stalled nascent chains, misfolded proteins, and properly folded but short-lived proteins destined for regulatory degradation. Distinct structural features and ubiquitination patterns across these classes of substrates remain largely undefined. In this study, we combine structural proteomics and time-resolved isotopic labeling to profile the modification sites, dynamics, and conformational properties of the human ubiquitinome. We show that proteins undergoing rapid proteasomal degradation are ubiquitinated at lysine residues that are normally buried within structured regions of their native conformations. We provide proteome-wide evidence that this high-flux subset of the ubiquitinome is enriched in newly synthesized proteins that have non-native conformations. Together, our findings demonstrate how the lack of structural integrity of misfolded nascent proteins influences their ubiquitination patterns and leads to rapid proteasomal degradation.",
-      "summaryZh": "蛋白酶体通过选择性降解泛素化蛋白质底物来维持真核蛋白质组的完整性。泛素化针对多种降解底物，包括翻译停滞的新生链、错误折叠的蛋白质以及注定要进行调节性降解的正确折叠但寿命较短的蛋白质。这些底物类别的独特结构特征和泛素化模式在很大程度上仍然未定义。在这项研究中，我们结合结构蛋白质组学和时间分辨同位素标记来分析人类泛素组的修饰位点、动力学和构象特性。我们发现，经历快速蛋白酶体降解的蛋白质在赖氨酸残基处泛素化，这些残基通常埋藏在其天然构象的结构化区域内。我们提供了整个蛋白质组的证据，表明泛素组的这种高通量子集富含具有非天然构象的新合成蛋白质。总之，我们的研究结果证明了错误折叠的新生蛋白结构完整性的缺乏如何影响其泛素化模式并导致蛋白酶体快速降解。",
-      "translationSource": "c0bcad840f4a0ca0"
-    },
-    {
-      "pmid": "42397737",
-      "title": "STING-dependent peripheral inflammaging drives neurodegeneration via extracellular vesicles.",
-      "titleZh": "STING 依赖性外周炎症通过细胞外囊泡驱动神经退行性变。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-07-03",
-      "doi": "10.1016/j.celrep.2026.117640",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117640",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42397737/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal",
-        "endolysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
-      "abstractEn": "All animals age. However, aging is a heterogeneous process, and individual organisms age differently. Moreover, within the same organism, cells or organs do not age at the same speed. For instance, neurodegeneration, a hallmark of aging, generally manifests later than other peripheral aging signs. The genetic determinants of aging are not completely understood. Gain-of-function (GoF) mutations in leucine-rich repeat kinase 2 (LRRK2 GoF ) are major genetic risk factors for Parkinson's disease (PD). By analyzing PD patients and LRRK2 GoF mice, we show that PD represents an accelerated aging disorder driven by STING-dependent inflammation. This inflammation begins peripherally, disrupts the blood-brain barrier, and causes dopaminergic neurodegeneration. Mechanistically, aging or LRRK2 GoF causes endolysosomal decline, resulting in cytosolic self-DNA accumulation and the release of DNA-containing extracellular vesicles (EVs) that activate the cGAS-STING pathway within and between cells. Our findings identify LRRK2 GoF as a key driver of accelerated aging and systemic inflammaging through DNA-containing EVs, highlighting potential therapeutic targets to counteract inflammaging and neurodegeneration.",
-      "summaryZh": "所有动物都会衰老。然而，衰老是一个异质过程，个体生物体的衰老程度也不同。此外，在同一生物体中，细胞或器官的衰老速度并不相同。例如，神经变性是衰老的标志，通常比其他外周衰老迹象出现得晚。衰老的遗传决定因素尚不完全清楚。富含亮氨酸重复激酶 2 (LRRK2 GoF ) 的功能获得 (GoF) 突变是帕金森病 (PD) 的主要遗传风险因素。通过分析 PD 患者和 LRRK2 GoF 小鼠，我们发现 PD 是一种由 STING 依赖性炎症驱动的加速衰老性疾病。这种炎症从外周开始，破坏血脑屏障，并导致多巴胺能神经变性。从机制上讲，衰老或 LRRK2 GoF 会导致内溶酶体衰退，导致细胞质自身 DNA 积累和含有 DNA 的细胞外囊泡 (EV) 的释放，从而激活细胞内和细胞间的 cGAS-STING 通路。我们的研究结果确定 LRRK2 GoF 是通过含有 DNA 的 EV 加速衰老和全身炎症的关键驱动因素，强调了对抗炎症和神经退行性变的潜在治疗靶点。",
-      "translationSource": "cc72eb7124b9c9c2"
     },
     {
       "pmid": "42393076",
@@ -1495,6 +1664,27 @@
       "translationSource": "e951fc50dac8367b"
     },
     {
+      "pmid": "42343134",
+      "title": "The mutational landscape of STING-induced immunity.",
+      "titleZh": "STING 诱导免疫的突变景观。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-07-01",
+      "doi": "10.1038/s41586-026-10685-3",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10685-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42343134/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Stimulator of interferon genes (STING) is an evolutionary conserved immune signalling protein with key roles in host defence, cancer, senescence and inflammation 1-3 . Downstream of STING, type I interferon, inflammatory cytokine signalling and non-canonical autophagy are governed by a multilayered mechanism integrating ligand-induced structural transitions, protein-protein interactions and coordinated intracellular trafficking 4-13 . Despite its central role in immunity and relevance as therapeutic target 14 , the sequence elements that govern STING (in)activation in cells remain incompletely understood. Here we developed a massively parallel assay to systematically chart the sequence-function landscape of STING. Profiling thousands of single amino-acid variants, we identified structural and functional determinants that shape the immunostimulatory capacity of STING and its ability to translate ligand recognition into distinct signalling outputs. Cryogenic-electron microscopy structures of select STING hyperactive variants revealed new regulatory principles dictating conformational transition from inactive to signalling-competent states of STING. Mutational effects are widespread across the functional landscape and can sensitize STING towards the natural ligand 2'3'-cGAMP 15-18 or decouple interferon induction from non-canonical autophagy, demonstrating a diversity of possible responses that can be accessed through single point substitutions. Finally, our data showed the clinical and evolutionary relevance of naturally occurring STING protein variants. Collectively, these findings define molecular principles that tune STING activity and chart the landscape of its functional potential across immune contexts.",
+      "summaryZh": "干扰素基因刺激物 (STING) 是一种进化保守的免疫信号蛋白，在宿主防御、癌症、衰老和炎症中发挥关键作用 1-3 。 STING 下游、I 型干扰素、炎性细胞因子信号传导和非典型自噬受多层机制的控制，该机制整合了配体诱导的结构转变、蛋白质-蛋白质相互作用和协调的细胞内运输 4-13 。尽管其在免疫中发挥核心作用并作为治疗靶标 14 ，但控制细胞中 STING (in) 激活的序列元件仍不完全清楚。在这里，我们开发了一种大规模并行分析来系统地绘制 STING 的序列功能图谱。通过分析数千个单一氨基酸变体，我们确定了影响 STING 免疫刺激能力及其将配体识别转化为不同信号输出的能力的结构和功能决定因素。选择 STING 高度活跃变体的低温电子显微镜结构揭示了新的调控原则，决定了 STING 从非活性状态到信号传导状态的构象转变。突变效应在整个功能领域广泛存在，可以使 STING 对天然配体 2'3'-cGAMP 15-18 敏感，或将干扰素诱导与非典型自噬解耦，从而证明可以通过单点替换获得多种可能的反应。最后，我们的数据显示了自然发生的 STING 蛋白变体的临床和进化相关性。总的来说，这些发现定义了调节 STING 活性的分子原理，并绘制了其在免疫环境中的功能潜力图谱。",
+      "translationSource": "c6a8a481f3f69fa6"
+    },
+    {
       "pmid": "42271059",
       "title": "Molecular glue degraders of HuR suppress BRAF-mutant colorectal cancer.",
       "titleZh": "HuR 的分子胶降解剂可抑制 BRAF 突变型结直肠癌。",
@@ -1602,27 +1792,6 @@
       "abstractEn": "The systemic coordination of autophagy during development remains poorly understood. Here, we identify two parallel neuronal circuits that regulate the autophagy-lysosome pathway in the body wall muscle of C. elegans. One circuit, utilizing UNC-7/UNC-9 electrical synapses between AVA interneurons and A-type motor neurons (A-MNs), promotes autophagy by inhibiting neuropeptide release from A-MNs. The other employs the TGF-β-like molecule DAF-7, secreted from ASI sensory neurons, which activates autophagy via the canonical TGF-β pathway. These pathways converge to regulate cytosolic Ca²⁺ levels in the muscle, thereby maintaining lysosomal integrity. Disruption of either circuit elevates Ca²⁺, overactivating calpain. This leads to the accumulation of non-degradative autolysosomes and accelerates muscle degeneration. Our findings elucidate a neuronal mechanism for controlling muscle autophagy and provide insights into the pathogenesis of neurogenic myopathy.",
       "summaryZh": "发育过程中自噬的系统协调仍然知之甚少。在这里，我们确定了两个平行的神经元回路，它们调节线虫体壁肌肉中的自噬-溶酶体途径。一种电路利用 AVA 中间神经元和 A 型运动神经元 (A-MN) 之间的 UNC-7/UNC-9 电突触，通过抑制 A-MN 释放神经肽来促进自噬。另一种方法采用 ASI 感觉神经元分泌的 TGF-β 样分子 DAF-7，它通过经典的 TGF-β 途径激活自噬。这些途径汇聚在一起调节肌肉中的胞质 Ca2+ 水平，从而维持溶酶体的完整性。任何一个回路的破坏都会导致 Ca2+ 升高，从而过度激活钙蛋白酶。这导致非降解性自溶酶体的积累并加速肌肉退化。我们的研究结果阐明了控制肌肉自噬的神经机制，并为神经源性肌病的发病机制提供了见解。",
       "translationSource": "1b36a72cb6e2dda6"
-    },
-    {
-      "pmid": "42378087",
-      "title": "TUSC3 serves as a rate-limiting gatekeeper of a glycan-mediated ER triage checkpoint for BMP4/Dpp.",
-      "titleZh": "TUSC3 充当 BMP4/Dpp 聚糖介导的 ER 分类检查点的限速看门人。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-29",
-      "doi": "10.1016/j.celrep.2026.117628",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117628",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42378087/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "ER-associated degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
-      "abstractEn": "Trimming of the three glucose residues decorating nascent N-glycoproteins is a critical step for their entry into the endoplasmic reticulum quality control (ERQC) and recognition by ER chaperones. However, the functional relevance of the second glucose (G2) and the regulatory step upstream of its removal by glucosidase II (GCS2) remain poorly understood. Here, we report that TUSC3, a component of the oligosaccharyltransferase (OST) complex, regulates G2 to G1 trimming on N-glycosylated bone morphogenetic protein 4 (BMP4) and its Drosophila homolog Dpp to promote their ERQC entry. Loss- and gain-of-function genetic experiments and biochemical assays in mammalian cells and flies indicate that TUSC3 serves as a dosage-sensitive gatekeeper that influences the decision between proper folding and secretion versus elimination by ER-associated degradation for the BMP4 molecules, thereby tuning BMP signaling. Together, these data reveal an unrecognized role for an OST component in early glycoprotein maturation, relevant to a major developmental signaling pathway.",
-      "summaryZh": "修饰新生 N-糖蛋白的三个葡萄糖残基的修剪是它们进入内质网质量控制 (ERQC) 并被 ER 伴侣识别的关键步骤。然而，第二个葡萄糖 (G2) 的功能相关性以及葡萄糖苷酶 II (GCS2) 去除其上游的调节步骤仍然知之甚少。在这里，我们报道TUSC3是寡糖转移酶（OST）复合物的一个组成部分，调节N-糖基化骨形态发生蛋白4（BMP4）及其果蝇同源物Dpp的G2到G1修剪，以促进它们进入ERQC。哺乳动物细胞和果蝇中的功能丧失和获得功能遗传实验以及生化测定表明，TUSC3 作为剂量敏感的看门人，影响 BMP4 分子的正确折叠和分泌与 ER 相关降解消除之间的决定，从而调节 BMP 信号传导。总之，这些数据揭示了 OST 成分在早期糖蛋白成熟中未被认识的作用，与主要的发育信号通路相关。",
-      "translationSource": "8b17138ce931ce42"
     },
     {
       "pmid": "42364976",
@@ -1794,27 +1963,6 @@
       "abstractEn": "Metabolism of the hepatic low-density lipoprotein receptor (LDLR) is a key determinant of cholesterol homeostasis 1,2 . The molecular switches that coordinate LDLR trafficking and turnover in response to nutritional cues, including high dietary cholesterol, remain poorly defined 3-6 . Here we identify a new pathway regulated by Ral GTPases that links extracellular cholesterol signals to the intracellular trafficking machinery controlling LDLR turnover. Chronic dietary cholesterol activates the Ral proteins by increasing RAS activity, routing LDLR to lysosomes for degradation and inhibiting its recycling independently of transcriptional regulation or PCSK9. Constitutive activation of Ral via RalGAPB deletion or overexpression of constitutively active Ral mutants in hepatocytes reduces LDLR levels and impairs cholesterol clearance. Ral engages the endocytic RalBP1-REPS1 complex to promote LDLR internalization and lysosomal routing, where LDLR is degraded by the lysosomal protease cathepsin A (CTSA). Ral activation directs CTSA towards lysosomes for maturation while limiting its secretion, further promoting LDLR degradation in lysosomes. Genetic variants in this pathway significantly associate with altered cholesterol in humans. Pharmacological inhibition of CTSA activity increases hepatic LDLR function and improves cholesterol clearance, offering a potential new therapeutic strategy for hypercholesterolaemia and cardiovascular disease.",
       "summaryZh": "肝脏低密度脂蛋白受体 (LDLR) 的代谢是胆固醇稳态的关键决定因素 1,2 。协调 LDLR 运输和周转以响应营养提示（包括高膳食胆固醇）的分子开关仍然不明确 3-6 。在这里，我们确定了一条受 Ral GTPases 调节的新途径，该途径将细胞外胆固醇信号与控制 LDLR 周转的细胞内运输机制联系起来。长期膳食胆固醇通过增加 RAS 活性、将 LDLR 传送至溶酶体进行降解并独立于转录调控或 PCSK9 抑制其循环来激活 Ral 蛋白。通过肝细胞中 RalGAPB 缺失或组成型活性 Ral 突变体的过度表达来组成型激活 Ral，可降低 LDLR 水平并损害胆固醇清除率。 Ral 与内吞性 RalBP1-REPS1 复合物结合，促进 LDLR 内化和溶酶体路径，其中 LDLR 被溶酶体蛋白酶组织蛋白酶 A (CTSA) 降解。 Ral 激活将 CTSA 引导至溶酶体成熟，同时限制其分泌，进一步促进溶酶体中 LDLR 的降解。该途径中的遗传变异与人类胆固醇的改变显着相关。 CTSA 活性的药理学抑制可增加肝脏 LDLR 功能并改善胆固醇清除率，为高胆固醇血症和心血管疾病提供潜在的新治疗策略。",
       "translationSource": "400ae5c036e6bf8a"
-    },
-    {
-      "pmid": "42343134",
-      "title": "The mutational landscape of STING-induced immunity.",
-      "titleZh": "STING 诱导免疫的突变景观。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-06-24",
-      "doi": "10.1038/s41586-026-10685-3",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10685-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42343134/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Stimulator of interferon genes (STING) is an evolutionary conserved immune signalling protein with key roles in host defence, cancer, senescence and inflammation 1-3 . Downstream of STING, type I interferon, inflammatory cytokine signalling and non-canonical autophagy are governed by a multilayered mechanism integrating ligand-induced structural transitions, protein-protein interactions and coordinated intracellular trafficking 4-13 . Despite its central role in immunity and relevance as therapeutic target 14 , the sequence elements that govern STING (in)activation in cells remain incompletely understood. Here we developed a massively parallel assay to systematically chart the sequence-function landscape of STING. Profiling thousands of single amino-acid variants, we identified structural and functional determinants that shape the immunostimulatory capacity of STING and its ability to translate ligand recognition into distinct signalling outputs. Cryogenic-electron microscopy structures of select STING hyperactive variants revealed new regulatory principles dictating conformational transition from inactive to signalling-competent states of STING. Mutational effects are widespread across the functional landscape and can sensitize STING towards the natural ligand 2'3'-cGAMP 15-18 or decouple interferon induction from non-canonical autophagy, demonstrating a diversity of possible responses that can be accessed through single point substitutions. Finally, our data showed the clinical and evolutionary relevance of naturally occurring STING protein variants. Collectively, these findings define molecular principles that tune STING activity and chart the landscape of its functional potential across immune contexts.",
-      "summaryZh": "干扰素基因刺激物 (STING) 是一种进化保守的免疫信号蛋白，在宿主防御、癌症、衰老和炎症中发挥关键作用 1-3 。 STING 下游、I 型干扰素、炎性细胞因子信号传导和非典型自噬受多层机制的控制，该机制整合了配体诱导的结构转变、蛋白质-蛋白质相互作用和协调的细胞内运输 4-13 。尽管其在免疫中发挥核心作用并作为治疗靶标 14 ，但控制细胞中 STING (in) 激活的序列元件仍不完全清楚。在这里，我们开发了一种大规模并行分析来系统地绘制 STING 的序列功能图谱。通过分析数千个单一氨基酸变体，我们确定了影响 STING 免疫刺激能力及其将配体识别转化为不同信号输出的能力的结构和功能决定因素。选择 STING 高度活跃变体的低温电子显微镜结构揭示了新的调控原则，决定了 STING 从非活性状态到信号传导状态的构象转变。突变效应在整个功能领域广泛存在，可以使 STING 对天然配体 2'3'-cGAMP 15-18 敏感，或将干扰素诱导与非典型自噬解耦，从而证明可以通过单点替换获得多种可能的反应。最后，我们的数据显示了自然发生的 STING 蛋白变体的临床和进化相关性。总的来说，这些发现定义了调节 STING 活性的分子原理，并绘制了其在免疫环境中的功能潜力图谱。",
-      "translationSource": "c6a8a481f3f69fa6"
     },
     {
       "pmid": "42341763",
@@ -2376,27 +2524,6 @@
       "abstractEn": "Precise integration of multikilobase DNA fragments remains a major technical barrier in plants. Here we introduce non-long terminal repeat (non-LTR) R2 retrotransposons as a versatile system for targeted gene integration in plants. We reconstituted R2 activity in Nicotiana benthamiana and benchmarked insertion efficiency and fidelity using a TMV-based episomal reporter system. We demonstrate site-specific integration of GFP (2.2 kb) and recombinase-compatible landing pads (0.6 kb) into 28S rDNA arrays, with intact cassette insertion frequencies up to 75% and 53%, respectively. To temporally constrain donor availability and avoid DNA intermediates, we combined in planta effector expression with recombinant RNA virus-mediated donor delivery. We apply R2 retrotransposons for targeted insertion of resistance cassettes within the rDNA of rice callus, achieving integration efficiencies up to 17%. These results position R2 retrotransposons as a double-strand break-free system for RNA-templated insertion of multikilobase gene cassettes at rDNA loci, for safe-harbor trait stacking in plants with potential applications in crop improvement and synthetic biology.",
       "summaryZh": "数千碱基 DNA 片段的精确整合仍然是植物中的主要技术障碍。在这里，我们介绍非长末端重复 (non-LTR) R2 反转录转座子作为植物中靶向基因整合的多功能系统。我们重建了本塞姆氏烟草中的 R2 活性，并使用基于 TMV 的游离报告系统对插入效率和保真度进行了基准测试。我们展示了 GFP (2.2 kb) 和重组酶兼容着陆垫 (0.6 kb) 到 28S rDNA 阵列中的位点特异性整合，完整盒插入频率分别高达 75% 和 53%。为了暂时限制供体的可用性并避免 DNA 中间体，我们将植物效应子表达与重组 RNA 病毒介导的供体递送结合起来。我们应用 R2 反转录转座子将抗性盒靶向插入水稻愈伤组织的 rDNA 中，实现高达 17% 的整合效率。这些结果将 R2 反转录转座子定位为一种双链无断裂系统，用于在 rDNA 位点上以 RNA 为模板插入数千碱基基因盒，从而在植物中进行安全港性状堆积，并在作物改良和合成生物学方面具有潜在应用。",
       "translationSource": "6cfb5238abe498c6"
-    },
-    {
-      "pmid": "42319829",
-      "title": "The pyruvate transporter hermes regulates autophagy and health by modulating ROS production.",
-      "titleZh": "丙酮酸转运蛋白 Hermes 通过调节 ROS 的产生来调节自噬和健康。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-19",
-      "doi": "10.1016/j.celrep.2026.117574",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117574",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42319829/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Autophagy is a catabolic process that degrades cytoplasmic materials and is controlled by nutrient availability and signaling. The plasma membrane-associated pyruvate-solute carrier hermes (hrm) is required for regulation of the mechanistic target of rapamycin (mTOR) signaling and the activation of autophagy during development. Here, we screen for pyruvate-influencing genes that suppress the hrm mutant phenotype. We show that the inhibitory effect of hrm loss on autophagy depends on pyruvate transport into mitochondria and the Krebs cycle. Loss of hrm results in an increase in reactive oxygen species (ROS), and attenuation of the increase in ROS is sufficient to suppress the effects of hrm loss on autophagy and mTOR signaling. Importantly, we show that in adult animals, loss of hrm results in decreased lifespan, with defects in autophagy in intestine tissues. These results link a plasma membrane pyruvate carrier to mitochondrial pyruvate metabolism, ROS, autophagy, and organismal health.",
-      "summaryZh": "自噬是一种降解细胞质物质的分解代谢过程，并受到营养物质可用性和信号传导的控制。质膜相关的丙酮酸溶质载体 Hermes (hrm) 是调节雷帕霉素 (mTOR) 信号传导的机制和发育过程中自噬激活所必需的。在这里，我们筛选了抑制 hrm 突变表型的丙酮酸影响基因。我们发现 hrm 损失对自噬的抑制作用取决于丙酮酸转运到线粒体和克雷布斯循环。 hrm 的缺失会导致活性氧 (ROS) 的增加，而 ROS 增加的减弱足以抑制 hrm 缺失对自噬和 mTOR 信号传导的影响。重要的是，我们发现在成年动物中，hrm 的缺失会导致寿命缩短，并导致肠道组织自噬缺陷。这些结果将质膜丙酮酸载体与线粒体丙酮酸代谢、ROS、自噬和机体健康联系起来。",
-      "translationSource": "6029577d81d1f628"
     },
     {
       "pmid": "42315837",
@@ -4302,27 +4429,6 @@
       "translationSource": "8a88fe3831c4a0f8"
     },
     {
-      "pmid": "42129162",
-      "title": "Structural basis for prohibitin-mediated regulation of mitochondrial m-AAA protease.",
-      "titleZh": "抑制素介导的线粒体 m-AAA 蛋白酶调节的结构基础。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-05-13",
-      "doi": "10.1038/s41467-026-73040-0",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73040-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42129162/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Mitochondrial function critically depends on protein quality control systems, with the m-AAA protease playing a key role at the inner mitochondrial membrane (IMM). The evolutionarily conserved prohibitins (PHBs) are essential modulators of this protease across species, yet the molecular mechanisms remain unclear. Here, we present the cryo-EM structure of the Chaetomium thermophilum PHB (CtPHB) complex, revealing a cage-like assembly composed of 11 copies of PHB1/PHB2 heterodimers. Electron microscopic and biochemical analyses suggest that m-AAA proteases are enclosed within the PHB complex through interactions mediated by their SPFH-interacting motif (SIM) exposed in the intermembrane space. Further in situ cryo-ET directly visualizes these cage-protease assemblies in native mitochondria. Disruption of their interface leads to elevated m-AAA protease activity and diminished mitochondrial stress resistance. These data establish PHB complexes as spatial organizers that compartmentalize m-AAA proteases in membrane microdomains to fine-tune proteolytic homeostasis. Our findings reveal the critical role of the PHB complex in maintaining mitochondrial proteostasis, providing a unified mechanistic model to explain and reconcile the pleiotropic and often contradictory phenotypes of PHB and m-AAA protease in mitochondrial physiology and various disease conditions.",
-      "summaryZh": "线粒体功能很大程度上取决于蛋白质质量控​​制系统，其中 m-AAA 蛋白酶在线粒体内膜 (IMM) 中发挥着关键作用。进化上保守的抑制素（PHB）是跨物种的这种蛋白酶的重要调节剂，但其分子机制仍不清楚。在这里，我们展示了嗜热毛壳菌 PHB (CtPHB) 复合物的冷冻电镜结构，揭示了由 11 个 PHB1/PHB2 异二聚体拷贝组成的笼状组装体。电子显微镜和生化分析表明，m-AAA 蛋白酶通过暴露在膜间隙中的 SPFH 相互作用基序 (SIM) 介导的相互作用而被封闭在 PHB 复合物内。此外，原位冷冻电子断层扫描直接可视化天然线粒体中的这些笼状蛋白酶组件。其界面的破坏会导致 m-AAA 蛋白酶活性升高并降低线粒体的应激抵抗力。这些数据将 PHB 复合物确立为空间组织者，将 m-AAA 蛋白酶划分在膜微域中，以微调蛋白水解稳态。我们的研究结果揭示了 PHB 复合物在维持线粒体蛋白质稳态中的关键作用，提供了一个统一的机制模型来解释和协调 PHB 和 m-AAA 蛋白酶在线粒体生理学和各种疾病条件中的多效性且经常相互矛盾的表型。",
-      "translationSource": "5c528dc85a630bb4"
-    },
-    {
       "pmid": "42128888",
       "title": "BromoCatch: a self-labelling tag platform for protein modification and live cell imaging.",
       "titleZh": "BromoCatch：用于蛋白质修饰和活细胞成像的自标记标签平台。",
@@ -4342,6 +4448,27 @@
       "abstractEn": "Visualizing and manipulating proteins in live cells is crucial for studying complex biological processes. Self-labelling protein (SLP) tags such as HaloTag and SNAP-tag are widely used for protein labelling, and new systems are needed to expand multiplexing capabilities and broaden the scope of applications. Here we present BromoCatch, a small ~13 kDa bromodomain (BD)-based SLP platform, engineered with a nucleophilic cysteine for covalent ligand engagement. A structure-based designed library of electrophilic ligands was screened against two cysteine-containing mutants using differential scanning fluorimetry and intact protein mass spectrometry to assess covalent complex formation. We identified a para-acrylamide bumped derivative MR116 and the Brd4-BD2 double mutant L387A,E438C as the optimal protein-ligand pair, and reveal the binding mode through an X-ray co-crystal structure solved to 1.3 Å resolution. BromoCatch demonstrated potent and irreversible cellular target engagement in NanoBRET and residence-time assays. Its versatility was demonstrated through the design of a biotinylated conjugate, PROTAC-based degraders, and fluorescent full-on and \"switch-on\" probes for ex-cellulo and live-cell imaging, including side-by-side comparison and orthogonality with HaloTag. Together, these results establish BromoCatch as a robust, modular, and orthogonal SLP tool with broad potential for multiplexed labelling and targeted protein manipulation.",
       "summaryZh": "可视化和操作活细胞中的蛋白质对于研究复杂的生物过程至关重要。自标记蛋白质 (SLP) 标签（例如 HaloTag 和 SNAP-tag）广泛用于蛋白质标记，需要新的系统来扩展复用能力并拓宽应用范围。在这里，我们介绍了 BromoCatch，一种基于约 13 kDa 溴结构域 (BD) 的小型 SLP 平台，采用亲核半胱氨酸进行工程设计，用于共价配体接合。使用差示扫描荧光测定法和完整蛋白质质谱法针对两种含有半胱氨酸的突变体筛选基于结构的亲电子配体库，以评估共价复合物的形成。我们确定了对丙烯酰胺碰撞衍生物 MR116 和 Brd4-BD2 双突变体 L387A、E438C 作为最佳蛋白质-配体对，并通过分辨率为 1.3 Å 的 X 射线共晶结构揭示了结合模式。 BromoCatch 在 NanoBRET 和停留时间测定中证明了有效且不可逆的细胞靶标参与。它的多功能性通过生物素化缀合物、基于 PROTAC 的降解剂以及用于细胞外和活细胞成像的荧光全开启和“开启”探针的设计得到了证明，包括与 HaloTag 的并排比较和正交性。总之，这些结果使 BromoCatch 成为一种强大的、模块化的、正交的 SLP 工具，在多重标记和靶向蛋白质操作方面具有广泛的潜力。",
       "translationSource": "a2bf4720b10efb5f"
+    },
+    {
+      "pmid": "42129162",
+      "title": "Structural basis for prohibitin-mediated regulation of mitochondrial m-AAA protease.",
+      "titleZh": "抑制素介导的线粒体 m-AAA 蛋白酶调节的结构基础。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-05-13",
+      "doi": "10.1038/s41467-026-73040-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73040-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42129162/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Mitochondrial function critically depends on protein quality control systems, with the m-AAA protease playing a key role at the inner mitochondrial membrane (IMM). The evolutionarily conserved prohibitins (PHBs) are essential modulators of this protease across species, yet the molecular mechanisms remain unclear. Here, we present the cryo-EM structure of the Chaetomium thermophilum PHB (CtPHB) complex, revealing a cage-like assembly composed of 11 copies of PHB1/PHB2 heterodimers. Electron microscopic and biochemical analyses suggest that m-AAA proteases are enclosed within the PHB complex through interactions mediated by their SPFH-interacting motif (SIM) exposed in the intermembrane space. Further in situ cryo-ET directly visualizes these cage-protease assemblies in native mitochondria. Disruption of their interface leads to elevated m-AAA protease activity and diminished mitochondrial stress resistance. These data establish PHB complexes as spatial organizers that compartmentalize m-AAA proteases in membrane microdomains to fine-tune proteolytic homeostasis. Our findings reveal the critical role of the PHB complex in maintaining mitochondrial proteostasis, providing a unified mechanistic model to explain and reconcile the pleiotropic and often contradictory phenotypes of PHB and m-AAA protease in mitochondrial physiology and various disease conditions.",
+      "summaryZh": "线粒体功能很大程度上取决于蛋白质质量控​​制系统，其中 m-AAA 蛋白酶在线粒体内膜 (IMM) 中发挥着关键作用。进化上保守的抑制素（PHB）是跨物种的这种蛋白酶的重要调节剂，但其分子机制仍不清楚。在这里，我们展示了嗜热毛壳菌 PHB (CtPHB) 复合物的冷冻电镜结构，揭示了由 11 个 PHB1/PHB2 异二聚体拷贝组成的笼状组装体。电子显微镜和生化分析表明，m-AAA 蛋白酶通过暴露在膜间隙中的 SPFH 相互作用基序 (SIM) 介导的相互作用而被封闭在 PHB 复合物内。此外，原位冷冻电子断层扫描直接可视化天然线粒体中的这些笼状蛋白酶组件。其界面的破坏会导致 m-AAA 蛋白酶活性升高并降低线粒体的应激抵抗力。这些数据将 PHB 复合物确立为空间组织者，将 m-AAA 蛋白酶划分在膜微域中，以微调蛋白水解稳态。我们的研究结果揭示了 PHB 复合物在维持线粒体蛋白质稳态中的关键作用，提供了一个统一的机制模型来解释和协调 PHB 和 m-AAA 蛋白酶在线粒体生理学和各种疾病条件中的多效性且经常相互矛盾的表型。",
+      "translationSource": "5c528dc85a630bb4"
     },
     {
       "pmid": "42128887",
