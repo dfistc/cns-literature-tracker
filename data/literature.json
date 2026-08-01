@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-07-31T01:23:40+00:00",
+  "updatedAt": "2026-08-01T01:24:46+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "41513855",
+      "title": "Unique gluing effect of ASXL1 K351 monoubiquitination stimulates the PR-DUB activity.",
+      "titleZh": "ASXL1 K351 单泛素化的独特粘合作用可刺激 PR-DUB 活性。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41589-025-02126-5",
+      "doiUrl": "https://doi.org/10.1038/s41589-025-02126-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41513855/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Protein ubiquitination critically regulates biological processes through both proteolytic and nonproteolytic mechanisms. While classically known for protein degradation, ubiquitination also modulates enzymatic activity. However, current mechanisms of ubiquitination-mediated enzymatic modulation are spatially constrained near enzyme-substrate interfaces. Here, we report a unique ubiquitination-mediated regulatory paradigm that activates the Polycomb repressive deubiquitinase (PR-DUB) complex from a site distal to the enzyme-substrate interface. We found that ASXL1 K351 monoubiquitination promotes nucleosomal H2AK119Ub deubiquitination by stabilizing the PR-DUB catalytic pocket, thereby increasing catalytic velocity (V max ) without affecting substrate affinity (K m ). Structurally, ubiquitin at ASXL1 K351 bridges the BAP1 and ASXL1 subunits, functioning as a cross-bracing 'glue' that constrains their conformational dynamics without altering the nucleosome-binding interface. Molecular dynamics and hydrogen-deuterium exchange mass spectrometry revealed that this modification locks PR-DUB in a catalytic state poised for substrate cleavage. This study reveals a unique ubiquitin function of intersubunit fastening through a molecular glue effect and clarifies the mechanism of PR-DUB activation.",
+      "summaryZh": "蛋白质泛素化通过蛋白水解和非蛋白水解机制严格调节生物过程。虽然泛素化通常以蛋白质降解而闻名，但它也能调节酶活性。然而，目前泛素化介导的酶促调节机制在空间上受到酶-底物界面附近的限制。在这里，我们报告了一种独特的泛素化介导的调节范式，该范式从酶-底物界面远端的位点激活 Polycomb 抑制性去泛素酶（PR-DUB）复合物。我们发现 ASXL1 K351 单泛素化通过稳定 PR-DUB 催化口袋来促进核小体 H2AK119Ub 去泛素化，从而提高催化速度 (V max )，而不影响底物亲和力 (K m )。从结构上看，ASXL1 K351 处的泛素桥接 BAP1 和 ASXL1 亚基，充当交叉支撑“粘合剂”，在不改变核小体结合界面的情况下限制它们的构象动力学。分子动力学和氢-氘交换质谱分析表明，这种修饰将 PR-DUB 锁定在准备进行底物裂解的催化状态。这项研究揭示了通过分子胶水效应实现亚基间紧固的独特泛素功能，并阐明了 PR-DUB 激活的机制。",
+      "translationSource": "459dec2751d5f8e7"
+    },
+    {
+      "pmid": "42536745",
+      "title": "Mitochondrial control of amino acid catabolism by a fasting-inducible mitochondrial carrier.",
+      "titleZh": "禁食诱导线粒体载体对氨基酸分解代谢的线粒体控制。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-31",
+      "doi": "10.1126/sciadv.aef0140",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aef0140",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42536745/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Metabolic adaptation to nutrient deprivation requires coordinated control of mitochondrial anaplerosis and cataplerosis; however, how metabolite flux across the mitochondrial membrane is regulated during fasting remains less defined. Here, we report SLC25A34 as a fasting-inducible mitochondrial carrier that is highly expressed in oxidative skeletal muscle. Using bacterial reconstitution, proteo-liposomes, and tracer studies, we showed that SLC25A34 mediates the import of phosphoenolpyruvate (PEP) into the mitochondrial matrix. Loss of SLC25A34 impaired glutamine-supported anaplerosis under nutrient-deprived conditions, while glucose and pyruvate utilization remained largely intact. Muscle-specific deletion of Slc25a34 resulted in reduced fasting-induced amino acid catabolism and the accumulation of amino acids, leading to activation of mTORC1 signaling even under fasted conditions. Consequently, SLC25A34-deficient soleus muscle exhibited hypertrophy and myopathic features, accompanied by mTORC1-dependent increase in protein synthesis. Together, these results highlight a unique biological role for the inducible mitochondrial carrier SLC25A34, which couples PEP import to amino acid catabolism and proteostasis to preserve skeletal muscle integrity in response to metabolic stress.",
+      "summaryZh": "对营养缺乏的代谢适应需要协调控制线粒体回补和回补；然而，禁食期间如何调节线粒体膜的代谢通量仍不清楚。在这里，我们报告 SLC25A34 作为一种禁食诱导的线粒体载体，在氧化骨骼肌中高表达。通过细菌重建、蛋白脂质体和示踪剂研究，我们发现 SLC25A34 介导磷酸烯醇丙酮酸 (PEP) 进入线粒体基质。在营养匮乏的条件下，SLC25A34 的缺失会损害谷氨酰胺支持的回补，而葡萄糖和丙酮酸的利用基本保持不变。 Slc25a34 的肌肉特异性缺失导致禁食诱导的氨基酸分解代谢和氨基酸积累减少，从而导致即使在禁食条件下也能激活 mTORC1 信号传导。因此，SLC25A34 缺陷的比目鱼肌表现出肥大和肌病特征，并伴有 mTORC1 依赖性蛋白质合成增加。总之，这些结果凸显了诱导型线粒体载体 SLC25A34 的独特生物学作用，它将 PEP 输入与氨基酸分解代谢和蛋白质稳态结合起来，以保持骨骼肌完整性以应对代谢应激。",
+      "translationSource": "99f90e4bfc78d68d"
+    },
+    {
+      "pmid": "42536733",
+      "title": "Engineered heart-liver axis nanoregulators synergize autophagy activation and systemic metabolic reprogramming against atherosclerosis.",
+      "titleZh": "工程心肝轴纳米调节剂可协同自噬激活和全身代谢重编程对抗动脉粥样硬化。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-07-31",
+      "doi": "10.1126/sciadv.aee3352",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee3352",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42536733/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Atherosclerosis (AS) is the most important pathological basis for cardiovascular diseases worldwide. However, the current mainstream therapeutic strategies for AS only target isolated pathological links, ignoring hepatic steatosis as a related risk factor for AS, which leads to limited effectiveness in controlling the overall course of atherosclerosis. Herein, a smart nanoplatform that can synergistically regulate AS and hepatic steatosis was first reported, which featured sulfide iron nanosheets as the core, grafted with bovine myeloid antimicrobial peptide 27 (BMAP-27), skillfully coated with an erythrocyte-macrophage hybrid biomimetic membrane. First, this nanoplatform is capable of targeting atherosclerotic plaques. When combined with low-intensity focused ultrasound, the nanoplatform markedly enhanced local drug accumulation. The localized temperature rise generated by near-infrared laser irradiation acted to open TRPV1 channels, facilitating Ca 2+ entry. This increase in cytosolic Ca 2+ activated autophagy in foam cells, upregulated ABCA1-mediated cholesterol efflux, and reduced oxidized low-density lipoprotein accumulation. Meanwhile, FPRM efficiently scavenged reactive oxygen species (ROS) within atherosclerotic plaques and synergized with BMAP-27 to suppress AS-related inflammation. Intriguingly, the classic hepatic accumulation-metabolism pathway of FPRM enabled continuous ROS elimination in the liver, effectively alleviating hepatic steatosis and lowering plasma triglyceride levels, thereby achieving metabolic reprogramming and ultimately inhibiting the progression of atherosclerosis.",
+      "summaryZh": "动脉粥样硬化（AS）是全世界心血管疾病最重要的病理基础。然而，目前AS的主流治疗策略仅针对孤立的病理环节，忽视了肝脂肪变性作为AS的相关危险因素，导致控制动脉粥样硬化整体病程的效果有限。在此，首次报道了一种可以协同调节AS和肝脂肪变性的智能纳米平台，该平台以硫化铁纳米片为核心，接枝牛髓系抗菌肽27（BMAP-27），巧妙地涂覆红细胞-巨噬细胞混合仿生膜。首先，该纳米平台能够针对动脉粥样硬化斑块。当与低强度聚焦超声结合时，纳米平台显着增强了局部药物积累。近红外激光照射产生的局部温升打开TRPV1通道，促进Ca 2+ 进入。胞质 Ca 2+ 的增加激活了泡沫细胞中的自噬，上调了 ABCA1 介导的胆固醇流出，并减少了氧化低密度脂蛋白的积累。同时，FPRM 有效清除动脉粥样硬化斑块内的活性氧 (ROS)，并与 BMAP-27 协同抑制 AS 相关炎症。有趣的是，FPRM经典的肝脏积聚代谢途径能够持续消除肝脏中的ROS，有效缓解肝脏脂肪变性，降低血浆甘油三酯水平，从而实现代谢重编程，最终抑制动脉粥样硬化的进展。",
+      "translationSource": "e2e715e599100d2b"
+    },
     {
       "pmid": "42525767",
       "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development.",
@@ -23,6 +86,27 @@
       "abstractEn": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
       "summaryZh": "选择性自噬通过自噬受体选择性地靶向细胞质成分来维持细胞内稳态。虽然病毒诱导的小肽 1 (VISP1) 已被确定为调节植物-病毒相互作用的自噬受体，但其在植物激素反应中的功能仍知之甚少。在这里，我们证明 VISP1 通过调节 A 型和 B 型拟南芥反应调节器 (ARR) 之间的反馈回路，在根发育过程中积极调节细胞分裂素反应。与野生型植物相比，VISP1 过表达转基因株系表现出较短的初生根、较少的侧根和伸长的根毛，并伴有诱导的细胞分裂素反应。相反，visp1 突变体表现出细胞分裂素敏感性减弱。从机制上讲，细胞分裂素诱导 VISP1 转录，B 型 ARR1 转录因子直接与 VISP1 启动子结合以激活其表达。 VISP1 与多个 A 型 ARR 发生物理相互作用，促进它们的自噬降解，从而减轻它们对 B 型 ARR 的抑制。总的来说，我们的研究结果揭示了一种调节机制，其中 VISP1 通过破坏 A 型和 B 型 ARR 的负反馈环来放大细胞分裂素信号传导。",
       "translationSource": "e3062fbd1c5ef1fc"
+    },
+    {
+      "pmid": "42536484",
+      "title": "CRISPR activation screen uncovers MARCKSL1 as a gauge for extracellular vesicle secretion.",
+      "titleZh": "CRISPR 激活筛选发现 MARCKSL1 可作为细胞外囊泡分泌的衡量标准。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-31",
+      "doi": "10.1016/j.celrep.2026.117744",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117744",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42536484/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：endosome。",
+      "abstractEn": "Extracellular vesicles (EVs) are central mediators of intercellular communication that originate from diverse membrane reservoirs. EV biogenesis can occur via multiple pathways, including outward budding of the plasma membrane (PM) and fusion of mature endosomes with the PM. The present study investigates how cells balance these competing routes using a genome-wide CRISPR activation screen for factors that alter surface expression of CD63-an EV-associated tetraspanin that shuttles between the PM and endosomes. This unbiased strategy identifies the membrane adaptor MARCKSL1 known to be upregulated across diverse tumor types. Overexpression of MARCKSL1 elevates CD63 abundance at the PM and boosts EV secretion. Proximity-based proteomics implicates the cytoskeleton-PM linker Radixin and the SNARE-associated protein STXBP3 as MARCKSL1 binding partners that respectively promote either PM-derived or endosome-derived EV secretion. Collectively, our findings reveal new insights into PM remodeling and position MARCKSL1 as a gauge between distinct EV biogenesis platforms.",
+      "summaryZh": "细胞外囊泡（EV）是源自不同膜库的细胞间通讯的中心介质。 EV 生物发生可以通过多种途径发生，包括质膜 (PM) 的向外出芽以及成熟内体与 PM 的融合。本研究利用全基因组 CRISPR 激活筛选改变 CD63（一种与 EV 相关的四跨膜蛋白，在 PM 和内体之间穿梭）表面表达的因子，研究细胞如何平衡这些竞争途径。这种公正的策略识别出已知在不同肿瘤类型中上调的膜接头 MARCKSL1。 MARCKSL1 的过度表达会提高 PM 处的 CD63 丰度并促进 EV 分泌。基于邻近的蛋白质组学表明细胞骨架-PM 连接子 Radixin 和 SNARE 相关蛋白 STXBP3 作为 MARCKSL1 结合伴侣，分别促进 PM 衍生或内体衍生的 EV 分泌。总的来说，我们的研究结果揭示了对 PM 重塑的新见解，并将 MARCKSL1 定位为不同 EV 生物发生平台之间的衡量标准。",
+      "translationSource": "fdceb6df8f7ac179"
     },
     {
       "pmid": "42531418",
@@ -66,6 +150,50 @@
       "abstractEn": "Lysosomal dysfunction is a well-recognized feature of aging. Here, we used a suite of tools for rapid lysosomal isolation to construct a multitissue atlas of the metabolite changes lysosomes undergo during aging. Aged lysosomes in brain, heart, muscle, and white adipose tissue accumulated glycerophosphodiesters and cystine, metabolites that are causally linked to juvenile lysosomal storage disorders, Batten disease, and cystinosis. Levels of these metabolites increased linearly with age, preceding organismal decline. Caloric restriction, a lifespan-extending intervention, mitigated these changes in the heart and muscle but not the brain. Our findings link lysosomal storage disorders to aging-related dysfunction and open avenues for the mechanistic investigation of how lysosomal functions deteriorate during aging and in age-associated diseases.",
       "summaryZh": "溶酶体功能障碍是公认的衰老特征。在这里，我们使用一套快速溶酶体分离的工具来构建溶酶体在衰老过程中经历的代谢物变化的多组织图谱。大脑、心脏、肌肉和白色脂肪组织中的老化溶酶体积累了甘油磷酸二酯和胱氨酸，这些代谢物与幼年溶酶体贮积症、巴顿病和胱氨酸病有因果关系。这些代谢物的水平随着年龄的增长而线性增加，随后出现机体衰退。热量限制是一种延长寿命的干预措施，可以减轻心脏和肌肉的这些变化，但不能减轻大脑的变化。我们的研究结果将溶酶体贮积症与衰老相关功能障碍联系起来，并为溶酶体功能在衰老过程中和与年龄相关的疾病中如何恶化的机制研究开辟了途径。",
       "translationSource": "7293d90d7f15c494"
+    },
+    {
+      "pmid": "42533153",
+      "title": "Expanding the repertoire of chemically induced covalent neoantigens.",
+      "titleZh": "扩大化学诱导的共价新抗原的库。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-07-30",
+      "doi": "10.1038/s41589-026-02280-4",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02280-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42533153/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "The ubiquitin-proteasome system generates peptide fragments that are displayed on class I major histocompatibility complex molecules. Hapten-modified peptides, or covalent neoantigens, arise from proteins covalently modified by small molecules and have long been proposed as components of a mechanism for immune recognition. Here we report a platform to investigate this mechanism and harness covalent neoantigens for immune cell recruitment and activation. Using cysteine-reactive probes, we demonstrated that covalently modified intracellular proteins could be processed and presented as covalent neoantigens in multiple cell lines. Immunopeptidomics confirmed the presence of probe-modified peptides within the class I major histocompatibility complex immunopeptidome. We further developed a bioorthogonal strategy for immune cell engagement by combining covalent neoantigens bearing a bioorthogonal handle with complementary immune cell recruiters, leading to activation of CD32- and CD3-expressing reporter immune cells. These findings expand the scope of covalent neoantigen formation and provide a generalizable strategy for immune targeting of covalent neoantigens.",
+      "summaryZh": "泛素-蛋白酶体系统产生肽片段，展示在 I 类主要组织相容性复合物分子上。半抗原修饰肽或共价新抗原源自小分子共价修饰的蛋白质，长期以来一直被认为是免疫识别机制的组成部分。在这里，我们报告了一个平台来研究这种机制并利用共价新抗原来招募和激活免疫细胞。使用半胱氨酸反应探针，我们证明共价修饰的细胞内蛋白可以在多种细胞系中被加工并呈现为共价新抗原。免疫肽组学证实了 I 类主要组织相容性复合体免疫肽组中存在探针修饰的肽。我们进一步开发了一种免疫细胞参与的生物正交策略，将带有生物正交手柄的共价新抗原与互补的免疫细胞招募剂相结合，从而激活表达 CD32 和 CD3 的报告免疫细胞。这些发现扩大了共价新抗原形成的范围，并为共价新抗原的免疫靶向提供了通用策略。",
+      "translationSource": "841f1b80c04b5d89"
+    },
+    {
+      "pmid": "42536478",
+      "title": "Nutrient stress activates RAB5B-mediated autophagy to remodel the synaptic proteome.",
+      "titleZh": "营养应激激活 RAB5B 介导的自噬来重塑突触蛋白质组。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-07-30",
+      "doi": "10.1016/j.celrep.2026.117766",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117766",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42536478/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis, autophagy。",
+      "abstractEn": "Synaptic proteostasis is crucial for neuronal function, yet how synapses adapt to metabolic stress remains unclear. We show that nutrient stress, particularly serum withdrawal, induces autophagy-dependent remodeling of the synaptic proteome, whereas mTORC1 inhibition produces limited effects. Nutrient stress activates synaptic autophagy within 1-2 h and promotes the recruitment of the LC3 lipidation machinery via RAB5B-positive endosomal compartments in a dynein-dependent manner. Live imaging reveals enhanced RAB5B-ATG16L1 co-trafficking and increased ATG5 mobility upon serum withdrawal, indicating spatiotemporally controlled delivery of autophagy precursors to synaptic compartments. Functionally, nutrient deprivation dampens neuronal activity, while a fasting-mimicking diet induces synaptic proteome remodeling overlapping with starvation-associated autophagy cargo. In contrast, restriction of mTORC1-activating amino acids fails to induce comparable remodeling. Together, these findings identify a RAB5B-mediated trafficking pathway that links nutrient sensing to synaptic degradation, revealing how neurons maintain proteostasis under metabolic challenge.",
+      "summaryZh": "突触蛋白质稳态对于神经元功能至关重要，但突触如何适应代谢应激仍不清楚。我们发现，营养应激，特别是血清停药，会诱导突触蛋白质组的自噬依赖性重塑，而 mTORC1 抑制作用有限。营养应激在 1-2 小时内激活突触自噬，并以动力蛋白依赖性方式通过 RAB5B 阳性内体区室促进 LC3 脂化机制的募集。实时成像显示，血清撤出后，RAB5B-ATG16L1 协同运输增强，ATG5 迁移性增加，表明自噬前体向突触区室的时空控制递送。从功能上讲，营养缺乏会抑制神经元活动，而模仿禁食的饮食会诱导突触蛋白质组重塑，与饥饿相关的自噬货物重叠。相反，限制 mTORC1 激活氨基酸无法诱导类似的重塑。总之，这些发现确定了 RAB5B 介导的运输途径，该途径将营养感应与突触降解联系起来，揭示了神经元如何在代谢挑战下维持蛋白质稳态。",
+      "translationSource": "19bfc9a26b5cce2d"
     },
     {
       "pmid": "42527668",
@@ -4359,28 +4487,6 @@
       "translationSource": "94e746ce3851a067"
     },
     {
-      "pmid": "42129229",
-      "title": "TBK1 restricts IRGQ-mediated autophagy.",
-      "titleZh": "TBK1 限制 IRGQ 介导的自噬。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-05-13",
-      "doi": "10.1038/s41467-026-73005-3",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73005-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42129229/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
-      "abstractEn": "The autophagy-lysosome system directs the degradation of a wide variety of cytoplasmic cargo such as damaged organelles, protein aggregates, and invading pathogens. The autophagy receptor IRGQ harbors two distinct LIR domains, with LIR1 exhibiting high selectivity for GABARAPL2. Proteomic, biochemical, and high-throughput microscopy studies reveal that the IRGQ-GABARAPL2 complex functions as a hub for the interaction between hATG8s and the autophagy initiation machinery, promoting their lipidation and overall autophagic flux. The interaction of IRGQ with GABARAPL2 is regulated via TBK1. Upon TBK1 activation, GABARAPL2 is phosphorylated on S10, which disrupts IRGQ-GABARAPL2 complexation and therefore its interaction with the autophagy initiation machinery, resulting in a reduction of the autophagic flux of GABARAPL2 and IRGQ-cargo, without affecting bulk autophagy. These findings broaden IRGQ's role in autophagy, identifying it as an interaction hub for autophagy initiation that is negatively regulated by TBK1.",
-      "summaryZh": "自噬-溶酶体系统指导多种细胞质货物的降解，例如受损的细胞器、蛋白质聚集体和入侵的病原体。自噬受体 IRGQ 具有两个不同的 LIR 结构域，其中 LIR1 对 GABARAPL2 表现出高选择性。蛋白质组学、生化和高通量显微镜研究表明，IRGQ-GABARAPL2 复合物作为 hATG8 和自噬启动机制之间相互作用的枢纽，促进其脂化和整体自噬通量。 IRGQ 与 GABARAPL2 的相互作用通过 TBK1 调节。 TBK1 激活后，GABARAPL2 在 S10 上被磷酸化，从而破坏 IRGQ-GABARAPL2 络合，从而破坏其与自噬启动机制的相互作用，导致 GABARAPL2 和 IRGQ-cargo 的自噬通量减少，而不影响大量自噬。这些发现扩大了 IRGQ 在自噬中的作用，将其确定为受 TBK1 负调控的自噬启动的相互作用中心。",
-      "translationSource": "53e77690da899823"
-    },
-    {
       "pmid": "42129197",
       "title": "Targeted degradation of USP7 in solid cancer cells reveals distinct effects of deubiquitinase degraders and inhibitors.",
       "titleZh": "USP7 在实体癌细胞中的靶向降解揭示了去泛素酶降解剂和抑制剂的独特作用。",
@@ -4448,6 +4554,28 @@
       "abstractEn": "Visualizing and manipulating proteins in live cells is crucial for studying complex biological processes. Self-labelling protein (SLP) tags such as HaloTag and SNAP-tag are widely used for protein labelling, and new systems are needed to expand multiplexing capabilities and broaden the scope of applications. Here we present BromoCatch, a small ~13 kDa bromodomain (BD)-based SLP platform, engineered with a nucleophilic cysteine for covalent ligand engagement. A structure-based designed library of electrophilic ligands was screened against two cysteine-containing mutants using differential scanning fluorimetry and intact protein mass spectrometry to assess covalent complex formation. We identified a para-acrylamide bumped derivative MR116 and the Brd4-BD2 double mutant L387A,E438C as the optimal protein-ligand pair, and reveal the binding mode through an X-ray co-crystal structure solved to 1.3 Å resolution. BromoCatch demonstrated potent and irreversible cellular target engagement in NanoBRET and residence-time assays. Its versatility was demonstrated through the design of a biotinylated conjugate, PROTAC-based degraders, and fluorescent full-on and \"switch-on\" probes for ex-cellulo and live-cell imaging, including side-by-side comparison and orthogonality with HaloTag. Together, these results establish BromoCatch as a robust, modular, and orthogonal SLP tool with broad potential for multiplexed labelling and targeted protein manipulation.",
       "summaryZh": "可视化和操作活细胞中的蛋白质对于研究复杂的生物过程至关重要。自标记蛋白质 (SLP) 标签（例如 HaloTag 和 SNAP-tag）广泛用于蛋白质标记，需要新的系统来扩展复用能力并拓宽应用范围。在这里，我们介绍了 BromoCatch，一种基于约 13 kDa 溴结构域 (BD) 的小型 SLP 平台，采用亲核半胱氨酸进行工程设计，用于共价配体接合。使用差示扫描荧光测定法和完整蛋白质质谱法针对两种含有半胱氨酸的突变体筛选基于结构的亲电子配体库，以评估共价复合物的形成。我们确定了对丙烯酰胺碰撞衍生物 MR116 和 Brd4-BD2 双突变体 L387A、E438C 作为最佳蛋白质-配体对，并通过分辨率为 1.3 Å 的 X 射线共晶结构揭示了结合模式。 BromoCatch 在 NanoBRET 和停留时间测定中证明了有效且不可逆的细胞靶标参与。它的多功能性通过生物素化缀合物、基于 PROTAC 的降解剂以及用于细胞外和活细胞成像的荧光全开启和“开启”探针的设计得到了证明，包括与 HaloTag 的并排比较和正交性。总之，这些结果使 BromoCatch 成为一种强大的、模块化的、正交的 SLP 工具，在多重标记和靶向蛋白质操作方面具有广泛的潜力。",
       "translationSource": "a2bf4720b10efb5f"
+    },
+    {
+      "pmid": "42129229",
+      "title": "TBK1 restricts IRGQ-mediated autophagy.",
+      "titleZh": "TBK1 限制 IRGQ 介导的自噬。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-05-13",
+      "doi": "10.1038/s41467-026-73005-3",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73005-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42129229/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "The autophagy-lysosome system directs the degradation of a wide variety of cytoplasmic cargo such as damaged organelles, protein aggregates, and invading pathogens. The autophagy receptor IRGQ harbors two distinct LIR domains, with LIR1 exhibiting high selectivity for GABARAPL2. Proteomic, biochemical, and high-throughput microscopy studies reveal that the IRGQ-GABARAPL2 complex functions as a hub for the interaction between hATG8s and the autophagy initiation machinery, promoting their lipidation and overall autophagic flux. The interaction of IRGQ with GABARAPL2 is regulated via TBK1. Upon TBK1 activation, GABARAPL2 is phosphorylated on S10, which disrupts IRGQ-GABARAPL2 complexation and therefore its interaction with the autophagy initiation machinery, resulting in a reduction of the autophagic flux of GABARAPL2 and IRGQ-cargo, without affecting bulk autophagy. These findings broaden IRGQ's role in autophagy, identifying it as an interaction hub for autophagy initiation that is negatively regulated by TBK1.",
+      "summaryZh": "自噬-溶酶体系统指导多种细胞质货物的降解，例如受损的细胞器、蛋白质聚集体和入侵的病原体。自噬受体 IRGQ 具有两个不同的 LIR 结构域，其中 LIR1 对 GABARAPL2 表现出高选择性。蛋白质组学、生化和高通量显微镜研究表明，IRGQ-GABARAPL2 复合物作为 hATG8 和自噬启动机制之间相互作用的枢纽，促进其脂化和整体自噬通量。 IRGQ 与 GABARAPL2 的相互作用通过 TBK1 调节。 TBK1 激活后，GABARAPL2 在 S10 上被磷酸化，从而破坏 IRGQ-GABARAPL2 络合，从而破坏其与自噬启动机制的相互作用，导致 GABARAPL2 和 IRGQ-cargo 的自噬通量减少，而不影响大量自噬。这些发现扩大了 IRGQ 在自噬中的作用，将其确定为受 TBK1 负调控的自噬启动的相互作用中心。",
+      "translationSource": "53e77690da899823"
     },
     {
       "pmid": "42129162",
@@ -6650,27 +6778,6 @@
       "abstractEn": "Airway basal stem cells (BCs) are recognized as resident stem cells responsible for reconstituting epithelial barriers and differentiating into multiple epithelial cell types following severe lung injury. However, the mechanism that the injured lung microenvironment uses to modulate BC-mediated lung repair remains unclear. Here, we showed that the profibrotic transforming growth factor-β (TGF-β) gradient from the injured lung immune microenvironment can be sensed by BCs. Targeted degradation of Smad2/3 in human BCs via proteolysis targeting chimera (PROTAC) disrupted TGF-β signaling, causing cell hyperplasia and barrier function loss after being transplanted into the alveolar area. Genetic ablation of the TGF-β receptor or Smad4 in mouse BCs impaired multilineage differentiation and suppressed migration to the alveolar injury site. These data indicated that TGF-β signaling is essential for BC-mediated lung repair. Moreover, we genetically engineered human BCs to release antifibrotic bone morphogenetic protein 7 (BMP7) in response to microenvironmental TGF-β stimulation. Transplantation of this iBMP7-BC enhanced lung repair and reduced fibrosis. Collectively, this study delineates how TGF-β governs BC behavior and provides a microenvironment-responsive cell therapeutic strategy for pulmonary fibrosis.",
       "summaryZh": "气道基底干细胞（BC）被认为是常驻干细胞，负责在严重肺损伤后重建上皮屏障并分化为多种上皮细胞类型。然而，受损的肺微环境用于调节 BC 介导的肺修复的机制仍不清楚。在这里，我们表明BC可以感知来自受损肺免疫微环境的促纤维化转化生长因子-β（TGF-β）梯度。通过蛋白水解靶向嵌合体 (PROTAC) 靶向降解人类 BC 中的 Smad2/3，破坏了 TGF-β 信号传导，导致移植到肺泡区域后细胞增生和屏障功能丧失。小鼠 BC 中 TGF-β 受体或 Smad4 的基因消除会损害多谱系分化并抑制向肺泡损伤部位的迁移。这些数据表明 TGF-β 信号传导对于 BC 介导的肺修复至关重要。此外，我们对人类 BC 进行基因改造，使其释放抗纤维化骨形态发生蛋白 7 (BMP7)，以响应微环境 TGF-β 刺激。这种 iBMP7-BC 的移植增强了肺修复并减少了纤维化。总的来说，这项研究描绘了 TGF-β 如何控制 BC 行为，并为肺纤维化提供微环境响应性细胞治疗策略。",
       "translationSource": "087ed5c524cf5e7d"
-    },
-    {
-      "pmid": "41513855",
-      "title": "Unique gluing effect of ASXL1 K351 monoubiquitination stimulates the PR-DUB activity.",
-      "titleZh": "ASXL1 K351 单泛素化的独特粘合作用可刺激 PR-DUB 活性。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-01-09",
-      "doi": "10.1038/s41589-025-02126-5",
-      "doiUrl": "https://doi.org/10.1038/s41589-025-02126-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41513855/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "Protein ubiquitination critically regulates biological processes through both proteolytic and nonproteolytic mechanisms. While classically known for protein degradation, ubiquitination also modulates enzymatic activity. However, current mechanisms of ubiquitination-mediated enzymatic modulation are spatially constrained near enzyme-substrate interfaces. Here, we report a unique ubiquitination-mediated regulatory paradigm that activates the Polycomb repressive deubiquitinase (PR-DUB) complex from a site distal to the enzyme-substrate interface. We found that ASXL1 K351 monoubiquitination promotes nucleosomal H2AK119Ub deubiquitination by stabilizing the PR-DUB catalytic pocket, thereby increasing catalytic velocity (V max ) without affecting substrate affinity (K m ). Structurally, ubiquitin at ASXL1 K351 bridges the BAP1 and ASXL1 subunits, functioning as a cross-bracing 'glue' that constrains their conformational dynamics without altering the nucleosome-binding interface. Molecular dynamics and hydrogen-deuterium exchange mass spectrometry revealed that this modification locks PR-DUB in a catalytic state poised for substrate cleavage. This study reveals a unique ubiquitin function of intersubunit fastening through a molecular glue effect and clarifies the mechanism of PR-DUB activation.",
-      "summaryZh": "蛋白质泛素化通过蛋白水解和非蛋白水解机制严格调节生物过程。虽然泛素化通常以蛋白质降解而闻名，但它也能调节酶活性。然而，目前泛素化介导的酶促调节机制在空间上受到酶-底物界面附近的限制。在这里，我们报告了一种独特的泛素化介导的调节范式，该范式从酶-底物界面远端的位点激活 Polycomb 抑制性去泛素酶（PR-DUB）复合物。我们发现 ASXL1 K351 单泛素化通过稳定 PR-DUB 催化口袋来促进核小体 H2AK119Ub 去泛素化，从而提高催化速度 (V max )，而不影响底物亲和力 (K m )。从结构上看，ASXL1 K351 处的泛素桥接 BAP1 和 ASXL1 亚基，充当交叉支撑“粘合剂”，在不改变核小体结合界面的情况下限制它们的构象动力学。分子动力学和氢-氘交换质谱分析表明，这种修饰将 PR-DUB 锁定在准备进行底物裂解的催化状态。这项研究揭示了通过分子胶水效应实现亚基间紧固的独特泛素功能，并阐明了 PR-DUB 激活的机制。",
-      "translationSource": "459dec2751d5f8e7"
     },
     {
       "pmid": "41484149",
