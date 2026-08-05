@@ -1,8 +1,72 @@
 {
-  "updatedAt": "2026-08-04T01:14:39+00:00",
+  "updatedAt": "2026-08-05T01:16:08+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42547503",
+      "title": "Mechanism underlying the high regulatory performance of the doxycycline riboswitch G12.",
+      "titleZh": "多西环素核糖开关 G12 的高调节性能的机制。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-03",
+      "doi": "10.1038/s41467-026-76256-2",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76256-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42547503/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Synthetic riboswitches provide protein-independent, modular control of gene expression, yet selecting aptamers that reliably couple ligand binding to regulatory switching remains challenging. Here, we identify and mechanistically characterise G12, a doxycycline-binding aptamer with remarkably high regulatory performance in yeast and human cells. We provide evidence that RNA Capture-SELEX efficiently enriches aptamers with ligand-responsive conformational switching. We compared conventional SELEX and RNA Capture-SELEX using the same starting library followed by NGS analysis and in vivo screening, which led to the identification of G12. G12 binds doxycycline with low-nanomolar affinity and strict discrimination against close derivatives, thus enabling high-dynamic-range riboswitch control of translation in yeast and splicing in human cells. Single-molecule force spectroscopy with optical tweezers revealed that doxycycline stabilises a folding intermediate independent of the closing stem P1, which primarily acts as a scaffold for correct aptamer folding. Mutational analysis and chemical probing identified tertiary contacts between loops L2 and L3 in this intermediate state. Stopped-flow fluorescence spectroscopy further supported a two-step binding mechanism consistent with efficient regulatory switching. Together, these findings deepen our understanding of regulatory aptamer selection and function and expand the synthetic biology toolbox with a high-performance doxycycline-responsive riboswitch.",
+      "summaryZh": "合成核糖开关提供了基因表达的独立于蛋白质的模块化控制，但选择能够可靠地将配体结合与调节开关偶联的适体仍然具有挑战性。在这里，我们鉴定并从机制上表征了 G12，一种多西环素结合适体，在酵母和人类细胞中具有非常高的调节性能。我们提供的证据表明，RNA Capture-SELEX 通过配体响应性构象转换有效地富集了适体。我们使用相同的起始文库比较了传统 SELEX 和 RNA Capture-SELEX，然后进行 NGS 分析和体内筛选，从而鉴定出 G12。 G12 以低纳摩尔亲和力与强力霉素结合，并严格区分相近的衍生物，从而实现高动态范围核糖开关控制酵母中的翻译和人类细胞中的剪接。使用光镊进行的单分子力谱显示，多西环素可稳定折叠中间体，而与闭合茎 P1 无关，闭合茎 P1 主要充当正确适配体折叠的支架。突变分析和化学探测确定了环 L2 和 L3 之间在此中间状态下的三级接触。停流荧光光谱进一步支持与有效调节切换一致的两步结合机制。总之，这些发现加深了我们对调节适体选择和功能的理解，并通过高性能多西环素响应核糖开关扩展了合成生物学工具箱。",
+      "translationSource": "701d410d155a6f98"
+    },
+    {
+      "pmid": "42550687",
+      "title": "Phosphatidylserine synthesis tunes IP 3 R-mediated ER Ca 2+ release via phospholipid homeostasis.",
+      "titleZh": "磷脂酰丝氨酸合成通过磷脂稳态调节 IP 3 R 介导的 ER Ca 2+ 释放。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-08-03",
+      "doi": "10.1016/j.celrep.2026.117792",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117792",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42550687/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "Regulation of phospholipid composition is essential for cellular homeostasis. Phosphatidylserine (PS) synthesized in the endoplasmic reticulum (ER) plays critical roles in the plasma membrane and endolysosomal system. Although aberrant PS metabolism is linked to diseases, its cellular effects remain poorly understood. Here, we reveal a conserved role for PS in maintaining Ca 2+ homeostasis. PS deficiency in Drosophila leads to mitochondrial damage, which is reversed by reducing inositol 1,4,5-trisphosphate receptor (IP 3 R)-mediated ER Ca 2+ release. Notably, in mammalian cells with pathological PS levels-either deficiency or excess as in Lenz-Majewski syndrome-IP 3 R activation leads to oscillatory or reduced ER-surface Ca 2+ release, contrasting with steady-state conditions. Manipulating phospholipid composition via the phosphatidylethanolamine (PE)-SREBP axis in Drosophila and the phosphatidylcholine (PC)-SREBP axis in mammals normalizes IP 3 R-mediated Ca 2+ release during PS deficiency. These findings establish modulated ER Ca 2+ release as a key function of PS and suggest therapeutic strategies for treating lipid metabolic disorders.",
+      "summaryZh": "磷脂组成的调节对于细胞稳态至关重要。在内质网 (ER) 中合成的磷脂酰丝氨酸 (PS) 在质膜和内溶酶体系统中发挥着关键作用。尽管 PS 代谢异常与疾病有关，但其细胞效应仍知之甚少。在这里，我们揭示了 PS 在维持 Ca 2+ 稳态中的保守作用。果蝇中的 PS 缺乏会导致线粒体损伤，可通过减少肌醇 1,4,5-三磷酸受体 (IP 3 R) 介导的 ER Ca 2+ 释放来逆转线粒体损伤。值得注意的是，在具有病理性 PS 水平的哺乳动物细胞中（如 Lenz-Majewski 综合征中的不足或过量），IP 3 R 激活会导致振荡或减少 ER 表面 Ca 2+ 释放，与稳态条件相反。通过果蝇中的磷脂酰乙醇胺 (PE)-SREBP 轴和哺乳动物中的磷脂酰胆碱 (PC)-SREBP 轴操纵磷脂组成，可以在 PS 缺乏期间使 IP 3 R 介导的 Ca 2+ 释放正常化。这些发现将调节 ER Ca 2+ 释放确定为 PS 的关键功能，并提出了治疗脂质代谢紊乱的治疗策略。",
+      "translationSource": "25be069639964e4d"
+    },
+    {
+      "pmid": "42546705",
+      "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer.",
+      "titleZh": "压力适应性脂质激酶轴定义了神经内分泌前列腺癌的代谢脆弱性。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-08-03",
+      "doi": "10.1016/j.ccell.2026.07.003",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.003",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42546705/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Neuroendocrine prostate cancer (NEPC) persists in a profoundly hypoxic microenvironment, yet the mechanisms enabling tumor adaptation to this metabolically challenging niche remain undefined. Here, we identify the lipid kinase PIKfyve as overexpressed in NEPC, functioning as a central node in a stress-adaptive lipid kinase axis that supports adaptation to persistent endoplasmic reticulum (ER) stress. Mechanistically, NEPC requires PIKfyve-mediated lysosomal degradation and lipid recycling to maintain metabolic homeostasis under hypoxia. PIKfyve inhibition disrupts lysosomal function, exacerbates ER stress, and activates a compensatory sterol regulatory element-binding protein (SREBP)-dependent de novo lipogenesis program essential for NEPC survival. This stress-lipid axis creates a synthetic vulnerability between PIKfyve and fatty acid synthase (FASN), where dual inhibition synergistically amplifies ER stress, triggers the terminal unfolded protein response, and induces tumor cell death. These findings reveal a metabolic adaptation in NEPC and provide preclinical evidence that co-targeting PIKfyve and FASN can overcome hypoxia-associated stress adaptation.",
+      "summaryZh": "神经内分泌前列腺癌（NEPC）持续存在于极度缺氧的微环境中，但使肿瘤适应这种具有代谢挑战性的生态位的机制仍不清楚。在这里，我们确定脂质激酶 PIKfyve 在 NEPC 中过度表达，作为应激适应性脂质激酶轴的中心节点，支持对持续内质网 (ER) 应激的适应。从机制上讲，NEPC 需要 PIKfyve 介导的溶酶体降解和脂质回收来维持缺氧下的代谢稳态。 PIKfyve 抑制会破坏溶酶体功能，加剧 ER 应激，并激活补偿性甾醇调节元件结合蛋白 (SREBP) 依赖性从头脂肪生成程序，这对 NEPC 生存至关重要。这种应激-脂质轴在 PIKfyve 和脂肪酸合酶 (FASN) 之间产生了合成脆弱性，其中双重抑制协同放大 ER 应激，触发末端未折叠蛋白反应，并诱导肿瘤细胞死亡。这些发现揭示了 NEPC 的代谢适应，并提供了临床前证据，证明共同靶向 PIKfyve 和 FASN 可以克服缺氧相关的应激适应。",
+      "translationSource": "3ae21e5bd8d5238b"
+    },
     {
       "pmid": "41513855",
       "title": "Unique gluing effect of ASXL1 K351 monoubiquitination stimulates the PR-DUB activity.",
