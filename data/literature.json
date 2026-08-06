@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-08-05T01:16:08+00:00",
+  "updatedAt": "2026-08-06T01:13:45+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42555719",
+      "title": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase.",
+      "titleZh": "V-ATPase 介导的肾小管胰高血糖素受体激活的肾脏保护作用。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-07",
+      "doi": "10.1126/sciadv.aeg2534",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg2534",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42555719/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Recent clinical trials have shown that dual GLP-1R/GCGR agonists, including mazdutide and cotadutide, provide kidney benefits in patients with type 2 diabetes and CKD, suggesting a potential contribution of GCGR activation to these renal effects. However, whether GCGR directly confers renoprotection and the underlying mechanisms remain unclear. Here, using tubule-specific GCGR loss- and gain-of-function mouse models and human kidney samples, we show that tubular GCGR signaling exerts an important renoprotective role in DKD. Tubular GCGR expression is reduced in humans and mice with DKD and correlates with worse kidney function and increased renal injury. Genetic ablation of tubular GCGR markedly exacerbates DKD and induces pronounced phospholipid accumulation within enlarged lysosomes. Mechanistically, GCGR loss disrupts its association with the V-ATPase V1A subunit ATP6V1A, compromises V1-V0 assembly, and thereby impairs lysosomal acidification. This defect leads to impaired phospholipid hydrolysis and protease maturation, blockade of autophagic flux, and ultimately tubular cell injury. In vivo, ATP6V1A overexpression markedly reverses GCGR deficiency-induced lysosomal dysfunction and DKD progression. Consistently, re-expression of tubular GCGR via AAV9 restores lysosomal function, reduces phospholipid accumulation, and mitigates renal injury in DKD. Together, these findings provide genetic evidence for the renoprotective role of tubular GCGR in DKD, delineate a kidney-intrinsic GCGR-ATP6V1A-lysosome axis that protects tubular integrity, and extend prior GCGR-in-kidney observations into a more concrete GCGR-lysosome mechanism.",
+      "summaryZh": "最近的临床试验表明，GLP-1R/GCGR 双重激动剂（包括马兹度肽和科他度肽）可为 2 型糖尿病和 CKD 患者提供肾脏益处，这表明 GCGR 激活对这些肾脏影响可能有贡献。然而，GCGR 是否直接赋予肾脏保护作用及其潜在机制仍不清楚。在这里，我们使用肾小管特异性 GCGR 功能丧失和获得功能小鼠模型和人类肾脏样本，证明肾小管 GCGR 信号在 DKD 中发挥重要的肾脏保护作用。患有 DKD 的人和小鼠的肾小管 GCGR 表达降低，并与肾功能恶化和肾损伤增加相关。肾小管 GCGR 的基因消融显着加剧 DKD 并诱导扩大的溶酶体内明显的磷脂积累。从机制上讲，GCGR 损失会破坏其与 V-ATPase V1A 亚基 ATP6V1A 的关联，损害 V1-V0 组装，从而损害溶酶体酸化。这种缺陷导致磷脂水解和蛋白酶成熟受损、自噬流受阻，并最终导致肾小管细胞损伤。在体内，ATP6V1A 过表达可显着逆转 GCGR 缺乏引起的溶酶体功能障碍和 DKD 进展。一致地，通过 AAV9 重新表达肾小管 GCGR 可恢复溶酶体功能，减少磷脂积累，并减轻 DKD 的肾损伤。总之，这些发现为肾小管 GCGR 在 DKD 中的肾脏保护作用提供了遗传证据，描绘了保护肾小管完整性的肾脏固有 GCGR-ATP6V1A-溶酶体轴，并将先前的肾脏内 GCGR 观察扩展到更具体的 GCGR-溶酶体机制。",
+      "translationSource": "b7f92a6b5280ecc6"
+    },
     {
       "pmid": "42547503",
       "title": "Mechanism underlying the high regulatory performance of the doxycycline riboswitch G12.",
@@ -685,6 +707,27 @@
       "abstractEn": "The intratumoral microbiome has recently emerged as a potential hallmark of cancer, with implications for response or resistance to therapy. Bacteria can either promote or inhibit cancer growth. However, intratumoral bacteria can also be engineered using synthetic biology to remodel the tumor microenvironment. Here, we engineered the probiotic bacterium Escherichia coli Nissle 1917 (EcN) to express the human chemokine CXCL13 (C-X-C motif chemokine ligand 13), a critical component of germinal center (GC) formation. Antibody affinity maturation and class switching are fundamental aspects of adaptive immune response. Both occur primarily in the GCs of secondary lymphoid organs for defense against pathogens. Immune checkpoint blockade (ICB) efficacy is primarily driven by T cells; however, recent studies in mice and humans have shown that humoral immune responses act as critical partners for ICB-mediated antitumor activity. Using orthotopic models of bladder cancer, intravesically delivered engineered CXCL13-expressing EcN colonized bladder tumors and elicited GC responses in bladder tumor-draining lymph nodes after intravesical delivery. When combined with programmed cell death protein 1 (PD-1) blockade, engineered EcN improved antitumor activity in two aggressive, fast-growing, and immunologically cold orthotopic mouse models of bladder cancer. Mechanistically, this antitumor effect was dependent on the presence of CD8 + T cells and CD4 + T follicular helper cells; combination therapy increased tumor-specific antibody responses and promoted long-term survival and protective immunity upon tumor rechallenge. Thus, we demonstrate that synthetically engineered CXCL13-expressing EcN can enhance the efficacy of PD-1 checkpoint blockade immunotherapy by amplifying tumor-specific humoral immunity.",
       "summaryZh": "肿瘤内微生物群最近已成为癌症的潜在标志，对治疗的反应或耐药性具有影响。细菌可以促进或抑制癌症的生长。然而，肿瘤内细菌也可以利用合成生物学进行改造，以重塑肿瘤微环境。在这里，我们对益生菌大肠杆菌 Nissle 1917 (EcN) 进行了改造，以表达人类趋化因子 CXCL13（C-X-C 基序趋化因子配体 13），这是生发中心 (GC) 形成的关键成分。抗体亲和力成熟和类别转换是适应性免疫反应的基本方面。两者都主要发生在次级淋巴器官的GC中，以防御病原体。免疫检查点阻断 (ICB) 功效主要由 T 细胞驱动；然而，最近对小鼠和人类的研究表明，体液免疫反应是 ICB 介导的抗肿瘤活性的关键伙伴。使用膀胱癌原位模型，膀胱内递送表达 CXCL13 的工程化 EcN 定植于膀胱肿瘤，并在膀胱内递送后在膀胱肿瘤引流淋巴结中引发 GC 反应。当与程序性细胞死亡蛋白 1 (PD-1) 阻断相结合时，工程化 EcN 改善了两种侵袭性、快速生长和免疫冷原位膀胱癌小鼠模型的抗肿瘤活性。从机制上讲，这种抗肿瘤作用依赖于 CD8 + T 细胞和 CD4 + T 滤泡辅助细胞的存在。联合疗法增加了肿瘤特异性抗体反应，并促进了肿瘤再攻击时的长期生存和保护性免疫。 因此，我们证明，合成工程表达 CXCL13 的 EcN 可以通过放大肿瘤特异性体液免疫来增强 PD-1 检查点阻断免疫疗法的功效。",
       "translationSource": "bec7d40dc695a45f"
+    },
+    {
+      "pmid": "42552308",
+      "title": "The deubiquitinase USP4 stabilizes the SCF FBXO24 ubiquitin E3 ligase to regulate immunity in experimental pneumonia.",
+      "titleZh": "去泛素酶 USP4 可稳定 SCF FBXO24 泛素 E3 连接酶，从而调节实验性肺炎的免疫。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-22",
+      "doi": "10.1038/s41467-026-75336-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75336-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42552308/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "The ubiquitin E3 ligase SCF FBXO24 targets key proteins for degradation that regulate important biological processes, but the mechanisms controlling cellular concentrations of its receptor subunit, F-box only protein 24 (FBXO24), remain unknown. Here, Haemophilus influenzae type B (HiB), an important cause of pneumonia, protects FBXO24 from lysosomal degradation in THP-1 macrophage cells by reducing its ubiquitylation levels. We identified that the ubiquitin-specific peptidase 4 (USP4) mediates FBXO24 deubiquitylation and stabilization in response to HiB infection in a TLR4 receptor-dependent manner. In experimental HiB pneumonia, either nanoparticle delivery of encapsulated USP4 siRNA or targeted genetic disruption of Fbxo24 in mice led to increased alveolar mononuclear cells coupled with reduced bacterial loads, attenuated pulmonary edema and decreased lung injury severity compared to control mice. Collectively, these findings demonstrate the ability of a bacterial pathogen to exploit a deubiquitylation mechanism to preserve cellular levels of an E3 ligase component, thereby impairing innate host defense responses.",
+      "summaryZh": "泛素 E3 连接酶 SCF FBXO24 以调节重要生物过程的关键蛋白质为目标进行降解，但控制其受体亚基 F-box 唯一蛋白 24 (FBXO24) 细胞浓度的机制仍然未知。在此，B 型流感嗜血杆菌 (HiB) 是肺炎的重要病因，它通过降低 FBXO24 的泛素化水平来保护 FBXO24 免受 THP-1 巨噬细胞中的溶酶体降解。我们发现泛素特异性肽酶 4 (USP4) 以 TLR4 受体依赖性方式介导 FBXO24 去泛素化和稳定化，以响应 HiB 感染。在实验性 HiB 肺炎中，与对照小鼠相比，封装的 USP4 siRNA 的纳米颗粒递送或 Fbxo24 的靶向基因破坏可导致肺泡单核细胞增加，同时细菌负荷减少、肺水肿减轻并降低肺损伤严重程度。总的来说，这些发现证明细菌病原体能够利用去泛素化机制来维持 E3 连接酶成分的细胞水平，从而损害宿主的先天防御反应。",
+      "translationSource": "9059199163ddad71"
     },
     {
       "pmid": "42481857",
