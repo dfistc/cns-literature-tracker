@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:13:45+00:00",
+  "updatedAt": "2026-08-08T00:39:09+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -24,6 +24,224 @@
       "abstractEn": "Recent clinical trials have shown that dual GLP-1R/GCGR agonists, including mazdutide and cotadutide, provide kidney benefits in patients with type 2 diabetes and CKD, suggesting a potential contribution of GCGR activation to these renal effects. However, whether GCGR directly confers renoprotection and the underlying mechanisms remain unclear. Here, using tubule-specific GCGR loss- and gain-of-function mouse models and human kidney samples, we show that tubular GCGR signaling exerts an important renoprotective role in DKD. Tubular GCGR expression is reduced in humans and mice with DKD and correlates with worse kidney function and increased renal injury. Genetic ablation of tubular GCGR markedly exacerbates DKD and induces pronounced phospholipid accumulation within enlarged lysosomes. Mechanistically, GCGR loss disrupts its association with the V-ATPase V1A subunit ATP6V1A, compromises V1-V0 assembly, and thereby impairs lysosomal acidification. This defect leads to impaired phospholipid hydrolysis and protease maturation, blockade of autophagic flux, and ultimately tubular cell injury. In vivo, ATP6V1A overexpression markedly reverses GCGR deficiency-induced lysosomal dysfunction and DKD progression. Consistently, re-expression of tubular GCGR via AAV9 restores lysosomal function, reduces phospholipid accumulation, and mitigates renal injury in DKD. Together, these findings provide genetic evidence for the renoprotective role of tubular GCGR in DKD, delineate a kidney-intrinsic GCGR-ATP6V1A-lysosome axis that protects tubular integrity, and extend prior GCGR-in-kidney observations into a more concrete GCGR-lysosome mechanism.",
       "summaryZh": "最近的临床试验表明，GLP-1R/GCGR 双重激动剂（包括马兹度肽和科他度肽）可为 2 型糖尿病和 CKD 患者提供肾脏益处，这表明 GCGR 激活对这些肾脏影响可能有贡献。然而，GCGR 是否直接赋予肾脏保护作用及其潜在机制仍不清楚。在这里，我们使用肾小管特异性 GCGR 功能丧失和获得功能小鼠模型和人类肾脏样本，证明肾小管 GCGR 信号在 DKD 中发挥重要的肾脏保护作用。患有 DKD 的人和小鼠的肾小管 GCGR 表达降低，并与肾功能恶化和肾损伤增加相关。肾小管 GCGR 的基因消融显着加剧 DKD 并诱导扩大的溶酶体内明显的磷脂积累。从机制上讲，GCGR 损失会破坏其与 V-ATPase V1A 亚基 ATP6V1A 的关联，损害 V1-V0 组装，从而损害溶酶体酸化。这种缺陷导致磷脂水解和蛋白酶成熟受损、自噬流受阻，并最终导致肾小管细胞损伤。在体内，ATP6V1A 过表达可显着逆转 GCGR 缺乏引起的溶酶体功能障碍和 DKD 进展。一致地，通过 AAV9 重新表达肾小管 GCGR 可恢复溶酶体功能，减少磷脂积累，并减轻 DKD 的肾损伤。总之，这些发现为肾小管 GCGR 在 DKD 中的肾脏保护作用提供了遗传证据，描绘了保护肾小管完整性的肾脏固有 GCGR-ATP6V1A-溶酶体轴，并将先前的肾脏内 GCGR 观察扩展到更具体的 GCGR-溶酶体机制。",
       "translationSource": "b7f92a6b5280ecc6"
+    },
+    {
+      "pmid": "42562827",
+      "title": "α-Synuclein blocks endoplasmic reticulum co-translational protein translocation early in Parkinson's disease.",
+      "titleZh": "α-突触核蛋白在帕金森病早期阻断内质网共翻译蛋白易位。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1038/s41467-026-76173-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76173-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42562827/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "The primary mechanism and subcellular localisation of α-synuclein toxicity in Parkinson's disease pathogenesis remain unknown. We spatially and temporally resolved proteomic and transcriptomic changes in human iPSC-derived dopaminergic neurons with increasing burden of pathological α-synuclein. We found that misfolded α-synuclein proteoforms, signified by the formation of nanoscale intraneuronal puncta, are associated with impaired translocon function at the endoplasmic reticulum (ER). We show that α-synuclein interacts with Sec61A in iPSC-derived dopaminergic neurons and in post-mortem brain tissue from patients with Parkinson's disease. This interaction interferes with the co-translational translocation of ER-processed proteins including the vacuolar-type ATPase V0a1 subunit, glucocerebrosidase, and Cathepsin B, causing defective organelle function such as reduced lysosomal acidification, leading to increased extracellular vesicle release of α-synuclein. Defective ER-translocation was associated with increased ribosomal UFMylation and proteasomal recruitment but not activation of the unfolded protein response. Reduction of pathological α-synuclein by either CRISPRi to decrease α-synuclein expression or pharmacological activation of proteasomal degradation with repurposed drugs mitigates the ER defect. Our study offers a unifying mechanistic link between α-synuclein pathology and dysregulation of diverse organelle-associated proteins that are both Sec61A translocon substrates and genetic modifiers of Parkinson's disease risk. Our data also provide a therapeutic rationale for proteasomal activation in early Parkinson's disease.",
+      "summaryZh": "α-突触核蛋白毒性在帕金森病发病机制中的主要机制和亚细胞定位仍不清楚。我们在空间和时间上解析了人类 iPSC 衍生的多巴胺能神经元的蛋白质组和转录组变化，并增加了病理性 α-突触核蛋白的负担。我们发现，错误折叠的 α-突触核蛋白蛋白质形式（以纳米级神经元内斑点的形成为标志）与内质网 (ER) 易位子功能受损有关。我们发现，α-突触核蛋白与 iPSC 衍生的多巴胺能神经元和帕金森病患者死后脑组织中的 Sec61A 相互作用。这种相互作用干扰内质网加工蛋白的共翻译易位，包括液泡型 ATP 酶 V0a1 亚基、葡萄糖脑苷脂酶和组织蛋白酶 B，导致细胞器功能缺陷，例如溶酶体酸化减少，导致细胞外囊泡释放 α-突触核蛋白增加。 ER 易位缺陷与核糖体 UFMylation 和蛋白酶体募集增加相关，但与未折叠蛋白反应的激活无关。通过 CRISPRi 减少病理性 α-突触核蛋白以减少 α-突触核蛋白表达，或使用重新利用的药物对蛋白酶体降解进行药理学激活，可以减轻 ER 缺陷。我们的研究提供了 α-突触核蛋白病理学与多种细胞器相关蛋白的失调之间的统一机制联系，这些蛋白既是 Sec61A 易位子底物，又是帕金森病风险的遗传修饰因子。我们的数据还为早期帕金森病中蛋白酶体激活提供了治疗原理。",
+      "translationSource": "7284da844763fffe"
+    },
+    {
+      "pmid": "42561923",
+      "title": "Capturing molecular handshakes: PhIX-MS reveals transient interactions that control the proteasome complex.",
+      "titleZh": "捕获分子握手：PhIX-MS 揭示了控制蛋白酶体复合物的瞬时相互作用。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1016/j.molcel.2026.07.014",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.07.014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42561923/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "In this issue of Molecular Cell, Lee et al. 1 address a central structural biology challenge: capturing low-affinity protein interactions in cells and integrating the resulting restraints with cryoelectron microscopy and AlphaFold to localize dynamic interactors on native human proteasomes.",
+      "summaryZh": "在本期《分子细胞》中，Lee 等人。 1 解决了一个核心结构生物学挑战：捕获细胞中的低亲和力蛋白质相互作用，并将由此产生的限制与冷冻电子显微镜和 AlphaFold 相结合，以定位天然人类蛋白酶体上的动态相互作用子。",
+      "translationSource": "b553213a76a4e2f3"
+    },
+    {
+      "pmid": "42476128",
+      "title": "Structures of dynamic interactors at native proteasomes by PhIX-MS and cryo-electron microscopy.",
+      "titleZh": "通过 PhIX-MS 和冷冻电子显微镜观察天然蛋白酶体动态相互作用子的结构。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1016/j.molcel.2026.06.032",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.032",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476128/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Molecular machines rely on dynamic, low-affinity interactions to perform their functional roles. We developed PhIX-MS (photo-induced in situ crosslinking-mass spectrometry), a structural proteomics workflow to capture topological information for such transient interactions in cells by UV-activated crosslinking. Applying PhIX-MS with cryo-electron microscopy (cryo-EM) to proteasomes, we mapped the redox sensor TXNL1 at the proteasome regulatory particle (RP), including its dynamic thioredoxin-like domain near RPN2/PSMD1 and RPN13/ADRM1, where it is ideal for reducing substrates prior to proteolysis. RPs without the proteolytic core particle (CP) were structurally resolved while bound to TXNL1 and/or the chaperone PSMD5/S5b, which inserts its C terminus into the ATPase pore, causing extensive structural rearrangements. Additionally, PhIX-MS and AlphaFold identified the ubiquitin ligase UBE3C/Hul5 at RPN2, RPN3, and a dynamic RPN10 region, tethering UBE3C above the substrate entry channel. Our integrative approach enables the localization of native, low-affinity protein interactions and is broadly applicable to dynamic macromolecular assemblies. Published by Elsevier Inc.",
+      "summaryZh": "分子机器依靠动态、低亲和力的相互作用来发挥其功能作用。我们开发了 PhIX-MS（光诱导原位交联质谱），这是一种结构蛋白质组学工作流程，可通过紫外线激活交联捕获细胞中此类瞬时相互作用的拓扑信息。将 PhIX-MS 与冷冻电子显微镜 (cryo-EM) 应用于蛋白酶体，我们将氧化还原传感器 TXNL1 映射到蛋白酶体调节颗粒 (RP)，包括 RPN2/PSMD1 和 RPN13/ADRM1 附近的动态硫氧还蛋白样结构域，它是在蛋白水解之前还原底物的理想选择。没有蛋白水解核心颗粒 (CP) 的 RP 在与 TXNL1 和/或伴侣 PSMD5/S5b 结合时进行结构解析，后者将其 C 末端插入 ATP 酶孔中，导致广泛的结构重排。此外，PhIX-MS 和 AlphaFold 在 RPN2、RPN3 和动态 RPN10 区域鉴定了泛素连接酶 UBE3C/Hul5，将 UBE3C 束缚在底物进入通道上方。我们的综合方法能够定位天然的、低亲和力的蛋白质相互作用，并广泛适用于动态大分子组装。由爱思唯尔公司出版",
+      "translationSource": "12c7c055834ce873"
+    },
+    {
+      "pmid": "42425078",
+      "title": "The UFSP2-ODR4 complex spatially confines and dynamically controls UFM1 deconjugation to safeguard neuronal proteostasis.",
+      "titleZh": "UFSP2-ODR4 复合物在空间上限制并动态控制 UFM1 解偶联，以保护神经元蛋白质稳态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1016/j.molcel.2026.06.026",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.026",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42425078/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The ubiquitin-fold modifier 1 (UFM1) pathway is essential for endoplasmic-reticulum-associated ribosome quality control (ER-RQC) through UFMylation of the 60S ribosomal protein RPL26, but the regulation and physiological significance of UFM1 deconjugation remain poorly understood. Here, we identify the ER-anchored UFSP2-ODR4 complex as a spatially confined deUFMylation module critical for neuronal proteostasis. Structural modeling and biochemical analyses show that ODR4 recruits UFSP2 to the ER, enabling efficient deUFMylation of RPL26. Disruption of the UFSP2-ODR4 interaction causes the accumulation of UFMylated RPL26 and defective ER-RQC. Neural progenitor-specific knockin mice expressing a catalytically inactive UFSP2 mutant exhibit perinatal lethality, microcephaly, and neuronal apoptosis. We also identify a patient with biallelic UFC1 mutations that enhance UFL1 binding and induce hyper-UFMylation of RPL26 in patient-derived neurons. These findings establish spatially confined deUFMylation as a critical mechanism for safeguarding neuronal proteostasis.",
+      "summaryZh": "泛素折叠修饰剂 1 (UFM1) 途径通过 60S 核糖体蛋白 RPL26 的 UFMy 化对于内质网相关核糖体质量控制 (ER-RQC) 至关重要，但 UFM1 解偶联的调节和生理意义仍知之甚少。在这里，我们将 ER 锚定的 UFSP2-ODR4 复合物确定为空间受限的去UFMylation模块，对神经元蛋白质稳态至关重要。结构建模和生化分析表明，ODR4 将 UFSP2 招募到 ER，从而实现 RPL26 的高效去UFMylation。 UFSP2-ODR4 相互作用的破坏会导致 UFMylated RPL26 和缺陷 ER-RQC 的积累。表达催化失活 UFSP2 突变体的神经祖细胞特异性敲入小鼠表现出围产期致死率、小头畸形和神经元凋亡。我们还鉴定出一名患有双等位 UFC1 突变的患者，该突变增强了 UFL1 结合并诱导患者来源的神经元中 RPL26 的过度 UFMylation。这些发现确立了空间受限的去UFMylation作为保护神经元蛋白质稳态的关键机制。",
+      "translationSource": "6e121c8e5d04058b"
+    },
+    {
+      "pmid": "42392071",
+      "title": "Spliceosomal proofreading factors safeguard 3' splice-site fidelity and prevent proteotoxicity and inflammation.",
+      "titleZh": "剪接体校对因子可保障 3' 剪接位点的保真度并防止蛋白毒性和炎症。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1016/j.molcel.2026.06.017",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.017",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42392071/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Precise intron removal by RNA splicing is essential for faithful gene expression, yet the mechanisms ensuring splicing fidelity in mammals remain unclear. Using a systematic knockdown RNA sequencing (RNA-seq) screen, we uncover widespread splicing errors and identify AQR, SYF1, and SYF3 as cooperative safeguards of 3' splice-site (3'ss) fidelity in human and mouse. These factors act during spliceosome assembly to correct U2AF-mediated misrecognition of non-canonical 3'ss bearing AG dinucleotides embedded within pyrimidine-rich sequences and lacking canonical branch points (BPs), likely through kinetic proofreading. Their loss triggers pervasive 3'ss mis-splicing, resulting in the accumulation of misfolded proteins, proteotoxic stress, unfolded protein response activation, and ultimately cell death and intestinal inflammation. Together, our study reveals a previously unrecognized layer of splicing fidelity control in mammals that links aberrant splice-site selection to proteostasis and inflammation.",
+      "summaryZh": "通过 RNA 剪接精确去除内含子对于忠实的基因表达至关重要，但确保哺乳动物剪接保真度的机制仍不清楚。使用系统性敲低 RNA 测序 (RNA-seq) 筛选，我们发现了广泛存在的剪接错误，并确定 AQR、SYF1 和 SYF3 作为人和小鼠 3' 剪接位点 (3'sss) 保真度的协同保障。这些因素在剪接体组装过程中发挥作用，纠正 U2AF 介导的对嵌入富含嘧啶序列且缺乏规范分支点 (BP) 的非规范 3'ss 轴承 AG 二核苷酸的错误识别，可能是通过动力学校对实现的。它们的丢失会引发普遍的 3's 错误剪接，导致错误折叠蛋白的积累、蛋白毒性应激、未折叠蛋白反应激活，并最终导致细胞死亡和肠道炎症。总之，我们的研究揭示了哺乳动物中先前未被识别的剪接保真度控制层，该层将异常剪接位点选择与蛋白质稳态和炎症联系起来。",
+      "translationSource": "811219026dca0c6a"
+    },
+    {
+      "pmid": "42560815",
+      "title": "Cholesterol enhances lysosome-autophagosome fusion for better α-synuclein clearance in GBA L444P-mutated Parkinson disease.",
+      "titleZh": "胆固醇增强溶酶体-自噬体融合，从而在 GBA L444P 突变帕金森病中更好地清除 α-突触核蛋白。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1016/j.celrep.2026.117800",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117800",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42560815/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Mutations in lysosomal enzyme glucocerebrosidase (GBA), the most common genetic risk factor for Parkinson disease (PD), exacerbate α-synuclein pathology through unclear mechanisms. Here, we report, in a large cohort, that GBA-mutated PD patients exhibit lower serum cholesterol levels. By introducing the most common GBA variant in our cohort, L444P, into human α-synuclein knock-in mice, we noted that the mice exhibited behavioral and molecular pathological PD features at 12 months of age. Mechanistically, lysosomal proteomics identified the loss of lysosome-cytoplasmic vesicle interactions and cholesterol-containing lipid microdomains in both PD patients and mice. Autophagic flux monitoring revealed impaired autophagosome-lysosome fusion in Gba L444P/+ neurons. Gain- and loss-of-function experiments uncovered cholesterol synthesis impairment via glycosphingolipid-reduced SREBP2 levels. Importantly, cholesterol supplementation was found to enhance the autophagic flux and mitigate α-synuclein accumulation in vitro, whereas AAV-Srebp2 delivery increased α-synuclein clearance in Gba L444P/+ mice. Our study provides animal models and mechanistic insights into GBA-associated PD and offers a therapeutic paradigm by facilitating cholesterol-associated α-synuclein autophagic clearance.",
+      "summaryZh": "溶酶体酶葡萄糖脑苷脂酶 (GBA) 是帕金森病 (PD) 最常见的遗传风险因素，其突变通过尚不清楚的机制加剧 α-突触核蛋白病理。在此，我们在一个大型队列中报告，GBA 突变的帕金森病患者表现出较低的血清胆固醇水平。通过将我们队列中最常见的 GBA 变体 L444P 引入人类 α-突触核蛋白敲入小鼠中，我们注意到这些小鼠在 12 个月大时表现出行为和分子病理学 PD 特征。从机制上讲，溶酶体蛋白质组学鉴定了帕金森病患者和小鼠中溶酶体-细胞质囊泡相互作用和含胆固醇脂质微结构域的丧失。自噬通量监测显示 Gba L444P/+ 神经元中的自噬体-溶酶体融合受损。功能获得和功能丧失实验发现，鞘糖脂降低 SREBP2 水平会导致胆固醇合成受损。重要的是，在体外，补充胆固醇可增强自噬通量并减轻 α-突触核蛋白积累，而 AAV-Srebp2 递送可增加 Gba L444P/+ 小鼠的 α-突触核蛋白清除率。我们的研究提供了 GBA 相关 PD 的动物模型和机制见解，并通过促进胆固醇相关 α-突触核蛋白自噬清除提供了治疗范例。",
+      "translationSource": "cedd5eda4d567516"
+    },
+    {
+      "pmid": "42557329",
+      "title": "DCAF11-dependent molecular glue degrader activated by glutathionylation.",
+      "titleZh": "由谷胱甘肽激活的 DCAF11 依赖性分子胶降解剂。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1038/s41586-026-10873-1",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10873-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557329/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "targeted degradation",
+        "molecular glue degrader",
+        "molecular glue",
+        "proteasome",
+        "ubiquitin proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, targeted degradation, molecular glue degrader, molecular glue, proteasome, ubiquitin proteasome。",
+      "abstractEn": "Targeted protein degradation is a powerful pharmacological strategy that harnesses the ubiquitin proteasome system to eliminate disease-relevant proteins, including otherwise undruggable proteins 1 . Here we report an unbiased and broadly applicable platform for the systematic discovery of molecular glues across diverse E3 ligases. Using multiplexed mass spectrometry-based chemical screening, we identified M12, a molecular glue that reprogrammes the E3 ligase DCAF11 to degrade DDX18. Mechanistically, M12 functions as a prodrug that is activated through glutathione S-transferase-mediated glutathionylation. The glutathione moiety binds to an evolutionary conserved glutathione-binding site on DCAF11, and the exposed M12 moiety facilitates neo-substrate recruitment. We demonstrate that this glutathione-dependent mechanism readily enables targeted degradation of a range of proteins. Collectively, these findings establish that metabolically activated compounds can redirect E3 ligase function, thereby expanding the scope of targeted protein degradation and chemically induced proximity.",
+      "summaryZh": "靶向蛋白质降解是一种强大的药理学策略，它利用泛素蛋白酶体系统来消除与疾病相关的蛋白质，包括其他不可成药的蛋白质 1 。在这里，我们报告了一个公正且广泛适用的平台，用于系统地发现跨不同 E3 连接酶的分子胶。使用基于多重质谱的化学筛选，我们鉴定了 M12，一种分子胶，可对 E3 连接酶 DCAF11 进行重编程以降解 DDX18。从机制上讲，M12 作为前药发挥作用，通过谷胱甘肽 S-转移酶介导的谷胱甘肽酰化被激活。谷胱甘肽部分与 DCAF11 上进化保守的谷胱甘肽结合位点结合，暴露的 M12 部分有利于新底物的招募。我们证明这种谷胱甘肽依赖性机制很容易实现一系列蛋白质的定向降解。总的来说，这些发现证实代谢激活的化合物可以重新定向 E3 连接酶的功能，从而扩大目标蛋白质降解和化学诱导接近的范围。",
+      "translationSource": "1bfedb09cc0a77b6"
+    },
+    {
+      "pmid": "42557318",
+      "title": "Membranolytic peptide programs immunogenic cell death for cancer therapy.",
+      "titleZh": "溶膜肽可用于癌症治疗的免疫原性细胞死亡。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1038/s41586-026-10899-5",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10899-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557318/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "A rational design for facilitating innovative cell death modes can substantially aid advances in antitumour therapy 1,2 . Here we design and implement a unique mode of immunogenic membranolytic cell death (mLCD) in tumour cells, characterized by time-lagged rupture from the lysosomal to plasma membranes; this approach was found to robustly potentiate immune checkpoint blockade therapy. This mode of mLCD was induced by the synthetic-acid-responsive membranolytic peptide (aMP) aMP C16 -CA 50 , which exhibits hierarchical responsiveness to the decreasing pH associated with the tumour extracellular environment and lysosomes. aMP C16 -CA 50 activated an inflammatory transcriptional program in tumour cells, potentiating their ability to induce antigen presentation on class I major histocompatibility complex molecules on dendritic cells and the subsequent activation of T cells. The pH-responsive kinetics and membranolytic activity of the membranolytic peptides had a critical role in enhancing the immunogenicity of lytic tumour cells through the spatiotemporal regulation of the membrane-rupture processes. Furthermore, aMP C16 -CA 50 exhibited a considerable advantage in enhancing the antitumour efficacy of immune checkpoint blockade therapy through the promotion of antitumour immune response. Moreover, its systemic administration was well tolerated in mice. Overall, we successfully programmed a unique mode of immunogenic mLCD in tumour cells through the spatiotemporal regulation of membrane-rupture processes using a synthetic pH-responsive membranolytic peptide amenable to manipulation.",
+      "summaryZh": "促进创新细胞死亡模式的合理设计可以极大地促进抗肿瘤治疗的进展 1,2 。在这里，我们设计并实现了肿瘤细胞中免疫原性溶膜细胞死亡（mLCD）的独特模式，其特征是从溶酶体到质膜的时滞破裂；人们发现这种方法可以强有力地增强免疫检查点阻断疗法。这种 mLCD 模式是由合成酸响应性溶膜肽 (aMP) aMP C16 -CA 50 诱导的，它对与肿瘤细胞外环境和溶酶体相关的 pH 值降低表现出分级响应性。 aMP C16 -CA 50 激活肿瘤细胞中的炎症转录程序，增强其诱导树突状细胞上 I 类主要组织相容性复合物分子抗原呈递以及随后激活 T 细胞的能力。溶膜肽的 pH 响应动力学和溶膜活性在通过膜破裂过程的时空调节增强裂解肿瘤细胞的免疫原性方面发挥着关键作用。此外，aMP C16 -CA 50 通过促进抗肿瘤免疫反应，在增强免疫检查点阻断疗法的抗肿瘤功效方面表现出相当大的优势。此外，其全身给药在小鼠中具有良好的耐受性。总体而言，我们使用易于操作的合成 pH 响应膜溶解肽，通过膜破裂过程的时空调节，成功地在肿瘤细胞中编程了一种独特的免疫原性 mLCD 模式。",
+      "translationSource": "1b2ecdd313edc971"
+    },
+    {
+      "pmid": "42557317",
+      "title": "FNIP1 variants are associated with favourable metabolism in 1 million humans.",
+      "titleZh": "FNIP1 变异与 100 万人的良好新陈代谢有关。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1038/s41586-026-10864-2",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10864-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557317/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Altered energy metabolism is a shared driver across cardiometabolic diseases-the leading cause of death globally 1 . Energy metabolism varies between individuals and is partly heritable 2-9 . Here, to investigate the genetic basis of energy metabolism, we perform an exome-sequencing analysis of 1,032,116 people from America, Europe and Asia, and estimate associations between rare protein-coding variants and the ratio of triglyceride to high-density-lipoprotein cholesterol (TG:HDL)-an energy-state biomarker that we associate with diverse cardiometabolic risk factors and diseases. We identify 59 independent genes (P < 1.04 × 10 -7 ) that are enriched for liver- and adipose-expressed master regulators of energy balance, storage and metabolism; 23 (39%) of these genes encode approved or clinical-stage drug targets. Ultra-rare protein-truncating variants in FNIP1 (allele frequency, 0.01%), which encodes a suppressor of energy expenditure and mitochondrial metabolism, are associated with a lower TG:HDL ratio, lower liver fat, lower glycaemia, favourable fat distribution and around 60% lower odds of cardiometabolic disease. FNIP1 knockdown in primary human hepatocytes induces lipid breakdown and lysosomal gene expression, while combined hepatic knockdown of Fnip1 with its paralogue Fnip2 or knockdown of its interactor Flcn protect against weight gain, reduce liver fat and enhance insulin sensitivity in mice fed a high-fat diet. Our study implicates the FNIP1 pathway in human energy metabolism and highlights its inhibition as a potential therapeutic strategy in cardiometabolic disease.",
+      "summaryZh": "能量代谢改变是心脏代谢疾病的共同驱动因素，而心脏代谢疾病是全球死亡的主要原因 1 。能量代谢因人而异，并且部分具有遗传性 2-9 。在这里，为了研究能量代谢的遗传基础，我们对来自美洲、欧洲和亚洲的 1,032,116 人进行了外显子组测序分析，并估计了罕见蛋白质编码变异与甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率之间的关联，甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率是一种与多种心脏代谢危险因素和疾病相关的能量状态生物标志物。我们确定了 59 个独立基因 (P < 1.04 × 10 -7 )，这些基因富含肝脏和脂肪表达的能量平衡、储存和代谢的主调节因子；其中 23 个（39%）基因编码已批准或临床阶段的药物靶点。 FNIP1 中的超罕见蛋白质截短变体（等位基因频率，0.01%）编码能量消耗和线粒体代谢的抑制因子，与较低的 TG:HDL 比率、较低的肝脏脂肪、较低的血糖、有利的脂肪分布以及约 60% 的心脏代谢疾病发病率降低相关。原代人肝细胞中的 FNIP1 敲除可诱导脂质分解和溶酶体基因表达，而 Fnip1 及其旁系同源物 Fnip2 的肝脏敲除或其相互作用因子 Flcn 的敲除可防止高脂饮食小鼠的体重增加、减少肝脏脂肪并增强胰岛素敏感性。我们的研究表明 FNIP1 通路与人类能量代谢有关，并强调其抑制作为心脏代谢疾病的潜在治疗策略。",
+      "translationSource": "2cd03daa02b10d50"
+    },
+    {
+      "pmid": "42556338",
+      "title": "An ER stress-responsive RNA rheostat for programmable gene and mRNA therapies.",
+      "titleZh": "用于可编程基因和 mRNA 治疗的 ER 应激响应 RNA 变阻器。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1016/j.chembiol.2026.07.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.07.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556338/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Therapeutic protein overexpression can overwhelm endoplasmic reticulum (ER) folding capacity, trigger unfolded protein response (UPR) signaling, and compromise the safety of gene and mRNA therapies. Here, we engineer stress-responsive RNA rheostats that couple transgene expression to endogenous ER stress sensing. Short RNA elements derived from X-box-binding protein 1 (XBP1) mRNA undergo inositol-requiring enzyme 1α (IRE1α)-dependent splicing under ER stress, inducing a frameshift that attenuates downstream protein expression. XBP1 switches function across DNA and mRNA delivery platforms and regulate the expression of fluorescent reporters, coagulation factor VIII, and Leronlimab, a therapeutic anti-CCR5 monoclonal antibody. Switch activation reduces ER stress markers while preserving expression under homeostatic conditions. We further demonstrate the regulation of Leronlimab expression in vivo using recombinant adeno-associated virus vectors. Together, these findings establish programmable RNA feedback control as a strategy for linking cellular proteostasis to therapeutic protein expression and improving the safety of gene and mRNA therapies.",
+      "summaryZh": "治疗性蛋白过度表达会压倒内质网 (ER) 折叠能力，触发未折叠蛋白反应 (UPR) 信号传导，并损害基因和 mRNA 治疗的安全性。在这里，我们设计了应激响应 RNA 变阻器，将转基因表达与内源性 ER 应激传感相结合。源自 X-box 结合蛋白 1 (XBP1) mRNA 的短 RNA 元件在内质网应激下经历肌醇需求酶 1α (IRE1α) 依赖性剪接，诱导移码，从而减弱下游蛋白表达。 XBP1 在 DNA 和 mRNA 传递平台之间切换功能，并调节荧光报告基因、凝血因子 VIII 和 Leronlimab（一种治疗性抗 CCR5 单克隆抗体）的表达。开关激活可减少 ER 应激标记物，同时保持稳态条件下的表达。我们进一步证明了使用重组腺相关病毒载体对 Leronlimab 体内表达的调节。总之，这些发现确立了可编程 RNA 反馈控制作为将细胞蛋白质稳态与治疗性蛋白质表达联系起来并提高基因和 mRNA 治疗安全性的策略。",
+      "translationSource": "98e811f12708f97e"
     },
     {
       "pmid": "42547503",
@@ -90,6 +308,28 @@
       "translationSource": "3ae21e5bd8d5238b"
     },
     {
+      "pmid": "42481857",
+      "title": "Design and optimization of a kinase-controlled allosteric switch.",
+      "titleZh": "激酶控制的变构开关的设计和优化。",
+      "journal": "Nature Methods",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41592-026-03163-1",
+      "doiUrl": "https://doi.org/10.1038/s41592-026-03163-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42481857/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology",
+        "synthetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, synthetic circuit。",
+      "abstractEn": "Post-translational control enables rapid and precise regulation of cell behavior. Despite these advantages, general strategies to build phosphorylation-based synthetic circuits are limited. Here we reasoned that engineered allostery, a technique that has been applied to design light- and chemically gated protein switches, could also be used to engineer phosphorylation-controlled protein switches (phospho-switches). Using an allosterically controllable Gal4 transcription factor as a scaffold, we show that a classic kinase Förster resonance energy transfer biosensor architecture can be used as a starting point for phospho-switch design. We optimize all features of the phospho-switch to develop an ERK-controlled transcription factor with a 20-fold phosphorylation-dependent change in transcriptional output. The resulting synthetic ERK-responsive transcription factor responds with comparable sensitivity to the c-fos promoter and reveals spatial ERK signaling patterns in mammalian developmental organoids. We further show that our switch architecture can be generalized to other input kinases and allosterically controlled targets. This work provides a general platform for a new generation of kinase-responsive tools for biosensing and synthetic biology applications.",
+      "summaryZh": "翻译后控制能够快速、精确地调节细胞行为。尽管有这些优点，构建基于磷酸化的合成电路的一般策略是有限的。在这里，我们推断工程变构（一种已应用于设计光和化学门控蛋白质开关的技术）也可用于设计磷酸化控制的蛋白质开关（磷酸化开关）。使用变构可控的 Gal4 转录因子作为支架，我们证明经典激酶 Förster 共振能量转移生物传感器架构可以用作磷酸开关设计的起点。我们优化了磷酸开关的所有功能，以开发 ERK 控制的转录因子，其转录输出具有 20 倍磷酸化依赖性变化。由此产生的合成 ERK 响应转录因子对 c-fos 启动子具有相当的敏感性，并揭示了哺乳动物发育类器官中的空间 ERK 信号传导模式。我们进一步表明，我们的开关架构可以推广到其他输入激酶和变构控制靶标。这项工作为生物传感和合成生物学应用的新一代激酶响应工具提供了一个通用平台。",
+      "translationSource": "2be52fa81275d9d9"
+    },
+    {
       "pmid": "41513855",
       "title": "Unique gluing effect of ASXL1 K351 monoubiquitination stimulates the PR-DUB activity.",
       "titleZh": "ASXL1 K351 单泛素化的独特粘合作用可刺激 PR-DUB 活性。",
@@ -109,6 +349,28 @@
       "abstractEn": "Protein ubiquitination critically regulates biological processes through both proteolytic and nonproteolytic mechanisms. While classically known for protein degradation, ubiquitination also modulates enzymatic activity. However, current mechanisms of ubiquitination-mediated enzymatic modulation are spatially constrained near enzyme-substrate interfaces. Here, we report a unique ubiquitination-mediated regulatory paradigm that activates the Polycomb repressive deubiquitinase (PR-DUB) complex from a site distal to the enzyme-substrate interface. We found that ASXL1 K351 monoubiquitination promotes nucleosomal H2AK119Ub deubiquitination by stabilizing the PR-DUB catalytic pocket, thereby increasing catalytic velocity (V max ) without affecting substrate affinity (K m ). Structurally, ubiquitin at ASXL1 K351 bridges the BAP1 and ASXL1 subunits, functioning as a cross-bracing 'glue' that constrains their conformational dynamics without altering the nucleosome-binding interface. Molecular dynamics and hydrogen-deuterium exchange mass spectrometry revealed that this modification locks PR-DUB in a catalytic state poised for substrate cleavage. This study reveals a unique ubiquitin function of intersubunit fastening through a molecular glue effect and clarifies the mechanism of PR-DUB activation.",
       "summaryZh": "蛋白质泛素化通过蛋白水解和非蛋白水解机制严格调节生物过程。虽然泛素化通常以蛋白质降解而闻名，但它也能调节酶活性。然而，目前泛素化介导的酶促调节机制在空间上受到酶-底物界面附近的限制。在这里，我们报告了一种独特的泛素化介导的调节范式，该范式从酶-底物界面远端的位点激活 Polycomb 抑制性去泛素酶（PR-DUB）复合物。我们发现 ASXL1 K351 单泛素化通过稳定 PR-DUB 催化口袋来促进核小体 H2AK119Ub 去泛素化，从而提高催化速度 (V max )，而不影响底物亲和力 (K m )。从结构上看，ASXL1 K351 处的泛素桥接 BAP1 和 ASXL1 亚基，充当交叉支撑“粘合剂”，在不改变核小体结合界面的情况下限制它们的构象动力学。分子动力学和氢-氘交换质谱分析表明，这种修饰将 PR-DUB 锁定在准备进行底物裂解的催化状态。这项研究揭示了通过分子胶水效应实现亚基间紧固的独特泛素功能，并阐明了 PR-DUB 激活的机制。",
       "translationSource": "459dec2751d5f8e7"
+    },
+    {
+      "pmid": "42236937",
+      "title": "LASER couples damage sensing to ESCRT assembly for lysosome repair.",
+      "titleZh": "激光将损伤传感与 ESRT 组件耦合以进行溶酶体修复。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41586-026-10604-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10604-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42236937/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal membrane integrity is essential for cell survival, but how damage sensing is spatiotemporally coupled to repair remains poorly understood. Recruitment and assembly of endosomal sorting complex required for transport (ESCRT) I-III rapidly counteracts membrane damage, but it is unclear how ESCRT-I recognizes defective lysosomal membranes. Here, leveraging genome-wide CRISPRi screens in a damage-sensitized genetic background, we identified LC3/GABARAP-assisted stimulator for ESCRT recruitment (LASER), a multicomponent protein assembly that forms rapidly upon calcium release from damaged lysosomes and couples sensing of lysosomal membrane damage to ESCRT-dependent repair. At the core of LASER is TFG, an endoplasmic reticulum exit-site-resident protein that translocates to damaged lysosomes by binding to ATG8 family proteins (LC3 and GABARAP) conjugated to lysosomal phospholipids. ATG8-bound TFG forms oligomeric assemblies that directly recruit the essential ESCRT-I subunit TSG101 via conserved motif recognition enhanced by avidity-driven interactions. TFG binding to TSG101 stimulates sequential ESCRT-I-II-III polymerization and promotes membrane repair. TFG mutations that drive hereditary spastic paraplegia disrupt its oligomerization and impair lysosomal ESCRT recruitment and membrane resealing, implicating defective repair as a driver of TFG-associated neurodegeneration. Thus, LASER promotes ESCRT polymerization at damaged lysosomes and couples damage sensing to membrane repair.",
+      "summaryZh": "溶酶体膜完整性对于细胞生存至关重要，但损伤感知如何在时空上与修复耦合仍然知之甚少。运输所需的内体分选复合物 (ESCRT) I-III 的募集和组装可快速抵消膜损伤，但尚不清楚 ESCRT-I 如何识别有缺陷的溶酶体膜。在这里，利用损伤敏感遗传背景下的全基因组 CRISPRi 筛选，我们鉴定了用于 ESCRT 募集 (LASER) 的 LC3/GABARAP 辅助刺激物，这是一种多组分蛋白质组装体，在钙从受损的溶酶体中释放后迅速形成，并将溶酶体膜损伤的感应与 ESCRT 依赖性修复结合起来。 LASER 的核心是 TFG，这是一种内质网出口位点驻留蛋白，可通过与与溶酶体磷脂缀合的 ATG8 家族蛋白（LC3 和 GABARAP）结合而转位至受损的溶酶体。 ATG8 结合的 TFG 形成寡聚体组装体，通过亲合力驱动的相互作用增强的保守基序识别直接招募必需的 ESCRT-I 亚基 TSG101。 TFG 与 TSG101 结合会刺激连续的 ESCRT-I-II-III 聚合并促进膜修复。导致遗传性痉挛性截瘫的 TFG 突变会破坏其寡聚化，并损害溶酶体 ESCRT 募集和膜重新密封，这表明修复缺陷是 TFG 相关神经变性的驱动因素。因此，LASER 促进受损溶酶体处的 ESCRT 聚合，并将损伤传感与膜修复结合起来。",
+      "translationSource": "11da8afa377e9538"
     },
     {
       "pmid": "42536745",
@@ -730,28 +992,6 @@
       "translationSource": "9059199163ddad71"
     },
     {
-      "pmid": "42481857",
-      "title": "Design and optimization of a kinase-controlled allosteric switch.",
-      "titleZh": "激酶控制的变构开关的设计和优化。",
-      "journal": "Nature Methods",
-      "year": 2026,
-      "published": "2026-07-21",
-      "doi": "10.1038/s41592-026-03163-1",
-      "doiUrl": "https://doi.org/10.1038/s41592-026-03163-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42481857/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology",
-        "synthetic circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, synthetic circuit。",
-      "abstractEn": "Post-translational control enables rapid and precise regulation of cell behavior. Despite these advantages, general strategies to build phosphorylation-based synthetic circuits are limited. Here we reasoned that engineered allostery, a technique that has been applied to design light- and chemically gated protein switches, could also be used to engineer phosphorylation-controlled protein switches (phospho-switches). Using an allosterically controllable Gal4 transcription factor as a scaffold, we show that a classic kinase Förster resonance energy transfer biosensor architecture can be used as a starting point for phospho-switch design. We optimize all features of the phospho-switch to develop an ERK-controlled transcription factor with a 20-fold phosphorylation-dependent change in transcriptional output. The resulting synthetic ERK-responsive transcription factor responds with comparable sensitivity to the c-fos promoter and reveals spatial ERK signaling patterns in mammalian developmental organoids. We further show that our switch architecture can be generalized to other input kinases and allosterically controlled targets. This work provides a general platform for a new generation of kinase-responsive tools for biosensing and synthetic biology applications.",
-      "summaryZh": "翻译后控制能够快速、精确地调节细胞行为。尽管有这些优点，构建基于磷酸化的合成电路的一般策略是有限的。在这里，我们推断工程变构（一种已应用于设计光和化学门控蛋白质开关的技术）也可用于设计磷酸化控制的蛋白质开关（磷酸化开关）。使用变构可控的 Gal4 转录因子作为支架，我们证明经典激酶 Förster 共振能量转移生物传感器架构可以用作磷酸开关设计的起点。我们优化了磷酸开关的所有功能，以开发 ERK 控制的转录因子，其转录输出具有 20 倍磷酸化依赖性变化。由此产生的合成 ERK 响应转录因子对 c-fos 启动子具有相当的敏感性，并揭示了哺乳动物发育类器官中的空间 ERK 信号传导模式。我们进一步表明，我们的开关架构可以推广到其他输入激酶和变构控制靶标。这项工作为生物传感和合成生物学应用的新一代激酶响应工具提供了一个通用平台。",
-      "translationSource": "2be52fa81275d9d9"
-    },
-    {
       "pmid": "42480533",
       "title": "Dual-function PROTAC suppresses ferroptosis and restores neuronal function via brain-targeted delivery.",
       "titleZh": "双功能 PROTAC 通过大脑靶向递送抑制铁死亡并恢复神经元功能。",
@@ -816,27 +1056,6 @@
       "abstractEn": "",
       "summaryZh": "PubMed 未提供可翻译的摘要。",
       "translationSource": "79ff95ae080c2607"
-    },
-    {
-      "pmid": "42476128",
-      "title": "Structures of dynamic interactors at native proteasomes by PhIX-MS and cryo-electron microscopy.",
-      "titleZh": "通过 PhIX-MS 和冷冻电子显微镜观察天然蛋白酶体动态相互作用子的结构。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-07-20",
-      "doi": "10.1016/j.molcel.2026.06.032",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.032",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476128/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
-      "abstractEn": "Molecular machines rely on dynamic, low-affinity interactions to perform their functional roles. We developed PhIX-MS (photo-induced in situ crosslinking-mass spectrometry), a structural proteomics workflow to capture topological information for such transient interactions in cells by UV-activated crosslinking. Applying PhIX-MS with cryo-electron microscopy (cryo-EM) to proteasomes, we mapped the redox sensor TXNL1 at the proteasome regulatory particle (RP), including its dynamic thioredoxin-like domain near RPN2/PSMD1 and RPN13/ADRM1, where it is ideal for reducing substrates prior to proteolysis. RPs without the proteolytic core particle (CP) were structurally resolved while bound to TXNL1 and/or the chaperone PSMD5/S5b, which inserts its C terminus into the ATPase pore, causing extensive structural rearrangements. Additionally, PhIX-MS and AlphaFold identified the ubiquitin ligase UBE3C/Hul5 at RPN2, RPN3, and a dynamic RPN10 region, tethering UBE3C above the substrate entry channel. Our integrative approach enables the localization of native, low-affinity protein interactions and is broadly applicable to dynamic macromolecular assemblies. Published by Elsevier Inc.",
-      "summaryZh": "分子机器依靠动态、低亲和力的相互作用来发挥其功能作用。我们开发了 PhIX-MS（光诱导原位交联质谱），这是一种结构蛋白质组学工作流程，可通过紫外线激活交联捕获细胞中此类瞬时相互作用的拓扑信息。将 PhIX-MS 与冷冻电子显微镜 (cryo-EM) 应用于蛋白酶体，我们将氧化还原传感器 TXNL1 映射到蛋白酶体调节颗粒 (RP)，包括 RPN2/PSMD1 和 RPN13/ADRM1 附近的动态硫氧还蛋白样结构域，它是在蛋白水解之前还原底物的理想选择。没有蛋白水解核心颗粒 (CP) 的 RP 在与 TXNL1 和/或伴侣 PSMD5/S5b 结合时进行结构解析，后者将其 C 末端插入 ATP 酶孔中，导致广泛的结构重排。此外，PhIX-MS 和 AlphaFold 在 RPN2、RPN3 和动态 RPN10 区域鉴定了泛素连接酶 UBE3C/Hul5，将 UBE3C 束缚在底物进入通道上方。我们的综合方法能够定位天然的、低亲和力的蛋白质相互作用，并广泛适用于动态大分子组装。由爱思唯尔公司出版",
-      "translationSource": "12c7c055834ce873"
     },
     {
       "pmid": "42476144",
@@ -1363,27 +1582,6 @@
       "translationSource": "3f54baf126a87723"
     },
     {
-      "pmid": "42425078",
-      "title": "The UFSP2-ODR4 complex spatially confines and dynamically controls UFM1 deconjugation to safeguard neuronal proteostasis.",
-      "titleZh": "UFSP2-ODR4 复合物在空间上限制并动态控制 UFM1 解偶联，以保护神经元蛋白质稳态。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-07-09",
-      "doi": "10.1016/j.molcel.2026.06.026",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.026",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42425078/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "The ubiquitin-fold modifier 1 (UFM1) pathway is essential for endoplasmic-reticulum-associated ribosome quality control (ER-RQC) through UFMylation of the 60S ribosomal protein RPL26, but the regulation and physiological significance of UFM1 deconjugation remain poorly understood. Here, we identify the ER-anchored UFSP2-ODR4 complex as a spatially confined deUFMylation module critical for neuronal proteostasis. Structural modeling and biochemical analyses show that ODR4 recruits UFSP2 to the ER, enabling efficient deUFMylation of RPL26. Disruption of the UFSP2-ODR4 interaction causes the accumulation of UFMylated RPL26 and defective ER-RQC. Neural progenitor-specific knockin mice expressing a catalytically inactive UFSP2 mutant exhibit perinatal lethality, microcephaly, and neuronal apoptosis. We also identify a patient with biallelic UFC1 mutations that enhance UFL1 binding and induce hyper-UFMylation of RPL26 in patient-derived neurons. These findings establish spatially confined deUFMylation as a critical mechanism for safeguarding neuronal proteostasis.",
-      "summaryZh": "泛素折叠修饰剂 1 (UFM1) 途径通过 60S 核糖体蛋白 RPL26 的 UFMy 化对于内质网相关核糖体质量控制 (ER-RQC) 至关重要，但 UFM1 解偶联的调节和生理意义仍知之甚少。在这里，我们将 ER 锚定的 UFSP2-ODR4 复合物确定为空间受限的去UFMylation模块，对神经元蛋白质稳态至关重要。结构建模和生化分析表明，ODR4 将 UFSP2 招募到 ER，从而实现 RPL26 的高效去UFMylation。 UFSP2-ODR4 相互作用的破坏会导致 UFMylated RPL26 和缺陷 ER-RQC 的积累。表达催化失活 UFSP2 突变体的神经祖细胞特异性敲入小鼠表现出围产期致死率、小头畸形和神经元凋亡。我们还鉴定出一名患有双等位 UFC1 突变的患者，该突变增强了 UFL1 结合并诱导患者来源的神经元中 RPL26 的过度 UFMylation。这些发现确立了空间受限的去UFMylation作为保护神经元蛋白质稳态的关键机制。",
-      "translationSource": "6e121c8e5d04058b"
-    },
-    {
       "pmid": "42167249",
       "title": "Scavenger receptor class F member 2 is an intracellular receptor for hepatitis B virus.",
       "titleZh": "F 类清道夫受体成员 2 是乙型肝炎病毒的细胞内受体。",
@@ -1637,27 +1835,6 @@
       "abstractEn": "The ubiquitin-proteasome system (UPS) is the preeminent proteolytic system in eukaryotes. While soluble nucleocytosolic proteins are readily accessed by the UPS, organelle-localised proteins present major, membrane-related accessibility challenges. Cells overcome this problem by employing the conserved AAA+ ATPase Cdc48 to extract organellar proteins to the cytosol, thereby enabling proteasomal degradation. Major Cdc48-dependent proteolytic systems exist at the endoplasmic reticulum, mitochondria and chloroplasts, and are uniquely adapted to deliver protein homeostasis within the respective organelles. We provide a focused comparison of these systems, analysing similarities and differences between them. Better understanding of underlying principles has important implications spanning human health and agriculture.",
       "summaryZh": "泛素蛋白酶体系统（UPS）是真核生物中最杰出的蛋白水解系统。虽然可溶性核细胞溶质蛋白很容易被 UPS 访问，但细胞器定位蛋白却面临着与膜相关的主要可访问性挑战。细胞通过使用保守的 AAA+ ATP 酶 Cdc48 将细胞器蛋白提取到细胞质中，从而实现蛋白酶体降解，从而克服了这个问题。主要的 Cdc48 依赖性蛋白水解系统存在于内质网、线粒体和叶绿体中，并且独特地适应于在各自的细胞器内提供蛋白质稳态。我们对这些系统进行了重点比较，分析了它们之间的异同。更好地理解基本原理对人类健康和农业具有重要影响。",
       "translationSource": "56e64e9198736462"
-    },
-    {
-      "pmid": "42392071",
-      "title": "Spliceosomal proofreading factors safeguard 3' splice-site fidelity and prevent proteotoxicity and inflammation.",
-      "titleZh": "剪接体校对因子可保障 3' 剪接位点的保真度并防止蛋白毒性和炎症。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-07-02",
-      "doi": "10.1016/j.molcel.2026.06.017",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.017",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42392071/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Precise intron removal by RNA splicing is essential for faithful gene expression, yet the mechanisms ensuring splicing fidelity in mammals remain unclear. Using a systematic knockdown RNA sequencing (RNA-seq) screen, we uncover widespread splicing errors and identify AQR, SYF1, and SYF3 as cooperative safeguards of 3' splice-site (3'ss) fidelity in human and mouse. These factors act during spliceosome assembly to correct U2AF-mediated misrecognition of non-canonical 3'ss bearing AG dinucleotides embedded within pyrimidine-rich sequences and lacking canonical branch points (BPs), likely through kinetic proofreading. Their loss triggers pervasive 3'ss mis-splicing, resulting in the accumulation of misfolded proteins, proteotoxic stress, unfolded protein response activation, and ultimately cell death and intestinal inflammation. Together, our study reveals a previously unrecognized layer of splicing fidelity control in mammals that links aberrant splice-site selection to proteostasis and inflammation.",
-      "summaryZh": "通过 RNA 剪接精确去除内含子对于忠实的基因表达至关重要，但确保哺乳动物剪接保真度的机制仍不清楚。使用系统性敲低 RNA 测序 (RNA-seq) 筛选，我们发现了广泛存在的剪接错误，并确定 AQR、SYF1 和 SYF3 作为人和小鼠 3' 剪接位点 (3'sss) 保真度的协同保障。这些因素在剪接体组装过程中发挥作用，纠正 U2AF 介导的对嵌入富含嘧啶序列且缺乏规范分支点 (BP) 的非规范 3'ss 轴承 AG 二核苷酸的错误识别，可能是通过动力学校对实现的。它们的丢失会引发普遍的 3's 错误剪接，导致错误折叠蛋白的积累、蛋白毒性应激、未折叠蛋白反应激活，并最终导致细胞死亡和肠道炎症。总之，我们的研究揭示了哺乳动物中先前未被识别的剪接保真度控制层，该层将异常剪接位点选择与蛋白质稳态和炎症联系起来。",
-      "translationSource": "811219026dca0c6a"
     },
     {
       "pmid": "42167236",
@@ -3382,28 +3559,6 @@
       "abstractEn": "Developmental biology seeks to understand how multicellular organization emerges from cell-cell interactions. Advances in stem cell and synthetic biology now enable researchers to rebuild developmental processes outside the embryo, with varying degrees of resemblance to natural systems. While some reconstituted systems reveal how development occurs, others uncover what is possible. This perspective examines how such bottom-up approaches have elucidated general principles and causal mechanisms of multicellular organization. We argue that synthetic systems, though simplified, provide powerful platforms to test the limits of developmental potential, disentangle causal relationships, and inform predictive models. With rapid advances in genomic engineering, imaging, and computational modeling, leveraging these engineered systems to discover what is possible holds transformative promise for understanding what is happening in nature.",
       "summaryZh": "发育生物学试图了解多细胞组织是如何从细胞与细胞相互作用中产生的。干细胞和合成生物学的进步现在使研究人员能够在胚胎外重建发育过程，与自然系统具有不同程度的相似性。虽然一些重构的系统揭示了发育是如何发生的，但另一些则揭示了可能性。这种观点探讨了这种自下而上的方法如何阐明多细胞组织的一般原理和因果机制。我们认为，合成系统虽然经过简化，但却提供了强大的平台来测试发展潜力的极限、理清因果关系并为预测模型提供信息。随着基因组工程、成像和计算建模的快速发展，利用这些工程系统来发现可能性，为理解自然界正在发生的事情带来了变革性的希望。",
       "translationSource": "56285894774fbca4"
-    },
-    {
-      "pmid": "42236937",
-      "title": "LASER couples damage sensing to ESCRT assembly for lysosome repair.",
-      "titleZh": "激光将损伤传感与 ESRT 组件耦合以进行溶酶体修复。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-06-03",
-      "doi": "10.1038/s41586-026-10604-6",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10604-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42236937/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Lysosomal membrane integrity is essential for cell survival, but how damage sensing is spatiotemporally coupled to repair remains poorly understood. Recruitment and assembly of endosomal sorting complex required for transport (ESCRT) I-III rapidly counteracts membrane damage, but it is unclear how ESCRT-I recognizes defective lysosomal membranes. Here, leveraging genome-wide CRISPRi screens in a damage-sensitized genetic background, we identified LC3/GABARAP-assisted stimulator for ESCRT recruitment (LASER), a multicomponent protein assembly that forms rapidly upon calcium release from damaged lysosomes and couples sensing of lysosomal membrane damage to ESCRT-dependent repair. At the core of LASER is TFG, an endoplasmic reticulum exit-site-resident protein that translocates to damaged lysosomes by binding to ATG8 family proteins (LC3 and GABARAP) conjugated to lysosomal phospholipids. ATG8-bound TFG forms oligomeric assemblies that directly recruit the essential ESCRT-I subunit TSG101 via conserved motif recognition enhanced by avidity-driven interactions. TFG binding to TSG101 stimulates sequential ESCRT-I-II-III polymerization and promotes membrane repair. TFG mutations that drive hereditary spastic paraplegia disrupt its oligomerization and impair lysosomal ESCRT recruitment and membrane resealing, implicating defective repair as a driver of TFG-associated neurodegeneration. Thus, LASER promotes ESCRT polymerization at damaged lysosomes and couples damage sensing to membrane repair.",
-      "summaryZh": "溶酶体膜完整性对于细胞生存至关重要，但损伤感知如何在时空上与修复耦合仍然知之甚少。运输所需的内体分选复合物 (ESCRT) I-III 的募集和组装可快速抵消膜损伤，但尚不清楚 ESCRT-I 如何识别有缺陷的溶酶体膜。在这里，利用损伤敏感遗传背景下的全基因组 CRISPRi 筛选，我们鉴定了用于 ESCRT 募集 (LASER) 的 LC3/GABARAP 辅助刺激物，这是一种多组分蛋白质组装体，在钙从受损的溶酶体中释放后迅速形成，并将溶酶体膜损伤的感应与 ESCRT 依赖性修复结合起来。 LASER 的核心是 TFG，这是一种内质网出口位点驻留蛋白，可通过与与溶酶体磷脂缀合的 ATG8 家族蛋白（LC3 和 GABARAP）结合而转位至受损的溶酶体。 ATG8 结合的 TFG 形成寡聚体组装体，通过亲合力驱动的相互作用增强的保守基序识别直接招募必需的 ESCRT-I 亚基 TSG101。 TFG 与 TSG101 结合会刺激连续的 ESCRT-I-II-III 聚合并促进膜修复。导致遗传性痉挛性截瘫的 TFG 突变会破坏其寡聚化，并损害溶酶体 ESCRT 募集和膜重新密封，这表明修复缺陷是 TFG 相关神经变性的驱动因素。因此，LASER 促进受损溶酶体处的 ESCRT 聚合，并将损伤传感与膜修复结合起来。",
-      "translationSource": "11da8afa377e9538"
     },
     {
       "pmid": "42230636",
