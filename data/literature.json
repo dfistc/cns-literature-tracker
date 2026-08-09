@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T00:39:09+00:00",
+  "updatedAt": "2026-08-09T00:41:41+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -24,6 +24,27 @@
       "abstractEn": "Recent clinical trials have shown that dual GLP-1R/GCGR agonists, including mazdutide and cotadutide, provide kidney benefits in patients with type 2 diabetes and CKD, suggesting a potential contribution of GCGR activation to these renal effects. However, whether GCGR directly confers renoprotection and the underlying mechanisms remain unclear. Here, using tubule-specific GCGR loss- and gain-of-function mouse models and human kidney samples, we show that tubular GCGR signaling exerts an important renoprotective role in DKD. Tubular GCGR expression is reduced in humans and mice with DKD and correlates with worse kidney function and increased renal injury. Genetic ablation of tubular GCGR markedly exacerbates DKD and induces pronounced phospholipid accumulation within enlarged lysosomes. Mechanistically, GCGR loss disrupts its association with the V-ATPase V1A subunit ATP6V1A, compromises V1-V0 assembly, and thereby impairs lysosomal acidification. This defect leads to impaired phospholipid hydrolysis and protease maturation, blockade of autophagic flux, and ultimately tubular cell injury. In vivo, ATP6V1A overexpression markedly reverses GCGR deficiency-induced lysosomal dysfunction and DKD progression. Consistently, re-expression of tubular GCGR via AAV9 restores lysosomal function, reduces phospholipid accumulation, and mitigates renal injury in DKD. Together, these findings provide genetic evidence for the renoprotective role of tubular GCGR in DKD, delineate a kidney-intrinsic GCGR-ATP6V1A-lysosome axis that protects tubular integrity, and extend prior GCGR-in-kidney observations into a more concrete GCGR-lysosome mechanism.",
       "summaryZh": "最近的临床试验表明，GLP-1R/GCGR 双重激动剂（包括马兹度肽和科他度肽）可为 2 型糖尿病和 CKD 患者提供肾脏益处，这表明 GCGR 激活对这些肾脏影响可能有贡献。然而，GCGR 是否直接赋予肾脏保护作用及其潜在机制仍不清楚。在这里，我们使用肾小管特异性 GCGR 功能丧失和获得功能小鼠模型和人类肾脏样本，证明肾小管 GCGR 信号在 DKD 中发挥重要的肾脏保护作用。患有 DKD 的人和小鼠的肾小管 GCGR 表达降低，并与肾功能恶化和肾损伤增加相关。肾小管 GCGR 的基因消融显着加剧 DKD 并诱导扩大的溶酶体内明显的磷脂积累。从机制上讲，GCGR 损失会破坏其与 V-ATPase V1A 亚基 ATP6V1A 的关联，损害 V1-V0 组装，从而损害溶酶体酸化。这种缺陷导致磷脂水解和蛋白酶成熟受损、自噬流受阻，并最终导致肾小管细胞损伤。在体内，ATP6V1A 过表达可显着逆转 GCGR 缺乏引起的溶酶体功能障碍和 DKD 进展。一致地，通过 AAV9 重新表达肾小管 GCGR 可恢复溶酶体功能，减少磷脂积累，并减轻 DKD 的肾损伤。总之，这些发现为肾小管 GCGR 在 DKD 中的肾脏保护作用提供了遗传证据，描绘了保护肾小管完整性的肾脏固有 GCGR-ATP6V1A-溶酶体轴，并将先前的肾脏内 GCGR 观察扩展到更具体的 GCGR-溶酶体机制。",
       "translationSource": "b7f92a6b5280ecc6"
+    },
+    {
+      "pmid": "42567989",
+      "title": "PGAM1 rheostat in glycolysis and autophagy.",
+      "titleZh": "糖酵解和自噬中的 PGAM1 变阻器。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-08-07",
+      "doi": "10.1038/s41556-026-02033-4",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02033-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42567989/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "fbf34419840dfb1e"
     },
     {
       "pmid": "42562827",
