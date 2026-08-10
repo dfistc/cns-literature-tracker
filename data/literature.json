@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T00:41:41+00:00",
+  "updatedAt": "2026-08-10T00:43:24+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -45,6 +45,27 @@
       "abstractEn": "",
       "summaryZh": "PubMed 未提供可翻译的摘要。",
       "translationSource": "fbf34419840dfb1e"
+    },
+    {
+      "pmid": "42570241",
+      "title": "Diurnal regulation of Acyl-CoA synthetase 3 (ACSF3) governs rhythmic mitochondrial lysine-malonylation and daily hepatic metabolism.",
+      "titleZh": "酰基辅酶 A 合成酶 3 (ACSF3) 的昼夜调节控制节律性线粒体赖氨酸丙二酰化和日常肝脏代谢。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-08-07",
+      "doi": "10.1016/j.celrep.2026.117774",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117774",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570241/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Hepatic daily rhythms are coordinated by feeding and the molecular circadian clock, ensuring metabolic homeostasis. Disrupted feeding schedules promote circadian misalignment and metabolic diseases but the underlying mechanisms remain scarce. Post-translational modifications have emerged as key regulators of circadian metabolic outputs. Here, we show that the mitochondrial enzyme Acyl-CoA synthetase family member 3 (ACSF3) oscillates in phase with different feeding schedules to drive rhythmic lysine-malonylation and coordinate daily hepatic metabolism. Hepatic Acsf3 knockdown drastically affected lysine-malonylation rhythms, decreased fasting glycemia, insulin sensitivity, and AKT phosphorylation, indicative of perturbed glucose homeostasis. Concomitantly, Acsf3 knockdown shifted lipid oxidation from mitochondria to peroxisomes, enhanced lipogenesis and triglyceride synthesis, while increasing diurnal autophagy. Multi-omics profiling uncovered specific lysine-malonylation targets in glycolysis, the tricarboxylic acid (TCA) cycle, fatty-acid oxidation and autophagy. Our findings uncover hepatic ACSF3 as a pivotal molecular nexus that integrates feeding time with dynamic protein lysine-malonylation and orchestrates the diurnal rhythm of liver metabolism.",
+      "summaryZh": "肝脏的日常节律通过喂养和分子生物钟来协调，确保代谢稳态。喂养计划被打乱会导致昼夜节律失调和代谢疾病，但潜在的机制仍然很少。翻译后修饰已成为昼夜节律代谢输出的关键调节因子。在这里，我们发现线粒体酶酰基辅酶A合成酶家族成员3（ACSF3）与不同的喂养计划同相振荡，以驱动有节奏的赖氨酸-丙二酰化并协调日常肝脏代谢。肝脏 Acsf3 敲低极大地影响了赖氨酸丙二酰化节律，降低了空腹血糖、胰岛素敏感性和 AKT 磷酸化，表明葡萄糖稳态受到干扰。与此同时，Acsf3 敲低将脂质氧化从线粒体转移到过氧化物酶体，增强脂肪生成和甘油三酯合成，同时增加昼夜自噬。多组学分析揭示了糖酵解、三羧酸 (TCA) 循环、脂肪酸氧化和自噬中的特定赖氨酸丙二酰化靶标。我们的研究结果揭示了肝脏 ACSF3 作为一个关键的分子关系，它将进食时间与动态蛋白质赖氨酸丙二酰化结合起来，并协调肝脏代谢的昼夜节律。",
+      "translationSource": "7fa4d9ea4662a8c7"
     },
     {
       "pmid": "42562827",
