@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:43:10+00:00",
+  "updatedAt": "2026-08-12T00:50:13+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -391,6 +391,71 @@
       "abstractEn": "Protein ubiquitination critically regulates biological processes through both proteolytic and nonproteolytic mechanisms. While classically known for protein degradation, ubiquitination also modulates enzymatic activity. However, current mechanisms of ubiquitination-mediated enzymatic modulation are spatially constrained near enzyme-substrate interfaces. Here, we report a unique ubiquitination-mediated regulatory paradigm that activates the Polycomb repressive deubiquitinase (PR-DUB) complex from a site distal to the enzyme-substrate interface. We found that ASXL1 K351 monoubiquitination promotes nucleosomal H2AK119Ub deubiquitination by stabilizing the PR-DUB catalytic pocket, thereby increasing catalytic velocity (V max ) without affecting substrate affinity (K m ). Structurally, ubiquitin at ASXL1 K351 bridges the BAP1 and ASXL1 subunits, functioning as a cross-bracing 'glue' that constrains their conformational dynamics without altering the nucleosome-binding interface. Molecular dynamics and hydrogen-deuterium exchange mass spectrometry revealed that this modification locks PR-DUB in a catalytic state poised for substrate cleavage. This study reveals a unique ubiquitin function of intersubunit fastening through a molecular glue effect and clarifies the mechanism of PR-DUB activation.",
       "summaryZh": "蛋白质泛素化通过蛋白水解和非蛋白水解机制严格调节生物过程。虽然泛素化通常以蛋白质降解而闻名，但它也能调节酶活性。然而，目前泛素化介导的酶促调节机制在空间上受到酶-底物界面附近的限制。在这里，我们报告了一种独特的泛素化介导的调节范式，该范式从酶-底物界面远端的位点激活 Polycomb 抑制性去泛素酶（PR-DUB）复合物。我们发现 ASXL1 K351 单泛素化通过稳定 PR-DUB 催化口袋来促进核小体 H2AK119Ub 去泛素化，从而提高催化速度 (V max )，而不影响底物亲和力 (K m )。从结构上看，ASXL1 K351 处的泛素桥接 BAP1 和 ASXL1 亚基，充当交叉支撑“粘合剂”，在不改变核小体结合界面的情况下限制它们的构象动力学。分子动力学和氢-氘交换质谱分析表明，这种修饰将 PR-DUB 锁定在准备进行底物裂解的催化状态。这项研究揭示了通过分子胶水效应实现亚基间紧固的独特泛素功能，并阐明了 PR-DUB 激活的机制。",
       "translationSource": "459dec2751d5f8e7"
+    },
+    {
+      "pmid": "42477140",
+      "title": "Mitochondrial-derived vesicles drive budding-type fission of damaged lysosomes.",
+      "titleZh": "线粒体衍生的囊泡驱动受损溶酶体的出芽型裂变。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41556-026-02010-x",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02010-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42477140/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomes are central degradative organelles essential for cellular homeostasis, yet the mechanisms that maintain their integrity and function under stress remain incompletely understood. Here we identify a previously unrecognized lysosomal renewal process, termed budding-type fission (B-fission), which restores lysosomal function during hypoxia-reoxygenation stress. During B-fission, damaged lysosomes generate membrane buds that undergo scission to form small, fully functional lysosomes, independently of autophagic lysosome reformation. Mechanistically, mitochondrial-derived vesicles (MDVs) deliver the fission adaptor MFF to lysosomes, where MFF recruits the dynamin-related GTPase DRP1 to drive membrane scission. MIRO2 promotes the formation of MFF + MDVs through direct interaction with MFF, while the lysosomal membrane protein ITM2C binds MIRO2 to tether and guide MFF + MDVs to lysosomes, enabling efficient MFF delivery and subsequent B-fission. Notably, AMPK activation by 991 or metformin promotes MFF-dependent lysosomal B-fission under normoxic conditions, whereas AMPK inhibition by dorsomorphin suppresses B-fission during hypoxia-reoxygenation. This stress-responsive ITM2C-MIRO2-MFF-DRP1 axis co-opts the mitochondrial division machinery to drive lysosomal fission from damaged lysosomes, thereby enabling the undamaged components to reorganize into daughter lysosomes and promote lysosomal renewal. Thus, our findings uncover a fundamental mode of lysosomal renewal and reveal an unexpected role for MDV-mediated mitochondria-lysosome communication in mediating lysosomal quality control during ischaemia-reperfusion and related stresses.",
+      "summaryZh": "溶酶体是细胞稳态所必需的中心降解细胞器，但在压力下维持其完整性和功能的机制仍不完全清楚。在这里，我们发现了一种以前未被识别的溶酶体更新过程，称为出芽型裂变（B-裂变），它可以在缺氧-复氧应激期间恢复溶酶体功能。在 B 裂变过程中，受损的溶酶体产生膜芽，膜芽经过分裂形成小的、功能齐全的溶酶体，独立于自噬溶酶体重组。从机制上讲，线粒体衍生囊泡 (MDV) 将裂变接头 MFF 传递至溶酶体，其中 MFF 招募动力相关的 GTPase DRP1 来驱动膜分裂。 MIRO2 通过与 MFF 直接相互作用促进 MFF + MDV 的形成，而溶酶体膜蛋白 ITM2C 将 MIRO2 束缚并引导 MFF + MDV 至溶酶体，从而实现有效的 MFF 递送和随后的 B 裂变。值得注意的是，在常氧条件下，991 或二甲双胍激活 AMPK 可促进 MFF 依赖性溶酶体 B 裂变，而 Dorsomorphin 抑制 AMPK 可抑制缺氧复氧期间的 B 裂变。这种应激反应性 ITM2C-MIRO2-MFF-DRP1 轴与线粒体分裂机制共同驱动受损溶酶体的溶酶体裂变，从而使未受损的成分重组为子溶酶体并促进溶酶体更新。因此，我们的研究结果揭示了溶酶体更新的基本模式，并揭示了 MDV 介导的线粒体-溶酶体通讯在介导缺血再灌注和相关应激期间溶酶体质量控制中的意想不到的作用。",
+      "translationSource": "46ee9532ed29930d"
+    },
+    {
+      "pmid": "42477139",
+      "title": "Borrowed scissors for lysosome fission.",
+      "titleZh": "借来的溶酶体裂变剪刀。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41556-026-02028-1",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02028-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42477139/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "79ff95ae080c2607"
+    },
+    {
+      "pmid": "42457930",
+      "title": "Lysosomes and lysosomal dysfunction in ageing biology.",
+      "titleZh": "衰老生物学中的溶酶体和溶酶体功能障碍。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41556-026-02007-6",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02007-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42457930/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomes are essential regulators of cellular homeostasis. Emerging evidence positions lysosomes as both vulnerable targets and active drivers of ageing biology. During ageing, lysosomes exhibit impaired biogenesis, defective acidification, reduced hydrolytic activity and compromised membrane integrity. These defects impair the clearance of damaged organelles and macromolecules and promote cellular stress responses, inflammageing and senescence, causing age-dependent functional decline across tissues. Lysosomal dysfunction has been increasingly linked to age-related diseases, including neurodegeneration, cardiometabolic disorders and increased susceptibility to infection, among others. Thus, lysosomal dysfunction is a hallmark of ageing that drives age-related pathology. Here we review recent progress in lysosomal biogenesis and quality control, discuss how lysosomes intersect with fundamental ageing mechanisms and evaluate emerging therapeutic strategies that target lysosomes to promote healthy ageing and potentially ameliorate age-associated pathologies.",
+      "summaryZh": "溶酶体是细胞稳态的重要调节剂。新的证据将溶酶体定位为衰老生物学的脆弱目标和主动驱动因素。在衰老过程中，溶酶体表现出生物发生受损、酸化缺陷、水解活性降低和膜完整性受损。这些缺陷会损害受损细胞器和大分子的清除，并促进细胞应激反应、炎症和衰老，导致跨组织的年龄依赖性功能衰退。溶酶体功能障碍与年龄相关疾病的关系日益密切，包括神经退行性疾病、心脏代谢紊乱和感染易感性增加等。因此，溶酶体功能障碍是衰老的一个标志，会导致与年龄相关的病理。在这里，我们回顾了溶酶体生物发生和质量控制方面的最新进展，讨论了溶酶体如何与基本衰老机制相交叉，并评估了针对溶酶体促进健康衰老并可能改善与年龄相关的病理的新兴治疗策略。",
+      "translationSource": "1cd429ba04c24380"
     },
     {
       "pmid": "42236937",
@@ -1057,49 +1122,6 @@
       "translationSource": "5fbcc1bbea8e4ac8"
     },
     {
-      "pmid": "42477140",
-      "title": "Mitochondrial-derived vesicles drive budding-type fission of damaged lysosomes.",
-      "titleZh": "线粒体衍生的囊泡驱动受损溶酶体的出芽型裂变。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-07-20",
-      "doi": "10.1038/s41556-026-02010-x",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02010-x",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42477140/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Lysosomes are central degradative organelles essential for cellular homeostasis, yet the mechanisms that maintain their integrity and function under stress remain incompletely understood. Here we identify a previously unrecognized lysosomal renewal process, termed budding-type fission (B-fission), which restores lysosomal function during hypoxia-reoxygenation stress. During B-fission, damaged lysosomes generate membrane buds that undergo scission to form small, fully functional lysosomes, independently of autophagic lysosome reformation. Mechanistically, mitochondrial-derived vesicles (MDVs) deliver the fission adaptor MFF to lysosomes, where MFF recruits the dynamin-related GTPase DRP1 to drive membrane scission. MIRO2 promotes the formation of MFF + MDVs through direct interaction with MFF, while the lysosomal membrane protein ITM2C binds MIRO2 to tether and guide MFF + MDVs to lysosomes, enabling efficient MFF delivery and subsequent B-fission. Notably, AMPK activation by 991 or metformin promotes MFF-dependent lysosomal B-fission under normoxic conditions, whereas AMPK inhibition by dorsomorphin suppresses B-fission during hypoxia-reoxygenation. This stress-responsive ITM2C-MIRO2-MFF-DRP1 axis co-opts the mitochondrial division machinery to drive lysosomal fission from damaged lysosomes, thereby enabling the undamaged components to reorganize into daughter lysosomes and promote lysosomal renewal. Thus, our findings uncover a fundamental mode of lysosomal renewal and reveal an unexpected role for MDV-mediated mitochondria-lysosome communication in mediating lysosomal quality control during ischaemia-reperfusion and related stresses.",
-      "summaryZh": "溶酶体是细胞稳态所必需的中心降解细胞器，但在压力下维持其完整性和功能的机制仍不完全清楚。在这里，我们发现了一种以前未被识别的溶酶体更新过程，称为出芽型裂变（B-裂变），它可以在缺氧-复氧应激期间恢复溶酶体功能。在 B 裂变过程中，受损的溶酶体产生膜芽，膜芽经过分裂形成小的、功能齐全的溶酶体，独立于自噬溶酶体重组。从机制上讲，线粒体衍生囊泡 (MDV) 将裂变接头 MFF 传递至溶酶体，其中 MFF 招募动力相关的 GTPase DRP1 来驱动膜分裂。 MIRO2 通过与 MFF 直接相互作用促进 MFF + MDV 的形成，而溶酶体膜蛋白 ITM2C 将 MIRO2 束缚并引导 MFF + MDV 至溶酶体，从而实现有效的 MFF 递送和随后的 B 裂变。值得注意的是，在常氧条件下，991 或二甲双胍激活 AMPK 可促进 MFF 依赖性溶酶体 B 裂变，而 Dorsomorphin 抑制 AMPK 可抑制缺氧复氧期间的 B 裂变。这种应激反应性 ITM2C-MIRO2-MFF-DRP1 轴与线粒体分裂机制共同驱动受损溶酶体的溶酶体裂变，从而使未受损的成分重组为子溶酶体并促进溶酶体更新。因此，我们的研究结果揭示了溶酶体更新的基本模式，并揭示了 MDV 介导的线粒体-溶酶体通讯在介导缺血再灌注和相关应激期间溶酶体质量控制中的意想不到的作用。",
-      "translationSource": "46ee9532ed29930d"
-    },
-    {
-      "pmid": "42477139",
-      "title": "Borrowed scissors for lysosome fission.",
-      "titleZh": "借来的溶酶体裂变剪刀。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-07-20",
-      "doi": "10.1038/s41556-026-02028-1",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02028-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42477139/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "79ff95ae080c2607"
-    },
-    {
       "pmid": "42476144",
       "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
       "titleZh": "用于微管动力学可逆可视化和可编程控制的单组分光遗传学工具包。",
@@ -1340,28 +1362,6 @@
       "abstractEn": "Viral suppressors of RNA silencing (VSRs) are crucial for viral infection. Here, we show that a wheat (Triticum aestivum) oligosaccharyltransferase (TaOST1B) is associated with resistance to Wheat yellow mosaic virus (WYMV). TaOST1B interacts with WYMV-encoded P1 and enhances the VSR function of P1 by N-glycosylating its asparagine residue at position 116. This increases intranuclear accumulation of P1 through interaction with the nuclear transport protein TaIMP-α2 and blocks the interaction between calmodulin (CaM3) and CaM-binding transcriptional activator (CaMTA3) to suppress RNA interference. Nevertheless, nonglycosylated P1 loses its VSR function and forms aggregates triggering endoplasmic reticulum (ER) stress and is subsequently degraded by the 26S proteasome. A natural variant of TaOST1B fails to bind P1 and regulate its N-glycosylation, which induces ER stress and proteasome-mediated degradation to attenuate WYMV infection. Our study identifies an oligosaccharyltransferases as being utilized by VSR to promote viral infection, offering insights into the arms race between plants and viruses.",
       "summaryZh": "RNA 沉默的病毒抑制因子 (VSR) 对于病毒感染至关重要。在这里，我们证明小麦（Triticum aestivum）寡糖转移酶（TaOST1B）与小麦黄花叶病毒（WYMV）的抗性相关。 TaOST1B 与 WYMV 编码的 P1 相互作用，并通过 N-糖基化其 116 位天冬酰胺残基来增强 P1 的 VSR 功能。这通过与核转运蛋白 TaIMP-α2 相互作用增加 P1 的核内积累，并阻断钙调蛋白 (CaM3) 和 CaM 结合转录激活剂 (CaMTA3) 之间的相互作用以抑制 RNA 干扰。然而，非糖基化的 P1 失去了 VSR 功能并形成聚集体，引发内质网 (ER) 应激，随后被 26S 蛋白酶体降解。 TaOST1B 的天然变体无法结合 P1 并调节其 N-糖基化，从而诱导 ER 应激和蛋白酶体介导的降解，从而减弱 WYMV 感染。我们的研究确定了 VSR 利用寡糖转移酶来促进病毒感染，为植物和病毒之间的军备竞赛提供了见解。",
       "translationSource": "c428aac3a04cc02d"
-    },
-    {
-      "pmid": "42457930",
-      "title": "Lysosomes and lysosomal dysfunction in ageing biology.",
-      "titleZh": "衰老生物学中的溶酶体和溶酶体功能障碍。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-07-15",
-      "doi": "10.1038/s41556-026-02007-6",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02007-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42457930/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Lysosomes are essential regulators of cellular homeostasis. Emerging evidence positions lysosomes as both vulnerable targets and active drivers of ageing biology. During ageing, lysosomes exhibit impaired biogenesis, defective acidification, reduced hydrolytic activity and compromised membrane integrity. These defects impair the clearance of damaged organelles and macromolecules and promote cellular stress responses, inflammageing and senescence, causing age-dependent functional decline across tissues. Lysosomal dysfunction has been increasingly linked to age-related diseases, including neurodegeneration, cardiometabolic disorders and increased susceptibility to infection, among others. Thus, lysosomal dysfunction is a hallmark of ageing that drives age-related pathology. Here we review recent progress in lysosomal biogenesis and quality control, discuss how lysosomes intersect with fundamental ageing mechanisms and evaluate emerging therapeutic strategies that target lysosomes to promote healthy ageing and potentially ameliorate age-associated pathologies.",
-      "summaryZh": "溶酶体是细胞稳态的重要调节剂。新的证据将溶酶体定位为衰老生物学的脆弱目标和主动驱动因素。在衰老过程中，溶酶体表现出生物发生受损、酸化缺陷、水解活性降低和膜完整性受损。这些缺陷会损害受损细胞器和大分子的清除，并促进细胞应激反应、炎症和衰老，导致跨组织的年龄依赖性功能衰退。溶酶体功能障碍与年龄相关疾病的关系日益密切，包括神经退行性疾病、心脏代谢紊乱和感染易感性增加等。因此，溶酶体功能障碍是衰老的一个标志，会导致与年龄相关的病理。在这里，我们回顾了溶酶体生物发生和质量控制方面的最新进展，讨论了溶酶体如何与基本衰老机制相交叉，并评估了针对溶酶体促进健康衰老并可能改善与年龄相关的病理的新兴治疗策略。",
-      "translationSource": "1cd429ba04c24380"
     },
     {
       "pmid": "42456647",
