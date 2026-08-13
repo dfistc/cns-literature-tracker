@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-08-12T00:50:13+00:00",
+  "updatedAt": "2026-08-13T00:52:04+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42585340",
+      "title": "Mitochondrial stress activates ELT-2-dependent lysosomal proteostasis to extend lifespan in C. elegans .",
+      "titleZh": "线粒体应激激活 ELT-2 依赖性溶酶体蛋白质稳态，以延长线虫的寿命。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-14",
+      "doi": "10.1126/sciadv.aeh0657",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh0657",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42585340/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, proteostasis。",
+      "abstractEn": "Mild mitochondrial stress could extend lifespan across species, yet the underlying mechanism remains unclear. Here, we show that inhibition of mitochondrial respiration induces a sustained transcriptional program that enhances lysosomal proteolysis during aging in Caenorhabditis elegans . Mechanistically, this response is primarily regulated by the intestinal GATA transcription factor ELT-2, which retains high expression and directly binds to GATA motifs in the promoters of lysosomal protease genes to promote their transcriptional activation. Moreover, we identified R249 within the conserved zinc-finger DNA binding domain of ELT-2 as a key residue required for its transcriptional activity. Notably, this mitochondrion-ELT-2-lysosome axis operates largely independently of the mitochondrial unfolded protein response (UPR mt ) to counteract aging. Furthermore, increased lysosomal activity, as well as the lysosomal proteases CPR-5 and CPR-8, is essential for mitochondrial stress-induced clearance of toxic polyglutamine (polyQ) aggregates and lifespan extension. Together, our findings reveal a previously unrecognized ELT-2-dependent lysosomal proteostasis pathway that acts downstream of mitochondrial stress to maintain protein homeostasis and promote longevity.",
+      "summaryZh": "轻度线粒体应激可以延长物种的寿命，但其潜在机制仍不清楚。在这里，我们发现，线粒体呼吸的抑制会诱导持续的转录程序，从而增强秀丽隐杆线虫衰老过程中的溶酶体蛋白水解作用。从机制上讲，这种反应主要受到肠道 GATA 转录因子 ELT-2 的调节，ELT-2 保持高表达并直接与溶酶体蛋白酶基因启动子中的 GATA 基序结合，促进其转录激活。此外，我们还确定了 ELT-2 保守锌指 DNA 结合域内的 R249 是其转录活性所需的关键残基。值得注意的是，这种线粒体-ELT-2-溶酶体轴在很大程度上独立于线粒体未折叠蛋白反应（UPR mt ）来对抗衰老。此外，溶酶体活性的增加以及溶酶体蛋白酶 CPR-5 和 CPR-8 对于线粒体应激诱导的有毒聚谷氨酰胺 (polyQ) 聚集物的清除和寿命的延长至关重要。总之，我们的研究结果揭示了一种先前未被认识的 ELT-2 依赖性溶酶体蛋白质稳态途径，该途径在线粒体应激下游发挥作用，以维持蛋白质稳态并促进寿命。",
+      "translationSource": "e02f6e3656b24eb7"
+    },
+    {
+      "pmid": "42585307",
+      "title": "Mito-TEMPO improves survival rates in npc1 -knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2.",
+      "titleZh": "Mito-TEMPO 通过减少氧化应激并通过 Sod2 增强线粒体自噬来提高 npc1 敲除斑马鱼的存活率。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-14",
+      "doi": "10.1126/sciadv.aee0509",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee0509",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42585307/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Niemann-Pick type C (NPC) disease is a lysosomal storage disorder primarily caused by mutations in the NPC1 gene. Most patients present with early-life symptoms including hepatosplenomegaly and digestive system impairment, followed by progressive neurodegeneration. However, effective therapeutic approaches to improve survival in NPC disease remain limited. In this study, using an npc1 -knockout (NPC1-KO) zebrafish model established in our laboratory, our team suggests that npc1 deficiency appears to correlate with marked down-regulation of superoxide dismutase 2 (Sod2) expression, concurrent with excessive oxidative stress (OS), mitochondrial dysfunction, and defective mitophagy. Treatment with Mito-TEMPO, a mitochondria-targeted antioxidant acting on SOD, increased survival rates and ameliorated cholesterol accumulation and liver function impairment in early-stage NPC1-KO zebrafish. The underlying mechanism may involve attenuation of OS and promotion of PINK1/Parkin-dependent mitophagic flux through SOD2 enhancement. Our findings support Mito-TEMPO as a potential therapeutic agent and SOD2 as a possible target for NPC disease.",
+      "summaryZh": "C 型尼曼-匹克 (NPC) 病是一种溶酶体贮积症，主要由 NPC1 基因突变引起。大多数患者出现早期症状，包括肝脾肿大和消化系统损伤，随后出现进行性神经退行性变。然而，提高鼻咽癌患者生存率的有效治疗方法仍然有限。在这项研究中，我们的团队使用我们实验室建立的 npc1 敲除 (NPC1-KO) 斑马鱼模型，表明 npc1 缺陷似乎与超氧化物歧化酶 2 (Sod2) 表达显着下调相关，同时伴有过度氧化应激 (OS)、线粒体功能障碍和线粒体自噬缺陷。 Mito-TEMPO（一种作用于 SOD 的线粒体靶向抗氧化剂）治疗可提高早期 NPC1-KO 斑马鱼的存活率并改善胆固醇积累和肝功能损伤。潜在机制可能涉及 OS 减弱和通过 SOD2 增强促进 PINK1/Parkin 依赖性线粒体自噬通量。我们的研究结果支持 Mito-TEMPO 作为潜在的治疗剂，并支持 SOD2 作为鼻咽癌疾病的可能靶标。",
+      "translationSource": "126e32564ece6a29"
+    },
+    {
+      "pmid": "42581047",
+      "title": "PA200 modulates immunoproteasome structure and activity.",
+      "titleZh": "PA200 调节免疫蛋白酶体结构和活性。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-11",
+      "doi": "10.1038/s41467-026-75325-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75325-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42581047/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "The proteasome activator PA200 binds to the catalytic core of both standard proteasome (s20S) and the immunoproteasome (i20S); however, whether PA200 uses the same mechanisms to activate i20S remains unknown. In this work, the cryo-EM structures of singly- and doubly-capped i20S-PA200 complexes, combined with complementary in vitro biochemical assays, show that binding of the first PA200 induces allosteric bending of the i20S and widens the opposite α-ring, promoting higher PA200 occupancy and stronger activation compared to the s20S. PA200 also selectively modulates i20S proteolytic activity by enhancing peptide production and shifting cleavage specificity toward caspase-like activity. In cells and tissues co-expressing PA200, s20S, and i20S, PA200 preferentially associates with the i20S. Moreover, PA200 and i20S catalytic subunits are differentially regulated, with PA200 playing a potential role in regulating the i20S subunits' expression. Overall, these findings suggest that PA200 contributes to the regulation of i20S function and dynamics.",
+      "summaryZh": "蛋白酶体激活剂 PA200 与标准蛋白酶体 (s20S) 和免疫蛋白酶体 (i20S) 的催化核心结合；然而，PA200是否使用相同的机制来激活i20S仍然未知。在这项工作中，单端和双端 i20S-PA200 复合物的冷冻电镜结构，结合互补的体外生化测定，表明第一个 PA200 的结合诱导 i20S 的变构弯曲并加宽相反的 α 环，与 s20S 相比，促进更高的 PA200 占有率和更强的激活。 PA200 还通过增强肽生成并将切割特异性转向半胱天冬酶样活性来选择性调节 i20S 蛋白水解活性。在共表达 PA200、s20S 和 i20S 的细胞和组织中，PA200 优先与 i20S 结合。此外，PA200和i20S催化亚基受到差异性调节，其中PA200在调节i20S亚基的表达中发挥潜在作用。总的来说，这些发现表明 PA200 有助于调节 i20S 功能和动力学。",
+      "translationSource": "117da1f2c8a3e8fc"
+    },
     {
       "pmid": "42555719",
       "title": "Renoprotective effects of tubular glucagon receptor activation mediated by V-ATPase.",
@@ -4404,27 +4469,6 @@
       "translationSource": "923546541321c206"
     },
     {
-      "pmid": "42161960",
-      "title": "Hepatic SNHG9 links gut microbiota to liver protection in drug-induced liver injury.",
-      "titleZh": "肝脏 SNHG9 将肠道微生物群与药物性肝损伤中的肝脏保护联系起来。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-05-20",
-      "doi": "10.1038/s41467-026-73309-4",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73309-4",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42161960/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Drug-induced liver injury (DILI) is a leading cause of acute liver failure, posing a significant public health burden. Emerging evidence underscores the gut microbiota as a critical environmental factor that profoundly influences liver function and DILI progression, yet the underlying mechanisms remain poorly understood. Here, we identify hepatic long non-coding RNA SNHG9 as a key mediator linking the gut microbiota to acetaminophen (APAP)-induced liver injury. Upregulation of hepatic SNHG9 protects against hepatotoxicity by activating MAS, a G protein-coupled receptor that facilitates the clearance of cellular damage via enhanced autophagy. Mechanistically, SNHG9 binds to insulin-like growth factor 2 mRNA-binding protein 2 (IMP2), enhancing its interaction with MYC mRNA and suppressing MYC translation. Since MYC acts as a transcriptional repressor of the MAS1 gene, this suppression leads to upregulated MAS expression. Notably, hepatic SNHG9 expression is modulated by the gut microbiota, particularly through the metabolite 2-hydroxy 2-methylbutyric acid (HMB). Supplementation with HMB or HMB-producing microbes robustly induces hepatic SNHG9 expression and attenuates APAP-induced liver injury. Our findings unveil a previously unrecognized gut-liver axis and provide mechanistic insight into how gut microbiota regulate hepatic stress responses, suggesting potential avenues for modulating this pathway in drug-induced liver injury.",
-      "summaryZh": "药物性肝损伤（DILI）是急性肝衰竭的主要原因，给公众健康带来了重大负担。新的证据强调肠道微生物群是一个关键的环境因素，深刻影响肝功能和 DILI 进展，但其潜在机制仍知之甚少。在这里，我们确定肝脏长链非编码 RNA SNHG9 是连接肠道微生物群与对乙酰氨基酚 (APAP) 诱导的肝损伤的关键介质。肝脏 SNHG9 的上调可通过激活 MAS 来防止肝毒性，MAS 是一种 G 蛋白偶联受体，可通过增强的自噬促进细胞损伤的清除。从机制上讲，SNHG9 与胰岛素样生长因子 2 mRNA 结合蛋白 2 (IMP2) 结合，增强其与 MYC mRNA 的相互作用并抑制 MYC 翻译。由于 MYC 充当 MAS1 基因的转录抑制因子，这种抑制会导致 MAS 表达上调。值得注意的是，肝脏 SNHG9 表达受到肠道微生物群的调节，特别是通过代谢物 2-羟基 2-甲基丁酸 (HMB)。补充 HMB 或产生 HMB 的微生物可强力诱导肝脏 SNHG9 表达并减轻 APAP 诱导的肝损伤。我们的研究结果揭示了以前未被认识的肠-肝轴，并为肠道微生物群如何调节肝脏应激反应提供了机制见解，提示了在药物引起的肝损伤中调节这一途径的潜在途径。",
-      "translationSource": "55ab22c9063cd2c3"
-    },
-    {
       "pmid": "42161910",
       "title": "Interpretable deep learning framework for mapping E3-substrate binding interfaces.",
       "titleZh": "用于映射 E3 基底绑定接口的可解释深度学习框架。",
@@ -4444,6 +4488,27 @@
       "abstractEn": "E3 ubiquitin ligases recognize substrates through specific interfaces. Accurate delineation of these interfaces is essential, as mutations disrupting them impair protein ubiquitination and drive cancer progression. However, available E3-substrate interface data are sparse and systematic prediction methods remain lacking. Here, we propose MetaESI, a deep learning framework that simultaneously predicts E3-substrate interactions and leverages its interpretable architecture to infer binding interfaces de novo. With a two-stage meta-learning strategy, MetaESI generalizes across diverse E3s and achieves state-of-the-art performance in both interaction and interface prediction. We applied MetaESI at the proteome scale to generate MetaESI-Atlas, which comprises 68,056 annotated interactions across eight species. Integrating multi-omics data, we identified mutations at MetaESI-predicted interfaces that disrupt E3-substrate binding, and experimentally validated representative examples including JunB Q244E and SPOP F102C as oncogenic drivers. By combining interpretable AI with mechanistic insight, MetaESI establishes a methodological paradigm for interpretable model design and a foundational resource for precision oncology and targeted protein degradation.",
       "summaryZh": "E3 泛素连接酶通过特定界面识别底物。准确描述这些界面至关重要，因为破坏它们的突变会损害蛋白质泛素化并推动癌症进展。然而，可用的 E3-基底界面数据很少，并且仍然缺乏系统的预测方法。在这里，我们提出了 MetaESI，这是一个深度学习框架，它可以同时预测 E3 与基质的相互作用，并利用其可解释的架构从头推断结合界面。通过两阶段元学习策略，MetaESI 可以推广到不同的 E3，并在交互和界面预测方面实现最先进的性能。我们在蛋白质组规模上应用 MetaESI 来生成 MetaESI-Atlas，其中包含 8 个物种的 68,056 个带注释的相互作用。整合多组学数据，我们确定了 MetaESI 预测的界面上破坏 E3 底物结合的突变，并通过实验验证了代表性示例，包括作为致癌驱动因素的 JunB Q244E 和 SPOP F102C。通过将可解释的人工智能与机制洞察相结合，MetaESI 建立了可解释模型设计的方法范式以及精准肿瘤学和靶向蛋白质降解的基础资源。",
       "translationSource": "f1a82c923f74beb1"
+    },
+    {
+      "pmid": "42161960",
+      "title": "Hepatic SNHG9 links gut microbiota to liver protection in drug-induced liver injury.",
+      "titleZh": "肝脏 SNHG9 将肠道微生物群与药物性肝损伤中的肝脏保护联系起来。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-05-20",
+      "doi": "10.1038/s41467-026-73309-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73309-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42161960/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Drug-induced liver injury (DILI) is a leading cause of acute liver failure, posing a significant public health burden. Emerging evidence underscores the gut microbiota as a critical environmental factor that profoundly influences liver function and DILI progression, yet the underlying mechanisms remain poorly understood. Here, we identify hepatic long non-coding RNA SNHG9 as a key mediator linking the gut microbiota to acetaminophen (APAP)-induced liver injury. Upregulation of hepatic SNHG9 protects against hepatotoxicity by activating MAS, a G protein-coupled receptor that facilitates the clearance of cellular damage via enhanced autophagy. Mechanistically, SNHG9 binds to insulin-like growth factor 2 mRNA-binding protein 2 (IMP2), enhancing its interaction with MYC mRNA and suppressing MYC translation. Since MYC acts as a transcriptional repressor of the MAS1 gene, this suppression leads to upregulated MAS expression. Notably, hepatic SNHG9 expression is modulated by the gut microbiota, particularly through the metabolite 2-hydroxy 2-methylbutyric acid (HMB). Supplementation with HMB or HMB-producing microbes robustly induces hepatic SNHG9 expression and attenuates APAP-induced liver injury. Our findings unveil a previously unrecognized gut-liver axis and provide mechanistic insight into how gut microbiota regulate hepatic stress responses, suggesting potential avenues for modulating this pathway in drug-induced liver injury.",
+      "summaryZh": "药物性肝损伤（DILI）是急性肝衰竭的主要原因，给公众健康带来了重大负担。新的证据强调肠道微生物群是一个关键的环境因素，深刻影响肝功能和 DILI 进展，但其潜在机制仍知之甚少。在这里，我们确定肝脏长链非编码 RNA SNHG9 是连接肠道微生物群与对乙酰氨基酚 (APAP) 诱导的肝损伤的关键介质。肝脏 SNHG9 的上调可通过激活 MAS 来防止肝毒性，MAS 是一种 G 蛋白偶联受体，可通过增强的自噬促进细胞损伤的清除。从机制上讲，SNHG9 与胰岛素样生长因子 2 mRNA 结合蛋白 2 (IMP2) 结合，增强其与 MYC mRNA 的相互作用并抑制 MYC 翻译。由于 MYC 充当 MAS1 基因的转录抑制因子，这种抑制会导致 MAS 表达上调。值得注意的是，肝脏 SNHG9 表达受到肠道微生物群的调节，特别是通过代谢物 2-羟基 2-甲基丁酸 (HMB)。补充 HMB 或产生 HMB 的微生物可强力诱导肝脏 SNHG9 表达并减轻 APAP 诱导的肝损伤。我们的研究结果揭示了以前未被认识的肠-肝轴，并为肠道微生物群如何调节肝脏应激反应提供了机制见解，提示了在药物引起的肝损伤中调节这一途径的潜在途径。",
+      "translationSource": "55ab22c9063cd2c3"
     },
     {
       "pmid": "42025162",
