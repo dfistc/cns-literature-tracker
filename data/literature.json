@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T00:52:04+00:00",
+  "updatedAt": "2026-08-14T00:50:46+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -46,6 +46,94 @@
       "abstractEn": "Niemann-Pick type C (NPC) disease is a lysosomal storage disorder primarily caused by mutations in the NPC1 gene. Most patients present with early-life symptoms including hepatosplenomegaly and digestive system impairment, followed by progressive neurodegeneration. However, effective therapeutic approaches to improve survival in NPC disease remain limited. In this study, using an npc1 -knockout (NPC1-KO) zebrafish model established in our laboratory, our team suggests that npc1 deficiency appears to correlate with marked down-regulation of superoxide dismutase 2 (Sod2) expression, concurrent with excessive oxidative stress (OS), mitochondrial dysfunction, and defective mitophagy. Treatment with Mito-TEMPO, a mitochondria-targeted antioxidant acting on SOD, increased survival rates and ameliorated cholesterol accumulation and liver function impairment in early-stage NPC1-KO zebrafish. The underlying mechanism may involve attenuation of OS and promotion of PINK1/Parkin-dependent mitophagic flux through SOD2 enhancement. Our findings support Mito-TEMPO as a potential therapeutic agent and SOD2 as a possible target for NPC disease.",
       "summaryZh": "C 型尼曼-匹克 (NPC) 病是一种溶酶体贮积症，主要由 NPC1 基因突变引起。大多数患者出现早期症状，包括肝脾肿大和消化系统损伤，随后出现进行性神经退行性变。然而，提高鼻咽癌患者生存率的有效治疗方法仍然有限。在这项研究中，我们的团队使用我们实验室建立的 npc1 敲除 (NPC1-KO) 斑马鱼模型，表明 npc1 缺陷似乎与超氧化物歧化酶 2 (Sod2) 表达显着下调相关，同时伴有过度氧化应激 (OS)、线粒体功能障碍和线粒体自噬缺陷。 Mito-TEMPO（一种作用于 SOD 的线粒体靶向抗氧化剂）治疗可提高早期 NPC1-KO 斑马鱼的存活率并改善胆固醇积累和肝功能损伤。潜在机制可能涉及 OS 减弱和通过 SOD2 增强促进 PINK1/Parkin 依赖性线粒体自噬通量。我们的研究结果支持 Mito-TEMPO 作为潜在的治疗剂，并支持 SOD2 作为鼻咽癌疾病的可能靶标。",
       "translationSource": "126e32564ece6a29"
+    },
+    {
+      "pmid": "42586968",
+      "title": "Youth-associated protein TIMP2 regulates microglial state and function in healthy and aged mice.",
+      "titleZh": "青年相关蛋白 TIMP2 调节健康和老年小鼠的小胶质细胞状态和功能。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-12",
+      "doi": "10.1038/s41467-026-74906-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-74906-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42586968/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "There is little understanding of how aging serves as the strongest risk factor for several neurodegenerative diseases. Microglia undergo age-related maladaptive changes, including increased inflammation, impaired debris clearance, and cellular senescence, yet specific mediators that regulate these processes remain unclear. The aged brain is rejuvenated by youth-associated plasma factors, including tissue inhibitor of metalloproteinases 2 (TIMP2), which we have shown acts on the extracellular matrix (ECM) to regulate synaptic plasticity. Given emerging roles for microglia in these processes, we examined the impact of TIMP2 on microglial function. We show that TIMP2 deletion in mice exacerbates microglial phenotypes associated with aging, including transcriptomic changes in cell activation, changes in lysosomal-associated markers and phagocytosis, and elevated levels of stress and inflammatory proteins in the brain extracellular space measured by in vivo microdialysis. Deleting specific cellular pools of TIMP2 in vivo increases microglial CD68 and alters myelin phagocytosis. Treating aged mice with TIMP2 reverses several phenotypes observed in our deletion models, resulting in decreased microglial activation, reduced proportions of proinflammatory microglia, and enhanced phagocytosis of physiological substrates. Our results identify TIMP2 as a modulator of age-associated microglia dysfunction. Harnessing its activity may mitigate detrimental effects of age-associated insults on microglia function.",
+      "summaryZh": "人们对衰老如何成为几种神经退行性疾病的最强危险因素知之甚少。小胶质细胞经历与年龄相关的适应不良变化，包括炎症增加、碎片清除受损和细胞衰老，但调节这些过程的特定介质仍不清楚。年轻相关的血浆因子可以使衰老的大脑恢复活力，其中包括金属蛋白酶组织抑制剂 2 (TIMP2)，我们已经证明它可以作用于细胞外基质 (ECM) 来调节突触可塑性。鉴于小胶质细胞在这些过程中的新作用，我们研究了 TIMP2 对小胶质细胞功能的影响。我们发现，小鼠中 TIMP2 缺失加剧了与衰老相关的小胶质细胞表型，包括细胞活化的转录组变化、溶酶体相关标记和吞噬作用的变化，以及通过体内微透析测量的大脑细胞外间隙中应激和炎症蛋白水平的升高。体内删除 TIMP2 的特定细胞池会增加小胶质细胞 CD68 并改变髓磷脂吞噬作用。用 TIMP2 治疗老年小鼠可逆转我们的缺失模型中观察到的几种表型，导致小胶质细胞活化减少、促炎性小胶质细胞比例减少以及生理底物的吞噬作用增强。我们的结果表明 TIMP2 是年龄相关小胶质细胞功能障碍的调节剂。利用其活性可以减轻与年龄相关的损伤对小胶质细胞功能的有害影响。",
+      "translationSource": "1e5d7729a09f69e9"
+    },
+    {
+      "pmid": "42587154",
+      "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys.",
+      "titleZh": "用于小鼠和猴子血糖调节的葡萄糖反应性益生菌。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-12",
+      "doi": "10.1038/s41586-026-10909-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10909-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42587154/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic gene circuit",
+        "gene circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic gene circuit, gene circuit。",
+      "abstractEn": "Sustained and controlled delivery of glucose-lowering agents using engineered designer cells is recognized as an effective strategy for diabetes therapy 1 . However, current technologies rely on external signal control or have been programmed into mammalian cells using synthetic gene networks, which pose safety concerns arising from transplantation 2,3 . Here we developed an engineered oral-deliverable glucose-sensing and functional response probiotic living drug for 'sense-and-respond'-based control of diabetic blood glucose. We created a glucose sensor based on a synthetic gene circuit that incorporates the glucose-responsive transcriptional regulator HexR, coupled with a synthetic promoter. Upon oral administration of the engineered probiotics carrying the sensor, the cells reside temporarily in the intestine and regulate the expression of therapeutic transgenes in response to glucose levels that exceed the normal threshold. We show efficacy from the engineered probiotics for glycaemic control in multiple diabetic mouse and non-human primate models, demonstrating that long-term oral administration drives clear improvements in lipid profiles, while also attenuating development of multiple diabetic complications. Our probiotics-based living drug enables therapeutic dosing in response to real-time blood glucose levels, providing a programmable, orally deliverable sense-and-respond platform for metabolic therapy without transplantation.",
+      "summaryZh": "使用工程设计细胞持续和受控地输送降糖药物被认为是糖尿病治疗的有效策略 1 。然而，当前的技术依赖于外部信号控制或已使用合成基因网络编程到哺乳动物细胞中，这引起了移植引起的安全问题 2,3 。在这里，我们开发了一种工程化的口服葡萄糖感应和功能反应益生菌活性药物，用于基于“感应和反应”的糖尿病血糖控制。我们创建了一种基于合成基因电路的葡萄糖传感器，该电路包含葡萄糖响应转录调节因子 HexR 以及合成启动子。口服携带传感器的工程益生菌后，细胞会暂时驻留在肠道中，并根据超过正常阈值的葡萄糖水平调节治疗性转基因的表达。我们在多种糖尿病小鼠和非人类灵长类动物模型中展示了工程益生菌对血糖控制的功效，证明长期口服给药可明显改善血脂状况，同时还可减轻多种糖尿病并发症的发展。我们基于益生菌的活体药物能够根据实时血糖水平进行治疗剂量，为无需移植的代谢治疗提供可编程的、口服的感知和响应平台。",
+      "translationSource": "2805b4a7bbf217b4"
+    },
+    {
+      "pmid": "42586046",
+      "title": "Wiring autophagy: Neural circuits regulate lysosomal homeostasis in muscle.",
+      "titleZh": "接线自噬：神经回路调节肌肉中的溶酶体稳态。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-08-12",
+      "doi": "10.1016/j.devcel.2026.07.008",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.07.008",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42586046/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Autophagy is commonly viewed as a cell-autonomous degradative process governed by intracellular metabolic and stress signals, 1 but how autophagy is coordinated across tissues in multicellular organisms remains unclear. Zheng et al. 2 identify two parallel neuronal circuits that non-cell-autonomously regulate muscle autophagy in C. elegans, revealing an unexpected role for the nervous system in orchestrating peripheral autophagy.",
+      "summaryZh": "自噬通常被认为是一种由细胞内代谢和应激信号控制的细胞自主降解过程，1但自噬如何在多细胞生物的组织中协调仍不清楚。郑等人。图 2 确定了秀丽隐杆线虫中两个非细胞自主调节肌肉自噬的平行神经元回路，揭示了神经系统在协调外周自噬中的意想不到的作用。",
+      "translationSource": "a01f7fc7648bb4e3"
+    },
+    {
+      "pmid": "42372730",
+      "title": "Two parallel neuronal circuits involving electrical synapse and DAF-7/TGF-β signaling regulate muscle autophagy in C. elegans.",
+      "titleZh": "涉及电突触和 DAF-7/TGF-β 信号传导的两个平行神经元回路调节线虫的肌肉自噬。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-08-12",
+      "doi": "10.1016/j.devcel.2026.06.001",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.06.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42372730/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
+      "abstractEn": "The systemic coordination of autophagy during development remains poorly understood. Here, we identify two parallel neuronal circuits that regulate the autophagy-lysosome pathway in the body wall muscle of C. elegans. One circuit, utilizing UNC-7/UNC-9 electrical synapses between AVA interneurons and A-type motor neurons (A-MNs), promotes autophagy by inhibiting neuropeptide release from A-MNs. The other employs the TGF-β-like molecule DAF-7, secreted from ASI sensory neurons, which activates autophagy via the canonical TGF-β pathway. These pathways converge to regulate cytosolic Ca²⁺ levels in the muscle, thereby maintaining lysosomal integrity. Disruption of either circuit elevates Ca²⁺, overactivating calpain. This leads to the accumulation of non-degradative autolysosomes and accelerates muscle degeneration. Our findings elucidate a neuronal mechanism for controlling muscle autophagy and provide insights into the pathogenesis of neurogenic myopathy.",
+      "summaryZh": "发育过程中自噬的系统协调仍然知之甚少。在这里，我们确定了两个平行的神经元回路，它们调节线虫体壁肌肉中的自噬-溶酶体途径。一种电路利用 AVA 中间神经元和 A 型运动神经元 (A-MN) 之间的 UNC-7/UNC-9 电突触，通过抑制 A-MN 释放神经肽来促进自噬。另一种方法采用 ASI 感觉神经元分泌的 TGF-β 样分子 DAF-7，它通过经典的 TGF-β 途径激活自噬。这些途径汇聚在一起调节肌肉中的胞质 Ca2+ 水平，从而维持溶酶体的完整性。任何一个回路的破坏都会导致 Ca2+ 升高，从而过度激活钙蛋白酶。这导致非降解性自溶酶体的积累并加速肌肉退化。我们的研究结果阐明了控制肌肉自噬的神经机制，并为神经源性肌病的发病机制提供了见解。",
+      "translationSource": "1b36a72cb6e2dda6"
     },
     {
       "pmid": "42581047",
@@ -415,6 +503,52 @@
       "translationSource": "3ae21e5bd8d5238b"
     },
     {
+      "pmid": "42587083",
+      "title": "Structural and molecular principles of DAMP biology.",
+      "titleZh": "DAMP 生物学的结构和分子原理。",
+      "journal": "Nature Structural & Molecular Biology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41594-026-01858-9",
+      "doiUrl": "https://doi.org/10.1038/s41594-026-01858-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42587083/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Damage-associated molecular patterns (DAMPs) are endogenous danger signals. They can be preformed molecules released upon membrane rupture and stress-induced or newly generated factors arising during cell death. These signals link cellular demise to diverse host responses. Rather than passive by-products, DAMPs are actively mobilized through membrane-remodeling proteins, vesicular trafficking and metabolic regulation. Conformational changes, oligomerization and post-translational modifications shape their release and immunogenicity, as illustrated by redox-dependent DAMP states, pore-forming gasdermins and MLKL, and NINJ1-mediated membrane rupture. At the sensing interface, receptors such as TLR4, P2X7 and AGER, together with cytosolic STING1 pathways, translate DAMP recognition into downstream signaling through assembly-driven mechanisms. Cross-talk with metabolic pathways and membrane repair systems, including ESCRT-III and autophagy, further refines DAMP signaling dynamics. Here, we survey and contextualize recent literature to provide a structural and molecular framework for understanding how DAMPs encode immune outcomes and highlight opportunities for targeted therapeutic intervention.",
+      "summaryZh": "损伤相关分子模式 (DAMP) 是内源性危险信号。它们可以是膜破裂时释放的预形成分子以及细胞死亡期间产生的应激诱导或新产生的因子。这些信号将细胞死亡与不同的宿主反应联系起来。 DAMP 不是被动的副产品，而是通过膜重塑蛋白、囊泡运输和代谢调节主动动员。构象变化、寡聚化和翻译后修饰决定了它们的释放和免疫原性，如氧化还原依赖性 DAMP 状态、成孔 Gasdermin 和 MLKL 以及 NINJ1 介导的膜破裂所示。在传感界面，TLR4、P2X7 和 AGER 等受体与胞质 STING1 通路一起，通过装配驱动机制将 DAMP 识别转化为下游信号传导。与代谢途径和膜修复系统（包括 ESCRT-III 和自噬）的交互作用进一步完善了 DAMP 信号动力学。在这里，我们对最近的文献进行了调查和背景分析，以提供一个结构和分子框架，用于理解 DAMP 如何编码免疫结果，并强调有针对性的治疗干预的机会。",
+      "translationSource": "55a2bfc78f2e9399"
+    },
+    {
+      "pmid": "42426201",
+      "title": "Lysosome self-sorting nanodegraders for hepatic clearance of pathogenic serum mediators.",
+      "titleZh": "溶酶体自分选纳米降解剂用于肝脏清除致病性血清介质。",
+      "journal": "Nature Nanotechnology",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41565-026-02220-2",
+      "doiUrl": "https://doi.org/10.1038/s41565-026-02220-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42426201/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "extracellular targeted protein degradation",
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, extracellular targeted protein degradation, lysosome, lysosomal。",
+      "abstractEn": "Extracellular targeted protein degradation is an emerging therapeutic strategy but has been rarely explored for clearing circulating pathogenic mediators. Here we report stiffness-oriented lysosome self-sorting nanodegraders (SOLIDs) for hepatic lysosomal degradation of serum immune mediators. SOLIDs feature a rigid semiconducting polymer core that is revealed for the first time to confer near-quantitative lysosomal accumulation across diverse cell types. After surface bioconjugation, SOLIDs capture the immune mediators of interest from blood via controlled protein corona formation. The resulting corona composition directs biodistribution, producing predominant accumulation in the liver, where they get degraded in hepatic lysosomes. We show that IL-6-capturing SOLIDs reduced serum IL-6 by an additional 70% versus IL-6 antibody therapy and increased 7-day survival in a murine sepsis model from 0% to 66.7%. In an acute lung injury model, CpG-capturing SOLIDs reduced pulmonary immune cell infiltration 1.7-fold relative to CpG neutralization and suppressed expression of co-stimulatory molecules. This work identifies nanoparticle mechanics as a critical factor in organelle targeting and proposes a nano-therapeutic approach for the degradation of pathogenic serum biomolecules.",
+      "summaryZh": "细胞外靶向蛋白质降解是一种新兴的治疗策略，但很少探索用于清除循环致病介质。在这里，我们报告了用于血清免疫介质的肝溶酶体降解的刚性导向溶酶体自排序纳米降解剂（SOLID）。固体具有刚性半导体聚合物核心，首次揭示了该核心可在不同细胞类型中实现近乎定量的溶酶体积累。表面生物共轭后，SOLID 通过受控的蛋白质电晕形成从血液中捕获感兴趣的免疫介质。由此产生的电晕成分指导生物分布，在肝脏中产生主要积累，并在肝溶酶体中被降解。我们发现，与 IL-6 抗体疗法相比，捕获 IL-6 的 SOLID 可使血清 IL-6 额外降低 70%，并将小鼠脓毒症模型中的 7 天存活率从 0% 提高到 66.7%。在急性肺损伤模型中，与 CpG 中和相比，捕获 CpG 的 SOLID 使肺部免疫细胞浸润减少了 1.7 倍，并抑制了共刺激分子的表达。这项工作将纳米颗粒力学确定为细胞器靶向的关键因素，并提出了一种降解致病性血清生物分子的纳米治疗方法。",
+      "translationSource": "c7733cbbdfcfc103"
+    },
+    {
       "pmid": "42481857",
       "title": "Design and optimization of a kinase-controlled allosteric switch.",
       "titleZh": "激酶控制的变构开关的设计和优化。",
@@ -521,6 +655,49 @@
       "abstractEn": "Lysosomes are essential regulators of cellular homeostasis. Emerging evidence positions lysosomes as both vulnerable targets and active drivers of ageing biology. During ageing, lysosomes exhibit impaired biogenesis, defective acidification, reduced hydrolytic activity and compromised membrane integrity. These defects impair the clearance of damaged organelles and macromolecules and promote cellular stress responses, inflammageing and senescence, causing age-dependent functional decline across tissues. Lysosomal dysfunction has been increasingly linked to age-related diseases, including neurodegeneration, cardiometabolic disorders and increased susceptibility to infection, among others. Thus, lysosomal dysfunction is a hallmark of ageing that drives age-related pathology. Here we review recent progress in lysosomal biogenesis and quality control, discuss how lysosomes intersect with fundamental ageing mechanisms and evaluate emerging therapeutic strategies that target lysosomes to promote healthy ageing and potentially ameliorate age-associated pathologies.",
       "summaryZh": "溶酶体是细胞稳态的重要调节剂。新的证据将溶酶体定位为衰老生物学的脆弱目标和主动驱动因素。在衰老过程中，溶酶体表现出生物发生受损、酸化缺陷、水解活性降低和膜完整性受损。这些缺陷会损害受损细胞器和大分子的清除，并促进细胞应激反应、炎症和衰老，导致跨组织的年龄依赖性功能衰退。溶酶体功能障碍与年龄相关疾病的关系日益密切，包括神经退行性疾病、心脏代谢紊乱和感染易感性增加等。因此，溶酶体功能障碍是衰老的一个标志，会导致与年龄相关的病理。在这里，我们回顾了溶酶体生物发生和质量控制方面的最新进展，讨论了溶酶体如何与基本衰老机制相交叉，并评估了针对溶酶体促进健康衰老并可能改善与年龄相关的病理的新兴治疗策略。",
       "translationSource": "1cd429ba04c24380"
+    },
+    {
+      "pmid": "42386962",
+      "title": "A secreted endosymbiont protein essential for colonizing host cells.",
+      "titleZh": "一种分泌的内共生蛋白，对于定植宿主细胞至关重要。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41586-026-10711-4",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10711-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42386962/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Intracellular bacterial symbioses have arisen myriad times in eukaryotes, with dozens known from insects alone 1,2 . Beginning with Buchnera, the obligate endosymbiont of aphids, genomes of endosymbionts have illuminated their evolutionary origins and metabolic contributions to hosts 3,4 . However, the mechanisms by which non-culturable endosymbionts enter host cells and suppress cellular immune processes have remained unclear. Here we show that an uncharacterized Buchnera protein, designated SyeA, was present in the Buchnera ancestor, is secreted into the host cytoplasm, is homologous to secreted effectors of bacterial pathogens and is essential for Buchnera transmission. Buchnera is transmitted through expulsion from specialized maternal cells and uptake by embryos 5 . Using immunofluorescence microscopy, we found elevated SyeA levels after colonization of the embryonic cell, accompanied by actin accumulation at the entry site. SyeA localizes outside the host-derived membrane and actin layer surrounding each Buchnera cell within host cytoplasm. Knockdown of syeA expression disrupts colonization of embryos and embryonic development and elevates lysosomal activity, leading to Buchnera destruction 6 . Our findings provide insights into how an anciently associated, mutualistic endosymbiont achieves its intracellular existence. SyeA represents a vestige of pathogenic origins that was followed by evolution of increased host control and erosion of the original, more complex pathogenicity machinery.",
+      "summaryZh": "细胞内细菌共生现象在真核生物中已经出现过无数次，仅昆虫中就有数十种共生现象 1,2 。从蚜虫的专性内共生体 Buchnera 开始，内共生体的基因组已经阐明了它们的进化起源和对宿主的代谢贡献 3,4 。然而，不可培养的内共生体进入宿主细胞并抑制细胞免疫过程的机制仍不清楚。在这里，我们展示了一种未表征的 Buchnera 蛋白，称为 SyeA，存在于 Buchnera 祖先中，分泌到宿主细胞质中，与细菌病原体的分泌效应子同源，并且对于 Buchnera 传播至关重要。 Buchnera 通过从专门的母体细胞中排出并被胚胎吸收而传播 5 。使用免疫荧光显微镜，我们发现胚胎细胞定植后 SyeA 水平升高，并伴随着肌动蛋白在进入位点的积累。 SyeA 位于宿主细胞质内每个 Buchnera 细胞周围的宿主衍生膜和肌动蛋白层之外。 syeA 表达的敲低会破坏胚胎的定植和胚胎发育，并提高溶酶体活性，导致 Buchnera 破坏 6 。我们的研究结果提供了关于古老相关的互利内共生体如何实现其细胞内存在的见解。 SyeA 代表了致病起源的痕迹，随后是宿主控制增强的进化和原始的、更复杂的致病机制的侵蚀。",
+      "translationSource": "e951fc50dac8367b"
+    },
+    {
+      "pmid": "42343138",
+      "title": "Dietary cholesterol activates a Ral-dependent pathway driving LDLR turnover.",
+      "titleZh": "膳食胆固醇激活 Ral 依赖性途径，驱动 LDLR 更新。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41586-026-10697-z",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10697-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42343138/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Metabolism of the hepatic low-density lipoprotein receptor (LDLR) is a key determinant of cholesterol homeostasis 1,2 . The molecular switches that coordinate LDLR trafficking and turnover in response to nutritional cues, including high dietary cholesterol, remain poorly defined 3-6 . Here we identify a new pathway regulated by Ral GTPases that links extracellular cholesterol signals to the intracellular trafficking machinery controlling LDLR turnover. Chronic dietary cholesterol activates the Ral proteins by increasing RAS activity, routing LDLR to lysosomes for degradation and inhibiting its recycling independently of transcriptional regulation or PCSK9. Constitutive activation of Ral via RalGAPB deletion or overexpression of constitutively active Ral mutants in hepatocytes reduces LDLR levels and impairs cholesterol clearance. Ral engages the endocytic RalBP1-REPS1 complex to promote LDLR internalization and lysosomal routing, where LDLR is degraded by the lysosomal protease cathepsin A (CTSA). Ral activation directs CTSA towards lysosomes for maturation while limiting its secretion, further promoting LDLR degradation in lysosomes. Genetic variants in this pathway significantly associate with altered cholesterol in humans. Pharmacological inhibition of CTSA activity increases hepatic LDLR function and improves cholesterol clearance, offering a potential new therapeutic strategy for hypercholesterolaemia and cardiovascular disease.",
+      "summaryZh": "肝脏低密度脂蛋白受体 (LDLR) 的代谢是胆固醇稳态的关键决定因素 1,2 。协调 LDLR 运输和周转以响应营养提示（包括高膳食胆固醇）的分子开关仍然不明确 3-6 。在这里，我们确定了一条受 Ral GTPases 调节的新途径，该途径将细胞外胆固醇信号与控制 LDLR 周转的细胞内运输机制联系起来。长期膳食胆固醇通过增加 RAS 活性、将 LDLR 传送至溶酶体进行降解并独立于转录调控或 PCSK9 抑制其循环来激活 Ral 蛋白。通过肝细胞中 RalGAPB 缺失或组成型活性 Ral 突变体的过度表达来组成型激活 Ral，可降低 LDLR 水平并损害胆固醇清除率。 Ral 与内吞性 RalBP1-REPS1 复合物结合，促进 LDLR 内化和溶酶体路径，其中 LDLR 被溶酶体蛋白酶组织蛋白酶 A (CTSA) 降解。 Ral 激活将 CTSA 引导至溶酶体成熟，同时限制其分泌，进一步促进溶酶体中 LDLR 的降解。该途径中的遗传变异与人类胆固醇的改变显着相关。 CTSA 活性的药理学抑制可增加肝脏 LDLR 功能并改善胆固醇清除率，为高胆固醇血症和心血管疾病提供潜在的新治疗策略。",
+      "translationSource": "400ae5c036e6bf8a"
     },
     {
       "pmid": "42236937",
@@ -1643,31 +1820,6 @@
       "translationSource": "01abed5f4b208fbe"
     },
     {
-      "pmid": "42426201",
-      "title": "Lysosome self-sorting nanodegraders for hepatic clearance of pathogenic serum mediators.",
-      "titleZh": "溶酶体自分选纳米降解剂用于肝脏清除致病性血清介质。",
-      "journal": "Nature Nanotechnology",
-      "year": 2026,
-      "published": "2026-07-09",
-      "doi": "10.1038/s41565-026-02220-2",
-      "doiUrl": "https://doi.org/10.1038/s41565-026-02220-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42426201/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "extracellular targeted protein degradation",
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, extracellular targeted protein degradation, lysosome, lysosomal。",
-      "abstractEn": "Extracellular targeted protein degradation is an emerging therapeutic strategy but has been rarely explored for clearing circulating pathogenic mediators. Here we report stiffness-oriented lysosome self-sorting nanodegraders (SOLIDs) for hepatic lysosomal degradation of serum immune mediators. SOLIDs feature a rigid semiconducting polymer core that is revealed for the first time to confer near-quantitative lysosomal accumulation across diverse cell types. After surface bioconjugation, SOLIDs capture the immune mediators of interest from blood via controlled protein corona formation. The resulting corona composition directs biodistribution, producing predominant accumulation in the liver, where they get degraded in hepatic lysosomes. We show that IL-6-capturing SOLIDs reduced serum IL-6 by an additional 70% versus IL-6 antibody therapy and increased 7-day survival in a murine sepsis model from 0% to 66.7%. In an acute lung injury model, CpG-capturing SOLIDs reduced pulmonary immune cell infiltration 1.7-fold relative to CpG neutralization and suppressed expression of co-stimulatory molecules. This work identifies nanoparticle mechanics as a critical factor in organelle targeting and proposes a nano-therapeutic approach for the degradation of pathogenic serum biomolecules.",
-      "summaryZh": "细胞外靶向蛋白质降解是一种新兴的治疗策略，但很少探索用于清除循环致病介质。在这里，我们报告了用于血清免疫介质的肝溶酶体降解的刚性导向溶酶体自排序纳米降解剂（SOLID）。固体具有刚性半导体聚合物核心，首次揭示了该核心可在不同细胞类型中实现近乎定量的溶酶体积累。表面生物共轭后，SOLID 通过受控的蛋白质电晕形成从血液中捕获感兴趣的免疫介质。由此产生的电晕成分指导生物分布，在肝脏中产生主要积累，并在肝溶酶体中被降解。我们发现，与 IL-6 抗体疗法相比，捕获 IL-6 的 SOLID 可使血清 IL-6 额外降低 70%，并将小鼠脓毒症模型中的 7 天存活率从 0% 提高到 66.7%。在急性肺损伤模型中，与 CpG 中和相比，捕获 CpG 的 SOLID 使肺部免疫细胞浸润减少了 1.7 倍，并抑制了共刺激分子的表达。这项工作将纳米颗粒力学确定为细胞器靶向的关键因素，并提出了一种降解致病性血清生物分子的纳米治疗方法。",
-      "translationSource": "c7733cbbdfcfc103"
-    },
-    {
       "pmid": "42426013",
       "title": "Deep Learning Predicts Dissimilar DNA-DNA Binding and Engineers Hyperconnected Networks.",
       "titleZh": "深度学习预测不同的 DNA-DNA 结合并设计超连接网络。",
@@ -2162,27 +2314,6 @@
       "translationSource": "d4cac93ca0cd2c82"
     },
     {
-      "pmid": "42386962",
-      "title": "A secreted endosymbiont protein essential for colonizing host cells.",
-      "titleZh": "一种分泌的内共生蛋白，对于定植宿主细胞至关重要。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-07-01",
-      "doi": "10.1038/s41586-026-10711-4",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10711-4",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42386962/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Intracellular bacterial symbioses have arisen myriad times in eukaryotes, with dozens known from insects alone 1,2 . Beginning with Buchnera, the obligate endosymbiont of aphids, genomes of endosymbionts have illuminated their evolutionary origins and metabolic contributions to hosts 3,4 . However, the mechanisms by which non-culturable endosymbionts enter host cells and suppress cellular immune processes have remained unclear. Here we show that an uncharacterized Buchnera protein, designated SyeA, was present in the Buchnera ancestor, is secreted into the host cytoplasm, is homologous to secreted effectors of bacterial pathogens and is essential for Buchnera transmission. Buchnera is transmitted through expulsion from specialized maternal cells and uptake by embryos 5 . Using immunofluorescence microscopy, we found elevated SyeA levels after colonization of the embryonic cell, accompanied by actin accumulation at the entry site. SyeA localizes outside the host-derived membrane and actin layer surrounding each Buchnera cell within host cytoplasm. Knockdown of syeA expression disrupts colonization of embryos and embryonic development and elevates lysosomal activity, leading to Buchnera destruction 6 . Our findings provide insights into how an anciently associated, mutualistic endosymbiont achieves its intracellular existence. SyeA represents a vestige of pathogenic origins that was followed by evolution of increased host control and erosion of the original, more complex pathogenicity machinery.",
-      "summaryZh": "细胞内细菌共生现象在真核生物中已经出现过无数次，仅昆虫中就有数十种共生现象 1,2 。从蚜虫的专性内共生体 Buchnera 开始，内共生体的基因组已经阐明了它们的进化起源和对宿主的代谢贡献 3,4 。然而，不可培养的内共生体进入宿主细胞并抑制细胞免疫过程的机制仍不清楚。在这里，我们展示了一种未表征的 Buchnera 蛋白，称为 SyeA，存在于 Buchnera 祖先中，分泌到宿主细胞质中，与细菌病原体的分泌效应子同源，并且对于 Buchnera 传播至关重要。 Buchnera 通过从专门的母体细胞中排出并被胚胎吸收而传播 5 。使用免疫荧光显微镜，我们发现胚胎细胞定植后 SyeA 水平升高，并伴随着肌动蛋白在进入位点的积累。 SyeA 位于宿主细胞质内每个 Buchnera 细胞周围的宿主衍生膜和肌动蛋白层之外。 syeA 表达的敲低会破坏胚胎的定植和胚胎发育，并提高溶酶体活性，导致 Buchnera 破坏 6 。我们的研究结果提供了关于古老相关的互利内共生体如何实现其细胞内存在的见解。 SyeA 代表了致病起源的痕迹，随后是宿主控制增强的进化和原始的、更复杂的致病机制的侵蚀。",
-      "translationSource": "e951fc50dac8367b"
-    },
-    {
       "pmid": "42343134",
       "title": "The mutational landscape of STING-induced immunity.",
       "titleZh": "STING 诱导免疫的突变景观。",
@@ -2288,29 +2419,6 @@
       "abstractEn": "6-Thioguanine (6-TG) is an FDA-approved antimetabolite drug that is widely used clinically, including for the treatment of leukemia. Its cellular effects require metabolic activation and are regulated through interactions with various proteins such as NUDT15, which catalyzes the hydrolysis of the active 6-TG metabolites 6-thio-deoxyGTP (6-thio-dGTP) and 6-thio-GTP. Recent genome-wide CRISPR loss-of-function studies have identified another NUDIX hydrolase, NUDT5, as a crucial mediator of 6-TG toxicity. Here, we develop and validate a selective, cell-active NUDT5 degrader toolkit and orthogonally characterize target engagement, ternary complex formation, degradation kinetics, and proteome-wide selectivity. These degraders, in conjunction with orthogonal CRISPR knock-out and reconstitution experiments, support a non-enzymatic role for NUDT5 in modulating the cellular response to 6-TG. Depletion of NUDT5 protein is antagonistic to NUDT15 inhibition, suggesting a distinct mode-of-action with potential implications for patient therapy.",
       "summaryZh": "6-硫鸟嘌呤 (6-TG) 是 FDA 批准的一种抗代谢药物，在临床上广泛使用，包括用于治疗白血病。其细胞作用需要代谢激活，并通过与各种蛋白质（例如 NUDT15）的相互作用来调节，NUDT15 催化活性 6-TG 代谢物 6-硫代-脱氧 GTP（6-硫代-dGTP）和 6-硫代-GTP 的水解。最近的全基因组 CRISPR 功能丧失研究发现另一种 NUDIX 水解酶 NUDT5 是 6-TG 毒性的关键介质。在这里，我们开发并验证了一种选择性的、细胞活性的 NUDT5 降解工具包，并正交表征靶标参与、三元复合物形成、降解动力学和蛋白质组范围的选择性。这些降解剂与正交 CRISPR 敲除和重建实验相结合，支持 NUDT5 在调节细胞对 6-TG 反应中的非酶作用。 NUDT5 蛋白的消耗与 NUDT15 抑制相反，表明一种独特的作用模式，对患者治疗具有潜在影响。",
       "translationSource": "03590ed8152688eb"
-    },
-    {
-      "pmid": "42372730",
-      "title": "Two parallel neuronal circuits involving electrical synapse and DAF-7/TGF-β signaling regulate muscle autophagy in C. elegans.",
-      "titleZh": "涉及电突触和 DAF-7/TGF-β 信号传导的两个平行神经元回路调节线虫的肌肉自噬。",
-      "journal": "Developmental Cell",
-      "year": 2026,
-      "published": "2026-06-29",
-      "doi": "10.1016/j.devcel.2026.06.001",
-      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.06.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42372730/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
-      "abstractEn": "The systemic coordination of autophagy during development remains poorly understood. Here, we identify two parallel neuronal circuits that regulate the autophagy-lysosome pathway in the body wall muscle of C. elegans. One circuit, utilizing UNC-7/UNC-9 electrical synapses between AVA interneurons and A-type motor neurons (A-MNs), promotes autophagy by inhibiting neuropeptide release from A-MNs. The other employs the TGF-β-like molecule DAF-7, secreted from ASI sensory neurons, which activates autophagy via the canonical TGF-β pathway. These pathways converge to regulate cytosolic Ca²⁺ levels in the muscle, thereby maintaining lysosomal integrity. Disruption of either circuit elevates Ca²⁺, overactivating calpain. This leads to the accumulation of non-degradative autolysosomes and accelerates muscle degeneration. Our findings elucidate a neuronal mechanism for controlling muscle autophagy and provide insights into the pathogenesis of neurogenic myopathy.",
-      "summaryZh": "发育过程中自噬的系统协调仍然知之甚少。在这里，我们确定了两个平行的神经元回路，它们调节线虫体壁肌肉中的自噬-溶酶体途径。一种电路利用 AVA 中间神经元和 A 型运动神经元 (A-MN) 之间的 UNC-7/UNC-9 电突触，通过抑制 A-MN 释放神经肽来促进自噬。另一种方法采用 ASI 感觉神经元分泌的 TGF-β 样分子 DAF-7，它通过经典的 TGF-β 途径激活自噬。这些途径汇聚在一起调节肌肉中的胞质 Ca2+ 水平，从而维持溶酶体的完整性。任何一个回路的破坏都会导致 Ca2+ 升高，从而过度激活钙蛋白酶。这导致非降解性自溶酶体的积累并加速肌肉退化。我们的研究结果阐明了控制肌肉自噬的神经机制，并为神经源性肌病的发病机制提供了见解。",
-      "translationSource": "1b36a72cb6e2dda6"
     },
     {
       "pmid": "42364976",
@@ -2460,28 +2568,6 @@
       "abstractEn": "Phytoalexins are core components of plant chemical defense against pathogens. However, the genetic basis and regulatory mechanisms governing their biosynthesis remain preliminary. Debneyol is a well-defined, broad-spectrum fungicidal phytoalexin. Here, we elucidate its biosynthetic pathway, key regulators, and activity against multiple pathogens. We show that debneyol is synthesized from farnesyl pyrophosphate (FPP) through three steps catalyzed by 5-epi-aristolochene synthase (EAS), 5-epi-aristolochene epoxidase (EAE), and epoxide hydrolase-1 (EH1). MCD1 (miR1919-targeted cell death-factor-1) interacts with EAS and EAE, enhancing their association and EAE activity and promoting debneyol biosynthesis. Increased MCD1 expression confers plant resistance not only against fungal but also viral and bacterial pathogens. Our work reveals a complete plant phytoalexin-based chemical defense machinery, opening avenues for engineering broad-spectrum plant resistance and industrial-scale debneyol production via synthetic biology.",
       "summaryZh": "植物抗毒素是植物化学防御病原体的核心成分。然而，控制其生物合成的遗传基础和调控机制仍处于初步阶段。 Debneyol 是一种性质明确的广谱杀菌植物抗毒素。在这里，我们阐明了其生物合成途径、关键调节因子以及针对多种病原体的活性。我们发现地布尼醇是由法尼基焦磷酸 (FPP) 在 5-表马兜铃烯合酶 (EAS)、5-表马兜铃烯环氧化酶 (EAE) 和环氧化物水解酶 1 (EH1) 催化下经过三个步骤合成的。 MCD1（miR1919 靶向细胞死亡因子-1）与 EAS 和 EAE 相互作用，增强它们的关联和 EAE 活性并促进 debneyol 生物合成。 MCD1 表达增加使植物不仅能抵抗真菌，还能抵抗病毒和细菌病原体。我们的工作揭示了一种完整的基于植物抗毒素的化学防御机制，为通过合成生物学工程广谱植物抗性和工业规模生产地布尼醇开辟了途径。",
       "translationSource": "c657a9f6182b7fe5"
-    },
-    {
-      "pmid": "42343138",
-      "title": "Dietary cholesterol activates a Ral-dependent pathway driving LDLR turnover.",
-      "titleZh": "膳食胆固醇激活 Ral 依赖性途径，驱动 LDLR 更新。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-06-24",
-      "doi": "10.1038/s41586-026-10697-z",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10697-z",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42343138/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Metabolism of the hepatic low-density lipoprotein receptor (LDLR) is a key determinant of cholesterol homeostasis 1,2 . The molecular switches that coordinate LDLR trafficking and turnover in response to nutritional cues, including high dietary cholesterol, remain poorly defined 3-6 . Here we identify a new pathway regulated by Ral GTPases that links extracellular cholesterol signals to the intracellular trafficking machinery controlling LDLR turnover. Chronic dietary cholesterol activates the Ral proteins by increasing RAS activity, routing LDLR to lysosomes for degradation and inhibiting its recycling independently of transcriptional regulation or PCSK9. Constitutive activation of Ral via RalGAPB deletion or overexpression of constitutively active Ral mutants in hepatocytes reduces LDLR levels and impairs cholesterol clearance. Ral engages the endocytic RalBP1-REPS1 complex to promote LDLR internalization and lysosomal routing, where LDLR is degraded by the lysosomal protease cathepsin A (CTSA). Ral activation directs CTSA towards lysosomes for maturation while limiting its secretion, further promoting LDLR degradation in lysosomes. Genetic variants in this pathway significantly associate with altered cholesterol in humans. Pharmacological inhibition of CTSA activity increases hepatic LDLR function and improves cholesterol clearance, offering a potential new therapeutic strategy for hypercholesterolaemia and cardiovascular disease.",
-      "summaryZh": "肝脏低密度脂蛋白受体 (LDLR) 的代谢是胆固醇稳态的关键决定因素 1,2 。协调 LDLR 运输和周转以响应营养提示（包括高膳食胆固醇）的分子开关仍然不明确 3-6 。在这里，我们确定了一条受 Ral GTPases 调节的新途径，该途径将细胞外胆固醇信号与控制 LDLR 周转的细胞内运输机制联系起来。长期膳食胆固醇通过增加 RAS 活性、将 LDLR 传送至溶酶体进行降解并独立于转录调控或 PCSK9 抑制其循环来激活 Ral 蛋白。通过肝细胞中 RalGAPB 缺失或组成型活性 Ral 突变体的过度表达来组成型激活 Ral，可降低 LDLR 水平并损害胆固醇清除率。 Ral 与内吞性 RalBP1-REPS1 复合物结合，促进 LDLR 内化和溶酶体路径，其中 LDLR 被溶酶体蛋白酶组织蛋白酶 A (CTSA) 降解。 Ral 激活将 CTSA 引导至溶酶体成熟，同时限制其分泌，进一步促进溶酶体中 LDLR 的降解。该途径中的遗传变异与人类胆固醇的改变显着相关。 CTSA 活性的药理学抑制可增加肝脏 LDLR 功能并改善胆固醇清除率，为高胆固醇血症和心血管疾病提供潜在的新治疗策略。",
-      "translationSource": "400ae5c036e6bf8a"
     },
     {
       "pmid": "42341763",
@@ -4359,27 +4445,6 @@
       "translationSource": "0cc35483b9cf2bab"
     },
     {
-      "pmid": "42167149",
-      "title": "INSTALLing recombinase-driven genome writing: Engineered single-stranded donors bypass innate immunity to enable large DNA integration.",
-      "titleZh": "安装重组酶驱动的基因组写入：工程单链供体绕过先天免疫，实现大规模 DNA 整合。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-05-21",
-      "doi": "10.1016/j.molcel.2026.04.018",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.04.018",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42167149/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "genome writing"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
-      "abstractEn": "In a recent Nature article, Tou et al. 1 introduce INSTALL, a strategy that couples immune-evasive circular single-stranded DNA (cssDNA) technology with recombinase-based genome editing to overcome innate immune barriers and enable the integration of large DNA cargos.",
-      "summaryZh": "在最近的一篇《自然》文章中，Tou 等人。 1 介绍 INSTALL，这是一种将免疫逃避的环状单链 DNA (cssDNA) 技术与基于重组酶的基因组编辑相结合的策略，以克服先天免疫障碍并实现大型 DNA 货物的整合。",
-      "translationSource": "d8463682a1e57f24"
-    },
-    {
       "pmid": "42086045",
       "title": "CRL2 FEM1B uses heme to recruit BACH1 for degradation and regulate ferroptosis in lung cancer.",
       "titleZh": "CRL2 FEM1B 使用血红素招募 BACH1 进行降解并调节肺癌中的铁死亡。",
@@ -4399,6 +4464,27 @@
       "abstractEn": "Lung cancers frequently increase iron demand to sustain growth, which makes them vulnerable to ferroptosis. While Cullin 2-RING ubiquitin ligases (CRL2s) are critical regulators of stress responses and redox balance, their role in ferroptosis mechanisms remains largely unknown. Here, we identify the E3 ligase CRL2 FEM1B as a key regulator of the ferroptotic response. CRL2 FEM1B recruits BTB and CNC homolog 1 (BACH1), a transcriptional regulator of ferroptosis, for degradation by recognizing a degron that is directly formed by the redox-sensing molecule heme. By degrading BACH1 in response to heme, CRL2 FEM1B acts as a switch that dynamically modulates the transcriptional activation of ferroptosis-protective genes, particularly solute carrier family 7 member 11 (SLC7A11). Loss of CRL2 FEM1B stabilizes BACH1 and suppresses SLC7A11, thereby sensitizing lung tumor cells to ferroptosis inducers in vitro and in preclinical models. Our findings identify CRL2 FEM1B as a target to increase the efficacy of ferroptosis inducers in lung cancer treatment and define a broader principle whereby endogenous metabolites regulate protein degradation by enabling substrate-E3 ligase interactions.",
       "summaryZh": "肺癌经常会增加铁的需求以维持生长，这使得它们容易出现铁死亡。虽然 Cullin 2-RING 泛素连接酶 (CRL2) 是应激反应和氧化还原平衡的关键调节因子，但它们在铁死亡机制中的作用仍然很大程度上未知。在这里，我们将 E3 连接酶 CRL2 FEM1B 确定为铁死亡反应的关键调节因子。 CRL2 FEM1B 招募 BTB 和 CNC 同源物 1 (BACH1)（铁死亡的转录调节因子），通过识别由氧化还原感应分子血红素直接形成的降解决定子进行降解。通过响应血红素降解 BACH1，CRL2 FEM1B 充当一个开关，动态调节铁死亡保护基因的转录激活，特别是溶质载体家族 7 成员 11 (SLC7A11)。 CRL2 FEM1B 的缺失可稳定 BACH1 并抑制 SLC7A11，从而在体外和临床前模型中使肺肿瘤细胞对铁死亡诱导剂敏感。我们的研究结果将 CRL2 FEM1B 确定为提高肺癌治疗中铁死亡诱导剂功效的靶标，并定义了更广泛的原则，即内源代谢物通过实现底物-E3 连接酶相互作用来调节蛋白质降解。",
       "translationSource": "b368a29cf52df371"
+    },
+    {
+      "pmid": "42167149",
+      "title": "INSTALLing recombinase-driven genome writing: Engineered single-stranded donors bypass innate immunity to enable large DNA integration.",
+      "titleZh": "安装重组酶驱动的基因组写入：工程单链供体绕过先天免疫，实现大规模 DNA 整合。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-05-21",
+      "doi": "10.1016/j.molcel.2026.04.018",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.04.018",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42167149/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genome writing"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
+      "abstractEn": "In a recent Nature article, Tou et al. 1 introduce INSTALL, a strategy that couples immune-evasive circular single-stranded DNA (cssDNA) technology with recombinase-based genome editing to overcome innate immune barriers and enable the integration of large DNA cargos.",
+      "summaryZh": "在最近的一篇《自然》文章中，Tou 等人。 1 介绍 INSTALL，这是一种将免疫逃避的环状单链 DNA (cssDNA) 技术与基于重组酶的基因组编辑相结合的策略，以克服先天免疫障碍并实现大型 DNA 货物的整合。",
+      "translationSource": "d8463682a1e57f24"
     },
     {
       "pmid": "42066754",
