@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-08-14T00:50:46+00:00",
+  "updatedAt": "2026-08-15T00:28:51+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42600042",
+      "title": "A dendritic cell autophagy-neutrophil axis limits intratumoral STING immunotherapy.",
+      "titleZh": "树突状细胞自噬-中性粒细胞轴限制了瘤内 STING 免疫治疗。",
+      "journal": "Science Immunology",
+      "year": 2026,
+      "published": "2026-08-14",
+      "doi": "10.1126/sciimmunol.adw6399",
+      "doiUrl": "https://doi.org/10.1126/sciimmunol.adw6399",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42600042/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway promotes tumor immunogenicity, but intratumoral STING agonists, despite strong preclinical efficacy, have shown limited clinical efficacy. The mechanisms restricting therapeutic STING activation remain unclear. In mice, intratumoral delivery of the endogenous STING ligand cyclic guanosine monophosphate-adenosine monophosphate (GMP-AMP) (cGAMP) using viruslike particles (VLPs) preferentially activates STING in dendritic cells and primes circulating tumor-specific T cells. Using this system, we investigated mechanisms limiting effective STING-based immunotherapy. STING-induced type I interferon signaling was dispensable for cGAMP-VLP-mediated tumor control. In contrast, dendritic cell autophagy was required for generating circulating antitumor CD8 T cells and for regulating baseline neutrophil levels in lymph nodes. cGAMP-VLP overrode this regulation, inducing neutrophil accumulation in tumors and draining lymph nodes that limited efficacy. Neutrophil depletion enhanced tumor control through mechanisms involving neutrophil elastase and programmed cell death 1 ligand 1. These findings reveal that defective dendritic cell autophagy and neutrophil-mediated immunosuppression, rather than insufficient interferon signaling, hinder the effectiveness of intratumoral STING immunotherapy in preclinical mouse models.",
+      "summaryZh": "环 GMP-AMP 合酶 (cGAS) 干扰素基因刺激剂 (STING) 途径可促进肿瘤免疫原性，但肿瘤内 STING 激动剂尽管临床前疗效很强，但临床疗效有限。限制治疗性 STING 激活的机制仍不清楚。在小鼠中，使用病毒样颗粒 (VLP) 向肿瘤内递送内源性 STING 配体环磷酸鸟苷 - 磷酸腺苷 (GMP-AMP) (cGAMP) 会优先激活树突状细胞中的 STING，并启动循环肿瘤特异性 T 细胞。使用该系统，我们研究了限制基于 STING 的有效免疫疗法的机制。 STING 诱导的 I 型干扰素信号传导对于 cGAMP-VLP 介导的肿瘤控制是可有可无的。相比之下，树突状细胞自噬对于产生循环抗肿瘤 CD8 T 细胞和调节淋巴结中的基线中性粒细胞水平是必需的。 cGAMP-VLP 推翻了这一调节，诱导肿瘤中中性粒细胞积聚并引流淋巴结，从而限制了疗效。中性粒细胞耗竭通过涉及中性粒细胞弹性蛋白酶和程序性细胞死亡1配体1的机制增强了肿瘤控制。这些发现表明，有缺陷的树突状细胞自噬和中性粒细胞介导的免疫抑制，而不是干扰素信号传导不足，阻碍了临床前小鼠模型中肿瘤内STING免疫疗法的有效性。",
+      "translationSource": "42783b0bb735a727"
+    },
     {
       "pmid": "42585340",
       "title": "Mitochondrial stress activates ELT-2-dependent lysosomal proteostasis to extend lifespan in C. elegans .",
@@ -46,6 +67,49 @@
       "abstractEn": "Niemann-Pick type C (NPC) disease is a lysosomal storage disorder primarily caused by mutations in the NPC1 gene. Most patients present with early-life symptoms including hepatosplenomegaly and digestive system impairment, followed by progressive neurodegeneration. However, effective therapeutic approaches to improve survival in NPC disease remain limited. In this study, using an npc1 -knockout (NPC1-KO) zebrafish model established in our laboratory, our team suggests that npc1 deficiency appears to correlate with marked down-regulation of superoxide dismutase 2 (Sod2) expression, concurrent with excessive oxidative stress (OS), mitochondrial dysfunction, and defective mitophagy. Treatment with Mito-TEMPO, a mitochondria-targeted antioxidant acting on SOD, increased survival rates and ameliorated cholesterol accumulation and liver function impairment in early-stage NPC1-KO zebrafish. The underlying mechanism may involve attenuation of OS and promotion of PINK1/Parkin-dependent mitophagic flux through SOD2 enhancement. Our findings support Mito-TEMPO as a potential therapeutic agent and SOD2 as a possible target for NPC disease.",
       "summaryZh": "C 型尼曼-匹克 (NPC) 病是一种溶酶体贮积症，主要由 NPC1 基因突变引起。大多数患者出现早期症状，包括肝脾肿大和消化系统损伤，随后出现进行性神经退行性变。然而，提高鼻咽癌患者生存率的有效治疗方法仍然有限。在这项研究中，我们的团队使用我们实验室建立的 npc1 敲除 (NPC1-KO) 斑马鱼模型，表明 npc1 缺陷似乎与超氧化物歧化酶 2 (Sod2) 表达显着下调相关，同时伴有过度氧化应激 (OS)、线粒体功能障碍和线粒体自噬缺陷。 Mito-TEMPO（一种作用于 SOD 的线粒体靶向抗氧化剂）治疗可提高早期 NPC1-KO 斑马鱼的存活率并改善胆固醇积累和肝功能损伤。潜在机制可能涉及 OS 减弱和通过 SOD2 增强促进 PINK1/Parkin 依赖性线粒体自噬通量。我们的研究结果支持 Mito-TEMPO 作为潜在的治疗剂，并支持 SOD2 作为鼻咽癌疾病的可能靶标。",
       "translationSource": "126e32564ece6a29"
+    },
+    {
+      "pmid": "42595817",
+      "title": "Proteome-wide identification of the druggable CRBN interactome.",
+      "titleZh": "可药物 CRBN 相互作用组的蛋白质组范围鉴定。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-08-13",
+      "doi": "10.1038/s41587-026-03237-7",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03237-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42595817/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "Molecular glue degraders (MGDs), such as pomalidomide, induce degradation of non-native substrates by the cullin-RING E3 ligase 4 (CRL4) through its substrate receptor cereblon (CRBN). Here, to explore CRBN programmability, we tested whether reported CRBN-MGD substrates are part of a network of latent CRBN interactors, proteins capable of MGD-induced CRBN binding without detectable degradation. Leveraging a highly parallel protein complementation assay (GluePCA) to measure MGD-induced interaction between CRBN and zinc fingers, we identified ~210 zinc fingers bound to CRBN-pomalidomide, where top binders are already reported as degraded by dedicated MGDs. To map latent CRBN-MGD interactions proteome-wide and define the accessible CRBN interaction space, we combined artificial intelligence-derived protein surface queries (MaSIF-mimicry) with GluePCA. This pipeline identified 6 known and 43 novel CRBN-pomalidomide binders, including orthogonally validated hits. We find that these binders provide privileged starting points for MGD development. We expect this binding-focused workflow to be applicable to other MGD-E3 ligase systems, potentially extending the scope of this emerging drug class.",
+      "summaryZh": "分子胶降解剂 (MGD)，例如泊马度胺，可通过其底物受体 cereblon (CRBN) 诱导 cullin-RING E3 连接酶 4 (CRL4) 降解非天然底物。在这里，为了探索 CRBN 的可编程性，我们测试了报道的 CRBN-MGD 底物是否是潜在 CRBN 相互作用物网络的一部分，这些蛋白质能够 MGD 诱导 CRBN 结合而不会发生可检测到的降解。利用高度并行的蛋白质互补测定 (GluePCA) 来测量 MGD 诱导的 CRBN 和锌指之间的相互作用，我们确定了约 210 个锌指与 CRBN-泊马度胺结合，其中顶部结合物已被报道为被专用 MGD 降解。为了在蛋白质组范围内绘制潜在的 CRBN-MGD 相互作用并定义可访问的 CRBN 相互作用空间，我们将人工智能衍生的蛋白质表面查询（MaSIF-mimicry）与 GluePCA 结合起来。该流程鉴定了 6 种已知的 CRBN-泊马度胺结合剂和 43 种新型 CRBN-泊马度胺结合剂，包括经过正交验证的命中化合物。我们发现这些粘合剂为 MGD 开发提供了有利的起点。我们期望这种以结合为中心的工作流程适用于其他 MGD-E3 连接酶系统，从而有可能扩展这一新兴药物类别的范围。",
+      "translationSource": "82123be017d88104"
+    },
+    {
+      "pmid": "42594861",
+      "title": "Proteasome-dependent protein degradation shapes developmental tempo in mouse and human neural progenitors.",
+      "titleZh": "蛋白酶体依赖性蛋白质降解影响小鼠和人类神经祖细胞的发育节奏。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-08-13",
+      "doi": "10.1016/j.devcel.2026.07.014",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.07.014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42594861/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "The pace of embryonic development differs between mammalian species, yet the molecular basis for this remains unknown. By comparing protein dynamics in mouse and human neural progenitors (NPs), we show that protein turnover is faster in mouse NPs, driven by higher rates of protein synthesis and degradation. Human NPs exhibit longer protein half-lives, reduced proteasomal activity, and lower proteasome abundance. These differences persist in post-mitotic neurons and are also observed in the embryonic spinal cord in vivo. Pharmacological inhibition of proteasomal activity slows differentiation in mouse NPs. Conversely, enhancing proteasomal activity accelerates neuronal output in human NPs. Moreover, accelerating the degradation of the key transcriptional repressor IRX3 in mouse NPs speeds the activation of its target gene. Together, these results provide evidence that species-specific regulation of proteasome-mediated proteolysis influences the timing of neural development and suggest that evolutionary tuning of proteasomal activity contributes to differences in embryonic developmental pace.",
+      "summaryZh": "哺乳动物物种之间的胚胎发育速度有所不同，但其分子基础仍然未知。通过比较小鼠和人类神经祖细胞 (NP) 中的蛋白质动态，我们发现小鼠 NP 中的蛋白质周转速度更快，这是由更高的蛋白质合成和降解率驱动的。人类纳米颗粒表现出更长的蛋白质半衰期、降低的蛋白酶体活性和更低的蛋白酶体丰度。这些差异在有丝分裂后神经元中持续存在，并且在体内胚胎脊髓中也观察到。蛋白酶体活性的药理抑制可减缓小鼠 NP 的分化。相反，增强蛋白酶体活性会加速人类纳米颗粒的神经元输出。此外，加速小鼠 NP 中关键转录抑制因子 IRX3 的降解，可加速其靶基因的激活。总之，这些结果提供了证据，表明蛋白酶体介导的蛋白水解的物种特异性调节影响神经发育的时间，并表明蛋白酶体活性的进化调整有助于胚胎发育速度的差异。",
+      "translationSource": "e206ecaaabfcd53d"
     },
     {
       "pmid": "42586968",
@@ -655,6 +719,27 @@
       "abstractEn": "Lysosomes are essential regulators of cellular homeostasis. Emerging evidence positions lysosomes as both vulnerable targets and active drivers of ageing biology. During ageing, lysosomes exhibit impaired biogenesis, defective acidification, reduced hydrolytic activity and compromised membrane integrity. These defects impair the clearance of damaged organelles and macromolecules and promote cellular stress responses, inflammageing and senescence, causing age-dependent functional decline across tissues. Lysosomal dysfunction has been increasingly linked to age-related diseases, including neurodegeneration, cardiometabolic disorders and increased susceptibility to infection, among others. Thus, lysosomal dysfunction is a hallmark of ageing that drives age-related pathology. Here we review recent progress in lysosomal biogenesis and quality control, discuss how lysosomes intersect with fundamental ageing mechanisms and evaluate emerging therapeutic strategies that target lysosomes to promote healthy ageing and potentially ameliorate age-associated pathologies.",
       "summaryZh": "溶酶体是细胞稳态的重要调节剂。新的证据将溶酶体定位为衰老生物学的脆弱目标和主动驱动因素。在衰老过程中，溶酶体表现出生物发生受损、酸化缺陷、水解活性降低和膜完整性受损。这些缺陷会损害受损细胞器和大分子的清除，并促进细胞应激反应、炎症和衰老，导致跨组织的年龄依赖性功能衰退。溶酶体功能障碍与年龄相关疾病的关系日益密切，包括神经退行性疾病、心脏代谢紊乱和感染易感性增加等。因此，溶酶体功能障碍是衰老的一个标志，会导致与年龄相关的病理。在这里，我们回顾了溶酶体生物发生和质量控制方面的最新进展，讨论了溶酶体如何与基本衰老机制相交叉，并评估了针对溶酶体促进健康衰老并可能改善与年龄相关的病理的新兴治疗策略。",
       "translationSource": "1cd429ba04c24380"
+    },
+    {
+      "pmid": "41507521",
+      "title": "A deep learning and large language hybrid workflow for omics interpretation.",
+      "titleZh": "用于组学解释的深度学习和大语言混合工作流程。",
+      "journal": "Nature Biomedical Engineering",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41551-025-01576-5",
+      "doiUrl": "https://doi.org/10.1038/s41551-025-01576-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41507521/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Profiling molecular panorama from massive omics data identifies regulatory networks in cells but requires mechanistic interpretation and experimental follow up. Here we combine deep learning and large language model reasoning to develop a hybrid workflow for omics interpretation, called LyMOI. LyMOI incorporates GPT-3.5 for biological knowledge reasoning and a large graph model with graph convolutional networks (GCNs). The large graph model integrates evolutionarily conserved protein interactions and uses hierarchical fine-tuning to predict context-specific molecular regulators from multi-omics data. GPT-3.5 then generates machine chain-of-thought (CoT) to mechanistically interpret their roles in biological systems. Focusing on autophagy, LyMOI mechanistically interprets 1.3 TB transcriptomic, proteomic and phosphoproteomic data and expands the knowledge of autophagy regulators. We also show that LyMOI highlights two human oncoproteins, CTSL and FAM98A, for enhancing autophagy upon treatment with disulfiram (DSF), an antitumour agent. Silencing these genes in vitro attenuates DSF-mediated autophagy and suppresses cancer cell proliferation. Strikingly, DSF treatment with Z-FY-CHO, a CTSL-specific inhibitor previously used for preventing SARS-CoV-2 infection, potently inhibits tumour growth in vivo.",
+      "summaryZh": "从大量组学数据中分析分子全景可以识别细胞中的调控网络，但需要机械解释和实验跟进。在这里，我们结合深度学习和大型语言模型推理来开发组学解释的混合工作流程，称为 LyMOI。 LyMOI 结合了用于生物知识推理的 GPT-3.5 和带有图卷积网络 (GCN) 的大型图模型。大图模型集成了进化上保守的蛋白质相互作用，并使用分层微调来从多组学数据中预测特定背景的分子调节因子。然后，GPT-3.5 生成机器思想链 (CoT)，以机械地解释它们在生物系统中的作用。 LyMOI 专注于自噬，从机制上解释 1.3 TB 转录组、蛋白质组和磷酸蛋白质组数据，并扩展了自噬调节因子的知识。我们还表明，LyMOI 突出显示了两种人类癌蛋白 CTSL 和 FAM98A，它们可在抗肿瘤药物双硫仑 (DSF) 治疗后增强自噬。在体外沉默这些基因会减弱 DSF 介导的自噬并抑制癌细胞增殖。引人注目的是，用 Z-FY-CHO（一种 CTSL 特异性抑制剂）进行 DSF 治疗，Z-FY-CHO 以前用于预防 SARS-CoV-2 感染，可有效抑制体内肿瘤生长。",
+      "translationSource": "7e76447c07e413f6"
     },
     {
       "pmid": "42386962",
