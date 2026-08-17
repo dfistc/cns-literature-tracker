@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-08-16T00:29:42+00:00",
+  "updatedAt": "2026-08-17T00:28:20+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42603823",
+      "title": "Automated synthetic cell-based screening for designed proteins with emergent functions.",
+      "titleZh": "基于细胞的自动合成筛选具有新兴功能的设计蛋白质。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-15",
+      "doi": "10.1038/s41467-026-76787-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76787-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42603823/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Designing minimal biological systems with emergent functions such as spatiotemporal self-organization is a central goal of bottom-up synthetic biology. While computational optimization and design show promise in accelerating functional protein engineering through Design-Build-Test-Learn cycles, screening libraries for complex functions remains a major challenge. Conventional screens typically lack the spatiotemporal resolution and cell-like confinement required in bottom-up synthetic biology. Here, we present PUREdrop, an automated microfluidic platform that encapsulates and expresses protein libraries in thousands of picoliter-sized synthetic cells per construct. PUREdrop distributes these across predefined wells of a 96-well plate for time-lapse imaging, enabling parallel quantification of expression kinetics and emergent functions. To demonstrate the platform's potential, we first screen computationally re-designed variants of the bacterial cell division protein FtsZ, and identify variants with altered bundling phenotypes and distinct kinetics. We then extend our screening procedure to general protein modulators of FtsZ and identify a combination that anchors filaments to the interface, producing a ring-like phenotype. PUREdrop bridges computational protein engineering and synthetic cell research, elevating the rational engineering of complex biological function to the next level.",
+      "summaryZh": "设计具有时空自组织等新兴功能的最小生物系统是自下而上合成生物学的中心目标。虽然计算优化和设计有望通过设计-构建-测试-学习循环加速功能性蛋白质工程，但筛选复杂功能的库仍然是一项重大挑战。传统的屏幕通常缺乏自下而上的合成生物学所需的时空分辨率和细胞样限制。在这里，我们推出了 PUREdrop，这是一种自动化微流体平台，它在每个构建体的数千个皮升大小的合成细胞中封装和表达蛋白质库。 PUREdrop 将这些分布在 96 孔板的预定义孔中以进行延时成像，从而能够并行量化表达动力学和紧急功能。为了证明该平台的潜力，我们首先筛选经过计算重新设计的细菌细胞分裂蛋白 FtsZ 变体，并识别具有改变的成束表型和不同动力学的变体。然后，我们将筛选程序扩展到 FtsZ 的一般蛋白质调节剂，并鉴定出一种将细丝锚定到界面的组合，产生环状表型。 PUREdrop 连接了计算蛋白质工程和合成细胞研究，将复杂生物功能的合理工程提升到了一个新的水平。",
+      "translationSource": "1d28d316f081368d"
+    },
     {
       "pmid": "42600042",
       "title": "A dendritic cell autophagy-neutrophil axis limits intratumoral STING immunotherapy.",
