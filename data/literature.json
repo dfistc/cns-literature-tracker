@@ -1,8 +1,95 @@
 {
-  "updatedAt": "2026-08-18T00:27:34+00:00",
+  "updatedAt": "2026-08-19T00:27:27+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42608567",
+      "title": "A scalable platform to discover and characterize substrates of molecular glue degraders.",
+      "titleZh": "一个可扩展的平台，用于发现和表征分子胶降解剂的底物。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1038/s41587-026-03256-4",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03256-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608567/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "bf5c20309e84e21a"
+    },
+    {
+      "pmid": "42607684",
+      "title": "ER-liquid condensate contacts sequester FAM134B/C and RhoA to govern cell morphology.",
+      "titleZh": "ER-液体冷凝物接触隔离 FAM134B/C 和 RhoA 以控制细胞形态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1016/j.molcel.2026.07.027",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.07.027",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607684/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Endoplasmic reticulum (ER)-phagy receptors have elusive physiological functions beyond ER remodeling. To gain insight into these, we screen for cytoplasmic interactors of well-known receptors in mouse pancreatic ductal adenocarcinoma cells. Our data subsequently reveal a non-canonical action of PRKAR1A, a subunit of protein kinase A (PKA), in binding and activating FAM134B/C. At a molecular level, an amphipathic helix in the otherwise-disordered C terminus of FAM134B directly binds PRKAR1A dimers. Multimodal imaging reveals that this interaction occurs at interorganellar contact sites between the ER and liquid-like condensates of PRKAR1A. Mechanistically, ER-condensate contacts promote clustering of FAM134B/C with LC3B and recruit lysosomes, forming degradation hubs. Unexpectedly, these structures are found to control cytoplasmic signaling through FAM134B/C-mediated lysosomal sequestration of RhoA. Underscoring the physiologic relevance of this, these cytoplasmic-facing actions of FAM134B/C result in RhoA-dependent cell morphologic and migratory control in response to cyclic AMP (cAMP) stimuli. Thus, interorganellar contacts expand the roles of FAM134B/C ER-phagy receptors beyond ER degradation.",
+      "summaryZh": "内质网 (ER) 吞噬受体除了 ER 重塑之外还具有难以捉摸的生理功能。为了深入了解这些，我们筛选了小鼠胰腺导管腺癌细胞中众所周知的受体的细胞质相互作用物。我们的数据随后揭示了 PRKAR1A（蛋白激酶 A (PKA) 的一个亚基）在结合和激活 FAM134B/C 方面的非典型作用。在分子水平上，FAM134B C 末端无序的两亲螺旋直接结合 PRKAR1A 二聚体。多模态成像揭示这种相互作用发生在 ER 和 PRKAR1A 液体状凝聚物之间的细胞间接触位点。从机制上讲，内质网冷凝物接触促进 FAM134B/C 与 LC3B 聚集并招募溶酶体，形成降解中心。出乎意料的是，这些结构被发现通过 FAM134B/C 介导的 RhoA 溶酶体隔离来控制细胞质信号传导。 FAM134B/C 的这些面向细胞质的作用导致响应环 AMP (cAMP) 刺激的 RhoA 依赖性细胞形态和迁移控制，强调了这一点的生理相关性。因此，细胞器间接触将 FAM134B/C ER 吞噬受体的作用扩展到 ER 降解之外。",
+      "translationSource": "4595aa7c14e516ba"
+    },
+    {
+      "pmid": "42607669",
+      "title": "Ovarian aging and systemic health: Mechanisms and emerging intervention strategies.",
+      "titleZh": "卵巢衰老和全身健康：机制和新兴干预策略。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1016/j.stem.2026.07.013",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.07.013",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607669/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Ovarian aging may contribute to systemic aging via the ovarian-systemic axis. This review outlines intrinsic ovarian cellular defects such as genomic instability, epigenetic shifts, and mitochondrial and proteostasis damage, which may trigger senescence-associated secretory phenotype (SASP)-related inflammaging, fibrosis, and distal pro-aging signals. Ovarian-derived endocrine disruption, especially estrogen decline, broadly affects bodily physiology. We summarize emerging multimodal interventions, including senolytics, metabolic reprogramming, regenerative medicine, and systemic approaches, and we discuss their dual potential to preserve fertility and intercept ovarian contributions to systemic aging. Ovarian aging is possibly associated with female age-related multimorbidity. Ovary-targeted prevention may extend healthspan, as assessed by combined reproductive and systemic clinical evaluations.",
+      "summaryZh": "卵巢衰老可能通过卵巢-系统轴导致全身衰老。这篇综述概述了内在的卵巢细胞缺陷，例如基因组不稳定性、表观遗传转变以及线粒体和蛋白质稳态损伤，这些缺陷可能引发衰老相关分泌表型（SASP）相关的炎症、纤维化和远端促衰老信号。卵巢源性内分泌紊乱，尤其是雌激素下降，广泛影响身体生理机能。我们总结了新兴的多模式干预措施，包括衰老药物、代谢重编程、再生医学和系统方法，并讨论了它们在保护生育力和阻止卵巢对系统衰老的影响方面的双重潜力。卵巢衰老可能与女性年龄相关的多发病有关。根据生殖和系统临床综合评估的评估，以卵巢为目标的预防可以延长健康寿命。",
+      "translationSource": "123752477cf0d914"
+    },
+    {
+      "pmid": "42335898",
+      "title": "A real-time FRET ubiquitin transfer assay for quantitative characterization of ternary complexes in targeted protein degradation.",
+      "titleZh": "实时 FRET 泛素转移测定，用于定量表征靶向蛋白质降解中的三元复合物。",
+      "journal": "Cell Reports Methods",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1016/j.crmeth.2026.101505",
+      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101505",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42335898/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue。",
+      "abstractEn": "Inhibiting or redirecting E3 ubiquitin ligase activity with drug-like small molecules is of growing therapeutic interest, yet broadly applicable and robust assays for quantifying E3-catalyzed ubiquitination remain limited. Here, we present a real-time, high-throughput fluorescence assay utilizing purified, FRET-active E2-Ub conjugates to monitor ubiquitin transfer. This assay is highly versatile, requiring no engineering of the target protein or ligase, thereby accelerating assay development and minimizing the risk of artifacts. The single-step, single-turnover nature of the reaction enables rigorous and quantitative analysis of ubiquitination kinetics. We show that this assay can be used to measure key degrader characteristics, including degrader affinity for the target protein, degrader affinity for the ligase, affinity of ternary complex assembly, and catalytic efficiency of the ternary complex. The high sensitivity and accuracy of this comprehensive, single-assay approach to ternary complex characterization will empower the discovery and optimization of heterobifunctional degraders and molecular glues.",
+      "summaryZh": "用药物样小分子抑制或重定向 E3 泛素连接酶活性引起了越来越多的治疗兴趣，但用于量化 E3 催化泛素化的广泛适用且稳健的测定方法仍然有限。在这里，我们提出了一种实时、高通量荧光测定法，利用纯化的 FRET 活性 E2-Ub 缀合物来监测泛素转移。该检测方法用途广泛，无需对目标蛋白或连接酶进行工程改造，从而加速检测方法的开发并最大限度地降低人为因素的风险。该反应的单步、单周转性质使得能够对泛素化动力学进行严格的定量分析。我们表明，该测定可用于测量关键降解剂特征，包括降解剂对靶蛋白的亲和力、降解剂对连接酶的亲和力、三元复合物组装的亲和力以及三元复合物的催化效率。这种用于三元复杂表征的综合性单测定方法的高灵敏度和准确性将有助于异双功能降解剂和分子胶的发现和优化。",
+      "translationSource": "061bb7ed7785224e"
+    },
     {
       "pmid": "42603823",
       "title": "Automated synthetic cell-based screening for designed proteins with emergent functions.",
@@ -654,6 +741,29 @@
       "abstractEn": "Post-translational control enables rapid and precise regulation of cell behavior. Despite these advantages, general strategies to build phosphorylation-based synthetic circuits are limited. Here we reasoned that engineered allostery, a technique that has been applied to design light- and chemically gated protein switches, could also be used to engineer phosphorylation-controlled protein switches (phospho-switches). Using an allosterically controllable Gal4 transcription factor as a scaffold, we show that a classic kinase Förster resonance energy transfer biosensor architecture can be used as a starting point for phospho-switch design. We optimize all features of the phospho-switch to develop an ERK-controlled transcription factor with a 20-fold phosphorylation-dependent change in transcriptional output. The resulting synthetic ERK-responsive transcription factor responds with comparable sensitivity to the c-fos promoter and reveals spatial ERK signaling patterns in mammalian developmental organoids. We further show that our switch architecture can be generalized to other input kinases and allosterically controlled targets. This work provides a general platform for a new generation of kinase-responsive tools for biosensing and synthetic biology applications.",
       "summaryZh": "翻译后控制能够快速、精确地调节细胞行为。尽管有这些优点，构建基于磷酸化的合成电路的一般策略是有限的。在这里，我们推断工程变构（一种已应用于设计光和化学门控蛋白质开关的技术）也可用于设计磷酸化控制的蛋白质开关（磷酸化开关）。使用变构可控的 Gal4 转录因子作为支架，我们证明经典激酶 Förster 共振能量转移生物传感器架构可以用作磷酸开关设计的起点。我们优化了磷酸开关的所有功能，以开发 ERK 控制的转录因子，其转录输出具有 20 倍磷酸化依赖性变化。由此产生的合成 ERK 响应转录因子对 c-fos 启动子具有相当的敏感性，并揭示了哺乳动物发育类器官中的空间 ERK 信号传导模式。我们进一步表明，我们的开关架构可以推广到其他输入激酶和变构控制靶标。这项工作为生物传感和合成生物学应用的新一代激酶响应工具提供了一个通用平台。",
       "translationSource": "2be52fa81275d9d9"
+    },
+    {
+      "pmid": "42608398",
+      "title": "Corisin induces proteostasis stress to drive epithelial injury and pulmonary fibrosis.",
+      "titleZh": "Corisin 诱导蛋白质稳态应激，从而驱动上皮损伤和肺纤维化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s41467-026-76162-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76162-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608398/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome, proteostasis。",
+      "abstractEn": "Idiopathic pulmonary fibrosis (IPF) is a progressive, fatal disease lacking clarity on the mechanisms linking epithelial injury to fibrotic remodeling. Here, we identify the microbiota-derived corisin as a potent, multifaceted driver of epithelial injury and pulmonary fibrosis. Leveraging targeted DNA sequencing of bronchoalveolar lavage fluid, we provide the first sequence-based identification of corisin in IPF patients and show that functional depletion of native corisin from patient bronchoalveolar lavage fluid abolishes its proapoptotic activity in alveolar epithelial cells. Synthetic corisin readily penetrates epithelial cells, localizes to mitochondria, and induces apoptosis, cellular senescence, and epithelial-mesenchymal transition, effects validated by single-cell transcriptomic analysis. High-throughput protein-interaction screening identifies the ubiquitin-proteasome system as the primary target, demonstrating that corisin enhances proteasome activity and disrupts epithelial proteostasis. Intracellular expression of native corisin recapitulates these cellular pathologies at concentrations relevant to human disease, confirming its high intrinsic potency. Most critically, transgenic mice constitutively expressing native corisin develop spontaneous, progressive pulmonary fibrosis and exhibit exacerbated injury and increased mortality following bleomycin challenge. Collectively, our findings establish corisin as a microbiota-derived effector that directly couples the collapse of epithelial proteostasis to multimechanistic cell-fate dysregulation and fibrotic remodeling, thereby defining a potent and causal microbial-epithelial axis in the pathogenesis of IPF.",
+      "summaryZh": "特发性肺纤维化（IPF）是一种进行性致命性疾病，目前尚不清楚上皮损伤与纤维化重塑之间的联系机制。在这里，我们将微生物群衍生的 corisin 确定为上皮损伤和肺纤维化的有效、多方面驱动因素。利用支气管肺泡灌洗液的靶向 DNA 测序，我们在 IPF 患者中首次基于序列鉴定了 Corisin，并表明患者支气管肺泡灌洗液中天然 Corisin 的功能性消耗消除了其在肺泡上皮细胞中的促凋亡活性。合成的 Corisin 很容易穿透上皮细胞，定位于线粒体，并诱导细胞凋亡、细胞衰老和上皮间质转化，这些效应已通过单细胞转录组分析验证。高通量蛋白质相互作用筛选将泛素-蛋白酶体系统确定为主要靶标，证明 corisin 增强蛋白酶体活性并破坏上皮蛋白质稳态。天然 Corisin 的细胞内表达在与人类疾病相关的浓度下重现了这些细胞病理学，证实了其高内在效力。最关键的是，组成型表达天然corisin的转基因小鼠会出现自发性进行性肺纤维化，并在博来霉素攻击后表现出损伤加剧和死亡率增加。总的来说，我们的研究结果确立了 corisin 作为一种微生物衍生的效应物，它直接将上皮蛋白质稳态的崩溃与多机制的细胞命运失调和纤维化重塑联系起来，从而在 IPF 的发病机制中定义了一个有效且因果的微生物-上皮轴。",
+      "translationSource": "9a7442b4bcbe107b"
     },
     {
       "pmid": "41513855",
@@ -2742,28 +2852,6 @@
       "translationSource": "d7c02827980eea4b"
     },
     {
-      "pmid": "42335898",
-      "title": "A real-time FRET ubiquitin transfer assay for quantitative characterization of ternary complexes in targeted protein degradation.",
-      "titleZh": "实时 FRET 泛素转移测定，用于定量表征靶向蛋白质降解中的三元复合物。",
-      "journal": "Cell Reports Methods",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.crmeth.2026.101505",
-      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101505",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42335898/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue。",
-      "abstractEn": "Inhibiting or redirecting E3 ubiquitin ligase activity with drug-like small molecules is of growing therapeutic interest, yet broadly applicable and robust assays for quantifying E3-catalyzed ubiquitination remain limited. Here, we present a real-time, high-throughput fluorescence assay utilizing purified, FRET-active E2-Ub conjugates to monitor ubiquitin transfer. This assay is highly versatile, requiring no engineering of the target protein or ligase, thereby accelerating assay development and minimizing the risk of artifacts. The single-step, single-turnover nature of the reaction enables rigorous and quantitative analysis of ubiquitination kinetics. We show that this assay can be used to measure key degrader characteristics, including degrader affinity for the target protein, degrader affinity for the ligase, affinity of ternary complex assembly, and catalytic efficiency of the ternary complex. The high sensitivity and accuracy of this comprehensive, single-assay approach to ternary complex characterization will empower the discovery and optimization of heterobifunctional degraders and molecular glues.",
-      "summaryZh": "用药物样小分子抑制或重定向 E3 泛素连接酶活性引起了越来越多的治疗兴趣，但用于量化 E3 催化泛素化的广泛适用且稳健的测定方法仍然有限。在这里，我们提出了一种实时、高通量荧光测定法，利用纯化的 FRET 活性 E2-Ub 缀合物来监测泛素转移。该检测方法用途广泛，无需对目标蛋白或连接酶进行工程改造，从而加速检测方法的开发并最大限度地降低人为因素的风险。该反应的单步、单周转性质使得能够对泛素化动力学进行严格的定量分析。我们表明，该测定可用于测量关键降解剂特征，包括降解剂对靶蛋白的亲和力、降解剂对连接酶的亲和力、三元复合物组装的亲和力以及三元复合物的催化效率。这种用于三元复杂表征的综合性单测定方法的高灵敏度和准确性将有助于异双功能降解剂和分子胶的发现和优化。",
-      "translationSource": "061bb7ed7785224e"
-    },
-    {
       "pmid": "42287635",
       "title": "SARS-CoV-2 ORF3a blocks lysosomal cholesterol egress by disrupting VPS39-regulated NPC2 trafficking and BMP metabolism.",
       "titleZh": "SARS-CoV-2 ORF3a 通过破坏 VPS39 调节的 NPC2 运输和 BMP 代谢来阻止溶酶体胆固醇流出。",
@@ -4379,27 +4467,6 @@
       "translationSource": "c62ed26e2dac5e3b"
     },
     {
-      "pmid": "42185297",
-      "title": "The V-ATPase/ATG16L1 axis drives membrane remodeling during epithelial morphogenesis.",
-      "titleZh": "V-ATPase/ATG16L1 轴在上皮形态发生过程中驱动膜重塑。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-05-25",
-      "doi": "10.1038/s41467-026-73471-9",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73471-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42185297/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Epithelial tubulogenesis shapes organs by transforming unpolarized epithelial cords into hollow tubes with central lumens. Posterior neural tube formation during secondary neurulation requires tightly coordinated membrane remodeling for de novo lumen formation and resolution, yet the role of autophagy in this process remains unclear. Autophagy operates through canonical and noncanonical pathways. While canonical autophagy is primarily degradative, the V-ATPase/ATG16L1-dependent Conjugation of ATG8 to Single Membranes (CASM) regulates LC3 lipidation on endocytic compartments. Using human neural tube organoids, MDCK cysts, and epithelial tube micropatterns selectively deficient in canonical or noncanonical autophagy, we demonstrate that CASM is essential for epithelial lumen resolution. Mechanistically, the V-ATPase/ATG16L1 axis coordinates junctional remodeling, phosphoinositide transitions, and Rab-dependent endocytic and recycling pathways to ensure single-lumen formation. These findings identify noncanonical autophagy as a spatially restricted membrane-remodeling mechanism that governs epithelial morphogenesis and reveal distinct, hierarchically balanced contributions of autophagy pathways during development.",
-      "summaryZh": "上皮小管发生通过将未极化的上皮索转变为具有中央腔的空心管来塑造器官。二次神经形成过程中后神经管的形成需要紧密协调的膜重塑，以实现从头管腔的形成和解析，但自噬在此过程中的作用仍不清楚。自噬通过规范和非规范途径进行运作。虽然典型的自噬主要是降解性的，但 V-ATPase/ATG16L1 依赖性 ATG8 与单膜的缀合 (CASM) 调节内吞区室中的 LC3 脂化。使用人类神经管类器官、MDCK 囊肿和选择性缺陷典型或非典型自噬的上皮管微模式，我们证明 CASM 对于上皮腔分辨率至关重要。从机制上讲，V-ATPase/ATG16L1 轴协调连接重塑、磷酸肌醇转变以及 Rab 依赖性内吞和再循环途径，以确保单腔形成。这些发现将非典型自噬确定为一种空间受限的膜重塑机制，控制上皮形态发生，并揭示了自噬途径在发育过程中独特的、层次平衡的贡献。",
-      "translationSource": "988cc3c7868baadc"
-    },
-    {
       "pmid": "42185286",
       "title": "An HDAC4-specific PROTAC degrader achieves radiation sensitization by enhancing ferroptosis in lung cancer.",
       "titleZh": "HDAC4 特异性 PROTAC 降解剂通过增强肺癌中的铁死亡来实现辐射增敏。",
@@ -4420,6 +4487,27 @@
       "abstractEn": "Post-translational modifications (PTMs) play a critical role in cancer radioresistance, yet how they regulate ferroptosis to influence radiotherapy response remains poorly understood. Here, we show that HDAC4 promotes radiation resistance in lung cancer by inhibiting ferroptosis. Through a CRISPR screen in patient-derived organoids, we identify HDAC4 as a key mediator. Mechanistically, HDAC4 acts as an E3 SUMO ligase that SUMOylates MBD1, preventing its ubiquitination and degradation. Stabilized MBD1 represses TP53 and CYP1A1 transcription, thereby suppressing lipid reactive oxygen species formation and ferroptosis. To target HDAC4, we develop a proteolysis-targeting chimera (PROTAC), TP1, based on tasquinimod, which binds and degrades HDAC4 specifically, as confirmed by surface plasmon resonance and proteomics. TP1 exhibits stronger radiosensitizing effects than tasquinimod in lung cancer organoids and xenograft models. Our findings uncover HDAC4 as a suppressor of ferroptosis in radioresistance and present a PROTAC-based strategy to enhance radiotherapy efficacy.",
       "summaryZh": "翻译后修饰（PTM）在癌症放射抗性中发挥着关键作用，但它们如何调节铁死亡以影响放射治疗反应仍知之甚少。在这里，我们证明 HDAC4 通过抑制铁死亡来促进肺癌的辐射抵抗。通过对源自患者的类器官进行 CRISPR 筛选，我们确定 HDAC4 是关键介质。从机制上讲，HDAC4 充当 E3 SUMO 连接酶，SUMO 化 MBD1，防止其泛素化和降解。稳定的 MBD1 抑制 TP53 和 CYP1A1 转录，从而抑制脂质活性氧的形成和铁死亡。为了靶向 HDAC4，我们开发了一种基于他喹莫德的蛋白水解靶向嵌合体 (PROTAC) TP1，经表面等离振子共振和蛋白质组学证实，它特异性结合和降解 HDAC4。在肺癌类器官和异种移植模型中，TP1 表现出比他喹莫德更强的放射增敏作用。我们的研究结果揭示了 HDAC4 作为放射抗性中铁死亡的抑制剂，并提出了一种基于 PROTAC 的策略来增强放射治疗效果。",
       "translationSource": "22c58a1469704abe"
+    },
+    {
+      "pmid": "42185297",
+      "title": "The V-ATPase/ATG16L1 axis drives membrane remodeling during epithelial morphogenesis.",
+      "titleZh": "V-ATPase/ATG16L1 轴在上皮形态发生过程中驱动膜重塑。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-05-25",
+      "doi": "10.1038/s41467-026-73471-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73471-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42185297/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Epithelial tubulogenesis shapes organs by transforming unpolarized epithelial cords into hollow tubes with central lumens. Posterior neural tube formation during secondary neurulation requires tightly coordinated membrane remodeling for de novo lumen formation and resolution, yet the role of autophagy in this process remains unclear. Autophagy operates through canonical and noncanonical pathways. While canonical autophagy is primarily degradative, the V-ATPase/ATG16L1-dependent Conjugation of ATG8 to Single Membranes (CASM) regulates LC3 lipidation on endocytic compartments. Using human neural tube organoids, MDCK cysts, and epithelial tube micropatterns selectively deficient in canonical or noncanonical autophagy, we demonstrate that CASM is essential for epithelial lumen resolution. Mechanistically, the V-ATPase/ATG16L1 axis coordinates junctional remodeling, phosphoinositide transitions, and Rab-dependent endocytic and recycling pathways to ensure single-lumen formation. These findings identify noncanonical autophagy as a spatially restricted membrane-remodeling mechanism that governs epithelial morphogenesis and reveal distinct, hierarchically balanced contributions of autophagy pathways during development.",
+      "summaryZh": "上皮小管发生通过将未极化的上皮索转变为具有中央腔的空心管来塑造器官。二次神经形成过程中后神经管的形成需要紧密协调的膜重塑，以实现从头管腔的形成和解析，但自噬在此过程中的作用仍不清楚。自噬通过规范和非规范途径进行运作。虽然典型的自噬主要是降解性的，但 V-ATPase/ATG16L1 依赖性 ATG8 与单膜的缀合 (CASM) 调节内吞区室中的 LC3 脂化。使用人类神经管类器官、MDCK 囊肿和选择性缺陷典型或非典型自噬的上皮管微模式，我们证明 CASM 对于上皮腔分辨率至关重要。从机制上讲，V-ATPase/ATG16L1 轴协调连接重塑、磷酸肌醇转变以及 Rab 依赖性内吞和再循环途径，以确保单腔形成。这些发现将非典型自噬确定为一种空间受限的膜重塑机制，控制上皮形态发生，并揭示了自噬途径在发育过程中独特的、层次平衡的贡献。",
+      "translationSource": "988cc3c7868baadc"
     },
     {
       "pmid": "42172317",
