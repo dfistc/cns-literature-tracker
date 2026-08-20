@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:27:27+00:00",
+  "updatedAt": "2026-08-20T00:27:59+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -4379,28 +4379,6 @@
       "translationSource": "c40491fe34a9b616"
     },
     {
-      "pmid": "42191733",
-      "title": "Pathogenic variants in the autophagy-tethering factor EPG5 drive neurodegeneration through mitochondrial dysfunction and innate immune activation.",
-      "titleZh": "自噬束缚因子 EPG5 的致病变异通过线粒体功能障碍和先天免疫激活驱动神经退行性变。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-05-26",
-      "doi": "10.1038/s41467-026-73538-7",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73538-7",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191733/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
-      "abstractEn": "The autophagy-tethering factor ectopic P-granule 5 autophagy protein (EPG5) plays a key role in autophagosome-lysosome fusion. Impaired autophagy associated with pathogenic variants in EPG5 causes a rare devastating multisystem disorder known as Vici syndrome, which features neurodevelopmental defects, severe progressive neurodegeneration and immunodeficiency. The pathophysiological mechanisms driving disease presentation and progression are only partially understood. In patient-derived fibroblasts and iPS cells differentiated to cortical neurons, we find that impaired mitophagy leads to mitochondrial bioenergetic dysfunction. Physiological cytosolic Ca 2+ transients result in unexpected mitochondrial Ca 2+ overload despite a decrease in mitochondrial membrane potential. This is attributed to downregulation of MICU1. Ca 2+ signals cause mitochondrial depolarisation, mtDNA release and activation of the cGAS-STING pathway, reversed by pharmacological inhibition of the mitochondrial permeability transition pore (mPTP) or of the STING pathway. Thus, we identify a pathophysiological cascade driving disease progression associated with EPG5 deficiency, including impaired mitochondrial bioenergetics, mitochondrial Ca 2+ overload, vulnerability to mPTP opening and activation of innate immune signalling, signposting multiple potential therapeutic targets.",
-      "summaryZh": "自噬束缚因子异位 P-颗粒 5 自噬蛋白 (EPG5) 在自噬体-溶酶体融合中发挥关键作用。与 EPG5 致病性变异相关的自噬受损会导致一种罕见的破坏性多系统疾病，称为 Vici 综合征，其特征是神经发育缺陷、严重的进行性神经变性和免疫缺陷。驱动疾病表现和进展的病理生理学机制仅被部分了解。在患者来源的成纤维细胞和分化为皮质神经元的 iPS 细胞中，我们发现线粒体自噬受损会导致线粒体生物能功能障碍。尽管线粒体膜电位降低，但生理细胞质 Ca 2+ 瞬变会导致意外的线粒体 Ca 2+ 超载。这归因于 MICU1 的下调。 Ca 2+ 信号导致线粒体去极化、mtDNA 释放和 cGAS-STING 途径激活，通过线粒体通透性转换孔 (mPTP) 或 STING 途径的药理学抑制来逆转。因此，我们确定了与 EPG5 缺乏相关的驱动疾病进展的病理生理级联反应，包括线粒体生物能受损、线粒体 Ca 2+ 超载、易受 mPTP 开放和先天免疫信号激活的影响，指示多个潜在的治疗靶点。",
-      "translationSource": "787531039ecf8472"
-    },
-    {
       "pmid": "42191679",
       "title": "Discovery of a KLHL41 Ligand for Muscle Specific Protein Degradation.",
       "titleZh": "发现用于肌肉特异性蛋白质降解的 KLHL41 配体。",
@@ -4421,6 +4399,28 @@
       "abstractEn": "Despite the recent advancement of proteolysis-targeting chimera (PROTAC) development, they remain predominantly dependent on two E3 ligases, CRBN and VHL, which are ubiquitously expressed in all types of cells. Recently, efforts to discover tissue-specific E3 ligase ligands get attention as a promising strategy to enable tissue-specific protein degradation and avoid off-target tissue effects. Advancing this line of research, we discover a ligand of KLHL41, a muscle-specific E3 ligase, through virtual screening. Building on the KLHL41 ligand, we develop KBD-1, a muscle-specific BRD4-targeting PROTAC with micromolar activity. To enhance degradation efficiency, we employ a two-body kinetic strategy, resulting in the covalent PROTAC cKBD-1, which achieves sub-nanomolar activity. cKBD-1 demonstrates muscle-specific BRD4 degradation through KLHL41 recruitment both in vitro and in vivo. Moreover, the KLHL41 ligand enables AR-targeting PROTAC development, demonstrating its broad applicability. These findings highlight the potential of KLHL41 as a platform for tissue-specific protein degradation and its applicability in therapeutic development.",
       "summaryZh": "尽管最近蛋白水解靶向嵌合体 (PROTAC) 的开发取得了进展，但它们仍然主要依赖于两种 E3 连接酶 CRBN 和 VHL，这两种酶在所有类型的细胞中普遍表达。最近，发现组织特异性 E3 连接酶配体的努力作为一种有前景的策略而受到关注，该策略可以实现组织特异性蛋白质降解并避免脱靶组织效应。为了推进这方面的研究，我们通过虚拟筛选发现了 KLHL41（一种肌肉特异性 E3 连接酶）的配体。在 KLHL41 配体的基础上，我们开发了 KBD-1，一种具有微摩尔活性的肌肉特异性 BRD4 靶向 PROTAC。为了提高降解效率，我们采用二体动力学策略，产生了共价 PROTAC cKBD-1，它实现了亚纳摩尔活性。 cKBD-1 在体外和体内均通过 KLHL41 募集展示了肌肉特异性 BRD4 降解。此外，KLHL41配体能够实现AR靶向PROTAC的开发，证明了其广泛的适用性。这些发现凸显了 KLHL41 作为组织特异性蛋白质降解平台的潜力及其在治疗开发中的适用性。",
       "translationSource": "33e5a1ea2965d20e"
+    },
+    {
+      "pmid": "42191733",
+      "title": "Pathogenic variants in the autophagy-tethering factor EPG5 drive neurodegeneration through mitochondrial dysfunction and innate immune activation.",
+      "titleZh": "自噬束缚因子 EPG5 的致病变异通过线粒体功能障碍和先天免疫激活驱动神经退行性变。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-05-26",
+      "doi": "10.1038/s41467-026-73538-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73538-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191733/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "The autophagy-tethering factor ectopic P-granule 5 autophagy protein (EPG5) plays a key role in autophagosome-lysosome fusion. Impaired autophagy associated with pathogenic variants in EPG5 causes a rare devastating multisystem disorder known as Vici syndrome, which features neurodevelopmental defects, severe progressive neurodegeneration and immunodeficiency. The pathophysiological mechanisms driving disease presentation and progression are only partially understood. In patient-derived fibroblasts and iPS cells differentiated to cortical neurons, we find that impaired mitophagy leads to mitochondrial bioenergetic dysfunction. Physiological cytosolic Ca 2+ transients result in unexpected mitochondrial Ca 2+ overload despite a decrease in mitochondrial membrane potential. This is attributed to downregulation of MICU1. Ca 2+ signals cause mitochondrial depolarisation, mtDNA release and activation of the cGAS-STING pathway, reversed by pharmacological inhibition of the mitochondrial permeability transition pore (mPTP) or of the STING pathway. Thus, we identify a pathophysiological cascade driving disease progression associated with EPG5 deficiency, including impaired mitochondrial bioenergetics, mitochondrial Ca 2+ overload, vulnerability to mPTP opening and activation of innate immune signalling, signposting multiple potential therapeutic targets.",
+      "summaryZh": "自噬束缚因子异位 P-颗粒 5 自噬蛋白 (EPG5) 在自噬体-溶酶体融合中发挥关键作用。与 EPG5 致病性变异相关的自噬受损会导致一种罕见的破坏性多系统疾病，称为 Vici 综合征，其特征是神经发育缺陷、严重的进行性神经变性和免疫缺陷。驱动疾病表现和进展的病理生理学机制仅被部分了解。在患者来源的成纤维细胞和分化为皮质神经元的 iPS 细胞中，我们发现线粒体自噬受损会导致线粒体生物能功能障碍。尽管线粒体膜电位降低，但生理细胞质 Ca 2+ 瞬变会导致意外的线粒体 Ca 2+ 超载。这归因于 MICU1 的下调。 Ca 2+ 信号导致线粒体去极化、mtDNA 释放和 cGAS-STING 途径激活，通过线粒体通透性转换孔 (mPTP) 或 STING 途径的药理学抑制来逆转。因此，我们确定了与 EPG5 缺乏相关的驱动疾病进展的病理生理级联反应，包括线粒体生物能受损、线粒体 Ca 2+ 超载、易受 mPTP 开放和先天免疫信号激活的影响，指示多个潜在的治疗靶点。",
+      "translationSource": "787531039ecf8472"
     },
     {
       "pmid": "42101934",
