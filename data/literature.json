@@ -1,8 +1,156 @@
 {
-  "updatedAt": "2026-08-20T00:27:59+00:00",
+  "updatedAt": "2026-08-22T00:28:03+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42424437",
+      "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion.",
+      "titleZh": "全病毒组泛素连接酶的发现揭示了免疫逃避的多种机制。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-08-20",
+      "doi": "10.1126/science.aec6299",
+      "doiUrl": "https://doi.org/10.1126/science.aec6299",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42424437/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Viruses are intracellular parasites that reprogram the host proteome to promote replication and evade immune recognition. We applied a virome-wide library of ~10,000 open reading frames to discover viral ubiquitin ligases, mapping their mechanisms of degradation and host substrates using targeted CRISPR screens and proteomics. These viral effectors could be classified as canonical ligases that mimic host E3s, hijackers that redirect host E3s, and noncanonical ligases that rewire cullin-RING ligase machinery. These diverse strategies of virus-mediated degradation converged on immune-related substrates, including JAK1 and CUL1 β-TrCP , underscoring immune evasion as a major driver of viral ubiquitin ligase evolution. Our findings elucidate viral strategies for exploiting the ubiquitin-proteasome system with potential for therapeutic targeting.",
+      "summaryZh": "病毒是细胞内寄生虫，可以重新编程宿主蛋白质组以促进复制并逃避免疫识别。我们应用约 10,000 个开放阅读框的病毒组文库来发现病毒泛素连接酶，并使用靶向 CRISPR 筛选和蛋白质组学绘制其降解机制和宿主底物。这些病毒效应子可分为模仿宿主 E3 的规范连接酶、重定向宿主 E3 的劫持者以及重新连接 cullin-RING 连接酶机制的非规范连接酶。这些病毒介导的降解的不同策略集中在免疫相关底物上，包括 JAK1 和 CUL1 β-TrCP ，强调了免疫逃避是病毒泛素连接酶进化的主要驱动力。我们的研究结果阐明了病毒利用泛素-蛋白酶体系统的策略，具有潜在的治疗靶向作用。",
+      "translationSource": "bb4d8fb954ed98e7"
+    },
+    {
+      "pmid": "42624901",
+      "title": "The hallmarks of skeletal muscle health.",
+      "titleZh": "骨骼肌健康的标志。",
+      "journal": "Nature Metabolism",
+      "year": 2026,
+      "published": "2026-08-20",
+      "doi": "10.1038/s42255-026-01595-9",
+      "doiUrl": "https://doi.org/10.1038/s42255-026-01595-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624901/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Skeletal muscle is a central determinant of organismal health. Preserving muscle quality is therefore critical for preventing disease and sustaining quality of life across the lifespan. Despite its central role, the field lacks a unifying framework that defines the core properties of skeletal muscle health. Here, we propose a conceptual framework for muscle homeostasis built around seven interconnected hallmarks-metabolism and bioenergetics, proteostasis, genomics, excitability, structure, regeneration and cross-talk-that collectively govern muscle integrity, adaptability and resilience. Each hallmark is mechanistically grounded, quantifiable and potentially modifiable. This framework provides a unifying blueprint for the next generation of precision diagnostics and targeted therapies for preserving skeletal muscle health.",
+      "summaryZh": "骨骼肌是机体健康的核心决定因素。因此，保持肌肉质量对于预防疾病和维持整个生命周期的生活质量至关重要。尽管发挥着核心作用，但该领域缺乏一个统一的框架来定义骨骼肌健康的核心特性。在这里，我们提出了一个肌肉稳态的概念框架，围绕七个相互关联的特征——代谢和生物能量学、蛋白质稳态、基因组学、兴奋性、结构、再生和串扰——共同控制肌肉的完整性、适应性和恢复力。每个标志都有机械依据、可量化且可能可修改。该框架为下一代精确诊断和维持骨骼肌健康的靶向治疗提供了统一的蓝图。",
+      "translationSource": "ccb37c1e1703a373"
+    },
+    {
+      "pmid": "42624994",
+      "title": "Intracellular protein binders for imaging, control and future therapeutics.",
+      "titleZh": "用于成像、控制和未来治疗的细胞内蛋白结合剂。",
+      "journal": "Nature Biomedical Engineering",
+      "year": 2026,
+      "published": "2026-08-20",
+      "doi": "10.1038/s41551-026-01768-7",
+      "doiUrl": "https://doi.org/10.1038/s41551-026-01768-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624994/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "programmable cell"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
+      "abstractEn": "Intracellular protein dysregulation underlies many cancers, neurodegenerative disorders and infectious diseases, yet a substantial fraction of the human proteome remains inaccessible to conventional small-molecule drugs or extracellular antibodies. Genetically encoded intracellular binders, including nanobodies, DARPins, affibodies and de novo-designed scaffolds, provide modular platforms for selective recognition, visualization and functional modulation of endogenous proteins in living cells. These binders can engage extended protein surfaces and conformational epitopes and are increasingly applied in preclinical models to inhibit oncogenic signalling, degrade pathogenic proteins, rewire cellular pathways and engineer programmable cell therapies. Here we outline the structural diversity, discovery strategies and design principles of intracellular binders and summarize their emerging applications in imaging, biosensing and targeted protein control. We further discuss recent advances in computationally assisted binder design and optimization. Finally, we examine key translational challenges, including cellular stability, delivery technologies and immunogenicity, that will shape the clinical development of intracellular binder-based therapeutics.",
+      "summaryZh": "细胞内蛋白质失调是许多癌症、神经退行性疾病和传染病的基础，但传统的小分子药物或细胞外抗体仍然无法接近人类蛋白质组的很大一部分。基因编码的细胞内结合物，包括纳米抗体、DARPins、亲和体和从头设计的支架，为活细胞中内源蛋白质的选择性识别、可视化和功能调节提供模块化平台。这些结合剂可以接合扩展的蛋白质表面和构象表位，并越来越多地应用于临床前模型中，以抑制致癌信号、降解致病蛋白、重新连接细胞途径和设计可编程细胞疗法。在这里，我们概述了细胞内结合物的结构多样性、发现策略和设计原则，并总结了它们在成像、生物传感和靶向蛋白质控制方面的新兴应用。我们进一步讨论计算辅助粘合剂设计和优化的最新进展。最后，我们研究了关键的转化挑战，包括细胞稳定性、递送技术和免疫原性，这些挑战将影响基于细胞内结合剂的疗法的临床开发。",
+      "translationSource": "1ad4013618acb6cd"
+    },
+    {
+      "pmid": "42556338",
+      "title": "An ER stress-responsive RNA rheostat for programmable gene and mRNA therapies.",
+      "titleZh": "用于可编程基因和 mRNA 治疗的 ER 应激响应 RNA 变阻器。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-08-20",
+      "doi": "10.1016/j.chembiol.2026.07.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.07.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556338/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Therapeutic protein overexpression can overwhelm endoplasmic reticulum (ER) folding capacity, trigger unfolded protein response (UPR) signaling, and compromise the safety of gene and mRNA therapies. Here, we engineer stress-responsive RNA rheostats that couple transgene expression to endogenous ER stress sensing. Short RNA elements derived from X-box-binding protein 1 (XBP1) mRNA undergo inositol-requiring enzyme 1α (IRE1α)-dependent splicing under ER stress, inducing a frameshift that attenuates downstream protein expression. XBP1 switches function across DNA and mRNA delivery platforms and regulate the expression of fluorescent reporters, coagulation factor VIII, and Leronlimab, a therapeutic anti-CCR5 monoclonal antibody. Switch activation reduces ER stress markers while preserving expression under homeostatic conditions. We further demonstrate the regulation of Leronlimab expression in vivo using recombinant adeno-associated virus vectors. Together, these findings establish programmable RNA feedback control as a strategy for linking cellular proteostasis to therapeutic protein expression and improving the safety of gene and mRNA therapies.",
+      "summaryZh": "治疗性蛋白过度表达会压倒内质网 (ER) 折叠能力，触发未折叠蛋白反应 (UPR) 信号传导，并损害基因和 mRNA 治疗的安全性。在这里，我们设计了应激响应 RNA 变阻器，将转基因表达与内源性 ER 应激传感相结合。源自 X-box 结合蛋白 1 (XBP1) mRNA 的短 RNA 元件在内质网应激下经历肌醇需求酶 1α (IRE1α) 依赖性剪接，诱导移码，从而减弱下游蛋白表达。 XBP1 在 DNA 和 mRNA 传递平台之间切换功能，并调节荧光报告基因、凝血因子 VIII 和 Leronlimab（一种治疗性抗 CCR5 单克隆抗体）的表达。开关激活可减少 ER 应激标记物，同时保持稳态条件下的表达。我们进一步证明了使用重组腺相关病毒载体对 Leronlimab 体内表达的调节。总之，这些发现确立了可编程 RNA 反馈控制作为将细胞蛋白质稳态与治疗性蛋白质表达联系起来并提高基因和 mRNA 治疗安全性的策略。",
+      "translationSource": "98e811f12708f97e"
+    },
+    {
+      "pmid": "42618804",
+      "title": "High-throughput synthesis of DNA fragments by molecular self-assembly of overlapping oligonucleotides.",
+      "titleZh": "通过重叠寡核苷酸的分子自组装来高通量合成 DNA 片段。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-08-19",
+      "doi": "10.1038/s41587-026-03266-2",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03266-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42618804/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The limitations of DNA synthesis technologies are a fundamental bottleneck in synthetic biology. Here we present a high-throughput gene synthesis method driven by hybridization, called Molecular Self-Assembly Induced Cloning. Molecular Self-Assembly Induced Cloning overcomes molecular crosstalk and oligo misalignment across genes by coupling orthogonal self-assembly of overlapping DNA segments in vitro with the DNA repair machineries of host cells in vivo. Cellular uptake of the assembled target fragments serves as templates for recovery and cloning. We adopt microchip-based oligonucleotide synthesis, enabling the production of over 1,000 distinct gene fragments in a simple one-pot reaction. Near-zero misalignment is an indispensable feature of the parallel synthesis, with oligo synthesis errors remaining at a constant but controllable level. We also construct massive variant libraries of the industrial enzyme PETase and discover higher-potency variants than the gold standard enzyme.",
+      "summaryZh": "DNA 合成技术的局限性是合成生物学的一个基本瓶颈。在这里，我们提出了一种由杂交驱动的高通量基因合成方法，称为分子自组装诱导克隆。分子自组装诱导克隆通过将体外重叠 DNA 片段的正交自组装与体内宿主细胞的 DNA 修复机制相结合，克服了基因间的分子串扰和寡核苷酸错位。细胞摄取组装的靶片段作为恢复和克隆的模板。我们采用基于微芯片的寡核苷酸合成，能够在简单的一锅反应中产生 1,000 多个不同的基因片段。近零错位是并行合成不可或缺的特征，寡核苷酸合成误差保持在恒定但可控的水平。我们还构建了工业酶 PETase 的大量变体库，并发现了比金标准酶更高效的变体。",
+      "translationSource": "e409ea760cc9fb4f"
+    },
+    {
+      "pmid": "42618785",
+      "title": "A biased allosteric modulator is a molecular glue for β 2 AR dimerization.",
+      "titleZh": "偏向变构调节剂是 β2 AR 二聚化的分子胶。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-08-19",
+      "doi": "10.1038/s41586-026-10892-y",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10892-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42618785/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Family A G-protein-coupled receptors (GPCRs) are typically described as monomers, yet growing evidence suggests that they can form dimers with distinct signalling properties 1-3 . However, the mechanisms and therapeutic potential of such dimerization remain poorly understood. Here we show that AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β 2 -adrenergic receptor (β 2 AR) that sustains bronchorelaxation in cell and tissue models 4 , functions as a molecular glue to stabilize β 2 AR homodimerization. Cryogenic electron microscopy structures reveal a unique binding mode in which two AP-7-168 molecules pack within a pocket formed by transmembrane helices 3, 4 and 5 of two protomers, stabilizing a dimeric conformation that selectively prevents β-arrestin coupling. In cells, AP-7-168 robustly stabilizes β 2 AR dimerization and drives enlarged nanocluster formation. Combined with extensive functional studies, our findings identify an allosteric mechanism by which a small molecule biases β 2 AR signalling through dimerization, highlighting ligand-stabilized dimerization as a strategy for GPCR modulation.",
+      "summaryZh": "A 族 G 蛋白偶联受体 (GPCR) 通常被描述为单体，但越来越多的证据表明它们可以形成具有不同信号传导特性的二聚体 1-3 。然而，这种二聚化的机制和治疗潜力仍然知之甚少。在这里，我们展示了 AP-7-168 是 β2 肾上腺素受体 (β2 AR) 的 β-arrestin 偏向负变构调节剂的优化衍生物，可维持细胞和组织模型中的支气管松弛 4 ，作为分子胶来稳定 β2 AR 同二聚化。低温电子显微镜结构揭示了一种独特的结合模式，其中两个 AP-7-168 分子堆积在由两个原聚体的跨膜螺旋 3、4 和 5 形成的口袋内，稳定二聚体构象，选择性地防止 β-抑制蛋白偶联。在细胞中，AP-7-168 能够稳定 β2 AR 二聚化并促进扩大的纳米簇形成。结合广泛的功能研究，我们的研究结果确定了小分子通过二聚化偏向 β2 AR 信号传导的变构机制，强调配体稳定的二聚化作为 GPCR 调节的策略。",
+      "translationSource": "8ce6bf1f6fa80ab3"
+    },
+    {
+      "pmid": "42242210",
+      "title": "Discovering what is possible: How synthetic biology illuminates development.",
+      "titleZh": "发现什么是可能的：合成生物学如何阐明发展。",
+      "journal": "Cell Systems",
+      "year": 2026,
+      "published": "2026-08-19",
+      "doi": "10.1016/j.cels.2026.101619",
+      "doiUrl": "https://doi.org/10.1016/j.cels.2026.101619",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42242210/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Developmental biology seeks to understand how multicellular organization emerges from cell-cell interactions. Advances in stem cell and synthetic biology now enable researchers to rebuild developmental processes outside the embryo, with varying degrees of resemblance to natural systems. While some reconstituted systems reveal how development occurs, others uncover what is possible. This perspective examines how such bottom-up approaches have elucidated general principles and causal mechanisms of multicellular organization. We argue that synthetic systems, though simplified, provide powerful platforms to test the limits of developmental potential, disentangle causal relationships, and inform predictive models. With rapid advances in genomic engineering, imaging, and computational modeling, leveraging these engineered systems to discover what is possible holds transformative promise for understanding what is happening in nature.",
+      "summaryZh": "发育生物学试图了解多细胞组织是如何从细胞与细胞相互作用中产生的。干细胞和合成生物学的进步现在使研究人员能够在胚胎外重建发育过程，与自然系统具有不同程度的相似性。虽然一些重构的系统揭示了发育是如何发生的，但另一些则揭示了可能性。这种观点探讨了这种自下而上的方法如何阐明多细胞组织的一般原理和因果机制。我们认为，合成系统虽然经过简化，但却提供了强大的平台来测试发展潜力的极限、理清因果关系并为预测模型提供信息。随着基因组工程、成像和计算建模的快速发展，利用这些工程系统来发现可能性，为理解自然界正在发生的事情带来了变革性的希望。",
+      "translationSource": "56285894774fbca4"
+    },
     {
       "pmid": "42608567",
       "title": "A scalable platform to discover and characterize substrates of molecular glue degraders.",
@@ -590,27 +738,6 @@
       "translationSource": "2cd03daa02b10d50"
     },
     {
-      "pmid": "42556338",
-      "title": "An ER stress-responsive RNA rheostat for programmable gene and mRNA therapies.",
-      "titleZh": "用于可编程基因和 mRNA 治疗的 ER 应激响应 RNA 变阻器。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-08-05",
-      "doi": "10.1016/j.chembiol.2026.07.006",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.07.006",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556338/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Therapeutic protein overexpression can overwhelm endoplasmic reticulum (ER) folding capacity, trigger unfolded protein response (UPR) signaling, and compromise the safety of gene and mRNA therapies. Here, we engineer stress-responsive RNA rheostats that couple transgene expression to endogenous ER stress sensing. Short RNA elements derived from X-box-binding protein 1 (XBP1) mRNA undergo inositol-requiring enzyme 1α (IRE1α)-dependent splicing under ER stress, inducing a frameshift that attenuates downstream protein expression. XBP1 switches function across DNA and mRNA delivery platforms and regulate the expression of fluorescent reporters, coagulation factor VIII, and Leronlimab, a therapeutic anti-CCR5 monoclonal antibody. Switch activation reduces ER stress markers while preserving expression under homeostatic conditions. We further demonstrate the regulation of Leronlimab expression in vivo using recombinant adeno-associated virus vectors. Together, these findings establish programmable RNA feedback control as a strategy for linking cellular proteostasis to therapeutic protein expression and improving the safety of gene and mRNA therapies.",
-      "summaryZh": "治疗性蛋白过度表达会压倒内质网 (ER) 折叠能力，触发未折叠蛋白反应 (UPR) 信号传导，并损害基因和 mRNA 治疗的安全性。在这里，我们设计了应激响应 RNA 变阻器，将转基因表达与内源性 ER 应激传感相结合。源自 X-box 结合蛋白 1 (XBP1) mRNA 的短 RNA 元件在内质网应激下经历肌醇需求酶 1α (IRE1α) 依赖性剪接，诱导移码，从而减弱下游蛋白表达。 XBP1 在 DNA 和 mRNA 传递平台之间切换功能，并调节荧光报告基因、凝血因子 VIII 和 Leronlimab（一种治疗性抗 CCR5 单克隆抗体）的表达。开关激活可减少 ER 应激标记物，同时保持稳态条件下的表达。我们进一步证明了使用重组腺相关病毒载体对 Leronlimab 体内表达的调节。总之，这些发现确立了可编程 RNA 反馈控制作为将细胞蛋白质稳态与治疗性蛋白质表达联系起来并提高基因和 mRNA 治疗安全性的策略。",
-      "translationSource": "98e811f12708f97e"
-    },
-    {
       "pmid": "42547503",
       "title": "Mechanism underlying the high regulatory performance of the doxycycline riboswitch G12.",
       "titleZh": "多西环素核糖开关 G12 的高调节性能的机制。",
@@ -741,6 +868,48 @@
       "abstractEn": "Post-translational control enables rapid and precise regulation of cell behavior. Despite these advantages, general strategies to build phosphorylation-based synthetic circuits are limited. Here we reasoned that engineered allostery, a technique that has been applied to design light- and chemically gated protein switches, could also be used to engineer phosphorylation-controlled protein switches (phospho-switches). Using an allosterically controllable Gal4 transcription factor as a scaffold, we show that a classic kinase Förster resonance energy transfer biosensor architecture can be used as a starting point for phospho-switch design. We optimize all features of the phospho-switch to develop an ERK-controlled transcription factor with a 20-fold phosphorylation-dependent change in transcriptional output. The resulting synthetic ERK-responsive transcription factor responds with comparable sensitivity to the c-fos promoter and reveals spatial ERK signaling patterns in mammalian developmental organoids. We further show that our switch architecture can be generalized to other input kinases and allosterically controlled targets. This work provides a general platform for a new generation of kinase-responsive tools for biosensing and synthetic biology applications.",
       "summaryZh": "翻译后控制能够快速、精确地调节细胞行为。尽管有这些优点，构建基于磷酸化的合成电路的一般策略是有限的。在这里，我们推断工程变构（一种已应用于设计光和化学门控蛋白质开关的技术）也可用于设计磷酸化控制的蛋白质开关（磷酸化开关）。使用变构可控的 Gal4 转录因子作为支架，我们证明经典激酶 Förster 共振能量转移生物传感器架构可以用作磷酸开关设计的起点。我们优化了磷酸开关的所有功能，以开发 ERK 控制的转录因子，其转录输出具有 20 倍磷酸化依赖性变化。由此产生的合成 ERK 响应转录因子对 c-fos 启动子具有相当的敏感性，并揭示了哺乳动物发育类器官中的空间 ERK 信号传导模式。我们进一步表明，我们的开关架构可以推广到其他输入激酶和变构控制靶标。这项工作为生物传感和合成生物学应用的新一代激酶响应工具提供了一个通用平台。",
       "translationSource": "2be52fa81275d9d9"
+    },
+    {
+      "pmid": "42420651",
+      "title": "Hypoxia rescues complex 1-associated disease caused by proteostatic defects.",
+      "titleZh": "缺氧可挽救由蛋白缺陷引起的复杂 1 相关疾病。",
+      "journal": "Nature Metabolism",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s42255-026-01566-0",
+      "doiUrl": "https://doi.org/10.1038/s42255-026-01566-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42420651/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Impaired mitochondrial proteostasis underlies a broad spectrum of diseases, yet effective therapies remain limited. Here we show that deficiency of HTRA2, a mitochondrial intermembrane space protease, can be rescued by hypoxia therapy. Using an Htra2 mutant mouse model that displays severe neurodegeneration and early lethality, we find that continuous hypoxia rescues striatal degeneration and extends lifespan. Mechanistically, we demonstrate that HTRA2 forms a functional complex with the disaggregase CLPB. Loss of function of either protein drives aggregation of intermembrane space-facing subunits of complex I of the electron transport chain, resulting in secondary complex I dysfunction. These changes impair tissue oxygen consumption and probably cause pathological hyperoxia, which is corrected by hypoxia. Together, these findings define a proteostasis pathway linking intermembrane space quality control to complex I function and expand the potential of hypoxia therapy to secondary complex I disease.",
+      "summaryZh": "线粒体蛋白质稳态受损是多种疾病的基础，但有效的治疗方法仍然有限。在这里，我们表明，HTRA2（一种线粒体膜间间隙蛋白酶）的缺陷可以通过缺氧疗法来挽救。使用表现出严重神经变性和早期致死性的 Htra2 突变小鼠模型，我们发现持续缺氧可以挽救纹状体变性并延长寿命。从机制上讲，我们证明 HTRA2 与解聚酶 CLPB 形成功能复合物。任一蛋白质功能丧失都会导致电子传递链复合物 I 面向膜间空间的亚基聚集，导致继发性复合物 I 功能障碍。这些变化会损害组织耗氧量，并可能导致病理性高氧，而病理性高氧可通过缺氧来纠正。总之，这些发现定义了一条将膜间空间质量控制与复合物 I 功能联系起来的蛋白质稳态途径，并扩大了缺氧治疗继发性复合物 I 疾病的潜力。",
+      "translationSource": "18bd276ca25b840a"
+    },
+    {
+      "pmid": "42420650",
+      "title": "Oxygen relief for a proteostasis-driven disease associated with mitochondrial complex I dysfunction.",
+      "titleZh": "氧气缓解与线粒体复合物 I 功能障碍相关的蛋白质稳态驱动疾病。",
+      "journal": "Nature Metabolism",
+      "year": 2026,
+      "published": "2026-08-01",
+      "doi": "10.1038/s42255-026-01569-x",
+      "doiUrl": "https://doi.org/10.1038/s42255-026-01569-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42420650/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "9dec9adfcf4d8b79"
     },
     {
       "pmid": "42608398",
@@ -2014,28 +2183,6 @@
       "translationSource": "0e15368431f74363"
     },
     {
-      "pmid": "42424437",
-      "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion.",
-      "titleZh": "全病毒组泛素连接酶的发现揭示了免疫逃避的多种机制。",
-      "journal": "Science",
-      "year": 2026,
-      "published": "2026-07-09",
-      "doi": "10.1126/science.aec6299",
-      "doiUrl": "https://doi.org/10.1126/science.aec6299",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42424437/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome",
-        "ubiquitin-proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
-      "abstractEn": "Viruses are intracellular parasites that reprogram the host proteome to promote replication and evade immune recognition. We applied a virome-wide library of ~10,000 open reading frames to discover viral ubiquitin ligases, mapping their mechanisms of degradation and host substrates using targeted CRISPR screens and proteomics. These viral effectors could be classified as canonical ligases that mimic host E3s, hijackers that redirect host E3s, and non-canonical ligases that rewire Cullin-RING ligase machinery. These diverse strategies of virus-mediated degradation converged on immune-related substrates, including JAK1 and CUL1 β-TrCP , underscoring immune evasion as a major driver of viral ubiquitin ligase evolution. Our findings elucidate viral strategies for exploiting the ubiquitin-proteasome system with potential for therapeutic targeting.",
-      "summaryZh": "Viruses are intracellular parasites that reprogram the host proteome to promote replication and evade immune recognition.我们应用约 10,000 个开放阅读框的病毒组文库来发现病毒泛素连接酶，并使用靶向 CRISPR 筛选和蛋白质组学绘制其降解机制和宿主底物。这些病毒效应子可分为模仿宿主 E3 的规范连接酶、重定向宿主 E3 的劫持者以及重新连接 Cullin-RING 连接酶机制的非规范连接酶。这些病毒介导的降解的不同策略集中在免疫相关底物上，包括 JAK1 和 CUL1 β-TrCP ，强调了免疫逃避是病毒泛素连接酶进化的主要驱动力。 Our findings elucidate viral strategies for exploiting the ubiquitin-proteasome system with potential for therapeutic targeting.",
-      "translationSource": "01abed5f4b208fbe"
-    },
-    {
       "pmid": "42426013",
       "title": "Deep Learning Predicts Dissimilar DNA-DNA Binding and Engineers Hyperconnected Networks.",
       "titleZh": "深度学习预测不同的 DNA-DNA 结合并设计超连接网络。",
@@ -2076,48 +2223,6 @@
       "abstractEn": "Hepatitis B virus (HBV) infects hepatocytes by specific binding to the cell-surface receptor-sodium taurocholate cotransporting polypeptide (NTCP)-through the preS1 region of its large envelope protein, followed by a less well-understood transport process across the cytoplasm to the nucleus. Here, we report that scavenger receptor class F member 2 (SCARF2), a single-pass transmembrane protein, functions as an intracellular receptor for HBV. SCARF2 binds to a preS1 region downstream of the NTCP binding site through its N-terminal epidermal growth factor (EGF)-like domains 4-6, and its proline-rich C-terminal domain also plays an indispensable role in the infection. The internalized HBV virions are transported to the cytoplasmic side of nuclear pore complexes within the SCARF2-containing endosomes. HBV nucleocapsid release from the endosomal vesicles is impaired by knockdown of SCARF2. These results suggest a model in which SCARF2 conveys HBV to the periphery of nuclear pore complexes (NPCs) and ultimately leads to viral nucleocapsid release for nuclear entry.",
       "summaryZh": "乙型肝炎病毒 (HBV) 通过其大包膜蛋白的 preS1 区域与细胞表面受体牛磺胆酸钠共转运多肽 (NTCP) 特异性结合来感染肝细胞，然后通过一个不太了解的转运过程穿过细胞质到达细胞核。在这里，我们报道了清道夫受体 F 类成员 2 (SCARF2)，一种单次跨膜蛋白，充当 HBV 的细胞内受体。 SCARF2通过其N端表皮生长因子（EGF）样结构域4-6与NTCP结合位点下游的preS1区域结合，其富含脯氨酸的C端结构域也在感染中发挥着不可或缺的作用。内化的 HBV 病毒体被转运至含有 SCARF2 的内体中核孔复合物的细胞质侧。 SCARF2 的敲低会损害 HBV 核衣壳从内体囊泡的释放。这些结果表明，SCARF2 将 HBV 传递至核孔复合物 (NPC) 的外围，并最终导致病毒核衣壳释放以进入核。",
       "translationSource": "f893f2eb98f2ed06"
-    },
-    {
-      "pmid": "42420651",
-      "title": "Hypoxia rescues complex 1-associated disease caused by proteostatic defects.",
-      "titleZh": "缺氧可挽救由蛋白缺陷引起的复杂 1 相关疾病。",
-      "journal": "Nature Metabolism",
-      "year": 2026,
-      "published": "2026-07-08",
-      "doi": "10.1038/s42255-026-01566-0",
-      "doiUrl": "https://doi.org/10.1038/s42255-026-01566-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42420651/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Impaired mitochondrial proteostasis underlies a broad spectrum of diseases, yet effective therapies remain limited. Here we show that deficiency of HTRA2, a mitochondrial intermembrane space protease, can be rescued by hypoxia therapy. Using an Htra2 mutant mouse model that displays severe neurodegeneration and early lethality, we find that continuous hypoxia rescues striatal degeneration and extends lifespan. Mechanistically, we demonstrate that HTRA2 forms a functional complex with the disaggregase CLPB. Loss of function of either protein drives aggregation of intermembrane space-facing subunits of complex I of the electron transport chain, resulting in secondary complex I dysfunction. These changes impair tissue oxygen consumption and probably cause pathological hyperoxia, which is corrected by hypoxia. Together, these findings define a proteostasis pathway linking intermembrane space quality control to complex I function and expand the potential of hypoxia therapy to secondary complex I disease.",
-      "summaryZh": "线粒体蛋白质稳态受损是多种疾病的基础，但有效的治疗方法仍然有限。在这里，我们表明，HTRA2（一种线粒体膜间间隙蛋白酶）的缺陷可以通过缺氧疗法来挽救。使用表现出严重神经变性和早期致死性的 Htra2 突变小鼠模型，我们发现持续缺氧可以挽救纹状体变性并延长寿命。从机制上讲，我们证明 HTRA2 与解聚酶 CLPB 形成功能复合物。任一蛋白质功能丧失都会导致电子传递链复合物 I 面向膜间空间的亚基聚集，导致继发性复合物 I 功能障碍。这些变化会损害组织耗氧量，并可能导致病理性高氧，而病理性高氧可通过缺氧来纠正。总之，这些发现定义了一条将膜间空间质量控制与复合物 I 功能联系起来的蛋白质稳态途径，并扩大了缺氧治疗继发性复合物 I 疾病的潜力。",
-      "translationSource": "18bd276ca25b840a"
-    },
-    {
-      "pmid": "42420650",
-      "title": "Oxygen relief for a proteostasis-driven disease associated with mitochondrial complex I dysfunction.",
-      "titleZh": "氧气缓解与线粒体复合物 I 功能障碍相关的蛋白质稳态驱动疾病。",
-      "journal": "Nature Metabolism",
-      "year": 2026,
-      "published": "2026-07-08",
-      "doi": "10.1038/s42255-026-01569-x",
-      "doiUrl": "https://doi.org/10.1038/s42255-026-01569-x",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42420650/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "9dec9adfcf4d8b79"
     },
     {
       "pmid": "42420316",
@@ -3925,27 +4030,6 @@
       "abstractEn": "Receptor-type E3 ubiquitin ligases enable extracellular signals to control ubiquitylation in the cytoplasm, playing widespread roles in development, metabolism, and immunity. Using cryoelectron microscopy, integrated with biophysical and functional studies, we visualized a human E3 complex composed of two transmembrane proteins, MEGF8 and MOSMO, and the intracellular RING-family protein MGRN1. This MEGF8-MOSMO-MGRN1 (MMM) complex attenuates Hedgehog signaling by ubiquitylating Smoothened (SMO), a G-protein-coupled receptor (GPCR) that transduces morphogen signals. A long helix in the MMM complex engages SMO using an intramembrane degron and extends into the cytoplasm to suspend an activated and precisely oriented RING domain below the plasma membrane. This architecture enables ubiquitylation of the cytoplasmic surface of SMO, reducing SMO abundance at primary cilia. Our structure provides insights into MEGF8 mutations, which cause multi-organ birth defects, and defines a paradigm for how transmembrane E3 ligases control the cell surface abundance of GPCRs and other signaling receptors.",
       "summaryZh": "受体型E3泛素连接酶使细胞外信号能够控制细胞质中的泛素化，在发育、代谢和免疫中发挥广泛作用。使用冷冻电子显微镜，结合生物物理和功能研究，我们可视化了由两种跨膜蛋白 MEGF8 和 MOSMO 以及细胞内 RING 家族蛋白 MGRN1 组成的人类 E3 复合物。这种 MEGF8-MOSMO-MGRN1 (MMM) 复合物通过泛素化 Smoothened (SMO)（一种转导形态发生素信号的 G 蛋白偶联受体 (GPCR)）来减弱 Hedgehog 信号传导。 MMM 复合物中的长螺旋使用膜内降解决定子与 SMO 接合，并延伸到细胞质中，将激活且精确定向的 RING 结构域悬浮在质膜下方。这种结构能够实现 SMO 细胞质表面的泛素化，从而减少初级纤毛的 SMO 丰度。我们的结构提供了对导致多器官先天缺陷的 MEGF8 突变的见解，并定义了跨膜 E3 连接酶如何控制 GPCR 和其他信号受体的细胞表面丰度的范例。",
       "translationSource": "03882dcf49e2dd38"
-    },
-    {
-      "pmid": "42242210",
-      "title": "Discovering what is possible: How synthetic biology illuminates development.",
-      "titleZh": "发现什么是可能的：合成生物学如何阐明发展。",
-      "journal": "Cell Systems",
-      "year": 2026,
-      "published": "2026-06-04",
-      "doi": "10.1016/j.cels.2026.101619",
-      "doiUrl": "https://doi.org/10.1016/j.cels.2026.101619",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42242210/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
-      "abstractEn": "Developmental biology seeks to understand how multicellular organization emerges from cell-cell interactions. Advances in stem cell and synthetic biology now enable researchers to rebuild developmental processes outside the embryo, with varying degrees of resemblance to natural systems. While some reconstituted systems reveal how development occurs, others uncover what is possible. This perspective examines how such bottom-up approaches have elucidated general principles and causal mechanisms of multicellular organization. We argue that synthetic systems, though simplified, provide powerful platforms to test the limits of developmental potential, disentangle causal relationships, and inform predictive models. With rapid advances in genomic engineering, imaging, and computational modeling, leveraging these engineered systems to discover what is possible holds transformative promise for understanding what is happening in nature.",
-      "summaryZh": "发育生物学试图了解多细胞组织是如何从细胞与细胞相互作用中产生的。干细胞和合成生物学的进步现在使研究人员能够在胚胎外重建发育过程，与自然系统具有不同程度的相似性。虽然一些重构的系统揭示了发育是如何发生的，但另一些则揭示了可能性。这种观点探讨了这种自下而上的方法如何阐明多细胞组织的一般原理和因果机制。我们认为，合成系统虽然经过简化，但却提供了强大的平台来测试发展潜力的极限、理清因果关系并为预测模型提供信息。随着基因组工程、成像和计算建模的快速发展，利用这些工程系统来发现可能性，为理解自然界正在发生的事情带来了变革性的希望。",
-      "translationSource": "56285894774fbca4"
     },
     {
       "pmid": "42230636",
