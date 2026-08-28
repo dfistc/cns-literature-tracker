@@ -1,8 +1,291 @@
 {
-  "updatedAt": "2026-08-22T00:28:03+00:00",
+  "updatedAt": "2026-08-28T07:14:21+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "41942734",
+      "title": "Munc13-4-STX7 inhibitors impair endosomal TLR activation and systemic inflammation.",
+      "titleZh": "Munc13-4-STX7 抑制剂会损害内体 TLR 激活和全身炎症。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-026-02181-6",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02181-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942734/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "Endosomal function is essential for pattern recognition receptor signaling, through endosomal Toll-like receptor (TLR) sensing of nonself RNA and DNA. The specific interaction of the calcium sensor Munc13-4 with syntaxin 7 (STX7) regulates endosomal flux and Munc13-4 depletion decreases the systemic inflammatory response to unmethylated DNA. Using high-throughput screening and orthogonal cell-based validation, we identified small-molecule inhibitors of the Munc13-4-STX7 interaction, ENDOtollins (ENDOs). ENDOs inhibit extracellular signal-regulated kinase signaling in neutrophils and interferon (IFN) regulatory factor signaling in plasmacytoid dendritic cells (DCs) in response to endosomal TLR ligands but not to plasma membrane agonists, highlighting specificity for the endocytic pathway. Mechanistically, ENDOs inhibit endolysosomal flux and decrease endolysosomal cargo degradation. Chemical optimization identified ENDO12 as the most potent inhibitor. ENDO12 inhibited primary DC responses to TLR3, TLR7 and TLR9 and reduced CpG-induced systemic inflammation, manifested as decreased levels of the proinflammatory mediators myeloperoxidase, interleukin 6 and IFNγ. Our findings have significant implications for immunodeficiency, inflammation and innate immunity.",
+      "summaryZh": "通过内体 Toll 样受体 (TLR) 感知非自身 RNA 和 DNA，内体功能对于模式识别受体信号转导至关重要。钙传感器 Munc13-4 与突触蛋白 7 (STX7) 的特异性相互作用可调节内体通量，而 Munc13-4 的消耗会降低对非甲基化 DNA 的全身炎症反应。通过高通量筛选和正交细胞验证，我们鉴定了 Munc13-4-STX7 相互作用的小分子抑制剂 ENDOtollins (ENDO)。 ENDO 响应内体 TLR 配体，但不响应质膜激动剂，抑制中性粒细胞中的细胞外信号调节激酶信号传导和浆细胞样树突状细胞 (DC) 中的干扰素 (IFN) 调节因子信号传导，突出了内吞途径的特异性。从机制上讲，ENDO 抑制内溶酶体通量并减少内溶酶体货物降解。化学优化确定 ENDO12 是最有效的抑制剂。 ENDO12 抑制原发性 DC 对 TLR3、TLR7 和 TLR9 的反应，并减少 CpG 诱导的全身炎症，表现为促炎介质髓过氧化物酶、白细胞介素 6 和 IFNγ 水平降低。我们的研究结果对免疫缺陷、炎症和先天免疫具有重要意义。",
+      "translationSource": "1458f2ff2f499c85"
+    },
+    {
+      "pmid": "41942733",
+      "title": "Charged molecular glue discovery enabled by targeted degron display.",
+      "titleZh": "通过靶向降解决定子显示实现带电分子胶的发现。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-026-02182-5",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02182-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942733/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protein degrader",
+        "molecular glue degrader",
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, molecular glue degrader, molecular glue, degron。",
+      "abstractEn": "Small molecules that induce protein interactions hold tremendous potential as new medicines, probes for molecular pathways and tools for agriculture. Explosive growth of targeted protein degradation drug development has spurred renewed interest in proximity-inducing molecules, especially molecular glue degraders (MGDs). These compounds catalyze the destruction of disease-causing proteins by reshaping protein surfaces and promoting cooperative binding between ubiquitylating enzymes and target proteins. MGD discovery for predefined targets is a major challenge in contemporary drug discovery. Here, we solve this important chemical challenge through 'chemocentric' MGD discovery of ZZ1, a BET-family protein degrader and a prodrug of a negatively charged glue. ZZ1 activation unmasks a sulfinic acid that binds the modular CTLH ubiquitin ligase complex through a basic pocket in its YPEL5 subunit. These findings demonstrate a previously unrecognized capacity of YPEL5 to recruit CTLH substrates and enable the discovery of MGDs for exceedingly common acidic and basic degrons.",
+      "summaryZh": "诱导蛋白质相互作用的小分子作为新药物、分子途径探针和农业工具具有巨大的潜力。靶向蛋白质降解药物开发的爆炸式增长激起了人们对邻近诱导分子，特别是分子胶降解剂（MGD）的新兴趣。这些化合物通过重塑蛋白质表面并促进泛素化酶与靶蛋白之间的协同结合来催化致病蛋白质的破坏。预定义靶标的 MGD 发现是当代药物发现的主要挑战。在这里，我们通过“以化学为中心”的 MGD 发现 ZZ1（一种 BET 家族蛋白质降解剂和带负电胶的前药）解决了这一重要的化学挑战。 ZZ1 激活揭示了亚磺酸，该亚磺酸通过其 YPEL5 亚基中的碱性口袋结合模块化 CTLH 泛素连接酶复合物。这些发现证明了 YPEL5 具有以前未被认识的能力，可以招募 CTLH 底物，并能够发现极其常见的酸性和碱性降解决定子的 MGD。",
+      "translationSource": "ef6c9f94c9408c8c"
+    },
+    {
+      "pmid": "41942732",
+      "title": "Broadening the molecular glue landscape.",
+      "titleZh": "拓宽分子胶的前景。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-026-02167-4",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02167-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942732/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "9447575a3d48df79"
+    },
+    {
+      "pmid": "41699285",
+      "title": "High-throughput ligand diversification to discover chemical inducers of proximity.",
+      "titleZh": "高通量配体多样化以发现邻近化学诱导剂。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-025-02137-2",
+      "doiUrl": "https://doi.org/10.1038/s41589-025-02137-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41699285/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Chemical inducers of proximity (CIPs) stabilize biomolecular interactions, often causing an emergent rewiring of cellular biochemistry. While the discovery of heterobifunctional CIPs is expedited by rational design strategies, molecular glues have relied predominantly on serendipity. We hypothesized that preexisting ligands could be systematically decorated with chemical modifications to discover compounds that recruit proteins to a composite protein-ligand interface. Using sulfur(VI) fluoride exchange-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto ENL (eleven-nineteen leukemia) and BRD4 (bromodomain-containing protein 4) ligands, we screened each analog for degrader activity. This revealed dHTC1, an ENL degrader that recruits CRL4 CRBN complex through an extended interface of protein-protein contacts and only engages CRBN after pre-forming the ENL:dHTC1 complex. We also identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 to SCF FBXO3 , an E3 ligase not previously accessible for chemical rewiring. Altogether, this study introduces HTC as a facile tool to discover new CIPs and new effectors for proximity pharmacology.",
+      "summaryZh": "邻近化学诱导剂 (CIP) 可以稳定生物分子相互作用，通常会导致细胞生物化学的紧急重新连接。虽然合理的设计策略加速了异双功能 CIP 的发现，但分子胶主要依赖于偶然性。我们假设可以通过化学修饰系统地修饰预先存在的配体，以发现将蛋白质招募到复合蛋白质-配体界面的化合物。使用基于六氟化物交换的高通量化学 (HTC) 将 3,163 个结构不同的构建模块安装到 ENL（11-19 白血病）和 BRD4（含溴结构域蛋白 4）配体上，我们筛选了每个类似物的降解剂活性。这揭示了 dHTC1，一种 ENL 降解剂，它通过蛋白质-蛋白质接触的扩展界面招募 CRL4 CRBN 复合物，并且仅在预形成 ENL:dHTC1 复合物后才与 CRBN 结合。我们还鉴定了 dHTC3，一种分子胶，可选择性地将 BRD4 溴结构域 1 二聚为 SCF FBXO3，这是一种以前无法进行化学重连的 E3 连接酶。总而言之，这项研究将 HTC 作为一种简便的工具来发现新的 CIP 和新的邻近药理学效应器。",
+      "translationSource": "7ecf430c4fdf6da9"
+    },
+    {
+      "pmid": "41644848",
+      "title": "A pharmacological modality to sequester homomeric proteins.",
+      "titleZh": "隔离同聚蛋白的药理学方式。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-026-02141-0",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02141-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41644848/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
+      "abstractEn": "Molecules that facilitate protein-protein interactions are immensely impactful. However, such compounds typically rely on accessory proteins to function, such as E3 ligases for targeted degradation, which may restrict their scope or lead to resistance. We alleviate the need for accessory proteins with a strategy that exploits protein symmetry as a selective vulnerability and is widely applicable because of the ubiquitous nature of homomeric proteins. We target homomeric proteins with PINCHs (polymerization-inducing chimeras)-bifunctional molecules composed of two linked ligands that bridge homomers and trigger their supramolecular assembly into insoluble polymers. We design PINCHs that achieve efficient polymerization of four targets. In cells, we observed that a PINCH targeting Keap1 exhibited a longer duration of action and a PINCH targeting BCL6 displayed selective lowering of B cell viability compared to their monomeric parents. Our results highlight PINCHs as a novel and general strategy to modulate and knock out protein function.",
+      "summaryZh": "促进蛋白质-蛋白质相互作用的分子具有巨大的影响力。然而，此类化合物通常依赖辅助蛋白发挥作用，例如用于靶向降解的 E3 连接酶，这可能会限制其范围或导致耐药性。我们通过利用蛋白质对称性作为选择性脆弱性的策略来减少对辅助蛋白质的需求，并且由于同聚蛋白质的普遍存在性而被广泛应用。我们用 PINCH（聚合诱导嵌合体）双功能分子来靶向同聚蛋白，该双功能分子由两个连接的配体组成，可桥接同聚体并触发其超分子组装成不溶性聚合物。我们设计的 PINCH 可以实现四个目标的有效聚合。在细胞中，我们观察到，与单体亲本相比，靶向 Keap1 的 PINCH 表现出更长的作用持续时间，而靶向 BCL6 的 PINCH 显示选择性降低 B 细胞活力。我们的结果强调了 PINCH 是一种调节和敲除蛋白质功能的新颖且通用的策略。",
+      "translationSource": "c00716701c21bc02"
+    },
+    {
+      "pmid": "41513854",
+      "title": "Directed evolution of functional intrinsically disordered proteins.",
+      "titleZh": "功能性本质无序蛋白质的定向进化。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-025-02128-3",
+      "doiUrl": "https://doi.org/10.1038/s41589-025-02128-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41513854/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Engineering synthetic intrinsically disordered proteins (synIDPs) enables regulation of biomolecular condensation and protein solubility. However, limited understanding of how sequence-dependent interaction cooperativity relates to the fitness impacts of synIDPs on endogenous cellular processes constrains our design capability. Here, to circumvent this design challenge, we present a systematic directed evolution method for the evolution of synIDPs capable of mediating diverse phase behaviors in living cells. The selection methods allow us to evolve a toolbox of synIDPs with distinct phase behaviors and thermoresponsive features in living cells, leading to the evolution of synthetic condensates. The reverse-selection method further allows us to select synIDPs as solubility tags. We demonstrate the applications of the evolved synIDPs in protein circuits to (1) regulate intracellular protein activity and (2) reverse antibiotic resistance. Our systematic evolution and selection strategies provide a versatile platform for developing synIDPs for broad applications in synthetic biology and biotechnology.",
+      "summaryZh": "工程合成本质无序蛋白质 (synIDP) 能够调节生物分子缩合和蛋白质溶解度。然而，对序列依赖性相互作用协同性与 synIDP 对内源细胞过程的适应性影响如何相关的有限了解限制了我们的设计能力。在这里，为了规避这一设计挑战，我们提出了一种系统定向进化方法，用于能够介导活细胞中不同相行为的 synIDP 的进化。选择方法使我们能够在活细胞中进化出具有不同相行为和热响应特征的 synIDP 工具箱，从而导致合成缩合物的进化。反向选择方法进一步允许我们选择 synIDP 作为溶解度标签。我们展示了进化的 synIDP 在蛋白质电路中的应用，以 (1) 调节细胞内蛋白质活性和 (2) 逆转抗生素耐药性。我们的系统进化和选择策略为开发 synIDP 提供了一个多功能平台，可在合成生物学和生物技术领域广泛应用。",
+      "translationSource": "2df1373b2a1d9b92"
+    },
+    {
+      "pmid": "42647607",
+      "title": "RIBOTAC-mediated degradation of hsa-microRNA-301a-3p suppresses TNBC bone metastasis.",
+      "titleZh": "RIBOTAC 介导的 hsa-microRNA-301a-3p 降解可抑制 TNBC 骨转移。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aeh7999",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh7999",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42647607/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted degradation",
+        "ribotac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, ribotac。",
+      "abstractEn": "Triple-negative breast cancer (TNBC) is an aggressive subtype with a high propensity for bone metastasis and limited treatment options. Although many proteins drive metastasis, most remain inaccessible to conventional small-molecule drugs due to lack of suitable binding sites, prompting interest in upstream RNA regulators. Using integrative bioinformatics and machine learning, we identified hsa-microRNA-301a-3p as a central regulator of TNBC bone metastasis. However, current nucleic acid-based therapies are limited by instability and inefficient delivery. To overcome these challenges, we designed a ribonuclease-targeting chimera (RIBOTAC) that recruits endogenous RNase L to degrade the primary transcript pri-microRNA-301a. The resulting RIBOTAC efficiently reduced hsa-microRNA-301a-3p levels, restored NEDD4L expression, and promoted degradation of the oncogenic protein YAP, thereby suppressing TNBC bone metastasis. These findings identify hsa-microRNA-301a-3p as a key driver and demonstrate RNA-targeted degradation as a therapeutic strategy in TNBC bone metastasis.",
+      "summaryZh": "三阴性乳腺癌（TNBC）是一种侵袭性亚型，骨转移倾向高，治疗选择有限。尽管许多蛋白质驱动转移，但由于缺乏合适的结合位点，大多数蛋白质仍然无法被传统小分子药物接近，这引发了人们对上游 RNA 调节剂的兴趣。利用综合生物信息学和机器学习，我们确定 hsa-microRNA-301a-3p 是 TNBC 骨转移的中心调节因子。然而，当前基于核酸的疗法受到不稳定和低效递送的限制。为了克服这些挑战，我们设计了一种核糖核酸酶靶向嵌合体 (RIBOTAC)，它招募内源性 RNase L 来降解初级转录本 pri-microRNA-301a。由此产生的 RIBOTAC 有效降低 hsa-microRNA-301a-3p 水平，恢复 NEDD4L 表达，并促进致癌蛋白 YAP 降解，从而抑制 TNBC 骨转移。这些发现将 hsa-microRNA-301a-3p 确定为关键驱动因素，并证明 RNA 靶向降解可作为 TNBC 骨转移的治疗策略。",
+      "translationSource": "91cc5a19701d4f31"
+    },
+    {
+      "pmid": "42658938",
+      "title": "A tripartite genetic conflict system controls hybrid sterility in rice.",
+      "titleZh": "三方遗传冲突系统控制水稻杂交不育。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-08-27",
+      "doi": "10.1126/science.aec5252",
+      "doiUrl": "https://doi.org/10.1126/science.aec5252",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42658938/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Interspecific Asian-African hybrid rice could substantially boost yield but is limited by severe hybrid sterility. We identify RHS3 as a major quantitative trait locus controlling this trait. RHS3 encodes a tripartite toxin-antidote system composed of MAO, DUN, and JIA, in which MAO acts as a toxin that aborts gametes by disrupting mitochondrial function, whereas DUN and JIA function as antidotes that neutralize MAO toxicity, conferring a transmission advantage to the African allele. We demonstrate that detoxification relies on selective autophagy through formation of a tripartite JIA-DUN-MAO protein complex. We infer the de novo origin of RHS3 in the AA-genome rice lineage, illustrating a role for genetic conflict in speciation and suggesting strategies to harness heterosis between Asian and African rice.",
+      "summaryZh": "亚非杂交水稻种间可以大幅提高产量，但受到严重的杂交不育性的限制。我们将 RHS3 确定为控制该性状的主要数量性状基因座。 RHS3编码由MAO、DUN和JIA组成的三方毒素解毒系统，其中MAO作为毒素，通过破坏线粒体功能而使配子流产，而DUN和JIA作为解毒剂，中和MAO毒性，赋予非洲等位基因传播优势。我们证明解毒依赖于通过形成 JIA-DUN-MAO 三联蛋白复合物的选择性自噬。我们推断出 RHS3 在 AA 基因组水稻谱系中的从头起源，说明了遗传冲突在物种形成中的作用，并提出了利用亚洲和非洲水稻之间杂种优势的策略。",
+      "translationSource": "c7930875bf9b5aaa"
+    },
+    {
+      "pmid": "42647598",
+      "title": "A 3D human retina model reveals a non-cell-autonomous and non-neuronal mechanism of photoreceptor loss in a lysosomal storage disorder.",
+      "titleZh": "3D 人类视网膜模型揭示了溶酶体储存障碍中光感受器损失的非细胞自主和非神经元机制。",
+      "journal": "Science Translational Medicine",
+      "year": 2026,
+      "published": "2026-08-26",
+      "doi": "10.1126/scitranslmed.ady7616",
+      "doiUrl": "https://doi.org/10.1126/scitranslmed.ady7616",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42647598/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Disruption of the photoreceptor-retinal pigment epithelium (RPE) interface, with loss of photoreceptor outer segments (POSs) in the retina, is a pathological hallmark of several neurodegenerative and retinal diseases, including lysosomal storage disorders like juvenile neuronal ceroid lipofuscinosis (CLN3) disease. However, in vitro stem cell models that enable investigation of the photoreceptor-RPE interface are lacking. Here, we developed a 3D human pluripotent stem cell-derived retina organoid-RPE (hPSC-RO-RPE) model to investigate the photoreceptor-RPE interface in healthy and diseased tissues. Using this 3D hPSC-RO-RPE retina model, we showed that the most common disease-causing CLN3 mutation ( CLN3 Δ ex7-8 ) leads to reduced levels of acid ceramidase (AC), sphingosine 1 phosphate, and POS loss. Furthermore, by analyzing control versus CLN3 mutant ( CLN3 Δ ex7-8 ) hPSC-derived RPE monoculture and hPSC-RO-RPE model, (i) we identified a pathogenic role of AC-mediated lysosomal sphingolipid metabolism in promoting CLN3 disease pathobiology, and (ii) we showed a cell autonomous role of the RPE dysfunction in promoting POS loss/retina degeneration in CLN3 disease. We validated the molecular and structural changes observed in the CLN3 Δ ex7-8 hPSC-RO-RPE model in the CLN3 miniswine model ( CLN3 Δ ex7-8 ) and donor eyes from two patients with CLN3 disease. High-resolution retinal imaging of the living eye in two patients with CLN3 disease suggested decreased RPE autofluorescence in early-stage CLN3 disease. Treatment with recombinant human acid ceramidase (rhAC) ameliorated photoreceptor degeneration in both the CLN3 disease RO-RPE model and CLN3 miniswine eyes. These findings suggest that rhAC could be a therapeutic approach for retinal degeneration in CLN3 disease.",
+      "summaryZh": "光感受器-视网膜色素上皮 (RPE) 界面的破坏，以及视网膜光感受器外节 (POS) 的丧失，是多种神经退行性和视网膜疾病的病理标志，包括溶酶体贮积症，如幼年神经元蜡质脂褐质沉着症 (CLN3) 病。然而，缺乏能够研究光感受器-RPE 界面的体外干细胞模型。在这里，我们开发了 3D 人类多能干细胞来源的视网膜类器官 -RPE (hPSC-RO-RPE) 模型，以研究健康和患病组织中的光感受器 -RPE 界面。使用这种 3D hPSC-RO-RPE 视网膜模型，我们发现最常见的致病 CLN3 突变 (CLN3 Δ ex7-8 ) 会导致酸性神经酰胺酶 (AC)、1 磷酸鞘氨醇水平降低和 POS 丢失。此外，通过分析对照与 CLN3 突变体 ( CLN3 Δ ex7-8 ) hPSC 衍生的 RPE 单一培养物和 hPSC-RO-RPE 模型，(i) 我们确定了 AC 介导的溶酶体鞘脂代谢在促进 CLN3 疾病病理学中的致病作用，(ii) 我们展示了 RPE 功能障碍在促进 CLN3 疾病中 POS 丢失/视网膜变性中的细胞自主作用。我们验证了在 CLN3 小型猪模型 ( CLN3 Δ ex7-8 ) 和两名 CLN3 疾病患者的供体眼睛中观察到的 CLN3 Δ ex7-8 hPSC-RO-RPE 模型中观察到的分子和结构变化。对两名 CLN3 疾病患者活体眼睛的高分辨率视网膜成像表明，早期 CLN3 疾病患者的 RPE 自发荧光减少。重组人酸性神经酰胺酶 (rhAC) 治疗可改善 CLN3 疾病 RO-RPE 模型和 CLN3 小型猪眼中的光感受器变性。这些发现表明 rhAC 可能是治疗 CLN3 疾病视网膜变性的方法。",
+      "translationSource": "172a1a7967b9cf3b"
+    },
+    {
+      "pmid": "42649384",
+      "title": "Engineered autophagy receptors administered with extracellular vesicles eliminate pathological Tau and TDP-43.",
+      "titleZh": "与细胞外囊泡一起施用的工程化自噬受体可消除病理性 Tau 和 TDP-43。",
+      "journal": "Nature Biomedical Engineering",
+      "year": 2026,
+      "published": "2026-08-26",
+      "doi": "10.1038/s41551-026-01774-9",
+      "doiUrl": "https://doi.org/10.1038/s41551-026-01774-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42649384/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted degradation",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, autophagy。",
+      "abstractEn": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
+      "summaryZh": "在额颞叶痴呆和肌萎缩侧索硬化症等神经退行性疾病中，Tau 和 TDP-43 等病理形式的蛋白质在细胞内大量异质包涵体中积累。目前消除患者体内此类异常蛋白质种类的策略面临三个主要挑战：穿过血脑屏障和质膜，专门识别蛋白质的病理形式，以及消除大实体的机制。在这里，我们将 LC3A（一种将底物招募到自噬体中的中心蛋白）与细胞质稳定的抗体融合。这些针对 Tau 或 TDP-43 的工程化自噬受体通过小细胞外囊泡进行递送，并减少模型中的病理学，包括 Tau P301S 成年原代小鼠神经元、TDP-43 G298S iPSC 衍生的运动神经元以及 Tau P301S 小鼠静脉注射后的病理。同样，TDP-43 ΔNLS 小鼠中腺相关病毒介导的递送增强了病理性 TDP-43 的清除。这种有针对性的降解策略允许将其输送到大脑中，同时利用抗体的特异性和自噬降解大型细胞内实体的能力。",
+      "translationSource": "d748eac24c50f68f"
+    },
+    {
+      "pmid": "42642514",
+      "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo.",
+      "titleZh": "在小鼠胚胎中发挥作用的组织特异性哺乳动物增强子的预测设计。",
+      "journal": "Nature Genetics",
+      "year": 2026,
+      "published": "2026-08-25",
+      "doi": "10.1038/s41588-026-02729-1",
+      "doiUrl": "https://doi.org/10.1038/s41588-026-02729-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642514/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Enhancers control tissue-specific gene expression across animals 1 . Although deep learning 2,3 has enabled enhancer prediction and design in mammalian cell lines and non-mammalian model organisms 4-10 (reviewed in a previous publication 11 ), it remains unclear whether such approaches can operate within the regulatory complexity of mammalian genomes and tissues in vivo. Here we present a general strategy for designing tissue-specific enhancers that function reliably in mice. We use deep learning to train compact convolutional neural networks on curated chromatin accessibility data and fine-tune them by transfer learning on validated human and mouse enhancers. Guided by these models, we design 15 synthetic enhancers for the heart, limb and central nervous system in mouse embryos, all of which are active in their intended target tissue. These results demonstrate that mammalian enhancer function can be reliably inferred from DNA sequence alone, enabling the predictive de novo design of tissue-specific synthetic enhancers from modest training sets. This work establishes a generalizable framework for programmable control of mammalian gene expression in vivo, opening new avenues in functional genomics, synthetic biology and gene therapy.",
+      "summaryZh": "增强子控制动物组织特异性基因表达 1 。尽管深度学习 2,3 已经能够在哺乳动物细胞系和非哺乳动物模型生物体 4-10 中实现增强子预测和设计（在之前的出版物中进行了综述 11 ），但目前尚不清楚这些方法是否可以在哺乳动物基因组和体内组织的监管复杂性范围内发挥作用。在这里，我们提出了设计在小鼠中可靠发挥作用的组织特异性增强剂的一般策略。我们使用深度学习在精选的染色质可及性数据上训练紧凑的卷积神经网络，并通过对经过验证的人类和小鼠增强器进行迁移学习来对其进行微调。在这些模型的指导下，我们为小鼠胚胎的心脏、四肢和中枢神经系统设计了 15 种合成增强剂，所有这些增强剂在其预期目标组织中都有活性。这些结果表明，哺乳动物增强子功能可以仅从 DNA 序列可靠地推断出来，从而能够从适度的训练集中预测性地从头​​设计组织特异性合成增强子。这项工作为哺乳动物体内基因表达的可编程控制建立了一个通用框架，为功能基因组学、合成生物学和基因治疗开辟了新途径。",
+      "translationSource": "74403936a5015561"
+    },
+    {
+      "pmid": "42636814",
+      "title": "Cholesterol dysregulation in APOE4 astrocytes promotes α-synuclein pathology in miBrains.",
+      "titleZh": "APOE4 星形胶质细胞中的胆固醇失调会促进 miBrains 中的 α-突触核蛋白病理。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-08-24",
+      "doi": "10.1016/j.stem.2026.08.001",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.08.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636814/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "The pathological hallmarks of neurodegeneration are the aberrant post-translational modification and aggregation of proteins. Genetic factors, like APOE4, increase the prevalence and severity of tau, amyloid, and α-synuclein pathologies. However, the human brain is largely inaccessible during this process, limiting mechanistic understanding. Here, we developed an iPSC-based 3D model that integrates neurons, glia, myelin, and cerebrovascular cells into a human brain-like tissue (\"miBrain\"). Single-nucleus RNA sequencing of miBrains confirmed the presence of diverse cell populations and revealed transcriptional responses to α-synuclein pathology. Like the human brain, pathogenic α-synuclein is increased in APOE4/4 miBrains. Combinatorial experiments revealed that endolysosomal dysfunction caused by cholesterol accumulation in APOE4/4 astrocytes impairs the degradation of soluble α-synuclein leading to a pathogenic transformation that seeds α-synuclein inclusions in neurons. Collectively, this study establishes a robust model for investigating protein inclusions in human iPSC-derived brain tissue and highlights the role of astrocytes and cholesterol in APOE4-mediated pathologies.",
+      "summaryZh": "神经退行性变的病理特征是蛋白质的异常翻译后修饰和聚集。 APOE4 等遗传因素会增加 tau、淀粉样蛋白和 α-突触核蛋白病理的患病率和严重程度。然而，在此过程中，人脑基本上无法进入，限制了机械理解。在这里，我们开发了一种基于 iPSC 的 3D 模型，该模型将神经元、胶质细胞、髓磷脂和脑血管细胞整合到人脑样组织（“miBrain”）中。 miBrains 的单核 RNA 测序证实了不同细胞群的存在，并揭示了对 α-突触核蛋白病理学的转录反应。与人脑一样，APOE4/4 miBrains 中致病性 α-突触核蛋白也会增加。组合实验表明，APOE4/4 星形胶质细胞中胆固醇积累引起的内溶酶体功能障碍会损害可溶性 α-突触核蛋白的降解，导致致病性转化，在神经元中播种 α-突触核蛋白包涵体。总的来说，这项研究建立了一个强大的模型来研究人类 iPSC 衍生脑组织中的蛋白质内含物，并强调星形胶质细胞和胆固醇在 APOE4 介导的病理中的作用。",
+      "translationSource": "4e3d3383103c175f"
+    },
+    {
+      "pmid": "42628524",
+      "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.",
+      "titleZh": "蛋白质基因组学指导的癌症基因组体细胞突变的解释。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-08-21",
+      "doi": "10.1016/j.ccell.2026.07.017",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.017",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42628524/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Cancer genomes harbor hundreds of mutated genes, but their exact roles in tumorigenesis often remain incompletely understood. Here, by integrating protein structures with mutation data from 139,818 patients, we generate detailed, functional maps of mutations for 173 cancer genes in 18+ tumor types. In most cancer genes, oncogenic mutations accumulate in \"significantly mutated regions\" aligned with key functions, including DNA-binding domains in transcription factors (e.g., FOXA1), ligand-binding sites in receptors (e.g., ERBB2), catalytic domains in chromatin remodelers (e.g., EP300), substrate-recognition sites in ubiquitin-proteasome regulators (e.g., SPOP), and degradation signals in cell-cycle proteins (e.g., CCND1). In other cancer genes, mutations align more closely with constraints in three-dimensional protein structures, such as targeting the interior core (e.g., TP53) or a specific secondary structure (e.g., PTEN). Broadly, our study provides a proteo-genomic framework to characterize the effects of mutations in tumorigenesis and integrate them into workflows for clinical interpretation in precision medicine.",
+      "summaryZh": "癌症基因组包含数百个突变基因，但它们在肿瘤发生中的确切作用通常仍不完全清楚。在这里，通过将蛋白质结构与 139,818 名患者的突变数据整合，我们生成了 18 种以上肿瘤类型中 173 个癌症基因的详细突变功能图。在大多数癌症基因中，致癌突变积累在与关键功能相关的“显着突变区域”，包括转录因子中的DNA结合域（例如FOXA1）、受体中的配体结合位点（例如ERBB2）、染色质重塑因子中的催化域（例如EP300）、泛素蛋白酶体调节因子中的底物识别位点（例如SPOP）和细胞周期蛋白（例如 CCND1）中的降解信号。在其他癌症基因中，突变与三维蛋白质结构的限制更加紧密地结合在一起，例如针对内部核心（例如 TP53）或特定二级结构（例如 PTEN）。总的来说，我们的研究提供了一个蛋白质基因组框架来表征突变对肿瘤发生的影响，并将其整合到精准医学临床解释的工作流程中。",
+      "translationSource": "971c5018ff200eeb"
+    },
     {
       "pmid": "42424437",
       "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion.",
@@ -1641,6 +1924,27 @@
       "translationSource": "3670c0001d81f375"
     },
     {
+      "pmid": "42642438",
+      "title": "Mitophagy mitigates mitochondrial DNA-induced activation of cGAS-STING in autoimmune thyroiditis.",
+      "titleZh": "线粒体自噬可减轻自身免疫性甲状腺炎中线粒体 DNA 诱导的 cGAS-STING 激活。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-24",
+      "doi": "10.1038/s41467-026-76047-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76047-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642438/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Autoimmune thyroiditis arises from disrupted homeostasis of thyroid follicular epithelial cells and coordinated immune cell activation within the microenvironment. However, its pathogenesis is not fully understood. Here, we identify a mitochondrial (mt) DNA-cGAS-STING inflammatory axis as a driver of autoimmune thyroiditis in mice. By contrast, ubiquitin-dependent mitophagy mediated by PINK1 and Parkin was found to protect mice from disease. Mechanistically, mitochondrial dysfunction elevates mitochondrial reactive oxygen species levels, activating the ATM-CHK2 DNA damage response pathway, which in turn phosphorylates the autophagy adapter TAX1BP1 at Ser722. This modification promotes the recruitment of mitochondria to autophagosomes, thereby facilitating mitophagy. Impairing the ATM-CHK2-TAX1BP1 mitophagy pathway causes mtDNA leakage into the cytosol and triggers cGAS-STING-dependent inflammation. Notably, pharmacological inhibition of STING with C176 effectively slows autoimmune thyroiditis progression. Together, these findings define an mtDNA-driven pathogenic mechanism in autoimmune thyroiditis and identify STING as a potential therapeutic target.",
+      "summaryZh": "自身免疫性甲状腺炎是由甲状腺滤泡上皮细胞的稳态破坏和微环境内协调的免疫细胞激活引起的。然而，其发病机制尚不完全清楚。在这里，我们确定线粒体 (mt) DNA-cGAS-STING 炎症轴是小鼠自身免疫性甲状腺炎的驱动因素。相比之下，PINK1 和 Parkin 介导的泛素依赖性线粒体自噬可以保护小鼠免受疾病侵害。从机制上讲，线粒体功能障碍会提高线粒体活性氧水平，激活 ATM-CHK2 DNA 损伤反应途径，进而磷酸化自噬接头 TAX1BP1 Ser722。这种修饰促进线粒体向自噬体的募集，从而促进线粒体自噬。损害 ATM-CHK2-TAX1BP1 线粒体自噬途径会导致 mtDNA 渗漏到细胞质中，并引发 cGAS-STING 依赖性炎症。值得注意的是，C176 对 STING 的药理抑制可有效减缓自身免疫性甲状腺炎的进展。总之，这些发现定义了自身免疫性甲状腺炎中 mtDNA 驱动的致病机制，并将 STING 确定为潜在的治疗靶点。",
+      "translationSource": "0f6dd5978ed83ca4"
+    },
+    {
       "pmid": "42490500",
       "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation.",
       "titleZh": "人类扁桃体 3D 基因组图谱以及环挤压在 B 细胞体细胞超突变中的作用。",
@@ -1660,6 +1964,27 @@
       "abstractEn": "B cell maturation within the germinal center tissue microenvironment involves immunoglobulin gene diversification by somatic hypermutation (SHM). How three-dimensional (3D) genome architecture influences SHM is not fully understood. We leveraged sequencing-based and image-based 3D genomics and transcriptomics to map single-cell 3D genome organization and gene expression across cell types and states in human tonsils and in B cell lymphoma cell lines. These analyses revealed trajectories of compartment, looping, and nuclear position changes during the B cell immune response and activation of SHM. Targeted protein degradation of cohesin component RAD21 revealed its contribution to enabling SHM. Our results provide a single-cell 3D genome atlas of human tonsil cells and outline the links between the chromatin loop extrusion machinery and SHM.",
       "summaryZh": "生发中心组织微环境中的 B 细胞成熟涉及通过体细胞超突变 (SHM) 实现的免疫球蛋白基因多样化。三维 (3D) 基因组结构如何影响 SHM 尚不完全清楚。我们利用基于测序和基于图像的 3D 基因组学和转录组学来绘制人类扁桃体和 B 细胞淋巴瘤细胞系中跨细胞类型和状态的单细胞 3D 基因组组织和基因表达。这些分析揭示了 B 细胞免疫反应和 SHM 激活过程中区室、循环和核位置变化的轨迹。粘连蛋白成分 RAD21 的靶向蛋白质降解揭示了其对实现 SHM 的贡献。我们的结果提供了人类扁桃体细胞的单细胞 3D 基因组图谱，并概述了染色质环挤出机制和 SHM 之间的联系。",
       "translationSource": "f0d69cbe70ab768a"
+    },
+    {
+      "pmid": "42642399",
+      "title": "A bioorthogonal nanoconcentrisome system for epigenetic and immunometabolic reprogramming of tissue regeneration in aged female rats.",
+      "titleZh": "一种生物正交纳米中心体系统，用于老年雌性大鼠组织再生的表观遗传和免疫代谢重编程。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-23",
+      "doi": "10.1038/s41467-026-74892-2",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-74892-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642399/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Stem cell-based therapies show promise for tissue regeneration but are limited by therapeutic instability, particularly in aged tissues. Here, multi-omics profiling of regenerating bone reveals marked depletion of S-adenosylmethionine (SAM), indicating epigenetic dysregulation associated with impaired repair. To address this, we develop a spatially compartmentalized, fusogenic nanovesicle system (SMNV), termed a \"nanoconcentrisome,\" composed of SAM-loaded fusogenic liposomes encapsulating mesenchymal stem cell-derived nanovesicles (MNV). This dual-compartment architecture facilitates cytosolic delivery of cargos through membrane fusion with limited lysosomal involvement. In macrophages, SMNV attenuates inflammatory activation and promotes efferocytosis and metabolic reprogramming, while in senescent stem cells it enhances epigenetic integrity, mitochondrial function and osteogenic differentiation. Through coordinated modulation of immune and progenitor cell states, SMNV significantly enhances tissue regeneration and effectively repairs bone defects in aged female rats, highlighting a precision nanomedicine platform that integrates metabolic-epigenetic regulation with cell-free regenerative signaling to counteract ageing-associated regenerative decline.",
+      "summaryZh": "基于干细胞的疗法显示出组织再生的希望，但受到治疗不稳定的限制，特别是在老化组织中。在这里，再生骨的多组学分析揭示了 S-腺苷甲硫氨酸 (SAM) 的显着消耗，表明与修复受损相关的表观遗传失调。为了解决这个问题，我们开发了一种空间分隔的融合纳米囊泡系统（SMNV），称为“纳米中心体”，由装载 SAM 的融合脂质体组成，封装了间充质干细胞衍生的纳米囊泡（MNV）。这种双室结构有利于通过膜融合在细胞质中传递货物，而溶酶体的参与有限。在巨噬细胞中，SMNV 减弱炎症激活并促进胞吞作用和代谢重编程，而在衰老干细胞中，它增强表观遗传完整性、线粒体功能和成骨分化。通过协调调节免疫和祖细胞状态，SMNV 显着增强组织再生并有效修复老年雌性大鼠的骨缺损，突出了一个精密纳米医学平台，该平台将代谢表观遗传调节与无细胞再生信号相结合，以抵消与衰老相关的再生衰退。",
+      "translationSource": "3c9bfaca944049a6"
     },
     {
       "pmid": "42493606",
@@ -1703,6 +2028,29 @@
       "abstractEn": "The intratumoral microbiome has recently emerged as a potential hallmark of cancer, with implications for response or resistance to therapy. Bacteria can either promote or inhibit cancer growth. However, intratumoral bacteria can also be engineered using synthetic biology to remodel the tumor microenvironment. Here, we engineered the probiotic bacterium Escherichia coli Nissle 1917 (EcN) to express the human chemokine CXCL13 (C-X-C motif chemokine ligand 13), a critical component of germinal center (GC) formation. Antibody affinity maturation and class switching are fundamental aspects of adaptive immune response. Both occur primarily in the GCs of secondary lymphoid organs for defense against pathogens. Immune checkpoint blockade (ICB) efficacy is primarily driven by T cells; however, recent studies in mice and humans have shown that humoral immune responses act as critical partners for ICB-mediated antitumor activity. Using orthotopic models of bladder cancer, intravesically delivered engineered CXCL13-expressing EcN colonized bladder tumors and elicited GC responses in bladder tumor-draining lymph nodes after intravesical delivery. When combined with programmed cell death protein 1 (PD-1) blockade, engineered EcN improved antitumor activity in two aggressive, fast-growing, and immunologically cold orthotopic mouse models of bladder cancer. Mechanistically, this antitumor effect was dependent on the presence of CD8 + T cells and CD4 + T follicular helper cells; combination therapy increased tumor-specific antibody responses and promoted long-term survival and protective immunity upon tumor rechallenge. Thus, we demonstrate that synthetically engineered CXCL13-expressing EcN can enhance the efficacy of PD-1 checkpoint blockade immunotherapy by amplifying tumor-specific humoral immunity.",
       "summaryZh": "肿瘤内微生物群最近已成为癌症的潜在标志，对治疗的反应或耐药性具有影响。细菌可以促进或抑制癌症的生长。然而，肿瘤内细菌也可以利用合成生物学进行改造，以重塑肿瘤微环境。在这里，我们对益生菌大肠杆菌 Nissle 1917 (EcN) 进行了改造，以表达人类趋化因子 CXCL13（C-X-C 基序趋化因子配体 13），这是生发中心 (GC) 形成的关键成分。抗体亲和力成熟和类别转换是适应性免疫反应的基本方面。两者都主要发生在次级淋巴器官的GC中，以防御病原体。免疫检查点阻断 (ICB) 功效主要由 T 细胞驱动；然而，最近对小鼠和人类的研究表明，体液免疫反应是 ICB 介导的抗肿瘤活性的关键伙伴。使用膀胱癌原位模型，膀胱内递送表达 CXCL13 的工程化 EcN 定植于膀胱肿瘤，并在膀胱内递送后在膀胱肿瘤引流淋巴结中引发 GC 反应。当与程序性细胞死亡蛋白 1 (PD-1) 阻断相结合时，工程化 EcN 改善了两种侵袭性、快速生长和免疫冷原位膀胱癌小鼠模型的抗肿瘤活性。从机制上讲，这种抗肿瘤作用依赖于 CD8 + T 细胞和 CD4 + T 滤泡辅助细胞的存在。联合疗法增加了肿瘤特异性抗体反应，并促进了肿瘤再攻击时的长期生存和保护性免疫。 因此，我们证明，合成工程表达 CXCL13 的 EcN 可以通过放大肿瘤特异性体液免疫来增强 PD-1 检查点阻断免疫疗法的功效。",
       "translationSource": "bec7d40dc695a45f"
+    },
+    {
+      "pmid": "42637773",
+      "title": "Lipid-manager autophagy proteins ATG2 and ATG9 regulate extracellular vesicle secretion via amphisome biogenesis and cell lipidome modulation.",
+      "titleZh": "脂质管理器自噬蛋白 ATG2 和 ATG9 通过两性体生物发生和细胞脂质组调节来调节细胞外囊泡分泌。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-22",
+      "doi": "10.1038/s41467-026-75742-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75742-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42637773/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy, endosome。",
+      "abstractEn": "Autophagy intersects with endocytic trafficking to regulate extracellular vesicle (EV) biogenesis, but how upstream lipid-handling autophagy proteins influence this crosstalk is unclear. Here we show that the autophagy lipid-supply proteins ATG9A and ATG2A/B restrain small EV (sEV) secretion by promoting amphisome formation and controlling cellular lipid composition. Deletion of ATG9A or ATG2A/B in cells, which abolishes autophagosome biogenesis, causes a RAB27A-dependent increase in secretion of CD63-enriched, smaller sEVs, and accumulation of intraluminal vesicles within multivesicular endosomes. Under lysosomal inhibition, wild-type cells release LC3- and autophagy cargo receptor-positive sEVs, whereas ATG9A- and ATG2A/B-deficient cells, despite hypersecretion of sEVs, fail to load LC3 or canonical cargo receptors, indicating a block in amphisome-mediated export. Proteomics reveals selective depletion of autophagy receptors and ferritinophagy factors and enrichment of RNA-binding proteins and endosomal trafficking regulators in sEVs from ATG9A- and ATG2A/B-deficient cells. Whole-cell lipidomics uncovers extensive rewiring of the lipidome, with accumulation of ceramides and neutral lipids, altered phospholipid balance, and transcriptional remodeling of lipid metabolic enzymes, while neutral sphingomyelinase inhibition normalizes sEV output. These findings identify ATG9A and ATG2A/B as lipid-dependent gatekeepers that couple autophagosome and amphisome formation, regulating membrane partition between degradative autophagy and exosome-mediated secretion.",
+      "summaryZh": "自噬与内吞运输相交叉来调节细胞外囊泡（EV）的生物合成，但上游脂质处理自噬蛋白如何影响这种交叉作用尚不清楚。在这里，我们发现自噬脂质供应蛋白 ATG9A 和 ATG2A/B 通过促进双体形成和控制细胞脂质组成来抑制小 EV (sEV) 的分泌。细胞中 ATG9A 或 ATG2A/B 的缺失会消除自噬体的生物发生，导致 RAB27A 依赖性的富含 CD63 的较小 sEV 的分泌增加，以及多囊泡内体中管腔内囊泡的积累。在溶酶体抑制下，野生型细胞释放 LC3 和自噬货物受体阳性 sEV，而 ATG9A 和 ATG2A/B 缺陷细胞，尽管 sEV 分泌过多，但无法加载 LC3 或经典货物受体，表明两性体介导的输出受阻。蛋白质组学揭示了 ATG9A 和 ATG2A/B 缺陷细胞的 sEV 中自噬受体和铁蛋白自噬因子的选择性耗尽以及 RNA 结合蛋白和内体运输调节因子的富集。全细胞脂质组学揭示了脂质组的广泛重新布线，神经酰胺和中性脂质的积累，磷脂平衡的改变以及脂质代谢酶的转录重塑，而中性鞘磷脂酶抑制使 sEV 输出正常化。这些发现将 ATG9A 和 ATG2A/B 确定为脂质依赖性看门人，可耦合自噬体和两性体的形成，调节降解自噬和外泌体介导的分泌之间的膜分配。",
+      "translationSource": "c89c6033ef879f64"
     },
     {
       "pmid": "42552308",
@@ -3969,6 +4317,27 @@
       "translationSource": "fbe45411ae7a1031"
     },
     {
+      "pmid": "42190653",
+      "title": "Design principles of a membrane-spanning ubiquitin ligase.",
+      "titleZh": "跨膜泛素连接酶的设计原理。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-06-04",
+      "doi": "10.1016/j.molcel.2026.05.001",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.05.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42190653/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Receptor-type E3 ubiquitin ligases enable extracellular signals to control ubiquitylation in the cytoplasm, playing widespread roles in development, metabolism, and immunity. Using cryoelectron microscopy, integrated with biophysical and functional studies, we visualized a human E3 complex composed of two transmembrane proteins, MEGF8 and MOSMO, and the intracellular RING-family protein MGRN1. This MEGF8-MOSMO-MGRN1 (MMM) complex attenuates Hedgehog signaling by ubiquitylating Smoothened (SMO), a G-protein-coupled receptor (GPCR) that transduces morphogen signals. A long helix in the MMM complex engages SMO using an intramembrane degron and extends into the cytoplasm to suspend an activated and precisely oriented RING domain below the plasma membrane. This architecture enables ubiquitylation of the cytoplasmic surface of SMO, reducing SMO abundance at primary cilia. Our structure provides insights into MEGF8 mutations, which cause multi-organ birth defects, and defines a paradigm for how transmembrane E3 ligases control the cell surface abundance of GPCRs and other signaling receptors.",
+      "summaryZh": "受体型E3泛素连接酶使细胞外信号能够控制细胞质中的泛素化，在发育、代谢和免疫中发挥广泛作用。使用冷冻电子显微镜，结合生物物理和功能研究，我们可视化了由两种跨膜蛋白 MEGF8 和 MOSMO 以及细胞内 RING 家族蛋白 MGRN1 组成的人类 E3 复合物。这种 MEGF8-MOSMO-MGRN1 (MMM) 复合物通过泛素化 Smoothened (SMO)（一种转导形态发生素信号的 G 蛋白偶联受体 (GPCR)）来减弱 Hedgehog 信号传导。 MMM 复合物中的长螺旋使用膜内降解决定子与 SMO 接合，并延伸到细胞质中，将激活且精确定向的 RING 结构域悬浮在质膜下方。这种结构能够实现 SMO 细胞质表面的泛素化，从而减少初级纤毛的 SMO 丰度。我们的结构提供了对导致多器官先天缺陷的 MEGF8 突变的见解，并定义了跨膜 E3 连接酶如何控制 GPCR 和其他信号受体的细胞表面丰度的范例。",
+      "translationSource": "03882dcf49e2dd38"
+    },
+    {
       "pmid": "42242196",
       "title": "Use it or lose it: A ubiquitin-mediated autophagy pathway for degradation of MHC-I in pancreatic cancer.",
       "titleZh": "使用它或失去它：泛素介导的胰腺癌中 MHC-I 降解的自噬途径。",
@@ -4009,27 +4378,6 @@
       "abstractEn": "Pancreatic ductal adenocarcinoma (PDAC) evades immune surveillance in part through autophagic capture and lysosomal degradation of major histocompatibility complex class I (MHC-I), though the basis for this vulnerability is unclear. Using synchronized endoplasmic reticulum (ER) exit assays, we show that PDAC cells retain MHC-I in the ER and inefficiently traffic it to the plasma membrane. We identify an autophagic capture complex composed of the ER-phagy receptor TEX264 and the cargo receptor NBR1 that targets MHC-I for degradation. Suppression of either receptor restores total and surface MHC-I levels. Capture is linked to antigen loading, as impaired peptide loading increases MHC-I binding to the TEX264-NBR1 complex, while high-affinity peptides reduce binding and promote increased surface localization. A genome-wide CRISPRi screen identified the ER-localized E3 ligase NFXL1 as a mediator of MHC-I ubiquitylation and capture. Elevated NFXL1 correlates with reduced MHC-I expression and poor prognosis, highlighting a targetable pathway regulating PDAC immunogenicity.",
       "summaryZh": "胰腺导管腺癌 (PDAC) 部分通过自噬捕获和 I 类主要组织相容性复合体 (MHC-I) 的溶酶体降解来逃避免疫监视，但这种脆弱性的基础尚不清楚。使用同步内质网 (ER) 退出测定，我们发现 PDAC 细胞将 MHC-I 保留在 ER 中，并且无法有效地将其运输到质膜。我们鉴定了一种由 ER 吞噬受体 TEX264 和靶向 MHC-I 降解的货物受体 NBR1 组成的自噬捕获复合物。抑制任一受体均可恢复总 MHC-I 水平和表面 MHC-I 水平。捕获与抗原负载有关，因为肽负载受损会增加 MHC-I 与 TEX264-NBR1 复合物的结合，而高亲和力肽会减少结合并促进表面定位增加。全基因组 CRISPRi 筛选发现 ER 定位的 E3 连接酶 NFXL1 是 MHC-I 泛素化和捕获的介体。 NFXL1 升高与 MHC-I 表达减少和预后不良相关，凸显了调节 PDAC 免疫原性的可靶向途径。",
       "translationSource": "42bea9bfd472bd55"
-    },
-    {
-      "pmid": "42190653",
-      "title": "Design principles of a membrane-spanning ubiquitin ligase.",
-      "titleZh": "跨膜泛素连接酶的设计原理。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-06-04",
-      "doi": "10.1016/j.molcel.2026.05.001",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.05.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42190653/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "Receptor-type E3 ubiquitin ligases enable extracellular signals to control ubiquitylation in the cytoplasm, playing widespread roles in development, metabolism, and immunity. Using cryoelectron microscopy, integrated with biophysical and functional studies, we visualized a human E3 complex composed of two transmembrane proteins, MEGF8 and MOSMO, and the intracellular RING-family protein MGRN1. This MEGF8-MOSMO-MGRN1 (MMM) complex attenuates Hedgehog signaling by ubiquitylating Smoothened (SMO), a G-protein-coupled receptor (GPCR) that transduces morphogen signals. A long helix in the MMM complex engages SMO using an intramembrane degron and extends into the cytoplasm to suspend an activated and precisely oriented RING domain below the plasma membrane. This architecture enables ubiquitylation of the cytoplasmic surface of SMO, reducing SMO abundance at primary cilia. Our structure provides insights into MEGF8 mutations, which cause multi-organ birth defects, and defines a paradigm for how transmembrane E3 ligases control the cell surface abundance of GPCRs and other signaling receptors.",
-      "summaryZh": "受体型E3泛素连接酶使细胞外信号能够控制细胞质中的泛素化，在发育、代谢和免疫中发挥广泛作用。使用冷冻电子显微镜，结合生物物理和功能研究，我们可视化了由两种跨膜蛋白 MEGF8 和 MOSMO 以及细胞内 RING 家族蛋白 MGRN1 组成的人类 E3 复合物。这种 MEGF8-MOSMO-MGRN1 (MMM) 复合物通过泛素化 Smoothened (SMO)（一种转导形态发生素信号的 G 蛋白偶联受体 (GPCR)）来减弱 Hedgehog 信号传导。 MMM 复合物中的长螺旋使用膜内降解决定子与 SMO 接合，并延伸到细胞质中，将激活且精确定向的 RING 结构域悬浮在质膜下方。这种结构能够实现 SMO 细胞质表面的泛素化，从而减少初级纤毛的 SMO 丰度。我们的结构提供了对导致多器官先天缺陷的 MEGF8 突变的见解，并定义了跨膜 E3 连接酶如何控制 GPCR 和其他信号受体的细胞表面丰度的范例。",
-      "translationSource": "03882dcf49e2dd38"
     },
     {
       "pmid": "42230636",
@@ -4223,27 +4571,6 @@
       "translationSource": "f41174cd024953f5"
     },
     {
-      "pmid": "42056510",
-      "title": "Submicrometre sampling of living cells by macrophages.",
-      "titleZh": "巨噬细胞对活细胞进行亚微米采样。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-06-01",
-      "doi": "10.1038/s41586-026-10435-5",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10435-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42056510/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome。",
-      "abstractEn": "An effective immune system must sample and develop healthy self-identity to prevent autoimmunity and to discern pathogenic insults 1-3 . Self-proteins are presented to T cells in the thymus during immune cell development 2,3 and must be presented throughout the body to maintain regulatory T cell populations 4-6 and to provide tonic signals to sustain conventional T cells over time 7-9 . Observations of continuous apoptosis in some organs together with the ingestion of that material by myeloid populations has led to a conventional understanding of ongoing cell death as a major source of self-antigens 10 . Here we used a series of companion imaging and vesicular labelling technologies to reveal an alternative process undertaken by macrophages that results in non-destructive, direct sampling of living cells. This process requires cell-cell contact, does not require caspase activation and occurs via trogocytosis-like stretching of the target cell into the macrophage, which leads to the generation of submicrometre-sized vesicles that contain cytoplasm. Using a high-dimensional flow-based method for labelling vesicles, we demonstrate that live-sampled material is distinctly processed and is poorly subjected to fusion with lysosomes. The material also produces differential effects on the presentation of antigen to CD4 T cells compared with CD8 T cells. Disruption of this trafficking by redirecting antigen to the lysosome significantly reduced the associated macrophage-mediated priming of CD8 T cells. These results demonstrate an important and substantial sampling of living cells by the immune system, with clear consequences for maintaining the border of immunity.",
-      "summaryZh": "有效的免疫系统必须采样并发展健康的自我认同，以防止自身免疫并识别致病性损伤 1-3 。自身蛋白在免疫细胞发育过程中被呈递给胸腺中的 T 细胞 2,3 并且必须呈递到整个身体以维持调节性 T 细胞群 4-6 并提供滋补信号以维持常规 T 细胞随时间的推移 7-9 。对某些器官中持续细胞凋亡的观察以及髓系细胞群对该物质的摄入导致了对持续细胞死亡作为自身抗原的主要来源的传统理解 10 。在这里，我们使用了一系列伴随成像和囊泡标记技术来揭示巨噬细胞进行的替代过程，从而对活细胞进行非破坏性的直接采样。该过程需要细胞与细胞接触，不需要半胱天冬酶激活，并且通过靶细胞向巨噬细胞中的类似吞噬作用的拉伸而发生，这导致含有细胞质的亚微米大小的囊泡的生成。使用基于高维流的方法来标记囊泡，我们证明了活体采样材料经过明显的处理，并且与溶酶体的融合较差。与 CD8 T 细胞相比，该材料还对 CD4 T 细胞的抗原呈递产生不同的影响。通过将抗原重定向至溶酶体来破坏这种运输，显着减少了巨噬细胞介导的 CD8 T 细胞的启动。这些结果表明，免疫系统对活细胞进行了重要且大量的采样，对维持免疫边界具有明显的影响。",
-      "translationSource": "360afee7d1486f32"
-    },
-    {
       "pmid": "42056506",
       "title": "Pervasive and programmed nucleosome distortion on single chromatin fibres.",
       "titleZh": "单染色质纤维上普遍存在的程序性核小体扭曲。",
@@ -4263,6 +4590,27 @@
       "abstractEn": "Despite decades of biochemical and structural studies of the nucleosome 1 , researchers lack genome-scale methods to determine variability in nucleosome structure along individual chromatin fibres. To address this, here we present Iteratively Defined Lengths of Inaccessibility (IDLI), a computational method that maps the single-molecule co-occupancy of structurally distinct nucleosomes, subnucleosomes and other protein-DNA interactions through long-read single-molecule footprinting 2,3 . IDLI classifies methylase-inaccessible footprints on individual chromatin fibres into (i) linker-histone-associated nucleosomes; (ii) nucleosomes with focal DNA accessibility along the nucleosome wrap; (iii) unwrapped nucleosomes; and (iv) subnucleosomal species such as hexasomes, tetrasomes and other short DNA protections. Applying IDLI to chromatin from mouse embryonic stem cells, we discover that more than 85% of nucleosomes exhibit intranucleosomally accessible DNA (nucleosome 'distortion'). We observe epigenomic-domain- and expression-level-specific patterns of distortion, including at promoters and mouse satellite repeat sequences. Transcription factor (TF) motif occurrence correlates significantly with distinct types of distortion, and degron experiments provide evidence of direct regulation by TFs. We apply IDLI to in vitro endoderm differentiation in human induced pluripotent stem cells and primary mouse hepatocytes. In both cases, we observe distortion at pioneer TF FOXA2 binding sites, demonstrating that distortion is developmentally encoded and present in vivo. Finally, genetic experiments in mice show that a nucleosome-binding domain of FOXA2 directly affects nucleosome structure in vivo, implicating these protein-nucleosome interactions as direct mediators of distortion. Our work suggests extreme but regulated nucleosome structural variability at the single-molecule level. Furthermore, our approach offers opportunities to model TF binding, nucleosome remodelling and cell-type-specific chromatin regulation across biological contexts.",
       "summaryZh": "尽管对核小体 1 进行了数十年的生化和结构研究，但研究人员缺乏基因组规模的方法来确定沿单个染色质纤维的核小体结构的变异性。为了解决这个问题，我们在这里提出了迭代定义的不可接近长度（IDLI），这是一种计算方法，通过长读长单分子足迹来映射结构不同的核小体、亚核小体和其他蛋白质-DNA 相互作用的单分子共占用 2,3 。 IDLI 将单个染色质纤维上甲基化酶不可接近的足迹分类为 (i) 连接组蛋白相关核小体； (ii) 沿着核小体包裹具有焦点DNA可及性的核小体； (iii) 未包裹的核小体； (iv) 亚核小体种类，例如六体、四体和其他短 DNA 保护。将 IDLI 应用到小鼠胚胎干细胞的染色质中，我们发现超过 85% 的核小体表现出核小体内可接近的 DNA（核小体“扭曲”）。我们观察到表观基因组域和表达水平特异性的扭曲模式，包括启动子和小鼠卫星重复序列。转录因子 (TF) 基序的出现与不同类型的扭曲显着相关，降解决定子实验提供了 TF 直接调节的证据。我们将 IDLI 应用于人诱导多能干细胞和原代小鼠肝细胞的体外内胚层分化。在这两种情况下，我们都在先锋 TF FOXA2 结合位点处观察到扭曲，证明扭曲是发育编码的并存在于体内。最后，小鼠遗传实验表明，FOXA2 的核小体结合域直接影响体内核小体结构，表明这些蛋白质-核小体相互作用是扭曲的直接介质。 我们的工作表明单分子水平上存在极端但受调节的核小体结构变异。此外，我们的方法提供了跨生物环境模拟 TF 结合、核小体重塑和细胞类型特异性染色质调控的机会。",
       "translationSource": "afa699baf1faf44c"
+    },
+    {
+      "pmid": "42056510",
+      "title": "Submicrometre sampling of living cells by macrophages.",
+      "titleZh": "巨噬细胞对活细胞进行亚微米采样。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-06-01",
+      "doi": "10.1038/s41586-026-10435-5",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10435-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42056510/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome。",
+      "abstractEn": "An effective immune system must sample and develop healthy self-identity to prevent autoimmunity and to discern pathogenic insults 1-3 . Self-proteins are presented to T cells in the thymus during immune cell development 2,3 and must be presented throughout the body to maintain regulatory T cell populations 4-6 and to provide tonic signals to sustain conventional T cells over time 7-9 . Observations of continuous apoptosis in some organs together with the ingestion of that material by myeloid populations has led to a conventional understanding of ongoing cell death as a major source of self-antigens 10 . Here we used a series of companion imaging and vesicular labelling technologies to reveal an alternative process undertaken by macrophages that results in non-destructive, direct sampling of living cells. This process requires cell-cell contact, does not require caspase activation and occurs via trogocytosis-like stretching of the target cell into the macrophage, which leads to the generation of submicrometre-sized vesicles that contain cytoplasm. Using a high-dimensional flow-based method for labelling vesicles, we demonstrate that live-sampled material is distinctly processed and is poorly subjected to fusion with lysosomes. The material also produces differential effects on the presentation of antigen to CD4 T cells compared with CD8 T cells. Disruption of this trafficking by redirecting antigen to the lysosome significantly reduced the associated macrophage-mediated priming of CD8 T cells. These results demonstrate an important and substantial sampling of living cells by the immune system, with clear consequences for maintaining the border of immunity.",
+      "summaryZh": "有效的免疫系统必须采样并发展健康的自我认同，以防止自身免疫并识别致病性损伤 1-3 。自身蛋白在免疫细胞发育过程中被呈递给胸腺中的 T 细胞 2,3 并且必须呈递到整个身体以维持调节性 T 细胞群 4-6 并提供滋补信号以维持常规 T 细胞随时间的推移 7-9 。对某些器官中持续细胞凋亡的观察以及髓系细胞群对该物质的摄入导致了对持续细胞死亡作为自身抗原的主要来源的传统理解 10 。在这里，我们使用了一系列伴随成像和囊泡标记技术来揭示巨噬细胞进行的替代过程，从而对活细胞进行非破坏性的直接采样。该过程需要细胞与细胞接触，不需要半胱天冬酶激活，并且通过靶细胞向巨噬细胞中的类似吞噬作用的拉伸而发生，这导致含有细胞质的亚微米大小的囊泡的生成。使用基于高维流的方法来标记囊泡，我们证明了活体采样材料经过明显的处理，并且与溶酶体的融合较差。与 CD8 T 细胞相比，该材料还对 CD4 T 细胞的抗原呈递产生不同的影响。通过将抗原重定向至溶酶体来破坏这种运输，显着减少了巨噬细胞介导的 CD8 T 细胞的启动。这些结果表明，免疫系统对活细胞进行了重要且大量的采样，对维持免疫边界具有明显的影响。",
+      "translationSource": "360afee7d1486f32"
     },
     {
       "pmid": "41917274",
@@ -6366,52 +6714,6 @@
       "translationSource": "edb5c747b1b3b66c"
     },
     {
-      "pmid": "41942733",
-      "title": "Charged molecular glue discovery enabled by targeted degron display.",
-      "titleZh": "通过靶向降解决定子显示实现带电分子胶的发现。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-04-06",
-      "doi": "10.1038/s41589-026-02182-5",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02182-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942733/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "protein degrader",
-        "molecular glue degrader",
-        "molecular glue",
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, molecular glue degrader, molecular glue, degron。",
-      "abstractEn": "Small molecules that induce protein interactions hold tremendous potential as new medicines, probes for molecular pathways and tools for agriculture. Explosive growth of targeted protein degradation drug development has spurred renewed interest in proximity-inducing molecules, especially molecular glue degraders (MGDs). These compounds catalyze the destruction of disease-causing proteins by reshaping protein surfaces and promoting cooperative binding between ubiquitylating enzymes and target proteins. MGD discovery for predefined targets is a major challenge in contemporary drug discovery. Here, we solve this important chemical challenge through 'chemocentric' MGD discovery of ZZ1, a BET-family protein degrader and a prodrug of a negatively charged glue. ZZ1 activation unmasks a sulfinic acid that binds the modular CTLH ubiquitin ligase complex through a basic pocket in its YPEL5 subunit. These findings demonstrate a previously unrecognized capacity of YPEL5 to recruit CTLH substrates and enable the discovery of MGDs for exceedingly common acidic and basic degrons.",
-      "summaryZh": "诱导蛋白质相互作用的小分子作为新药物、分子途径探针和农业工具具有巨大的潜力。靶向蛋白质降解药物开发的爆炸式增长激起了人们对邻近诱导分子，特别是分子胶降解剂（MGD）的新兴趣。这些化合物通过重塑蛋白质表面并促进泛素化酶与靶蛋白之间的协同结合来催化致病蛋白质的破坏。预定义靶标的 MGD 发现是当代药物发现的主要挑战。在这里，我们通过“以化学为中心”的 MGD 发现 ZZ1（一种 BET 家族蛋白质降解剂和带负电胶的前药）解决了这一重要的化学挑战。 ZZ1 激活揭示了亚磺酸，该亚磺酸通过其 YPEL5 亚基中的碱性口袋结合模块化 CTLH 泛素连接酶复合物。这些发现证明了 YPEL5 具有以前未被认识的能力，可以招募 CTLH 底物，并能够发现极其常见的酸性和碱性降解决定子的 MGD。",
-      "translationSource": "ef6c9f94c9408c8c"
-    },
-    {
-      "pmid": "41942732",
-      "title": "Broadening the molecular glue landscape.",
-      "titleZh": "拓宽分子胶的前景。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-04-06",
-      "doi": "10.1038/s41589-026-02167-4",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02167-4",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942732/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "9447575a3d48df79"
-    },
-    {
       "pmid": "41932313",
       "title": "An interactome-based framework for DDB1- and CUL4-associated factor prioritization in targeted protein degradation.",
       "titleZh": "基于相互作用组的框架，用于目标蛋白质降解中 DDB1 和 CUL4 相关因子的优先排序。",
@@ -7034,27 +7336,6 @@
       "translationSource": "5c307a4584e179e0"
     },
     {
-      "pmid": "41699285",
-      "title": "High-throughput ligand diversification to discover chemical inducers of proximity.",
-      "titleZh": "高通量配体多样化以发现邻近化学诱导剂。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-02-16",
-      "doi": "10.1038/s41589-025-02137-2",
-      "doiUrl": "https://doi.org/10.1038/s41589-025-02137-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41699285/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "Chemical inducers of proximity (CIPs) stabilize biomolecular interactions, often causing an emergent rewiring of cellular biochemistry. While the discovery of heterobifunctional CIPs is expedited by rational design strategies, molecular glues have relied predominantly on serendipity. We hypothesized that preexisting ligands could be systematically decorated with chemical modifications to discover compounds that recruit proteins to a composite protein-ligand interface. Using sulfur(VI) fluoride exchange-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto ENL (eleven-nineteen leukemia) and BRD4 (bromodomain-containing protein 4) ligands, we screened each analog for degrader activity. This revealed dHTC1, an ENL degrader that recruits CRL4 CRBN complex through an extended interface of protein-protein contacts and only engages CRBN after pre-forming the ENL:dHTC1 complex. We also identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 to SCF FBXO3 , an E3 ligase not previously accessible for chemical rewiring. Altogether, this study introduces HTC as a facile tool to discover new CIPs and new effectors for proximity pharmacology.",
-      "summaryZh": "邻近化学诱导剂 (CIP) 可以稳定生物分子相互作用，通常会导致细胞生物化学的紧急重新连接。虽然合理的设计策略加速了异双功能 CIP 的发现，但分子胶主要依赖于偶然性。我们假设可以通过化学修饰系统地修饰预先存在的配体，以发现将蛋白质招募到复合蛋白质-配体界面的化合物。使用基于六氟化物交换的高通量化学 (HTC) 将 3,163 个结构不同的构建模块安装到 ENL（11-19 白血病）和 BRD4（含溴结构域蛋白 4）配体上，我们筛选了每个类似物的降解剂活性。这揭示了 dHTC1，一种 ENL 降解剂，它通过蛋白质-蛋白质接触的扩展界面招募 CRL4 CRBN 复合物，并且仅在预形成 ENL:dHTC1 复合物后才与 CRBN 结合。我们还鉴定了 dHTC3，一种分子胶，可选择性地将 BRD4 溴结构域 1 二聚为 SCF FBXO3，这是一种以前无法进行化学重连的 E3 连接酶。总而言之，这项研究将 HTC 作为一种简便的工具来发现新的 CIP 和新的邻近药理学效应器。",
-      "translationSource": "7ecf430c4fdf6da9"
-    },
-    {
       "pmid": "41692829",
       "title": "Biomimetic metal-drug coordination nanoplatform to counteract drug resistance in Pseudomonas aeruginosa via energy disruption.",
       "titleZh": "仿生金属药物协调纳米平台通过能量破坏来抵消铜绿假单胞菌的耐药性。",
@@ -7141,27 +7422,6 @@
       "abstractEn": "Degrons are short protein segments that direct proteins for degradation via the ubiquitin-proteasome system, ensuring the removal of signaling proteins and clearance of misfolded proteins. We have performed a large-scale screen of more than 200,000 30-residue peptides from more than 5000 human cytosolic proteins, achieving 99.7% coverage. We find that 19% of peptides act as strong degrons, 30% as intermediate, and 51% as non-degrons. We identify both known and previously unidentified degradation signals and show that most depend on the E1 ubiquitin-activating enzyme and the proteasome. Structural mapping shows that many degrons are buried and likely become active upon protein unfolding. Training of a machine learning model allowed us to describe the degron properties and predict the cellular abundance of missense variants that operate by forming degrons in exposed and disordered protein regions, thus providing a mechanism of pathogenicity for germline coding variants at such positions.",
       "summaryZh": "降解决定子是短的蛋白质片段，指导蛋白质通过泛素-蛋白酶体系统降解，确保去除信号蛋白并清除错误折叠的蛋白质。我们对来自5000多个人类胞质蛋白的200,000多个30残基肽进行了大规模筛选，覆盖率达到99.7%。我们发现 19% 的肽充当强降解决定子，30% 充当中间降解决定子，51% 充当非降解决定子。我们鉴定了已知和以前未鉴定的降解信号，并表明大多数降解信号依赖于 E1 泛素激活酶和蛋白酶体。结构图显示许多降解决定子被隐藏，并且可能在蛋白质展开时变得活跃。机器学习模型的训练使我们能够描述降解决定子特性并预测错义变体的细胞丰度，这些错义变体通过在暴露和无序的蛋白质区域中形成降解决定子而起作用，从而为此类位置的种系编码变体提供致病性机制。",
       "translationSource": "cd5fd3dc95ab2680"
-    },
-    {
-      "pmid": "41644848",
-      "title": "A pharmacological modality to sequester homomeric proteins.",
-      "titleZh": "隔离同聚蛋白的药理学方式。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-02-05",
-      "doi": "10.1038/s41589-026-02141-0",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02141-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41644848/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
-      "abstractEn": "Molecules that facilitate protein-protein interactions are immensely impactful. However, such compounds typically rely on accessory proteins to function, such as E3 ligases for targeted degradation, which may restrict their scope or lead to resistance. We alleviate the need for accessory proteins with a strategy that exploits protein symmetry as a selective vulnerability and is widely applicable because of the ubiquitous nature of homomeric proteins. We target homomeric proteins with PINCHs (polymerization-inducing chimeras)-bifunctional molecules composed of two linked ligands that bridge homomers and trigger their supramolecular assembly into insoluble polymers. We design PINCHs that achieve efficient polymerization of four targets. In cells, we observed that a PINCH targeting Keap1 exhibited a longer duration of action and a PINCH targeting BCL6 displayed selective lowering of B cell viability compared to their monomeric parents. Our results highlight PINCHs as a novel and general strategy to modulate and knock out protein function.",
-      "summaryZh": "促进蛋白质-蛋白质相互作用的分子具有巨大的影响力。然而，此类化合物通常依赖辅助蛋白发挥作用，例如用于靶向降解的 E3 连接酶，这可能会限制其范围或导致耐药性。我们通过利用蛋白质对称性作为选择性脆弱性的策略来减少对辅助蛋白质的需求，并且由于同聚蛋白质的普遍存在性而被广泛应用。我们用 PINCH（聚合诱导嵌合体）双功能分子来靶向同聚蛋白，该双功能分子由两个连接的配体组成，可桥接同聚体并触发其超分子组装成不溶性聚合物。我们设计的 PINCH 可以实现四个目标的有效聚合。在细胞中，我们观察到，与单体亲本相比，靶向 Keap1 的 PINCH 表现出更长的作用持续时间，而靶向 BCL6 的 PINCH 显示选择性降低 B 细胞活力。我们的结果强调了 PINCH 是一种调节和敲除蛋白质功能的新颖且通用的策略。",
-      "translationSource": "c00716701c21bc02"
     },
     {
       "pmid": "41559332",
