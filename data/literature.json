@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:14:21+00:00",
+  "updatedAt": "2026-08-30T01:53:50+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -135,6 +135,116 @@
       "translationSource": "2df1373b2a1d9b92"
     },
     {
+      "pmid": "42664358",
+      "title": "Sorting of lysosomal enzyme and autophagy are regulated by the GGA1-induced TGN lipid scrambling.",
+      "titleZh": "溶酶体酶的分选和自噬受 GGA1 诱导的 TGN 脂质扰乱的调节。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aec4519",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec4519",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664358/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
+      "abstractEn": "The physiological role of lipid asymmetry in intracellular membranes remains poorly understood. Here, we show that sphingomyelin (SM), typically confined to the lumen of the trans-Golgi network (TGN), is exposed on its cytoplasmic surface by the action of the Golgi-associated protein, Golgi-associated gamma-adaptin ear-containing adenosine 5'-diphosphate-ribosylation factor-binding protein 1 (GGA1). This exposure is driven by the GGA1 GAT domain, which induces lipid scrambling in a manner dependent on membrane curvature and cholesterol. SM exposure coincides with the exit of mannose 6-phosphate receptors from the TGN, a process essential for lysosomal enzyme trafficking. Furthermore, SM is transferred to autophagic membranes, where it facilitates autophagosome-lysosome fusion. These findings reveal a previously unrecognized role for lipid remodeling in membrane trafficking and autophagy.",
+      "summaryZh": "细胞内膜脂质不对称的生理作用仍然知之甚少。在这里，我们发现，鞘磷脂（SM）通常局限于跨高尔基体网络（TGN）的管腔，通过高尔基体相关蛋白（高尔基体相关γ-适应素耳含腺苷5'-二磷酸核糖基化因子结合蛋白1（GGA1））的作用，暴露在其细胞质表面。这种暴露是由 GGA1 GAT 结构域驱动的，该结构域以依赖于膜曲率和胆固醇的方式诱导脂质扰乱。 SM 暴露与 6-磷酸甘露糖受体从 TGN 中退出同时发生，这是溶酶体酶运输所必需的过程。此外，SM 被转移到自噬膜，促进自噬体-溶酶体融合。这些发现揭示了脂质重塑在膜运输和自噬中的先前未被认识的作用。",
+      "translationSource": "be886f98784c1cea"
+    },
+    {
+      "pmid": "42664354",
+      "title": "Transglutaminase 2 regulates vimentin-dependent proteostasis during macrophage activation.",
+      "titleZh": "转谷氨酰胺酶 2 在巨噬细胞激活过程中调节波形蛋白依赖性蛋白质稳态。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aea7513",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aea7513",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664354/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, proteostasis。",
+      "abstractEn": "Sepsis-associated liver dysfunction is a life-threatening condition with a high mortality rate and no mechanism-based therapy. In this study, we identify the cross-linking enzyme transglutaminase 2 (TG2) as a driver of liver inflammation by activating macrophages in a mouse model of sepsis. Pharmacological inhibition of TG2 improves survival and reduces multiorgan inflammation, with the liver as a primary therapeutic target. Mechanistically, TG2 activity was up-regulated in macrophages, where it cross-linked vimentin to promote oligomerization and intermediate filament remodeling. Genetic ablation of TG2 or vimentin suppressed macrophage cytokine production and attenuated lipopolysaccharide-induced inflammation. Notably, vimentin-deficient macrophages exhibited enhanced proteasome recruitment to detergent-insoluble protein aggregates, accelerating the degradation of proinflammatory mediators such as Traf6, thereby dampening nuclear factor κB signaling. Proteomic profiling revealed a previously unrecognized Rab27a-positive vesicle trafficking pathway for inflammatory aggregate clearance. Together, these findings define a TG2-vimentin axis that controls macrophage activation through proteostasis regulation, linking cytoskeletal remodeling to inflammatory signaling.",
+      "summaryZh": "脓毒症相关的肝功能障碍是一种危及生命的疾病，死亡率高，并且没有基于机制的治疗。在这项研究中，我们通过激活脓毒症小鼠模型中的巨噬细胞，确定交联酶转谷氨酰胺酶 2 (TG2) 是肝脏炎症的驱动因素。 TG2 的药理学抑制可提高生存率并减少多器官炎症，其中肝脏是主要治疗靶点。从机制上讲，TG2 活性在巨噬细胞中上调，它与波形蛋白交联以促进寡聚化和中间丝重塑。 TG2 或波形蛋白的基因消除抑制了巨噬细胞细胞因子的产生并减轻了脂多糖诱导的炎症。值得注意的是，波形蛋白缺陷的巨噬细胞表现出增强的蛋白酶体募集到去污剂不溶性蛋白质聚集体的能力，加速促炎介质（如 Traf6）的降解，从而抑制核因子 κB 信号传导。蛋白质组学分析揭示了以前未被识别的用于炎症聚集物清除的 Rab27a 阳性囊泡运输途径。总之，这些发现定义了 TG2-波形蛋白轴，该轴通过蛋白质稳态调节控制巨噬细胞激活，将细胞骨架重塑与炎症信号传导联系起来。",
+      "translationSource": "1a96e80b8d82d84a"
+    },
+    {
+      "pmid": "42664344",
+      "title": "Programmable protein degraders enable selective knockdown of pathogenic β-catenin subpopulations in vitro and in vivo.",
+      "titleZh": "可编程蛋白质降解剂能够在体外和体内选择性敲低致病性 β-连环蛋白亚群。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aec8271",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec8271",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664344/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "protein degrader",
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protein degrader, proteasome。",
+      "abstractEn": "Aberrant activation of Wnt signaling results in unregulated accumulation of cytosolic β-catenin, which subsequently enters the nucleus and promotes transcription of genes that contribute to cellular proliferation and malignancy. Here, we sought to eliminate pathogenic β-catenin from the cytosol using designer ubiquibodies (uAbs), chimeric proteins composed of an E3 ubiquitin ligase and a target-binding domain that redirect intracellular proteins to the proteasome for degradation. To accelerate uAb development, we leveraged a protein language model-driven algorithm called SaLT&PepPr to computationally design \"guide\" peptides with affinity for β-catenin, which were subsequently fused to the catalytic domain of a human E3 called carboxyl terminus of Hsp70-interacting protein. Expression of the resulting peptide-guided uAbs in colorectal cancer cells led to the identification of several designs that greatly reduced the abnormally stable pool of free β-catenin in the cytosol and nucleus while preserving the normal membrane-associated subpopulation. This selective knockdown of pathogenic β-catenin suppressed Wnt/β-catenin signaling and impaired tumor cell survival and proliferation. Furthermore, one of the best degraders selectively decreased cytosolic but not membrane-associated β-catenin levels in livers of BALB/c mice following delivery as a lipid nanoparticle-encapsulated mRNA. Collectively, these findings reveal the unique ability of uAbs to selectively deplete abnormal proteins in vitro and in vivo and open the door to peptide-programmable biologic modulators of other disease-causing proteins.",
+      "summaryZh": "Wnt 信号传导的异常激活会导致胞质 β-连环蛋白不受调节的积累，随后进入细胞核并促进有助于细胞增殖和恶性肿瘤的基因转录。在这里，我们试图使用设计泛素体 (uAb) 消除细胞质中的致病性 β-连环蛋白，uAb 是由 E3 泛素连接酶和靶结合域组成的嵌合蛋白，可将细胞内蛋白重定向至蛋白酶体进行降解。为了加速 uAb 开发，我们利用一种名为 SaLT&PepPr 的蛋白质语言模型驱动算法，通过计算设计出对 β-连环蛋白具有亲和力的“引导”肽，随后将其融合到人类 E3 的催化结构域（称为 Hsp70 相互作用蛋白的羧基末端）。由此产生的肽引导 uAb 在结直肠癌细胞中的表达导致了几种设计的鉴定，这些设计大大减少了细胞质和细胞核中异常稳定的游离 β-连环蛋白库，同时保留了正常的膜相关亚群。这种致病性β-连环蛋白的选择性敲低抑制了Wnt/β-连环蛋白信号传导并损害了肿瘤细胞的存活和增殖。此外，在以脂质纳米颗粒封装的 mRNA 形式递送后，最好的降解剂之一选择性降低 BALB/c 小鼠肝脏中细胞质而非膜相关的 β-连环蛋白水平。总的来说，这些发现揭示了 uAb 在体外和体内选择性消除异常蛋白的独特能力，并为其他致病蛋白的肽可编程生物调节剂打开了大门。",
+      "translationSource": "a9f609405331602f"
+    },
+    {
+      "pmid": "42664340",
+      "title": "Neuron-derived SPP1 instructs microglia to limit degeneration.",
+      "titleZh": "神经元衍生的 SPP1 指示小胶质细胞限制退化。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aee4940",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee4940",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664340/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Neurons actively shape immune responses that maintain central nervous system integrity. We identify SPP1 (secreted phosphoprotein 1) as a neuron-derived signal that reprograms microglia into a neuroprotective, homeostatic state after injury and during neurodegeneration. In mouse models of glaucoma and optic nerve damage, neuronal SPP1 enhances microglial autophagy, debris clearance, and anti-inflammatory activity, preserving neuronal survival and visual function. SPP1 is elevated in neurons of human and primate glaucomatous retinas, where SPP1 + cells show increased resilience. In Alzheimer's disease brain, neuronal SPP1 correlates with neuronal survival, while microglia around Aβ plaques display defective autophagy. In human iPSC co-cultures, SPP1 enhances microglial Aβ clearance and prevents neurodegeneration. Thus, SPP1 defines a protective neuron-microglia axis in glaucoma and possibly other neurodegenerative diseases.",
+      "summaryZh": "神经元积极塑造维持中枢神经系统完整性的免疫反应。我们将 SPP1（分泌磷蛋白 1）确定为一种神经元衍生信号，可在损伤后和神经变性过程中将小胶质细胞重新编程为神经保护性稳态。在青光眼和视神经损伤的小鼠模型中，神经元 SPP1 增强小胶质细胞自噬、碎片清除和抗炎活性，从而保护神经元存活和视觉功能。 SPP1 在人类和灵长类青光眼视网膜神经元中升高，其中 SPP1 + 细胞表现出增强的恢复能力。在阿尔茨海默病大脑中，神经元 SPP1 与神经元存活相关，而 Aβ 斑块周围的小胶质细胞则显示出有缺陷的自噬。在人类 iPSC 共培养物中，SPP1 增强小胶质细胞 Aβ 清除并防止神经变性。因此，SPP1 定义了青光眼和可能的其他神经退行性疾病中的保护性神经元-小胶质细胞轴。",
+      "translationSource": "9f20ac1d20b14b3b"
+    },
+    {
+      "pmid": "42664324",
+      "title": "Progressive oxygenation of developing leaves directs morphogenesis.",
+      "titleZh": "发育中的叶子的渐进氧化指导形态发生。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aef2430",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aef2430",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664324/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Oxygen availability underpins energy production in multicellular organisms, yet internal oxygen gradients arise in both plants and animals. Plants sense these variations via the plant cysteine oxidase branch of the N-degron pathway, which regulates the stability of key transcription factors. Originally linked to metabolic control, this pathway recently emerged as a development regulator. While the shoot apical meristem was shown to be hypoxic, the oxygen dynamics of organs originating from this low-oxygen niche remain unknown. Here, we show that developing leaves form a spatiotemporal oxygen gradient that is sensed through the oxygen-sensing machinery. This pathway integrates local oxygen availability to regulate leaf morphogenesis: Early hypoxia restricts cell expansion, whereas subsequent distal-to-proximal oxygenation depletes group VII ethylene response factors enabling specialized cell-fate acquisition and controlling proliferation. Our findings reveal that oxygen acts as a positional cue in normal growth, guiding developmental trajectories. This highlights opportunities to harness oxygen gradients and sensing to direct plant form and function.",
+      "summaryZh": "氧气的可用性是多细胞生物体能量产生的基础，但植物和动物都会产生内部氧气梯度。植物通过 N-降解决定子途径的植物半胱氨酸氧化酶分支感知这些变化，该途径调节关键转录因子的稳定性。该途径最初与代谢控制相关，最近作为发育调节剂出现。虽然芽顶端分生组织被证明是缺氧的，但源自该低氧生态位的器官的氧动力学仍然未知。在这里，我们展示了发育中的叶子形成了时空氧气梯度，该梯度可以通过氧传感机制来感知。该途径整合了局部氧气可用性来调节叶片形态发生：早期缺氧限制了细胞扩张，而随后的远端到近端氧合消耗了第七组乙烯反应因子，从而实现了专门的细胞命运获取和控制增殖。我们的研究结果表明，氧气在正常生长中充当位置线索，指导发育轨迹。这凸显了利用氧气梯度和传感来指导植物形态和功能的机会。",
+      "translationSource": "5ad38efe25f580b0"
+    },
+    {
       "pmid": "42647607",
       "title": "RIBOTAC-mediated degradation of hsa-microRNA-301a-3p suppresses TNBC bone metastasis.",
       "titleZh": "RIBOTAC 介导的 hsa-microRNA-301a-3p 降解可抑制 TNBC 骨转移。",
@@ -155,6 +265,27 @@
       "abstractEn": "Triple-negative breast cancer (TNBC) is an aggressive subtype with a high propensity for bone metastasis and limited treatment options. Although many proteins drive metastasis, most remain inaccessible to conventional small-molecule drugs due to lack of suitable binding sites, prompting interest in upstream RNA regulators. Using integrative bioinformatics and machine learning, we identified hsa-microRNA-301a-3p as a central regulator of TNBC bone metastasis. However, current nucleic acid-based therapies are limited by instability and inefficient delivery. To overcome these challenges, we designed a ribonuclease-targeting chimera (RIBOTAC) that recruits endogenous RNase L to degrade the primary transcript pri-microRNA-301a. The resulting RIBOTAC efficiently reduced hsa-microRNA-301a-3p levels, restored NEDD4L expression, and promoted degradation of the oncogenic protein YAP, thereby suppressing TNBC bone metastasis. These findings identify hsa-microRNA-301a-3p as a key driver and demonstrate RNA-targeted degradation as a therapeutic strategy in TNBC bone metastasis.",
       "summaryZh": "三阴性乳腺癌（TNBC）是一种侵袭性亚型，骨转移倾向高，治疗选择有限。尽管许多蛋白质驱动转移，但由于缺乏合适的结合位点，大多数蛋白质仍然无法被传统小分子药物接近，这引发了人们对上游 RNA 调节剂的兴趣。利用综合生物信息学和机器学习，我们确定 hsa-microRNA-301a-3p 是 TNBC 骨转移的中心调节因子。然而，当前基于核酸的疗法受到不稳定和低效递送的限制。为了克服这些挑战，我们设计了一种核糖核酸酶靶向嵌合体 (RIBOTAC)，它招募内源性 RNase L 来降解初级转录本 pri-microRNA-301a。由此产生的 RIBOTAC 有效降低 hsa-microRNA-301a-3p 水平，恢复 NEDD4L 表达，并促进致癌蛋白 YAP 降解，从而抑制 TNBC 骨转移。这些发现将 hsa-microRNA-301a-3p 确定为关键驱动因素，并证明 RNA 靶向降解可作为 TNBC 骨转移的治疗策略。",
       "translationSource": "91cc5a19701d4f31"
+    },
+    {
+      "pmid": "42665581",
+      "title": "A programmable lipid-triggered allosteric site modulates LC3 LIR receptor binding activity.",
+      "titleZh": "可编程脂质触发变构位点调节 LC3 LIR 受体结合活性。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1038/s41467-026-76697-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76697-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42665581/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Membrane recruitment is a fundamental regulator of protein function. However, the allosteric mechanisms by which lipid binding controls protein activity remain poorly understood. In autophagy, the ubiquitin-like protein LC3 is lipid-anchored to autophagosomes, where it is essential for receptor recruitment and vesicle formation. While LC3-receptor interactions are structurally well defined, how membrane engagement governs LC3 functional dynamics has remained enigmatic. Here, we uncover that membrane binding triggers a major conformational transition in LC3, exposing functional pockets that are occluded in its cytosolic form. We demonstrate that this shift is mediated by dynamic coupling between the allosteric site (α3-loop5-β3-loop6) and the functional binding pockets. To conclusively test this mechanism, we utilised an ensemble-based protein design strategy guided by molecular dynamics to engineer the allosteric site. From a series of mutants, two variants emerged that stabilized LC3 conformation in either active or inactive state on the membrane. X-ray crystal structures of mutant LC3, biophysical assays, super-resolution microscopy, and TEM confirmed that the activated allosteric site mutant facilitates receptor binding and cargo capture. In contrast, the inactive variant is functionally inert on the membrane. Our work identifies a fundamental lipid-triggered allosteric site in LC3 that is critical for autophagy regulation and broader implications of membrane-dependent reprogrammable protein activities.",
+      "summaryZh": "膜募集是蛋白质功能的基本调节剂。然而，脂质结合控制蛋白质活性的变构机制仍然知之甚少。在自噬过程中，类泛素蛋白 LC3 脂质锚定于自噬体，对于受体募集和囊泡形成至关重要。虽然 LC3-受体相互作用在结构上已经明确，但膜结合如何控制 LC3 功能动力学仍然是个谜。在这里，我们发现膜结合触发了 LC3 中的主要构象转变，暴露了以其胞质形式封闭的功能口袋。我们证明这种转变是由变构位点（α3-loop5-β3-loop6）和功能性结合袋之间的动态耦合介导的。为了最终测试这种机制，我们利用分子动力学指导的基于整体的蛋白质设计策略来设计变构位点。从一系列突变体中，出现了两种变体，它们可以稳定膜上 LC3 构象的活性或非活性状态。突变体 LC3 的 X 射线晶体结构、生物物理测定、超分辨率显微镜和 TEM 证实，激活的变构位点突变体促进受体结合和货物捕获。相反，无活性变体在膜上具有功能惰性。我们的工作确定了 LC3 中一个基本的脂质触发变构位点，该位点对于自噬调节和膜依赖性可重编程蛋白活性的更广泛影响至关重要。",
+      "translationSource": "1071af98ecba8e37"
     },
     {
       "pmid": "42658938",
@@ -1580,6 +1711,27 @@
       "abstractEn": "Cell survival requires tight coordination between growth-promoting metabolism and cellular quality-control pathways, yet how these processes are integrated remains unclear. Here we identify the conserved glycolytic enzyme PGAM1 as a metabolic-autophagy checkpoint that links glycolysis to autophagy initiation independently of its catalytic activity. Using complementary yeast and mammalian systems we show that PGAM1 functions as a molecular scaffold that recruits phosphatidylinositol 3-kinase complex I to the phagophore assembly site, thereby licensing autophagosome biogenesis. This autophagy-regulatory function is genetically essential, evolutionarily conserved and functionally separable from glycolysis. It is regulated by Atg1/ULK1-mediated phosphorylation that enhances Atg14 binding under starvation. Functionally, PGAM1 coordinates anabolic growth and stress-induced survival to maintain cellular homeostasis. In cancer, PGAM1 upregulation enhances both glycolytic flux and autophagy capacity. Disruption of either function markedly impairs tumour growth, establishing PGAM1 as a homeostatic checkpoint that is hijacked in cancer to drive both proliferation and stress tolerance.",
       "summaryZh": "细胞生存需要促进生长的代谢和细胞质量控制途径之间的紧密协调，但这些过程如何整合仍不清楚。在这里，我们将保守的糖酵解酶 PGAM1 确定为代谢自噬检查点，它将糖酵解与自噬启动联系起来，与其催化活性无关。使用互补的酵母和哺乳动物系统，我们证明 PGAM1 作为分子支架发挥作用，将磷脂酰肌醇 3-激酶复合物 I 招募到吞噬细胞组装位点，从而许可自噬体生物发生。这种自噬调节功能在遗传上是必需的，在进化上是保守的，并且在功能上与糖酵解是分开的。它受 Atg1/ULK1 介导的磷酸化调节，从而增强饥饿条件下 Atg14 的结合。在功能上，PGAM1 协调合成代谢生长和应激诱导的生存以维持细胞稳态。在癌症中，PGAM1 上调可增强糖酵解通量和自噬能力。任一功能的破坏都会显着损害肿瘤生长，从而使 PGAM1 成为一种稳态检查点，在癌症中被劫持以驱动增殖和应激耐受。",
       "translationSource": "f1b4c385dac100f7"
+    },
+    {
+      "pmid": "42660886",
+      "title": "A hybrid system enables plasmid copy number control in yeast.",
+      "titleZh": "混合系统能够控制酵母中的质粒拷贝数。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-28",
+      "doi": "10.1038/s41467-026-75973-y",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75973-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42660886/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Synthetic biology demands plasmid with tunable copy numbers. While dynamic plasmid copy number (PCN) regulation has been engineered in prokaryotes, a parallel capability remains unavailable in eukaryotic systems. Here, we develop a programmable PCN platform for S. cerevisiae based on the endogenous 2μ plasmid. The p2μ-Cir 0 system achieves up to 20 copies per cell with enhanced homogeneity and stability, supporting 60-fold higher expression than chromosomal integration. Addition of a CEN element enables switchable PCN transitions from 1 to 38 copies, and Leu2d-based selection further raises copy number to ~70 and expression to ~110-fold. We demonstrate broad utility in tRNA phenotyping, GLP-1 precursor, 2-phenylethanol, β-carotenoid and ergothioneine production, and long-term strain preservation. These results establish a well quantified PCN regulation toolkit for yeast, addressing instability from multiple copies and enabling gene dosage control across DNA, RNA, and protein levels.",
+      "summaryZh": "合成生物学需要具有可调拷贝数的质粒。虽然动态质粒拷贝数 (PCN) 调节已在原核生物中进行了设计，但在真核系统中仍然无法实现并行功能。在这里，我们开发了一个基于内源 2μ 质粒的酿酒酵母可编程 PCN 平台。 p2μ-Cir 0 系统每个细胞可实现多达 20 个拷贝，并具有增强的同质性和稳定性，支持比染色体整合高 60 倍的表达。添加 CEN 元件可实现从 1 个拷贝到 38 个拷贝的可切换 PCN 转变，并且基于 Leu2d 的选择进一步将拷贝数提高到约 70 倍，表达量提高到约 110 倍。我们展示了其在 tRNA 表型分析、GLP-1 前体、2-苯基乙醇、β-类胡萝卜素和麦角硫因生产以及长期菌株保存方面的广泛实用性。这些结果为酵母建立了一个量化良好的 PCN 调控工具包，解决了多拷贝的不稳定性问题，并实现了 DNA、RNA 和蛋白质水平上的基因剂量控制。",
+      "translationSource": "c79a7344f6c3eddd"
     },
     {
       "pmid": "42521682",
@@ -4209,6 +4361,29 @@
       "translationSource": "422fb61fd46c4973"
     },
     {
+      "pmid": "42248829",
+      "title": "Identification of a mechanism-based binding mode for a histone deacetylase 6 inhibitor.",
+      "titleZh": "组蛋白脱乙酰酶 6 抑制剂基于机制的结合模式的鉴定。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-06-05",
+      "doi": "10.1038/s41467-026-73146-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73146-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42248829/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteolysis targeting chimera",
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteolysis targeting chimera, proteasome。",
+      "abstractEn": "Histone deacetylase 6 (HDAC6) is a cytoplasmic enzyme that deacetylates non-histone substrates such as α-tubulin and cortactin. HDAC6 contains two catalytic domains, each containing a catalytic zinc ion, and a zinc-finger ubiquitin-binding domain. We have discovered BAS-2, a selective HDAC6 inhibitor with an isothiouronium core and no obvious zinc-binding group. To define its mechanism, we combine X-ray crystallography, structure-activity-relationships, molecular modeling and mutagenesis. BAS-2 potently inhibits human HDAC6 but it does not inhibit zebrafish HDAC6. Computational modeling highlighted Asp567 in human HDAC6 as critical for BAS-2 recognition and mutational analyses confirmed this. The corresponding zebrafish residue is Asn530 and the crystal structure of the N530D variant zHDAC6 revealed binding of a BAS-2-derived mercaptoacetamide that engages the catalytic zinc via strong thiolate-zinc coordination. Leveraging the orientation of BAS-2 binding, we designed a BAS-2-based proteolysis targeting chimera that induced proteasome-dependent HDAC6 degradation in cells, verified by global proteomics. Collectively, these insights clarify species selectivity and demonstrate that BAS-2 acts as a selective, mechanism-based inhibitor of human HDAC6. These discoveries will aid the development of the next generation of selective HDAC6 inhibitors and degraders.",
+      "summaryZh": "组蛋白脱乙酰酶 6 (HDAC6) 是一种细胞质酶，可对 α-微管蛋白和皮质蛋白等非组蛋白底物进行脱乙酰化。 HDAC6 包含两个催化结构域（每个催化结构域包含一个催化锌离子）和一个锌指泛素结合结构域。我们发现了 BAS-2，一种选择性 HDAC6 抑制剂，具有异硫脲核心且没有明显的锌结合基团。为了定义其机制，我们结合了 X 射线晶体学、结构-活性关系、分子建模和诱变。 BAS-2 有效抑制人 HDAC6，但不抑制斑马鱼 HDAC6。计算模型强调人类 HDAC6 中的 Asp567 对于 BAS-2 识别至关重要，突变分析也证实了这一点。相应的斑马鱼残基是 Asn530，N530D 变体 zHDAC6 的晶体结构揭示了 BAS-2 衍生的巯基乙酰胺的结合，该结合通过强硫醇盐-锌配位与催化锌结合。利用 BAS-2 结合的方向，我们设计了一种基于 BAS-2 的蛋白水解靶向嵌合体，该嵌合体诱导细胞中蛋白酶体依赖性 HDAC6 降解，并通过全局蛋白质组学验证。总的来说，这些见解阐明了物种选择性，并证明 BAS-2 作为人类 HDAC6 的选择性、基于机制的抑制剂。这些发现将有助于开发下一代选择性 HDAC6 抑制剂和降解剂。",
+      "translationSource": "d03d2a700f1a11a5"
+    },
+    {
       "pmid": "42248894",
       "title": "Programmable Nucleic Acid Sensing in Human Cells Using Circularizable ssDNA.",
       "titleZh": "使用可环化 ssD​​NA 在人体细胞中进行可编程核酸传感。",
@@ -4251,27 +4426,25 @@
       "translationSource": "951ff68896775292"
     },
     {
-      "pmid": "42248829",
-      "title": "Identification of a mechanism-based binding mode for a histone deacetylase 6 inhibitor.",
-      "titleZh": "组蛋白脱乙酰酶 6 抑制剂基于机制的结合模式的鉴定。",
+      "pmid": "42243089",
+      "title": "Molecular glue that stabilizes the LRPPRC-MET-G4 interaction complex to drive MET downregulation.",
+      "titleZh": "稳定 LRPPRC-MET-G4 相互作用复合物以驱动 MET 下调的分子胶。",
       "journal": "Nature Communications",
       "year": 2026,
-      "published": "2026-06-05",
-      "doi": "10.1038/s41467-026-73146-5",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73146-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42248829/",
+      "published": "2026-06-04",
+      "doi": "10.1038/s41467-026-73806-6",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-73806-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42243089/",
       "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
+        "靶向蛋白降解"
       ],
       "matchedTerms": [
-        "proteolysis targeting chimera",
-        "proteasome"
+        "molecular glue"
       ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteolysis targeting chimera, proteasome。",
-      "abstractEn": "Histone deacetylase 6 (HDAC6) is a cytoplasmic enzyme that deacetylates non-histone substrates such as α-tubulin and cortactin. HDAC6 contains two catalytic domains, each containing a catalytic zinc ion, and a zinc-finger ubiquitin-binding domain. We have discovered BAS-2, a selective HDAC6 inhibitor with an isothiouronium core and no obvious zinc-binding group. To define its mechanism, we combine X-ray crystallography, structure-activity-relationships, molecular modeling and mutagenesis. BAS-2 potently inhibits human HDAC6 but it does not inhibit zebrafish HDAC6. Computational modeling highlighted Asp567 in human HDAC6 as critical for BAS-2 recognition and mutational analyses confirmed this. The corresponding zebrafish residue is Asn530 and the crystal structure of the N530D variant zHDAC6 revealed binding of a BAS-2-derived mercaptoacetamide that engages the catalytic zinc via strong thiolate-zinc coordination. Leveraging the orientation of BAS-2 binding, we designed a BAS-2-based proteolysis targeting chimera that induced proteasome-dependent HDAC6 degradation in cells, verified by global proteomics. Collectively, these insights clarify species selectivity and demonstrate that BAS-2 acts as a selective, mechanism-based inhibitor of human HDAC6. These discoveries will aid the development of the next generation of selective HDAC6 inhibitors and degraders.",
-      "summaryZh": "组蛋白脱乙酰酶 6 (HDAC6) 是一种细胞质酶，可对 α-微管蛋白和皮质蛋白等非组蛋白底物进行脱乙酰化。 HDAC6 包含两个催化结构域（每个催化结构域包含一个催化锌离子）和一个锌指泛素结合结构域。我们发现了 BAS-2，一种选择性 HDAC6 抑制剂，具有异硫脲核心且没有明显的锌结合基团。为了定义其机制，我们结合了 X 射线晶体学、结构-活性关系、分子建模和诱变。 BAS-2 有效抑制人 HDAC6，但不抑制斑马鱼 HDAC6。计算模型强调人类 HDAC6 中的 Asp567 对于 BAS-2 识别至关重要，突变分析也证实了这一点。相应的斑马鱼残基是 Asn530，N530D 变体 zHDAC6 的晶体结构揭示了 BAS-2 衍生的巯基乙酰胺的结合，该结合通过强硫醇盐-锌配位与催化锌结合。利用 BAS-2 结合的方向，我们设计了一种基于 BAS-2 的蛋白水解靶向嵌合体，该嵌合体诱导细胞中蛋白酶体依赖性 HDAC6 降解，并通过全局蛋白质组学验证。总的来说，这些见解阐明了物种选择性，并证明 BAS-2 作为人类 HDAC6 的选择性、基于机制的抑制剂。这些发现将有助于开发下一代选择性 HDAC6 抑制剂和降解剂。",
-      "translationSource": "d03d2a700f1a11a5"
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Targeting the MET oncoprotein is an effective strategy in precision cancer therapy, whereas its clinical efficacy varies dramatically across tumor types. Herein, we explore an alternative approach to downregulate MET at the transcriptional level. We identify a cis-regulatory element in the MET proximal promoter that forms a stable parallel G-quadruplex (MET-G4). We determine the high-resolution NMR solution structure of this MET-G4 and demonstrate that MET-G4 recruits LRPPRC to promote MET transcription, uncovering a previously unrecognized epigenetic mechanism that drives MET overexpression. We further characterize LRPPRC's G4-binding domain and its structural basis for MET-G4 recognition. Through screening an in-house natural product library, we identify nitidine (NIT) as a MET-G4 stabilizer that acts as a molecular glue, strengthening the LRPPRC-MET-G4 interaction and inducing the formation of a stable LRPPRC-NIT-MET-G4 ternary complex. This complex likely alters the structure and function of LRPPRC, thereby downregulating MET expression and exerting the well-known anticancer effects of nitidine. Moreover, comprehensive in vitro and in vivo experiments demonstrate that nitidine significantly inhibits tumor progression through an LRPPRC-MET-G4-dependent mechanism. Collectively, our study suggests an epigenetic regulatory mechanism involving LRPPRC-MET-G4-mediated MET upregulation and provides a promising therapeutic strategy for MET-driven tumors using molecular glues that target the LRPPRC-MET-G4 interface.",
+      "summaryZh": "靶向 MET 癌蛋白是精准癌症治疗的有效策略，但其临床疗效因肿瘤类型而异。在此，我们探索了一种在转录水平下调 MET 的替代方法。我们在 MET 近端启动子中鉴定出一个顺式调控元件，该元件形成稳定的平行 G-四链体 (MET-G4)。我们确定了 MET-G4 的高分辨率 NMR 溶液结构，并证明 MET-G4 招募 LRPPRC 来促进 MET 转录，揭示了一种先前未被识别的驱动 MET 过表达的表观遗传机制。我们进一步表征了 LRPPRC 的 G4 结合域及其 MET-G4 识别的结构基础。通过筛选内部天然产物库，我们确定两面针碱 (NIT) 是一种 MET-G4 稳定剂，可充当分子胶，增强 LRPPRC-MET-G4 相互作用并诱导形成稳定的 LRPPRC-NIT-MET-G4 三元复合物。该复合物可能改变 LRPPRC 的结构和功能，从而下调 MET 表达并发挥两面针碱的众所周知的抗癌作用。此外，全面的体外和体内实验表明，两面针碱通过 LRPPRC-MET-G4 依赖性机制显着抑制肿瘤进展。总的来说，我们的研究提出了一种涉及 LRPPRC-MET-G4 介导的 MET 上调的表观遗传调控机制，并使用针对 LRPPRC-MET-G4 界面的分子胶为 MET 驱动的肿瘤提供了一种有前景的治疗策略。",
+      "translationSource": "fbe45411ae7a1031"
     },
     {
       "pmid": "42243117",
@@ -4294,27 +4467,6 @@
       "abstractEn": "Lysine63 polyubiquitination is a prevalent post-translational modification in the central nervous system. Deficiency of CYLD, a lysine63-specific deubiquitinase, is linked to synaptic dysfunction and neurodegenerative disorders. However, our understanding of how CYLD contributes to the manifestation of neuronal deficits, particularly in the context of ageing, remains limited. Here, we report that CYLD-1 is essential for physiological lifespan in the nematode Caenorhabditis elegans. Neuronal CYLD-1 supports cholinergic neurotransmission and GABAergic synapse integrity, ensuring intact locomotory capacity, as well as learning and memory competence. Specifically, the deubiquitinase activity of CYLD-1 is necessary for upholding cholinergic neurotransmission and lifespan. We further show that CYLD-1 regulates autolysosomal and lysosomal network organisation in neurons and peripheral tissues in vivo. Our work unveils a crucial role of CYLD-1 in optimizing neural activity and behavioural outcomes, to improve organismal fitness and survival.",
       "summaryZh": "赖氨酸63多聚泛素化是中枢神经系统中普遍存在的翻译后修饰。 CYLD（一种赖氨酸 63 特异性去泛素酶）的缺乏与突触功能障碍和神经退行性疾病有关。然而，我们对 CYLD 如何导致神经元缺陷表现的理解，特别是在衰老的背景下，仍然有限。在此，我们报告 CYLD-1 对于线虫秀丽隐杆线虫的生理寿命至关重要。神经元 CYLD-1 支持胆碱能神经传递和 GABA 能突触完整性，确保完整的运动能力以及学习和记忆能力。具体来说，CYLD-1 的去泛素酶活性对于维持胆碱能神经传递和寿命是必需的。我们进一步表明，CYLD-1 调节体内神经元和周围组织的自溶酶体和溶酶体网络组织。我们的工作揭示了 CYLD-1 在优化神经活动和行为结果、改善机体健康和生存方面的关键作用。",
       "translationSource": "a04a467e35cc525e"
-    },
-    {
-      "pmid": "42243089",
-      "title": "Molecular glue that stabilizes the LRPPRC-MET-G4 interaction complex to drive MET downregulation.",
-      "titleZh": "稳定 LRPPRC-MET-G4 相互作用复合物以驱动 MET 下调的分子胶。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-06-04",
-      "doi": "10.1038/s41467-026-73806-6",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-73806-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42243089/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "Targeting the MET oncoprotein is an effective strategy in precision cancer therapy, whereas its clinical efficacy varies dramatically across tumor types. Herein, we explore an alternative approach to downregulate MET at the transcriptional level. We identify a cis-regulatory element in the MET proximal promoter that forms a stable parallel G-quadruplex (MET-G4). We determine the high-resolution NMR solution structure of this MET-G4 and demonstrate that MET-G4 recruits LRPPRC to promote MET transcription, uncovering a previously unrecognized epigenetic mechanism that drives MET overexpression. We further characterize LRPPRC's G4-binding domain and its structural basis for MET-G4 recognition. Through screening an in-house natural product library, we identify nitidine (NIT) as a MET-G4 stabilizer that acts as a molecular glue, strengthening the LRPPRC-MET-G4 interaction and inducing the formation of a stable LRPPRC-NIT-MET-G4 ternary complex. This complex likely alters the structure and function of LRPPRC, thereby downregulating MET expression and exerting the well-known anticancer effects of nitidine. Moreover, comprehensive in vitro and in vivo experiments demonstrate that nitidine significantly inhibits tumor progression through an LRPPRC-MET-G4-dependent mechanism. Collectively, our study suggests an epigenetic regulatory mechanism involving LRPPRC-MET-G4-mediated MET upregulation and provides a promising therapeutic strategy for MET-driven tumors using molecular glues that target the LRPPRC-MET-G4 interface.",
-      "summaryZh": "靶向 MET 癌蛋白是精准癌症治疗的有效策略，但其临床疗效因肿瘤类型而异。在此，我们探索了一种在转录水平下调 MET 的替代方法。我们在 MET 近端启动子中鉴定出一个顺式调控元件，该元件形成稳定的平行 G-四链体 (MET-G4)。我们确定了 MET-G4 的高分辨率 NMR 溶液结构，并证明 MET-G4 招募 LRPPRC 来促进 MET 转录，揭示了一种先前未被识别的驱动 MET 过表达的表观遗传机制。我们进一步表征了 LRPPRC 的 G4 结合域及其 MET-G4 识别的结构基础。通过筛选内部天然产物库，我们确定两面针碱 (NIT) 是一种 MET-G4 稳定剂，可充当分子胶，增强 LRPPRC-MET-G4 相互作用并诱导形成稳定的 LRPPRC-NIT-MET-G4 三元复合物。该复合物可能改变 LRPPRC 的结构和功能，从而下调 MET 表达并发挥两面针碱的众所周知的抗癌作用。此外，全面的体外和体内实验表明，两面针碱通过 LRPPRC-MET-G4 依赖性机制显着抑制肿瘤进展。总的来说，我们的研究提出了一种涉及 LRPPRC-MET-G4 介导的 MET 上调的表观遗传调控机制，并使用针对 LRPPRC-MET-G4 界面的分子胶为 MET 驱动的肿瘤提供了一种有前景的治疗策略。",
-      "translationSource": "fbe45411ae7a1031"
     },
     {
       "pmid": "42190653",
