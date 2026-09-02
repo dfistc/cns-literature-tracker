@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:53:50+00:00",
+  "updatedAt": "2026-09-02T01:35:36+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -133,6 +133,75 @@
       "abstractEn": "Engineering synthetic intrinsically disordered proteins (synIDPs) enables regulation of biomolecular condensation and protein solubility. However, limited understanding of how sequence-dependent interaction cooperativity relates to the fitness impacts of synIDPs on endogenous cellular processes constrains our design capability. Here, to circumvent this design challenge, we present a systematic directed evolution method for the evolution of synIDPs capable of mediating diverse phase behaviors in living cells. The selection methods allow us to evolve a toolbox of synIDPs with distinct phase behaviors and thermoresponsive features in living cells, leading to the evolution of synthetic condensates. The reverse-selection method further allows us to select synIDPs as solubility tags. We demonstrate the applications of the evolved synIDPs in protein circuits to (1) regulate intracellular protein activity and (2) reverse antibiotic resistance. Our systematic evolution and selection strategies provide a versatile platform for developing synIDPs for broad applications in synthetic biology and biotechnology.",
       "summaryZh": "工程合成本质无序蛋白质 (synIDP) 能够调节生物分子缩合和蛋白质溶解度。然而，对序列依赖性相互作用协同性与 synIDP 对内源细胞过程的适应性影响如何相关的有限了解限制了我们的设计能力。在这里，为了规避这一设计挑战，我们提出了一种系统定向进化方法，用于能够介导活细胞中不同相行为的 synIDP 的进化。选择方法使我们能够在活细胞中进化出具有不同相行为和热响应特征的 synIDP 工具箱，从而导致合成缩合物的进化。反向选择方法进一步允许我们选择 synIDP 作为溶解度标签。我们展示了进化的 synIDP 在蛋白质电路中的应用，以 (1) 调节细胞内蛋白质活性和 (2) 逆转抗生素耐药性。我们的系统进化和选择策略为开发 synIDP 提供了一个多功能平台，可在合成生物学和生物技术领域广泛应用。",
       "translationSource": "2df1373b2a1d9b92"
+    },
+    {
+      "pmid": "42675210",
+      "title": "A single-amino-acid cleavage controls global mitochondrial complex integrity.",
+      "titleZh": "单个氨基酸的裂解控制着线粒体复合物的完整性。",
+      "journal": "Nature Structural & Molecular Biology",
+      "year": 2026,
+      "published": "2026-08-31",
+      "doi": "10.1038/s41594-026-01876-7",
+      "doiUrl": "https://doi.org/10.1038/s41594-026-01876-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42675210/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Mitochondrial proteostasis depends on precise N-terminal processing of imported precursor proteins. Defects in this maturation step are implicated in disease, yet the functional impact in humans remains unclear. Here we show that the intermediate cleaving peptidase ICP55, which removes a single amino acid, acts as a key stabilizer of multimeric mitochondrial protein complexes. Using proteomics and complexome profiling, we identify over 100 human ICP55 substrates and demonstrate that loss of ICP55 triggers widespread destabilization of protein assemblies, with a global shift toward smaller subcomplexes. Thus, we uncover a conserved, post-translational mechanism that safeguards mitochondrial proteostasis by regulating complex integrity through a single amino-acid cleavage, and we reveal N-terminal proteoform control as an unexpected layer of organellar homeostasis.",
+      "summaryZh": "线粒体蛋白质稳态依赖于输入前体蛋白的精确 N 末端加工。这一成熟步骤的缺陷与疾病有关，但对人类功能的影响仍不清楚。在这里，我们证明中间裂解肽酶 ICP55 可去除单个氨基酸，充当多聚体线粒体蛋白复合物的关键稳定剂。利用蛋白质组学和复合体分析，我们鉴定了 100 多种人类 ICP55 底物，并证明 ICP55 的缺失会引发蛋白质组装体的广泛不稳定，并导致全球向更小的子复合物转变。因此，我们发现了一种保守的翻译后机制，通过单个氨基酸裂解调节复杂的完整性来保护线粒体蛋白质稳态，并且我们揭示了 N 末端蛋白质形式控制作为细胞器稳态的一个意想不到的层。",
+      "translationSource": "3c795da4c2a08918"
+    },
+    {
+      "pmid": "42675166",
+      "title": "Macropinocytosis-mediated recyclable LYTACs (McR-TACs) for receptor-independent protein degradation.",
+      "titleZh": "巨胞饮作用介导的可回收 LYTAC（McR-TAC）用于不依赖于受体的蛋白质降解。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-08-31",
+      "doi": "10.1038/s41587-026-03302-1",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03302-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42675166/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protein degrader",
+        "lytac",
+        "lysosome-targeting chimera",
+        "lysosome",
+        "TACs + degradation/chimera context"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, lytac, lysosome-targeting chimera, lysosome, TACs + degradation/chimera context。",
+      "abstractEn": "The degradation of cell membrane and extracellular proteins with lysosome-targeting chimeras (LYTACs) is limited by nonrecyclable, receptor-dependent mechanisms that shuttle proteins to lysosomes, restricting the broad use of this emerging technology. Here we developed a recyclable chimera composed of a polyzwitterion and protein of interest (POI) ligand for protein degradation. This chimera could interact with the cell membrane to trigger macropinocytosis together with the POI in a receptor-independent manner. Furthermore, it can dissociate from the POI in the acidic endocytic compartments and subsequently be exocytosed through the endoplasmic reticulum-Golgi transcytosis pathway. Ultimately, the exocytotic chimera initiates the next round of targeted protein degradation. These macropinocytosis-mediated recyclable LYTACs (McR-TACs) durably degrade the cell membrane protein (programmed cell death ligand 1) or the extracellular protein (macrophage migration inhibitory factor) in a triple-negative breast cancer mouse model, thereby inhibiting the tumor growth. Collectively, McR-TACs show the potential of leveraging natural transport pathways to create recyclable protein degraders with wide-ranging applications.",
+      "summaryZh": "溶酶体靶向嵌合体（LYTAC）对细胞膜和细胞外蛋白质的降解受到不可回收的受体依赖性机制的限制，这些机制将蛋白质运送到溶酶体，从而限制了这种新兴技术的广泛使用。在这里，我们开发了一种可回收的嵌合体，由多两性离子和目标蛋白（POI）配体组成，用于蛋白质降解。这种嵌合体可以与细胞膜相互作用，以不依赖于受体的方式与 POI 一起触发巨胞饮作用。此外，它可以在酸性内吞区室中与 POI 解离，随后通过内质网-高尔基体转胞吞途径被胞吐。最终，胞吐嵌合体启动下一轮靶向蛋白质降解。这些巨胞饮作用介导的可回收LYTAC (McR-TAC) 在三阴性乳腺癌小鼠模型中持久降解细胞膜蛋白（程序性细胞死亡配体1）或细胞外蛋白（巨噬细胞迁移抑制因子），从而抑制肿瘤生长。总的来说，McR-TAC 显示了利用自然运输途径来创建具有广泛应用的可回收蛋白质降解剂的潜力。",
+      "translationSource": "8f77a2848743248c"
+    },
+    {
+      "pmid": "42668325",
+      "title": "Navigating regulatory fragmentation in the convergence of synthetic biology, artificial intelligence, and automation.",
+      "titleZh": "在合成生物学、人工智能和自动化融合中应对监管碎片化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-29",
+      "doi": "10.1038/s41467-026-77338-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77338-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42668325/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The convergence of synthetic biology, artificial intelligence (AI), and automation (SynBioxAI) creates research activities that simultaneously engage biosecurity, AI governance, export control, and data sovereignty frameworks - none of which are designed for convergent science. We conduct a comprehensive cross-jurisdictional analysis of this regulatory landscape across sixteen nations, identifying critical ambiguities where novel SynBioxAI objects fall between established regulatory categories. Through seven realistic collaboration scenarios, we demonstrate that regulatory friction is multiplicative rather than additive. We propose the SynBioxAI Regulatory Interoperability Toolkit (RIOT): a practical, seven-lens institutional framework that gives research institutions the capacity to navigate regulatory divergence efficiently and transparently.",
+      "summaryZh": "合成生物学、人工智能 (AI) 和自动化 (SynBioxAI) 的融合创造了同时涉及生物安全、人工智能治理、出口管制和数据主权框架的研究活动，而这些框架都不是为融合科学而设计的。我们对 16 个国家的监管环境进行了全面的跨司法管辖区分析，确定了新型 SynBioxAI 对象属于既定监管类别的关键模糊之处。通过七个现实的合作场景，我们证明监管摩擦是乘性的而不是加性的。我们提出了 SynBioxAI 监管互操作性工具包 (RIOT)：一个实用的、七个镜头的制度框架，使研究机构能够有效、透明地应对监管分歧。",
+      "translationSource": "a470727fdee54b68"
     },
     {
       "pmid": "42664358",
@@ -1646,6 +1715,30 @@
       "abstractEn": "Lysosomal dysfunction is a well-recognized feature of aging. Here, we used a suite of tools for rapid lysosomal isolation to construct a multitissue atlas of the metabolite changes lysosomes undergo during aging. Aged lysosomes in brain, heart, muscle, and white adipose tissue accumulated glycerophosphodiesters and cystine, metabolites that are causally linked to juvenile lysosomal storage disorders, Batten disease, and cystinosis. Levels of these metabolites increased linearly with age, preceding organismal decline. Caloric restriction, a lifespan-extending intervention, mitigated these changes in the heart and muscle but not the brain. Our findings link lysosomal storage disorders to aging-related dysfunction and open avenues for the mechanistic investigation of how lysosomal functions deteriorate during aging and in age-associated diseases.",
       "summaryZh": "溶酶体功能障碍是公认的衰老特征。在这里，我们使用一套快速溶酶体分离的工具来构建溶酶体在衰老过程中经历的代谢物变化的多组织图谱。大脑、心脏、肌肉和白色脂肪组织中的老化溶酶体积累了甘油磷酸二酯和胱氨酸，这些代谢物与幼年溶酶体贮积症、巴顿病和胱氨酸病有因果关系。这些代谢物的水平随着年龄的增长而线性增加，随后出现机体衰退。热量限制是一种延长寿命的干预措施，可以减轻心脏和肌肉的这些变化，但不能减轻大脑的变化。我们的研究结果将溶酶体贮积症与衰老相关功能障碍联系起来，并为溶酶体功能在衰老过程中和与年龄相关的疾病中如何恶化的机制研究开辟了途径。",
       "translationSource": "7293d90d7f15c494"
+    },
+    {
+      "pmid": "42669721",
+      "title": "ERAD-level gene switches for on-demand protein secretion and rapidly controlled gene therapies.",
+      "titleZh": "ERAD 水平基因开关用于按需蛋白质分泌和快速控制基因治疗。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-30",
+      "doi": "10.1038/s41467-026-76203-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76203-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42669721/",
+      "categories": [
+        "合成生物学",
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "synthetic biology",
+        "gene circuit",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, gene circuit, degron。",
+      "abstractEn": "On-demand regulation of therapeutic activities is critical to broaden the clinical utility of gene therapies. Here, we employ an Endoplasmic Reticulum-Associated Degradation (ERAD)-centered strategy to develop trigger-inducible gene switches tailor-designed for rapid protein secretion. By temporarily attaching conditional degron motifs to various therapeutic proteins of interest (POIs), inducible, tunable and reversible control of native POI secretion into the bloodstream was achieved through oral administration of specific clinically licensed small-molecule drugs. This simple and generalizable design principle is highly compatible with adeno-associated virus (AAV)-mediated gene delivery, enabling long-term and remote-controlled transgene expression in male mice in vivo. To showcase potential therapeutic benefits of ERAD-level gene switches, we describe gene therapy approaches for cardiovascular diseases and chronic pain - two classes of disease treatments that may most urgently require on-demand drug actions. This study achieves dose- and time-dependent control of transgene activities without requiring the design of overly complex gene circuits, and may form important basis to move synthetic biology-based regulation systems towards therapeutic usage.",
+      "summaryZh": "治疗活动的按需调节对于扩大基因疗法的临床应用至关重要。在这里，我们采用以内质网相关降解（ERAD）为中心的策略来开发专为快速蛋白质分泌而设计的触发诱导基因开关。通过将条件降解决定子基序暂时附加到各种治疗性目的蛋白 (POI) 上，通过口服特定的临床许可的小分子药物，实现了对天然 POI 分泌到血流中的可诱导、可调节和可逆的控制。这种简单且可推广的设计原理与腺相关病毒（AAV）介导的基因传递高度兼容，能够在雄性小鼠体内进行长期、远程控制的转基因表达。为了展示 ERAD 水平基因开关的潜在治疗益处，我们描述了心血管疾病和慢性疼痛的基因治疗方法——这两类疾病治疗可能最迫切需要按需药物作用。这项研究实现了转基因活性的剂量和时间依赖性控制，而不需要设计过于复杂的基因电路，并且可能为将基于合成生物学的调节系统转向治疗用途奠定重要基础。",
+      "translationSource": "eaafdcec23564e8f"
     },
     {
       "pmid": "42533153",
