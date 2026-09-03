@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T01:35:36+00:00",
+  "updatedAt": "2026-09-03T01:38:59+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -133,6 +133,51 @@
       "abstractEn": "Engineering synthetic intrinsically disordered proteins (synIDPs) enables regulation of biomolecular condensation and protein solubility. However, limited understanding of how sequence-dependent interaction cooperativity relates to the fitness impacts of synIDPs on endogenous cellular processes constrains our design capability. Here, to circumvent this design challenge, we present a systematic directed evolution method for the evolution of synIDPs capable of mediating diverse phase behaviors in living cells. The selection methods allow us to evolve a toolbox of synIDPs with distinct phase behaviors and thermoresponsive features in living cells, leading to the evolution of synthetic condensates. The reverse-selection method further allows us to select synIDPs as solubility tags. We demonstrate the applications of the evolved synIDPs in protein circuits to (1) regulate intracellular protein activity and (2) reverse antibiotic resistance. Our systematic evolution and selection strategies provide a versatile platform for developing synIDPs for broad applications in synthetic biology and biotechnology.",
       "summaryZh": "工程合成本质无序蛋白质 (synIDP) 能够调节生物分子缩合和蛋白质溶解度。然而，对序列依赖性相互作用协同性与 synIDP 对内源细胞过程的适应性影响如何相关的有限了解限制了我们的设计能力。在这里，为了规避这一设计挑战，我们提出了一种系统定向进化方法，用于能够介导活细胞中不同相行为的 synIDP 的进化。选择方法使我们能够在活细胞中进化出具有不同相行为和热响应特征的 synIDP 工具箱，从而导致合成缩合物的进化。反向选择方法进一步允许我们选择 synIDP 作为溶解度标签。我们展示了进化的 synIDP 在蛋白质电路中的应用，以 (1) 调节细胞内蛋白质活性和 (2) 逆转抗生素耐药性。我们的系统进化和选择策略为开发 synIDP 提供了一个多功能平台，可在合成生物学和生物技术领域广泛应用。",
       "translationSource": "2df1373b2a1d9b92"
+    },
+    {
+      "pmid": "42679813",
+      "title": "Oncogene activation mechanism determines the limits of targeted protein degradation.",
+      "titleZh": "癌基因激活机制决定了靶向蛋白质降解的限度。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1016/j.chembiol.2026.08.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679813/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protein degrader",
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, protac。",
+      "abstractEn": "Protein degrader drugs such as PROTACs are being advanced as therapeutics targeted against oncogenic proteins. During tumorigenesis, oncogenic proteins can become constitutively activated via mechanisms including gene amplification, which increases protein production, and point mutations, which can extend protein half-life. Few experimental studies have addressed how disease-associated changes in target protein homeostasis influence PROTAC activity. We developed orthogonal methods to increase production or enhance stability of β-catenin, an important oncoprotein and target for degrader therapeutics, and used the dTAG system to evaluate the consequences for PROTAC activity. Stabilizing oncogenic missense mutations increase protein expression up to 5-fold but do not alter the PROTAC-imposed minimal steady-state level. In contrast, transcriptional upregulation increases both pre- and post-treatment target levels, revealing a synthesis-dependent ceiling on achievable depletion. Our results highlight distinct constraints on PROTAC activity arising from different mechanisms of oncogene activation, with potential implications for preclinical modeling, drug resistance and personalized medicine.",
+      "summaryZh": "PROTAC 等蛋白质降解药物正在被开发为针对致癌蛋白质的治疗方法。在肿瘤发生过程中，致癌蛋白可以通过基因扩增（增加蛋白质产量）和点突变（延长蛋白质半衰期）等机制而被组成型激活。很少有实验研究涉及疾病相关的靶蛋白稳态变化如何影响 PROTAC 活性。我们开发了正交方法来增加 β-连环蛋白的产量或增强其稳定性，β-连环蛋白是一种重要的癌蛋白和降解剂治疗的靶标，并使用 dTAG 系统来评估 PROTAC 活性的后果。稳定致癌错义突变可将蛋白质表达增加高达 5 倍，但不会改变 PROTAC 规定的最低稳态水平。相反，转录上调会增加治疗前和治疗后的目标水平，揭示可实现的消耗的合成依赖性上限。我们的结果强调了不同癌基因激活机制对 PROTAC 活性的明显限制，对临床前建模、耐药性和个性化医疗具有潜在影响。",
+      "translationSource": "21794c3082f7d512"
+    },
+    {
+      "pmid": "42679820",
+      "title": "Ratiometric transcriptional activation by protein degradation.",
+      "titleZh": "通过蛋白质降解进行比例转录激活。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1016/j.cell.2026.08.009",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.009",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679820/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "Cells can respond to alterations in the abundances of specific proteins through transcriptional outputs. Synthetic approaches inspired by native post-transcriptional circuits that convert protein abundance changes into programmable gene expression would be transformative. Here, we discover and describe design principles that effectively convert protein degradation into transcriptional outputs in live cells. We define ratiometric transcriptional activation, where control over the ratio between a transcription factor and a protein of interest fused to its inhibitor enables detection of abundance changes with high sensitivity at scale. We show that ratiometric transcriptional activation can be implemented in single cells using triply orthogonal circuits or in multicellular pools, operating independently of the mechanism of protein downregulation and enabling simultaneous detection of multiple protein downregulation events through outputs such as cell survival, fluorescent protein expression, or barcode sequencing. These circuits can be applied to oncogenic targets and enable discovery of new molecular glue degraders.",
+      "summaryZh": "细胞可以通过转录输出对特定蛋白质丰度的变化做出反应。受天然转录后电路启发的合成方法将蛋白质丰度变化转化为可编程基因表达，这将是变革性的。在这里，我们发现并描述了有效地将蛋白质降解转化为活细胞转录输出的设计原理。我们定义了比率转录激活，其中控制转录因子和与其抑制剂融合的感兴趣蛋白质之间的比率能够以高灵敏度大规模检测丰度变化。我们表明，比率转录激活可以使用三重正交电路或多细胞池在单细胞中实现，独立于蛋白质下调机制运行，并能够通过细胞存活、荧光蛋白表达或条形码测序等输出同时检测多个蛋白质下调事件。这些电路可应用于致癌靶标，并能够发现新的分子胶降解剂。",
+      "translationSource": "eb2f23a905cb61aa"
     },
     {
       "pmid": "42675210",
@@ -463,6 +508,27 @@
       "abstractEn": "The pathological hallmarks of neurodegeneration are the aberrant post-translational modification and aggregation of proteins. Genetic factors, like APOE4, increase the prevalence and severity of tau, amyloid, and α-synuclein pathologies. However, the human brain is largely inaccessible during this process, limiting mechanistic understanding. Here, we developed an iPSC-based 3D model that integrates neurons, glia, myelin, and cerebrovascular cells into a human brain-like tissue (\"miBrain\"). Single-nucleus RNA sequencing of miBrains confirmed the presence of diverse cell populations and revealed transcriptional responses to α-synuclein pathology. Like the human brain, pathogenic α-synuclein is increased in APOE4/4 miBrains. Combinatorial experiments revealed that endolysosomal dysfunction caused by cholesterol accumulation in APOE4/4 astrocytes impairs the degradation of soluble α-synuclein leading to a pathogenic transformation that seeds α-synuclein inclusions in neurons. Collectively, this study establishes a robust model for investigating protein inclusions in human iPSC-derived brain tissue and highlights the role of astrocytes and cholesterol in APOE4-mediated pathologies.",
       "summaryZh": "神经退行性变的病理特征是蛋白质的异常翻译后修饰和聚集。 APOE4 等遗传因素会增加 tau、淀粉样蛋白和 α-突触核蛋白病理的患病率和严重程度。然而，在此过程中，人脑基本上无法进入，限制了机械理解。在这里，我们开发了一种基于 iPSC 的 3D 模型，该模型将神经元、胶质细胞、髓磷脂和脑血管细胞整合到人脑样组织（“miBrain”）中。 miBrains 的单核 RNA 测序证实了不同细胞群的存在，并揭示了对 α-突触核蛋白病理学的转录反应。与人脑一样，APOE4/4 miBrains 中致病性 α-突触核蛋白也会增加。组合实验表明，APOE4/4 星形胶质细胞中胆固醇积累引起的内溶酶体功能障碍会损害可溶性 α-突触核蛋白的降解，导致致病性转化，在神经元中播种 α-突触核蛋白包涵体。总的来说，这项研究建立了一个强大的模型来研究人类 iPSC 衍生脑组织中的蛋白质内含物，并强调星形胶质细胞和胆固醇在 APOE4 介导的病理中的作用。",
       "translationSource": "4e3d3383103c175f"
+    },
+    {
+      "pmid": "42680774",
+      "title": "YTHDC1 functions as a molecular chaperone to suppress ALS-linked hnRNPA1 mutants from aggregation.",
+      "titleZh": "YTHDC1 作为分子伴侣抑制 ALS 连接的 hnRNPA1 突变体聚集。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-21",
+      "doi": "10.1038/s41467-026-77016-y",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77016-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42680774/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Proteostasis failure drives multiple neurodegenerative disorders (NDs), and ATP-independent chaperone pathways that support neuronal proteostasis remain poorly defined. Here, we identify the N6-methyladenosine (m 6 A)-binding protein YTHDC1 as an ATP-independent molecular chaperone, whose activity is mediated by a highly acidic polyaspartate/glutamate (polyD/E) segment. YTHDC1 prevents protein misfolding and aggregation, unfolds kinetically trapped substrates, and resolubilizes pre-formed aggregates. Deletion of the polyD/E segment abolishes these activities, whereas aromatic-cage mutants retain chaperone activity, demonstrating independence from m 6 A recognition. We identify the amyotrophic lateral sclerosis (ALS)-associated RNA-binding protein hnRNPA1 as a YTHDC1 client. YTHDC1 maintains liquid-like hnRNPA1 condensates, delays fibrillization of disease-associated mutants, and limits stress-granule sequestration, while mitigating mutant hnRNPA1-induced neurite growth defects in primary neurons. These findings define a proteostatic function of YTHDC1 and highlight its chaperone activity as a potential target for mitigating protein aggregation in ALS-related NDs.",
+      "summaryZh": "蛋白质稳态失败会导致多种神经退行性疾病 (ND)，而支持神经元蛋白质稳态的不依赖于 ATP 的伴侣通路仍不清楚。在这里，我们将 N6-甲基腺苷 (m 6 A) 结合蛋白 YTHDC1 鉴定为不依赖于 ATP 的分子伴侣，其活性由高酸性聚天冬氨酸/谷氨酸 (polyD/E) 片段介导。 YTHDC1 防止蛋白质错误折叠和聚集，展开动力学捕获的底物，并重新溶解预先形成的聚集体。 PolyD/E 片段的删除消除了这些活性，而芳香笼突变体保留了分子伴侣活性，证明了与 m 6 A 识别的独立性。我们将肌萎缩侧索硬化症 (ALS) 相关 RNA 结合蛋白 hnRNPA1 确定为 YTHDC1 客户端。 YTHDC1 维持液体状 hnRNPA1 凝聚物，延迟疾病相关突变体的原纤维化，并限制应激颗粒隔离，同时减轻突变体 hnRNPA1 诱导的原代神经元神经突生长缺陷。这些发现定义了 YTHDC1 的蛋白抑制功能，并强调其伴侣活性是减轻 ALS 相关 ND 中蛋白质聚集的潜在靶标。",
+      "translationSource": "f17a1269930aaa1f"
     },
     {
       "pmid": "42628524",
