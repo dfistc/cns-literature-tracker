@@ -1,8 +1,243 @@
 {
-  "updatedAt": "2026-09-03T01:38:59+00:00",
+  "updatedAt": "2026-09-05T01:34:15+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42696591",
+      "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae .",
+      "titleZh": "酿酒酵母中功能性叶绿素和类胡萝卜素蛋白复合物的从头共组装。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-04",
+      "doi": "10.1126/sciadv.aeg6969",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg6969",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42696591/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Chlorophylls are essential for photosynthesis, yet their heterologous production is a major challenge in synthetic biology due to pathway complexity and the diversion of resources away from essential cofactor biosynthesis. Here, we reconstruct the complete chlorophyll biosynthetic pathway in Saccharomyces cerevisiae . By integrating 13 heterologous genes and deleting 3 endogenous genes, we engineered a yeast chassis capable of producing chlorophyll a at titers of 26 micrograms per gram of dry cell weight. This platform was further expanded with a ketocarotenoid biosynthetic module to produce echinenone and canthaxanthin, enabling the in vivo coassembly of two distinct pigment-protein complexes: the plant-derived water-soluble chlorophyll protein and the cyanobacterial orange carotenoid protein (Syn_OCP). Spectroscopic and biochemical analyses confirm that these yeast-assembled complexes retain native spectral and functional signatures, including Syn_OCP photoactivity, demonstrating high-fidelity pigment binding. Our work establishes a versatile eukaryotic platform for producing photosynthetic complexes, which could help open avenues for studying their assembly outside plants and for engineering light-driven metabolism in nonphotosynthetic eukaryotes.",
+      "summaryZh": "叶绿素对于光合作用至关重要，但由于途径的复杂性和必需辅因子生物合成的资源转移，叶绿素的异源生产是合成生物学中的一个主要挑战。在这里，我们重建了酿酒酵母中完整的叶绿素生物合成途径。通过整合 13 个异源基因并删除 3 个内源基因，我们设计了一种酵母底盘，能够以每克干细胞重量 26 微克的滴度产生叶绿素 a。该平台通过酮类胡萝卜素生物合成模块进一步扩展，可生产海胆酮和角黄素，从而能够在体内共组装两种不同的色素-蛋白质复合物：植物来源的水溶性叶绿素蛋白和蓝藻橙色类胡萝卜素蛋白（Syn_OCP）。光谱和生化分析证实，这些酵母组装的复合物保留了天然光谱和功能特征，包括 Syn_OCP 光活性，证明了高保真色素结合。我们的工作建立了一个用于产生光合复合物的多功能真核平台，这有助于为研究它们在植物外的组装以及在非光合真核生物中工程光驱动代谢开辟途径。",
+      "translationSource": "3ecb92b9416b696b"
+    },
+    {
+      "pmid": "42696573",
+      "title": "Reconstitution of multistep recruitment of ULK1 to membranes in autophagy.",
+      "titleZh": "自噬过程中 ULK1 向膜多步募集的重建。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-04",
+      "doi": "10.1126/sciadv.aeg3201",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg3201",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42696573/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "The human Unc51-like kinase 1 (ULK1) autophagy-initiating complex consists of ULK1, FIP200, and the Hop/Rev7/Mad2 (HORMA) domain heterodimer ATG13:ATG101. Phosphatidylinositol 3-phosphate (PI3P) is essential to recruit ULK1 complex (ULK1C) to membranes for ULK1, but ULK1C subunits do not contain PI3P-binding domains. Here, we show that the ATG13:ATG101 dimer forms a complex with the PI3P-binding protein WD40 interacting with phosphoinositide protein 3 (WIPI3), as well as WIPI2. Bound to WIPI2 and WIPI3, ATG13:ATG101 inserts its Trp-Phe (WF) finger into the membrane. Molecular dynamics simulations show that WIPIs and the WF finger cooperatively stabilize the complex on membranes. Biochemical reconstitution and cell-based assays show that WIPI3:ATG13 engagement promotes ATG16L1 phosphorylation, autophagy, and mitophagy. A kinase domain (KD)-proximal Pro-Val-Pro (PVP) motif in the ULK1 intrinsically disordered region docks onto the ATG13:ATG101 HORMA dimer brings the ULK1 KD close to the membrane. The PVP motif is essential for in vitro ULK1 phosphorylation of ATG16L1 and important for autophagy and mitophagy. These data establish a stepwise pathway for recruitment of the ULK1 KD to the vicinity of the membrane surface.",
+      "summaryZh": "人 Unc51 样激酶 1 (ULK1) 自噬启动复合物由 ULK1、FIP200 和 Hop/Rev7/Mad2 (HORMA) 结构域异二聚体 ATG13:ATG101 组成。磷脂酰肌醇 3-磷酸 (PI3P) 对于将 ULK1 复合物 (ULK1C) 募集至 ULK1 膜至关重要，但 ULK1C 亚基不包含 PI3P 结合域。在这里，我们发现 ATG13:ATG101 二聚体与 PI3P 结合蛋白 WD40 形成复合物，与磷酸肌醇蛋白 3 (WIPI3) 以及 WIPI2 相互作用。 ATG13:ATG101 与 WIPI2 和 WIPI3 结合，将其 Trp-Phe (WF) 手指插入膜中。分子动力学模拟表明，WIPI 和 WF 指协同稳定膜上的复合物。生化重建和基于细胞的检测表明 WIPI3:ATG13 结合可促进 ATG16L1 磷酸化、自噬和线粒体自噬。 ULK1 本质无序区域中的激酶结构域 (KD)-近端 Pro-Val-Pro (PVP) 基序对接至 ATG13:ATG101 HORMA 二聚体，使 ULK1 KD 靠近膜。 PVP 基序对于 ATG16L1 的体外 ULK1 磷酸化至关重要，并且对于自噬和线粒体自噬也很重要。这些数据建立了将 ULK1 KD 招募到膜表面附近的逐步途径。",
+      "translationSource": "54d34ce8945d751a"
+    },
+    {
+      "pmid": "42685219",
+      "title": "Functional mapping and engineering of the Sec translocon unlocked by a cell-free system.",
+      "titleZh": "无细胞系统解锁的 Sec 易位子的功能图谱和工程。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-04",
+      "doi": "10.1126/sciadv.aej0987",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aej0987",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42685219/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology",
+        "cell-free system"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, cell-free system。",
+      "abstractEn": "Almost all membrane proteins are inserted or translocated across membranes by the universally conserved Sec translocon. Despite its central role, experimental access to Sec function has remained limited. Here, we present ProSecCO (Protein Secretion in Cell-free via synthetic Operons), which is a cell-free protein synthesis platform that inserts SecYEG into synthetic vesicles, enabling direct testing of Sec in real-time and high-throughput, circumventing longstanding viability constraints. Screening 300 Sec variants in a single experiment, we consolidate three decades of Sec research, while vastly expanding mutant diversity for structure-function insights. Mapping over 30 functionally critical regions that modulate Sec activity across three orders of magnitude, we uncover dozens of super-active translocation variants and one variant of improved insertion activity. We further leverage ProSecCO to increase membrane protein quality and nanobody export, highlighting the potential of our system for advancing applications in synthetic biology and biotechnology.",
+      "summaryZh": "几乎所有的膜蛋白都是通过普遍保守的 Sec 易位子插入或跨膜易位的。尽管发挥着核心作用，但对 Sec 功能的实验性访问仍然有限。在这里，我们推出了 ProSecCO（通过合成操纵子进行无细胞蛋白质分泌），这是一个无细胞蛋白质合成平台，可将 SecYEG 插入合成囊泡中，从而能够实时、高通量地直接测试 Sec，从而规避了长期存在的可行性限制。我们在一次实验中筛选了 300 个 Sec 变体，巩固了三十年的 Sec 研究，同时极大地扩展了突变体多样性以获取结构功能见解。通过绘制 30 多个调节 Sec 活性三个数量级的功能关键区域，我们发现了数十种超活跃易位变体和一种改进插入活性的变体。我们进一步利用 ProSecCO 来提高膜蛋白质量和纳米抗体输出，突显我们的系统在推进合成生物学和生物技术应用方面的潜力。",
+      "translationSource": "8fb2ae7e0ae0a6b6"
+    },
+    {
+      "pmid": "42607684",
+      "title": "ER-liquid condensate contacts sequester FAM134B/C and RhoA to govern cell morphology.",
+      "titleZh": "ER-液体冷凝物接触隔离 FAM134B/C 和 RhoA 以控制细胞形态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.molcel.2026.07.027",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.07.027",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607684/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Endoplasmic reticulum (ER)-phagy receptors have elusive physiological functions beyond ER remodeling. To gain insight into these, we screen for cytoplasmic interactors of well-known receptors in mouse pancreatic ductal adenocarcinoma cells. Our data subsequently reveal a non-canonical action of PRKAR1A, a subunit of protein kinase A (PKA), in binding and activating FAM134B/C. At a molecular level, an amphipathic helix in the otherwise-disordered C terminus of FAM134B directly binds PRKAR1A dimers. Multimodal imaging reveals that this interaction occurs at interorganellar contact sites between the ER and liquid-like condensates of PRKAR1A. Mechanistically, ER-condensate contacts promote clustering of FAM134B/C with LC3B and recruit lysosomes, forming degradation hubs. Unexpectedly, these structures are found to control cytoplasmic signaling through FAM134B/C-mediated lysosomal sequestration of RhoA. Underscoring the physiologic relevance of this, these cytoplasmic-facing actions of FAM134B/C result in RhoA-dependent cell morphologic and migratory control in response to cyclic AMP (cAMP) stimuli. Thus, interorganellar contacts expand the roles of FAM134B/C ER-phagy receptors beyond ER degradation.",
+      "summaryZh": "内质网 (ER) 吞噬受体除了 ER 重塑之外还具有难以捉摸的生理功能。为了深入了解这些，我们筛选了小鼠胰腺导管腺癌细胞中众所周知的受体的细胞质相互作用物。我们的数据随后揭示了 PRKAR1A（蛋白激酶 A (PKA) 的一个亚基）在结合和激活 FAM134B/C 方面的非典型作用。在分子水平上，FAM134B C 末端无序的两亲螺旋直接结合 PRKAR1A 二聚体。多模态成像揭示这种相互作用发生在 ER 和 PRKAR1A 液体状凝聚物之间的细胞间接触位点。从机制上讲，内质网冷凝物接触促进 FAM134B/C 与 LC3B 聚集并招募溶酶体，形成降解中心。出乎意料的是，这些结构被发现通过 FAM134B/C 介导的 RhoA 溶酶体隔离来控制细胞质信号传导。 FAM134B/C 的这些面向细胞质的作用导致响应环 AMP (cAMP) 刺激的 RhoA 依赖性细胞形态和迁移控制，强调了这一点的生理相关性。因此，细胞器间接触将 FAM134B/C ER 吞噬受体的作用扩展到 ER 降解之外。",
+      "translationSource": "4595aa7c14e516ba"
+    },
+    {
+      "pmid": "42692000",
+      "title": "APOE4 astrocytes call the shots on neuronal α-synuclein pathology.",
+      "titleZh": "APOE4 星形胶质细胞对神经元 α-突触核蛋白病理学起决定作用。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.stem.2026.08.007",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.08.007",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42692000/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "In this issue of Cell Stem Cell, Mesentier-Louro et al. use a multi-cellular integrated brain (miBrain) system to uncover mechanisms underlying the accumulation of neuronal α-synuclein (α-Syn) inclusions in APOE4 carriers. 1 Their results suggest that APOE4 increases cholesterol levels and impairs lysosomal function in astrocytes, which release pathogenic α-Syn.",
+      "summaryZh": "在本期《细胞干细胞》中，Mesentier-Louro 等人。使用多细胞集成大脑 (miBrain) 系统来揭示 APOE4 携带者中神经元 α-突触核蛋白 (α-Syn) 内含物积累的机制。 1 他们的结果表明，APOE4 会增加胆固醇水平并损害星形胶质细胞中的溶酶体功能，从而释放致病性 α-Syn。",
+      "translationSource": "53998eb9852735a1"
+    },
+    {
+      "pmid": "42636814",
+      "title": "Cholesterol dysregulation in APOE4 astrocytes promotes α-synuclein pathology in miBrains.",
+      "titleZh": "APOE4 星形胶质细胞中的胆固醇失调会促进 miBrains 中的 α-突触核蛋白病理。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.stem.2026.08.001",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.08.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636814/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "The pathological hallmarks of neurodegeneration are the aberrant post-translational modification and aggregation of proteins. Genetic factors, like APOE4, increase the prevalence and severity of tau, amyloid, and α-synuclein pathologies. However, the human brain is largely inaccessible during this process, limiting mechanistic understanding. Here, we developed an iPSC-based 3D model that integrates neurons, glia, myelin, and cerebrovascular cells into a human brain-like tissue (\"miBrain\"). Single-nucleus RNA sequencing of miBrains confirmed the presence of diverse cell populations and revealed transcriptional responses to α-synuclein pathology. Like the human brain, pathogenic α-synuclein is increased in APOE4/4 miBrains. Combinatorial experiments revealed that endolysosomal dysfunction caused by cholesterol accumulation in APOE4/4 astrocytes impairs the degradation of soluble α-synuclein leading to a pathogenic transformation that seeds α-synuclein inclusions in neurons. Collectively, this study establishes a robust model for investigating protein inclusions in human iPSC-derived brain tissue and highlights the role of astrocytes and cholesterol in APOE4-mediated pathologies.",
+      "summaryZh": "神经退行性变的病理特征是蛋白质的异常翻译后修饰和聚集。 APOE4 等遗传因素会增加 tau、淀粉样蛋白和 α-突触核蛋白病理的患病率和严重程度。然而，在此过程中，人脑基本上无法进入，限制了机械理解。在这里，我们开发了一种基于 iPSC 的 3D 模型，该模型将神经元、胶质细胞、髓磷脂和脑血管细胞整合到人脑样组织（“miBrain”）中。 miBrains 的单核 RNA 测序证实了不同细胞群的存在，并揭示了对 α-突触核蛋白病理学的转录反应。与人脑一样，APOE4/4 miBrains 中致病性 α-突触核蛋白也会增加。组合实验表明，APOE4/4 星形胶质细胞中胆固醇积累引起的内溶酶体功能障碍会损害可溶性 α-突触核蛋白的降解，导致致病性转化，在神经元中播种 α-突触核蛋白包涵体。总的来说，这项研究建立了一个强大的模型来研究人类 iPSC 衍生脑组织中的蛋白质内含物，并强调星形胶质细胞和胆固醇在 APOE4 介导的病理中的作用。",
+      "translationSource": "4e3d3383103c175f"
+    },
+    {
+      "pmid": "42607669",
+      "title": "Ovarian aging and systemic health: Mechanisms and emerging intervention strategies.",
+      "titleZh": "卵巢衰老和全身健康：机制和新兴干预策略。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.stem.2026.07.013",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.07.013",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607669/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Ovarian aging may contribute to systemic aging via the ovarian-systemic axis. This review outlines intrinsic ovarian cellular defects such as genomic instability, epigenetic shifts, and mitochondrial and proteostasis damage, which may trigger senescence-associated secretory phenotype (SASP)-related inflammaging, fibrosis, and distal pro-aging signals. Ovarian-derived endocrine disruption, especially estrogen decline, broadly affects bodily physiology. We summarize emerging multimodal interventions, including senolytics, metabolic reprogramming, regenerative medicine, and systemic approaches, and we discuss their dual potential to preserve fertility and intercept ovarian contributions to systemic aging. Ovarian aging is possibly associated with female age-related multimorbidity. Ovary-targeted prevention may extend healthspan, as assessed by combined reproductive and systemic clinical evaluations.",
+      "summaryZh": "卵巢衰老可能通过卵巢-系统轴导致全身衰老。这篇综述概述了内在的卵巢细胞缺陷，例如基因组不稳定性、表观遗传转变以及线粒体和蛋白质稳态损伤，这些缺陷可能引发衰老相关分泌表型（SASP）相关的炎症、纤维化和远端促衰老信号。卵巢源性内分泌紊乱，尤其是雌激素下降，广泛影响身体生理机能。我们总结了新兴的多模式干预措施，包括衰老药物、代谢重编程、再生医学和系统方法，并讨论了它们在保护生育力和阻止卵巢对系统衰老的影响方面的双重潜力。卵巢衰老可能与女性年龄相关的多发病有关。根据生殖和系统临床综合评估的评估，以卵巢为目标的预防可以延长健康寿命。",
+      "translationSource": "123752477cf0d914"
+    },
+    {
+      "pmid": "42476129",
+      "title": "A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death.",
+      "titleZh": "将赖氨酸乙酰转移酶与癌基因诱导的细胞死亡连接起来的二价分子胶。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.cell.2026.06.037",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.06.037",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476129/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Developing cancer therapies that induce specific death of malignant cells is critical for preventing relapse. Highly effective strategies, such as immunotherapy, exemplify this principle. Here, we provide the mechanistic basis for a small-molecule approach that leverages chemically induced proximity (CIP) to kill diffuse large B cell lymphoma, the most common non-Hodgkin lymphoma. We developed lysine acetyltransferase (KAT)-based TCIPs (transcriptional/epigenetic chemical inducers of proximity), or KAT-TCIPs, which redirect p300/CREB-binding protein (CBP) to activate cell-death networks repressed by the oncogenic driver BCL6. Our lead KAT-TCIP reprograms the epigenome to initiate apoptosis. The crystal structure of the chemically induced p300-BCL6 complex reveals how chance protein-protein interactions may be exploited to confer the potency and selectivity of KAT-TCIPs. Thus, oncogenic drivers can be co-opted to activate robust cell death. Consistent with their gain-of-function mechanism, TCIPs recruiting different transcriptional activators-p300, BRD4, or CDK9-produce distinct genomic responses, suggesting specialized therapeutic uses.",
+      "summaryZh": "开发诱导恶性细胞特异性死亡的癌症疗法对于预防复发至关重要。免疫疗法等高效策略就是这一原则的例证。在这里，我们为小分子方法提供了机制基础，该方法利用化学诱导邻近（CIP）来杀死弥漫性大 B 细胞淋巴瘤（最常见的非霍奇金淋巴瘤）。我们开发了基于赖氨酸乙酰转移酶 (KAT) 的 TCIP（转录/表观遗传邻近化学诱导剂）或 KAT-TCIP，它可以重定向 p300/CREB ​​结合蛋白 (CBP)，以激活被致癌驱动程序 BCL6 抑制的细胞死亡网络。我们的主要 KAT-TCIP 重新编程表观基因组以启动细胞凋亡。化学诱导的 p300-BCL6 复合物的晶体结构揭示了如何利用蛋白质-蛋白质相互作用的机会来赋予 KAT-TCIP 的效力和选择性。因此，可以选择致癌驱动因素来激活强有力的细胞死亡。与其功能获得机制一致，TCIP 招募不同的转录激活因子（p300、BRD4 或 CDK9）产生不同的基因组反应，表明其具有专门的治疗用途。",
+      "translationSource": "d7a1fb9ddc75c08f"
+    },
+    {
+      "pmid": "42385704",
+      "title": "Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.",
+      "titleZh": "溶酶体机制的共同选择塑造了支持珊瑚礁的细胞内光共生的进化。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1016/j.cell.2026.06.015",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.06.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42385704/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Endosymbiosis has spurred the evolution of new organelles across life. Corals and other cnidarians have repeatedly evolved an organelle, called the symbiosome, which houses intracellular algal symbionts. However, the molecular mechanisms enabling this repeated evolution remain unclear. Using the sea anemone Aiptasia, we generated a high-quality proteome of the symbiosome, revealing protein trafficking mechanisms and the types of biomolecules exchanged during symbiosis. Symbiosomal enrichment of lysosomal proteins, visualization of lysosomal fusion, and reduced symbiosis following knockdown of lysosomal genes indicate that the symbiosome functions through extensive co-option of lysosomal proteins. We identified a symbiosomal bicarbonate/sulfate transporter, SLC26A11, and showed through CRISPR/Cas9 mutagenesis that this lysosomal transporter is required for symbiosis in Aiptasia and a reef-building coral. Together, these findings reveal that corals and anemones have repeatedly co-opted lysosomal proteins to concentrate carbon and shuttle metabolites to support photosymbiosis, providing a relatively simple path for the repeated evolution of new photosymbioses.",
+      "summaryZh": "内共生刺激了生命中新细胞器的进化。珊瑚和其他刺胞动物不断进化出一种称为共生体的细胞器，其中含有细胞内藻类共生体。然而，实现这种重复进化的分子机制仍不清楚。利用海葵 Aiptasia，我们生成了高质量的共生体蛋白质组，揭示了蛋白质运输机制和共生过程中交换的生物分子类型。溶酶体蛋白的共生体富集、溶酶体融合的可视化以及溶酶体基因敲低后共生的减少表明，共生体通过溶酶体蛋白的广泛共同选择而发挥作用。我们鉴定了一种共生体碳酸氢盐/硫酸盐转运蛋白 SLC26A11，并通过 CRISPR/Cas9 诱变表明，这种溶酶体转运蛋白是 Aiptasia 和造礁珊瑚共生所必需的。总之，这些发现表明，珊瑚和海葵反复选择溶酶体蛋白来浓缩碳和穿梭代谢物以支持光共生，为新光共生的重复进化提供了相对简单的途径。",
+      "translationSource": "30d8d2e625181149"
+    },
+    {
+      "pmid": "42684890",
+      "title": "TBK1 phosphorylates HDAC3 to promote NDP52 deacetylation and accelerate intracellular bacterial clearance.",
+      "titleZh": "TBK1 磷酸化 HDAC3，促进 NDP52 脱乙酰化，加速细胞内细菌清除。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-02",
+      "doi": "10.1016/j.celrep.2026.117927",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117927",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42684890/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Xenophagy is a selective autophagy process crucial for eliminating intracellular pathogens, yet its regulatory mechanisms remain poorly defined. In this study, acetylome profiling identifies dynamic acetylation of the xenophagy receptor NDP52 at K202, and its deacetylation enhances during Salmonella Typhimurium infection. Acetyltransferase CREBBP/KAT3A and deacetylase HDAC3 reciprocally regulate NDP52 K202 acetylation. Deacetylated NDP52 binds more strongly to ATG8 family proteins (MAP1LC3A/B and GABARAPL2), promotes autophagosome-lysosome fusion and pathogen degradation. Innate immune kinase TBK1 phosphorylates HDAC3 at S424, stabilizes it by inhibiting ubiquitination-dependent degradation, and this regulatory cascade links innate immunity to xenophagy. Liver-specific overexpression of deacetylation-mimetic NDP52 K202R in mice reduces hepatic Salmonella Typhimurium burden, attenuates liver necrosis, and suppresses proinflammatory cytokines. This study uncovers a post-translational modification paradigm in xenophagy, where NDP52 acetylation dynamics fine-tune receptor function in antibacterial responses, highlighting the HDAC3-NDP52 axis as a potential therapeutic target for infectious diseases.",
+      "summaryZh": "异体吞噬是一种选择性自噬过程，对于消除细胞内病原体至关重要，但其调节机制仍不清楚。在这项研究中，乙酰组分析鉴定了异噬受体 NDP52 在 K202 处的动态乙酰化，并且其脱乙酰化在鼠伤寒沙门氏菌感染期间增强。乙酰转移酶 CREBBP/KAT3A 和脱乙酰酶 HDAC3 相互调节 NDP52 K202 乙酰化。去乙酰化的 NDP52 与 ATG8 家族蛋白（MAP1LC3A/B 和 GABARAPL2）结合更牢固，促进自噬体-溶酶体融合和病原体降解。先天免疫激酶 TBK1 在 S424 位点磷酸化 HDAC3，通过抑制泛素化依赖性降解来稳定 HDAC3，这种级联调节将先天免疫与异体吞噬联系起来。小鼠中脱乙酰化模拟 NDP52 K202R 的肝脏特异性过度表达可减少肝脏鼠伤寒沙门氏菌负荷，减轻肝坏死并抑制促炎细胞因子。这项研究揭示了异体吞噬中的翻译后修饰范例，其中 NDP52 乙酰化动态微调抗菌反应中的受体功能，强调 HDAC3-NDP52 轴作为传染病的潜在治疗靶点。",
+      "translationSource": "c387a83c24496f3c"
+    },
+    {
+      "pmid": "42685690",
+      "title": "Targeted O-GlcNAcylation enables functional rewiring of c-Myc.",
+      "titleZh": "靶向 O-GlcNAcylation 能够实现 c-Myc 的功能性重新布线。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-02",
+      "doi": "10.1016/j.chembiol.2026.08.008",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.008",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42685690/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
+      "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
+      "translationSource": "4434e4f437b40da3"
+    },
     {
       "pmid": "41942734",
       "title": "Munc13-4-STX7 inhibitors impair endosomal TLR activation and systemic inflammation.",
@@ -488,28 +723,6 @@
       "translationSource": "74403936a5015561"
     },
     {
-      "pmid": "42636814",
-      "title": "Cholesterol dysregulation in APOE4 astrocytes promotes α-synuclein pathology in miBrains.",
-      "titleZh": "APOE4 星形胶质细胞中的胆固醇失调会促进 miBrains 中的 α-突触核蛋白病理。",
-      "journal": "Cell Stem Cell",
-      "year": 2026,
-      "published": "2026-08-24",
-      "doi": "10.1016/j.stem.2026.08.001",
-      "doiUrl": "https://doi.org/10.1016/j.stem.2026.08.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636814/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal",
-        "endolysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
-      "abstractEn": "The pathological hallmarks of neurodegeneration are the aberrant post-translational modification and aggregation of proteins. Genetic factors, like APOE4, increase the prevalence and severity of tau, amyloid, and α-synuclein pathologies. However, the human brain is largely inaccessible during this process, limiting mechanistic understanding. Here, we developed an iPSC-based 3D model that integrates neurons, glia, myelin, and cerebrovascular cells into a human brain-like tissue (\"miBrain\"). Single-nucleus RNA sequencing of miBrains confirmed the presence of diverse cell populations and revealed transcriptional responses to α-synuclein pathology. Like the human brain, pathogenic α-synuclein is increased in APOE4/4 miBrains. Combinatorial experiments revealed that endolysosomal dysfunction caused by cholesterol accumulation in APOE4/4 astrocytes impairs the degradation of soluble α-synuclein leading to a pathogenic transformation that seeds α-synuclein inclusions in neurons. Collectively, this study establishes a robust model for investigating protein inclusions in human iPSC-derived brain tissue and highlights the role of astrocytes and cholesterol in APOE4-mediated pathologies.",
-      "summaryZh": "神经退行性变的病理特征是蛋白质的异常翻译后修饰和聚集。 APOE4 等遗传因素会增加 tau、淀粉样蛋白和 α-突触核蛋白病理的患病率和严重程度。然而，在此过程中，人脑基本上无法进入，限制了机械理解。在这里，我们开发了一种基于 iPSC 的 3D 模型，该模型将神经元、胶质细胞、髓磷脂和脑血管细胞整合到人脑样组织（“miBrain”）中。 miBrains 的单核 RNA 测序证实了不同细胞群的存在，并揭示了对 α-突触核蛋白病理学的转录反应。与人脑一样，APOE4/4 miBrains 中致病性 α-突触核蛋白也会增加。组合实验表明，APOE4/4 星形胶质细胞中胆固醇积累引起的内溶酶体功能障碍会损害可溶性 α-突触核蛋白的降解，导致致病性转化，在神经元中播种 α-突触核蛋白包涵体。总的来说，这项研究建立了一个强大的模型来研究人类 iPSC 衍生脑组织中的蛋白质内含物，并强调星形胶质细胞和胆固醇在 APOE4 介导的病理中的作用。",
-      "translationSource": "4e3d3383103c175f"
-    },
-    {
       "pmid": "42680774",
       "title": "YTHDC1 functions as a molecular chaperone to suppress ALS-linked hnRNPA1 mutants from aggregation.",
       "titleZh": "YTHDC1 作为分子伴侣抑制 ALS 连接的 hnRNPA1 突变体聚集。",
@@ -721,49 +934,6 @@
       "abstractEn": "",
       "summaryZh": "PubMed 未提供可翻译的摘要。",
       "translationSource": "bf5c20309e84e21a"
-    },
-    {
-      "pmid": "42607684",
-      "title": "ER-liquid condensate contacts sequester FAM134B/C and RhoA to govern cell morphology.",
-      "titleZh": "ER-液体冷凝物接触隔离 FAM134B/C 和 RhoA 以控制细胞形态。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-08-17",
-      "doi": "10.1016/j.molcel.2026.07.027",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.07.027",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607684/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Endoplasmic reticulum (ER)-phagy receptors have elusive physiological functions beyond ER remodeling. To gain insight into these, we screen for cytoplasmic interactors of well-known receptors in mouse pancreatic ductal adenocarcinoma cells. Our data subsequently reveal a non-canonical action of PRKAR1A, a subunit of protein kinase A (PKA), in binding and activating FAM134B/C. At a molecular level, an amphipathic helix in the otherwise-disordered C terminus of FAM134B directly binds PRKAR1A dimers. Multimodal imaging reveals that this interaction occurs at interorganellar contact sites between the ER and liquid-like condensates of PRKAR1A. Mechanistically, ER-condensate contacts promote clustering of FAM134B/C with LC3B and recruit lysosomes, forming degradation hubs. Unexpectedly, these structures are found to control cytoplasmic signaling through FAM134B/C-mediated lysosomal sequestration of RhoA. Underscoring the physiologic relevance of this, these cytoplasmic-facing actions of FAM134B/C result in RhoA-dependent cell morphologic and migratory control in response to cyclic AMP (cAMP) stimuli. Thus, interorganellar contacts expand the roles of FAM134B/C ER-phagy receptors beyond ER degradation.",
-      "summaryZh": "内质网 (ER) 吞噬受体除了 ER 重塑之外还具有难以捉摸的生理功能。为了深入了解这些，我们筛选了小鼠胰腺导管腺癌细胞中众所周知的受体的细胞质相互作用物。我们的数据随后揭示了 PRKAR1A（蛋白激酶 A (PKA) 的一个亚基）在结合和激活 FAM134B/C 方面的非典型作用。在分子水平上，FAM134B C 末端无序的两亲螺旋直接结合 PRKAR1A 二聚体。多模态成像揭示这种相互作用发生在 ER 和 PRKAR1A 液体状凝聚物之间的细胞间接触位点。从机制上讲，内质网冷凝物接触促进 FAM134B/C 与 LC3B 聚集并招募溶酶体，形成降解中心。出乎意料的是，这些结构被发现通过 FAM134B/C 介导的 RhoA 溶酶体隔离来控制细胞质信号传导。 FAM134B/C 的这些面向细胞质的作用导致响应环 AMP (cAMP) 刺激的 RhoA 依赖性细胞形态和迁移控制，强调了这一点的生理相关性。因此，细胞器间接触将 FAM134B/C ER 吞噬受体的作用扩展到 ER 降解之外。",
-      "translationSource": "4595aa7c14e516ba"
-    },
-    {
-      "pmid": "42607669",
-      "title": "Ovarian aging and systemic health: Mechanisms and emerging intervention strategies.",
-      "titleZh": "卵巢衰老和全身健康：机制和新兴干预策略。",
-      "journal": "Cell Stem Cell",
-      "year": 2026,
-      "published": "2026-08-17",
-      "doi": "10.1016/j.stem.2026.07.013",
-      "doiUrl": "https://doi.org/10.1016/j.stem.2026.07.013",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42607669/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Ovarian aging may contribute to systemic aging via the ovarian-systemic axis. This review outlines intrinsic ovarian cellular defects such as genomic instability, epigenetic shifts, and mitochondrial and proteostasis damage, which may trigger senescence-associated secretory phenotype (SASP)-related inflammaging, fibrosis, and distal pro-aging signals. Ovarian-derived endocrine disruption, especially estrogen decline, broadly affects bodily physiology. We summarize emerging multimodal interventions, including senolytics, metabolic reprogramming, regenerative medicine, and systemic approaches, and we discuss their dual potential to preserve fertility and intercept ovarian contributions to systemic aging. Ovarian aging is possibly associated with female age-related multimorbidity. Ovary-targeted prevention may extend healthspan, as assessed by combined reproductive and systemic clinical evaluations.",
-      "summaryZh": "卵巢衰老可能通过卵巢-系统轴导致全身衰老。这篇综述概述了内在的卵巢细胞缺陷，例如基因组不稳定性、表观遗传转变以及线粒体和蛋白质稳态损伤，这些缺陷可能引发衰老相关分泌表型（SASP）相关的炎症、纤维化和远端促衰老信号。卵巢源性内分泌紊乱，尤其是雌激素下降，广泛影响身体生理机能。我们总结了新兴的多模式干预措施，包括衰老药物、代谢重编程、再生医学和系统方法，并讨论了它们在保护生育力和阻止卵巢对系统衰老的影响方面的双重潜力。卵巢衰老可能与女性年龄相关的多发病有关。根据生殖和系统临床综合评估的评估，以卵巢为目标的预防可以延长健康寿命。",
-      "translationSource": "123752477cf0d914"
     },
     {
       "pmid": "42335898",
@@ -1090,6 +1260,29 @@
       "translationSource": "7fa4d9ea4662a8c7"
     },
     {
+      "pmid": "42693146",
+      "title": "Glycoprotein-induced phase separation drives unconventional secretion of galectin-3.",
+      "titleZh": "糖蛋白诱导的相分离驱动半乳糖凝集素 3 的非常规分泌。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-06",
+      "doi": "10.1038/s41467-026-76321-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76321-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42693146/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy, endosome。",
+      "abstractEn": "The mechanism of unconventional protein secretion remains an unresolved issue. Here, we describe an unconventional protein secretion pathway for galectin-3 that is mediated by phase separation and condensation. Using four lysosomal damage models, we observed a rapid, pronounced release of galectin-3 in large, non-exosomal particles. This secretion is driven by glycoprotein-induced galectin-3 phase separation and is independent of pyroptosis and secretory autophagy. During phase separation, the S-face of galectin-3 carbohydrate recognition domain binds glycoproteins that triggers galectin-3 N-terminal tail release and condensation. These condensates then recruit ALG-2 via the exposed N-terminal tail. ALG-2 directs the condensates to the endoplasmic reticulum-late endosome interface. After translocation into late endosomes, galectin-3 condensates are secreted into the extracellular milieu by SNARE-dependent vesicular transport. This mechanism of exporting phase-separated protein condensates may serve as a clean-up response to membrane damage.",
+      "summaryZh": "非常规蛋白质分泌的机制仍然是一个未解决的问题。在这里，我们描述了由相分离和凝聚介导的半乳糖凝集素 3 的非常规蛋白质分泌途径。使用四种溶酶体损伤模型，我们观察到半乳糖凝集素 3 在大的非外泌体颗粒中快速、显着的释放。这种分泌是由糖蛋白诱导的半乳糖凝集素三相分离驱动的，并且独立于细胞焦亡和分泌性自噬。在相分离过程中，galectin-3 碳水化合物识别结构域的 S 面与糖蛋白结合，触发 galectin-3 N 末端尾部释放和缩合。然后这些缩合物通过暴露的 N 末端尾部招募 ALG-2。 ALG-2 将冷凝物引导至内质网-晚期内体界面。转位到晚期内涵体后，半乳糖凝集素 3 缩合物通过 SNARE 依赖性囊泡运输分泌到细胞外环境中。这种输出相分离蛋白质凝聚物的机制可以作为对膜损伤的清理反应。",
+      "translationSource": "08945d97386f8591"
+    },
+    {
       "pmid": "42562827",
       "title": "α-Synuclein blocks endoplasmic reticulum co-translational protein translocation early in Parkinson's disease.",
       "titleZh": "α-突触核蛋白在帕金森病早期阻断内质网共翻译蛋白易位。",
@@ -1215,6 +1408,49 @@
       "abstractEn": "Mutations in lysosomal enzyme glucocerebrosidase (GBA), the most common genetic risk factor for Parkinson disease (PD), exacerbate α-synuclein pathology through unclear mechanisms. Here, we report, in a large cohort, that GBA-mutated PD patients exhibit lower serum cholesterol levels. By introducing the most common GBA variant in our cohort, L444P, into human α-synuclein knock-in mice, we noted that the mice exhibited behavioral and molecular pathological PD features at 12 months of age. Mechanistically, lysosomal proteomics identified the loss of lysosome-cytoplasmic vesicle interactions and cholesterol-containing lipid microdomains in both PD patients and mice. Autophagic flux monitoring revealed impaired autophagosome-lysosome fusion in Gba L444P/+ neurons. Gain- and loss-of-function experiments uncovered cholesterol synthesis impairment via glycosphingolipid-reduced SREBP2 levels. Importantly, cholesterol supplementation was found to enhance the autophagic flux and mitigate α-synuclein accumulation in vitro, whereas AAV-Srebp2 delivery increased α-synuclein clearance in Gba L444P/+ mice. Our study provides animal models and mechanistic insights into GBA-associated PD and offers a therapeutic paradigm by facilitating cholesterol-associated α-synuclein autophagic clearance.",
       "summaryZh": "溶酶体酶葡萄糖脑苷脂酶 (GBA) 是帕金森病 (PD) 最常见的遗传风险因素，其突变通过尚不清楚的机制加剧 α-突触核蛋白病理。在此，我们在一个大型队列中报告，GBA 突变的帕金森病患者表现出较低的血清胆固醇水平。通过将我们队列中最常见的 GBA 变体 L444P 引入人类 α-突触核蛋白敲入小鼠中，我们注意到这些小鼠在 12 个月大时表现出行为和分子病理学 PD 特征。从机制上讲，溶酶体蛋白质组学鉴定了帕金森病患者和小鼠中溶酶体-细胞质囊泡相互作用和含胆固醇脂质微结构域的丧失。自噬通量监测显示 Gba L444P/+ 神经元中的自噬体-溶酶体融合受损。功能获得和功能丧失实验发现，鞘糖脂降低 SREBP2 水平会导致胆固醇合成受损。重要的是，在体外，补充胆固醇可增强自噬通量并减轻 α-突触核蛋白积累，而 AAV-Srebp2 递送可增加 Gba L444P/+ 小鼠的 α-突触核蛋白清除率。我们的研究提供了 GBA 相关 PD 的动物模型和机制见解，并通过促进胆固醇相关 α-突触核蛋白自噬清除提供了治疗范例。",
       "translationSource": "cedd5eda4d567516"
+    },
+    {
+      "pmid": "42686781",
+      "title": "Truncated Gpr114-based ultrasound-hypersensitive gene circuit for controlled expression of therapeutics.",
+      "titleZh": "基于 Gpr114 的截短超声超敏基因电路，用于控制治疗的表达。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1038/s41467-026-76393-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76393-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42686781/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit",
+        "gene circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit, gene circuit。",
+      "abstractEn": "Sonogenetic holds great potential for modulating cellular functions and behaviors. However, developing hypersensitive ultrasound (US)-responsive receptors remains a substantial challenge. Here, we combine AlphaFold3 prediction with molecular dynamics simulations to identify a hypersensitive Gpr114 protein variant (T-Gpr114) that responds to short-pulse US stimulation for activation. We further design sonogenetic macrophages (MΦ) by fusing T-Gpr114 to a synthetic genetic circuit, this circuit initiates expression of the transcription factor ID3 upon short-pulse US treatment. In vivo assays using female tumor-bearing mice demonstrate that sonogenetic-MΦ suppress tumor growth with no obvious systemic toxicity, and exhibit enhanced anti-tumor efficacy relative to cells with constitutive ID3 expression. Single-cell RNA sequencing reveals that sonogentic-MΦ potentiate the recruitment recruitment of CD8 + T cells compared with constitutive ID3-overexpressing macrophages. In this work, this T-Gpr114-based US-hypersensitive gene circuit extends the scope of remote control over the activation of diverse cell types, thereby facilitating the programming of therapeutic cells.",
+      "summaryZh": "声遗传学在调节细胞功能和行为方面具有巨大潜力。然而，开发超敏感超声（US）响应受体仍然是一个巨大的挑战。在这里，我们将 AlphaFold3 预测与分子动力学模拟相结合，以确定一种超敏感的 Gpr114 蛋白变体 (T-Gpr114)，该变体对短脉冲 US 刺激做出反应以进行激活。我们通过将 T-Gpr114 融合到合成遗传电路中进一步设计了声发生巨噬细胞 (MΦ)，该电路在短脉冲 US 处理后启动转录因子 ID3 的表达。使用雌性荷瘤小鼠进行的体内试验表明，声遗传学-MΦ 抑制肿瘤生长，没有明显的全身毒性，并且相对于具有组成型 ID3 表达的细胞，表现出增强的抗肿瘤功效。单细胞 RNA 测序表明，与组成型 ID3 过度表达的巨噬细胞相比，超声-MΦ 增强了 CD8 + T 细胞的招募。在这项工作中，这种基于 T-Gpr114 的 US 超敏感基因电路扩展了对不同细胞类型激活的远程控制范围，从而促进了治疗细胞的编程。",
+      "translationSource": "37b4f615b6a0ce7f"
+    },
+    {
+      "pmid": "42686683",
+      "title": "p38β-mediated BiP phosphorylation drives stemness and chemoresistance by suppressing UPR activation in hepatocellular carcinoma.",
+      "titleZh": "p38β 介导的 BiP 磷酸化通过抑制肝细胞癌中的 UPR 激活来驱动干性和化疗耐药性。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-05",
+      "doi": "10.1038/s41467-026-76073-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76073-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42686683/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Tumor-initiating cells (TICs) promote tumor initiation and therapy resistance, yet the kinase regulators that sustain TICs remain incompletely defined. Here, we identify the stress kinase p38β (MAPK11) supports TIC maintenance and drug resistance in hepatocellular carcinoma (HCC). Integrated analysis of chemotherapy-enriched HCC spheroids, and DepMap data prioritized p38β as a kinase linked to stemness and chemoresistance. High p38β expression correlates with poor prognosis and aggressive clinicopathological features in HCC patients. Mechanistically, p38β phosphorylates the endoplasmic reticulum (ER) chaperone BiP at threonine 648, enhancing its association with the unfolded protein response (UPR) sensors PERK and IRE1-α. This modification suppresses UPR activation and reduces unfolded protein accumulation, thereby preserving ER proteostasis under chemotherapeutic stress. Functionally, p38β-driven BiP phosphorylation sustains TIC phenotypes and cisplatin resistance in vitro and in vivo. BiP inhibition with HA15 restores UPR signaling and sensitizes patient-derived xenograft and organoid models to cisplatin, revealing a targetable p38β-BiP axis in HCC.",
+      "summaryZh": "肿瘤起始细胞 (TIC) 促进肿瘤发生和治疗耐药，但维持 TIC 的激酶调节因子仍未完全确定。在这里，我们确定了应激激酶 p38β (MAPK11) 支持肝细胞癌 (HCC) 中的 TIC 维持和耐药性。对富含化疗的 HCC 球体的综合分析和 DepMap 数据优先考虑 p38β 作为与干细胞性和化疗耐药性相关的激酶。 p38β 高表达与 HCC 患者的不良预后和侵袭性临床病理特征相关。从机制上讲，p38β 在苏氨酸 648 处磷酸化内质网 (ER) 伴侣 BiP，增强其与未折叠蛋白反应 (UPR) 传感器 PERK 和 IRE1-α 的关联。这种修饰抑制 UPR 激活并减少未折叠蛋白的积累，从而在化疗应激下保持 ER 蛋白质稳态。从功能上来说，p38β 驱动的 BiP 磷酸化在体外和体内维持 TIC 表型和顺铂耐药性。 HA15 抑制 BiP 可恢复 UPR 信号传导并使患者来源的异种移植物和类器官模型对顺铂敏感，揭示 HCC 中的可靶向 p38β-BiP 轴。",
+      "translationSource": "6c75d5577adb49c7"
     },
     {
       "pmid": "42557329",
@@ -2429,27 +2665,6 @@
       "translationSource": "c8bc3a5b7df08f56"
     },
     {
-      "pmid": "42476129",
-      "title": "A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death.",
-      "titleZh": "将赖氨酸乙酰转移酶与癌基因诱导的细胞死亡连接起来的二价分子胶。",
-      "journal": "Cell",
-      "year": 2026,
-      "published": "2026-07-20",
-      "doi": "10.1016/j.cell.2026.06.037",
-      "doiUrl": "https://doi.org/10.1016/j.cell.2026.06.037",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476129/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "Developing cancer therapies that induce specific death of malignant cells is critical for preventing relapse. Highly effective strategies, such as immunotherapy, exemplify this principle. Here, we provide the mechanistic basis for a small-molecule approach that leverages chemically induced proximity (CIP) to kill diffuse large B cell lymphoma, the most common non-Hodgkin lymphoma. We developed lysine acetyltransferase (KAT)-based TCIPs (transcriptional/epigenetic chemical inducers of proximity), or KAT-TCIPs, which redirect p300/CREB-binding protein (CBP) to activate cell-death networks repressed by the oncogenic driver BCL6. Our lead KAT-TCIP reprograms the epigenome to initiate apoptosis. The crystal structure of the chemically induced p300-BCL6 complex reveals how chance protein-protein interactions may be exploited to confer the potency and selectivity of KAT-TCIPs. Thus, oncogenic drivers can be co-opted to activate robust cell death. Consistent with their gain-of-function mechanism, TCIPs recruiting different transcriptional activators-p300, BRD4, or CDK9-produce distinct genomic responses, suggesting specialized therapeutic uses.",
-      "summaryZh": "开发诱导恶性细胞特异性死亡的癌症疗法对于预防复发至关重要。免疫疗法等高效策略就是这一原则的例证。在这里，我们为小分子方法提供了机制基础，该方法利用化学诱导邻近（CIP）来杀死弥漫性大 B 细胞淋巴瘤（最常见的非霍奇金淋巴瘤）。我们开发了基于赖氨酸乙酰转移酶 (KAT) 的 TCIP（转录/表观遗传邻近化学诱导剂）或 KAT-TCIP，它可以重定向 p300/CREB ​​结合蛋白 (CBP)，以激活被致癌驱动程序 BCL6 抑制的细胞死亡网络。我们的主要 KAT-TCIP 重新编程表观基因组以启动细胞凋亡。化学诱导的 p300-BCL6 复合物的晶体结构揭示了如何利用蛋白质-蛋白质相互作用的机会来赋予 KAT-TCIP 的效力和选择性。因此，可以选择致癌驱动因素来激活强有力的细胞死亡。与其功能获得机制一致，TCIP 招募不同的转录激活因子（p300、BRD4 或 CDK9）产生不同的基因组反应，表明其具有专门的治疗用途。",
-      "translationSource": "d7a1fb9ddc75c08f"
-    },
-    {
       "pmid": "42467786",
       "title": "The RhMPK3-RhLOB41-RhWRKY9 module orchestrates ethylene-induced petal abscission via dual control of ROS homeostasis in rose.",
       "titleZh": "RhMPK3-RhLOB41-RhWRKY9 模块通过玫瑰中 ROS 稳态的双重控制来协调乙烯诱导的花瓣脱落。",
@@ -3336,27 +3551,6 @@
       "abstractEn": "BRAF gain-of-function mutations, particularly BRAF(V600E), affect roughly 10% of all patients with colorectal cancer (CRC), and portend poor prognosis with limited therapeutic interventions. BRAF inhibitors such as encorafenib are ineffective due to MAPK pathway reactivation driven by BRAF dimerization. Combined inhibition of BRAF and EGFR, although approved therapies, results in short survival benefits and frequent treatment resistance and relapse 1-3 . Here, through rational chemical library design coupled with parallel proteomic screening, we identified dHuR as a molecular glue degrader of human antigen R (HuR), an RNA-binding protein that drives tumour growth, invasion and therapy resistance. dHuR binds to the CRBN ubiquitin ligase to create a unique benzofuran-tethered composite surface to recruit HuR as a neosubstrate by engaging its β-hairpin G-loop degron, as revealed by the cryo-electron microscopy structure of the ternary complex. dHuR abrogated BRAF expression by inducing its exon 18 skipping, and demonstrated superior suppression of BRAF-mutant CRC tumours including those gaining resistance to BRAF inhibitors. Finally, we performed kinome library CRISPR screening and revealed that inactivation of EGFR or MEK enhanced dHuR cytotoxicity, thus establishing a combinatorial strategy to treat patients with refractory BRAF-mutant CRC.",
       "summaryZh": "BRAF 功能获得性突变，尤其是 BRAF(V600E)，影响大约 10% 的结直肠癌 (CRC) 患者，并且预示着治疗干预措施有限的预后不良。由于 BRAF 二聚化驱动的 MAPK 通路重新激活，BRAF 抑制剂（例如 encorafenib）无效。 BRAF 和 EGFR 的联合抑制虽然已获得批准，但会导致短期生存获益以及频繁的治疗耐药和复发 1-3 。在这里，通过合理的化学文库设计结合平行蛋白质组学筛选，我们确定 dHuR 是人类抗原 R (HuR) 的分子胶降解剂，HuR 是一种驱动肿瘤生长、侵袭和治疗抵抗的 RNA 结合蛋白。 dHuR 与 CRBN 泛素连接酶结合，形成独特的苯并呋喃系留复合表面，通过结合其 β-发夹 G 环降解决定子来招募 HuR 作为新底物，如三元复合物的冷冻电子显微镜结构所示。 dHuR 通过诱导其外显子 18 跳跃来消除 BRAF 表达，并表现出对 BRAF 突变的 CRC 肿瘤（包括对 BRAF 抑制剂产生耐药性的肿瘤）的卓越抑制作用。最后，我们进行了激酶组文库 CRISPR 筛选，发现 EGFR 或 MEK 失活增强了 dHuR 细胞毒性，从而建立了治疗难治性 BRAF 突变 CRC 患者的组合策略。",
       "translationSource": "99f33e53efcf7e97"
-    },
-    {
-      "pmid": "42385704",
-      "title": "Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs.",
-      "titleZh": "溶酶体机制的共同选择塑造了支持珊瑚礁的细胞内光共生的进化。",
-      "journal": "Cell",
-      "year": 2026,
-      "published": "2026-07-01",
-      "doi": "10.1016/j.cell.2026.06.015",
-      "doiUrl": "https://doi.org/10.1016/j.cell.2026.06.015",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42385704/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Endosymbiosis has spurred the evolution of new organelles across life. Corals and other cnidarians have repeatedly evolved an organelle, called the symbiosome, which houses intracellular algal symbionts. However, the molecular mechanisms enabling this repeated evolution remain unclear. Using the sea anemone Aiptasia, we generated a high-quality proteome of the symbiosome, revealing protein trafficking mechanisms and the types of biomolecules exchanged during symbiosis. Symbiosomal enrichment of lysosomal proteins, visualization of lysosomal fusion, and reduced symbiosis following knockdown of lysosomal genes indicate that the symbiosome functions through extensive co-option of lysosomal proteins. We identified a symbiosomal bicarbonate/sulfate transporter, SLC26A11, and showed through CRISPR/Cas9 mutagenesis that this lysosomal transporter is required for symbiosis in Aiptasia and a reef-building coral. Together, these findings reveal that corals and anemones have repeatedly co-opted lysosomal proteins to concentrate carbon and shuttle metabolites to support photosymbiosis, providing a relatively simple path for the repeated evolution of new photosymbioses.",
-      "summaryZh": "内共生刺激了生命中新细胞器的进化。珊瑚和其他刺胞动物不断进化出一种称为共生体的细胞器，其中含有细胞内藻类共生体。然而，实现这种重复进化的分子机制仍不清楚。利用海葵 Aiptasia，我们生成了高质量的共生体蛋白质组，揭示了蛋白质运输机制和共生过程中交换的生物分子类型。溶酶体蛋白的共生体富集、溶酶体融合的可视化以及溶酶体基因敲低后共生的减少表明，共生体通过溶酶体蛋白的广泛共同选择而发挥作用。我们鉴定了一种共生体碳酸氢盐/硫酸盐转运蛋白 SLC26A11，并通过 CRISPR/Cas9 诱变表明，这种溶酶体转运蛋白是 Aiptasia 和造礁珊瑚共生所必需的。总之，这些发现表明，珊瑚和海葵反复选择溶酶体蛋白来浓缩碳和穿梭代谢物以支持光共生，为新光共生的重复进化提供了相对简单的途径。",
-      "translationSource": "30d8d2e625181149"
     },
     {
       "pmid": "42378330",
