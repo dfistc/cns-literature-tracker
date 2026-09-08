@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:26:56+00:00",
+  "updatedAt": "2026-09-08T01:36:10+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1194,6 +1194,27 @@
       "abstractEn": "The proteasome activator PA200 binds to the catalytic core of both standard proteasome (s20S) and the immunoproteasome (i20S); however, whether PA200 uses the same mechanisms to activate i20S remains unknown. In this work, the cryo-EM structures of singly- and doubly-capped i20S-PA200 complexes, combined with complementary in vitro biochemical assays, show that binding of the first PA200 induces allosteric bending of the i20S and widens the opposite α-ring, promoting higher PA200 occupancy and stronger activation compared to the s20S. PA200 also selectively modulates i20S proteolytic activity by enhancing peptide production and shifting cleavage specificity toward caspase-like activity. In cells and tissues co-expressing PA200, s20S, and i20S, PA200 preferentially associates with the i20S. Moreover, PA200 and i20S catalytic subunits are differentially regulated, with PA200 playing a potential role in regulating the i20S subunits' expression. Overall, these findings suggest that PA200 contributes to the regulation of i20S function and dynamics.",
       "summaryZh": "蛋白酶体激活剂 PA200 与标准蛋白酶体 (s20S) 和免疫蛋白酶体 (i20S) 的催化核心结合；然而，PA200是否使用相同的机制来激活i20S仍然未知。在这项工作中，单端和双端 i20S-PA200 复合物的冷冻电镜结构，结合互补的体外生化测定，表明第一个 PA200 的结合诱导 i20S 的变构弯曲并加宽相反的 α 环，与 s20S 相比，促进更高的 PA200 占有率和更强的激活。 PA200 还通过增强肽生成并将切割特异性转向半胱天冬酶样活性来选择性调节 i20S 蛋白水解活性。在共表达 PA200、s20S 和 i20S 的细胞和组织中，PA200 优先与 i20S 结合。此外，PA200和i20S催化亚基受到差异性调节，其中PA200在调节i20S亚基的表达中发挥潜在作用。总的来说，这些发现表明 PA200 有助于调节 i20S 功能和动力学。",
       "translationSource": "117da1f2c8a3e8fc"
+    },
+    {
+      "pmid": "42702606",
+      "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation.",
+      "titleZh": "NAT10 的 RNA 解旋酶结构域促进低修饰核糖体的生物发生，从而增强癌细胞增殖。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-08",
+      "doi": "10.1038/s41467-026-76383-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76383-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42702606/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "proteolysis targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteolysis targeting chimera。",
+      "abstractEn": "N-acetyltransferase 10 (NAT10) is a multifunctional enzyme that harbors RNA acetyltransferase and RNA helicase domains and has emerged as a therapeutic vulnerability in solid and hematological malignancies. By coupling Proteolysis Targeting Chimera-mediated degradation of NAT10 with a deep mutational scanning assay, followed by validations in biochemical assays, human cell lines, and female mouse xenografts, we find that the RNA helicase domain of NAT10 enhances cancer cell proliferation and tumor growth. This proliferative function of NAT10 is independent of RNA acetylation but requires its RNA-binding activity. The RNA helicase domain of NAT10 is required for 18S rRNA binding, promoting biogenesis of the 40S ribosomal subunit, while simultaneously interfering with the deposition of the conserved 18S rRNA modification m¹acp³Ψ. Loss of m¹acp³Ψ in 18S rRNA enhances cancer cell proliferation, revealing that NAT10 promotes the biogenesis of hypomodified ribosomes to facilitate tumor growth. These findings uncover a mechanism by which NAT10 promotes cancer cell proliferation and establish its RNA helicase domain as a potential therapeutic target.",
+      "summaryZh": "N-乙酰转移酶 10 (NAT10) 是一种多功能酶，含有 RNA 乙酰转移酶和 RNA 解旋酶结构域，已成为实体瘤和血液恶性肿瘤的治疗脆弱性。通过将靶向嵌合体介导的 NAT10 蛋白水解酶降解与深度突变扫描测定相结合，然后在生化测定、人类细胞系和雌性小鼠异种移植物中进行验证，我们发现 NAT10 的 RNA 解旋酶结构域可增强癌细胞增殖和肿瘤生长。 NAT10 的这种增殖功能不依赖于 RNA 乙酰化，但需要其 RNA 结合活性。 NAT10 的 RNA 解旋酶结构域是 18S rRNA 结合所必需的，促进 ​​40S 核糖体亚基的生物合成，同时干扰保守的 18S rRNA 修饰 m1acp3Ψ 的沉积。 18S rRNA 中 m1acp3Ψ 的缺失会增强癌细胞增殖，表明 NAT10 促进低修饰核糖体的生物发生，从而促进肿瘤生长。这些发现揭示了 NAT10 促进癌细胞增殖的机制，并将其 RNA 解旋酶结构域确立为潜在的治疗靶点。",
+      "translationSource": "1cc97838e0b800a0"
     },
     {
       "pmid": "42555719",
