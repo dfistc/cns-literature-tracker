@@ -1,8 +1,95 @@
 {
-  "updatedAt": "2026-09-08T01:36:10+00:00",
+  "updatedAt": "2026-09-10T01:39:03+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42715333",
+      "title": "Magnetically actuated nanoantennas for wireless glioblastoma therapy.",
+      "titleZh": "用于无线胶质母细胞瘤治疗的磁驱动纳米天线。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-11",
+      "doi": "10.1126/sciadv.aeb1237",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeb1237",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42715333/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Glioblastoma (GBM) remains a formidable clinical challenge, characterized by invasive growth, therapeutic resistance, and dismal patient survival. We report the development of HITMAN (highly localized electric field-induced tumor therapy using magnetically actuated nanoantennas), a wireless bioelectric therapy that selectively eradicates GBM cells with cellular precision. Magnetically actuated nanoantennas convert low-frequency (≤200 kHz), deep-brain-penetrant magnetic fields into localized electric fields, thereby triggering protein unfolding, membrane disruption, and ER stress. In vitro, HITMAN demonstrated superior efficacy compared to temozolomide (TMZ), significantly decreasing viability in drug-resistant, patient-derived GBM cells by 52.2%, versus 10% with TMZ while sparing neurons and astrocytes. Mechanistically, HITMAN activated the unfolded protein response and autophagy pathways, suppressed cell cycle and adhesion genes, reduced Ki-67 expression, disrupted cytoskeletal architecture, and elevated p53 levels, underscoring a multifaceted antitumor mechanism. In orthotopic mouse models, HITMAN significantly inhibited tumor growth, extended median survival by more than 50%, and exhibited no systemic toxicity. Thus, HITMAN offers a minimally invasive, spatially precise, and clinically translatable therapy for GBM.",
+      "summaryZh": "胶质母细胞瘤（GBM）仍然是一个艰巨的临床挑战，其特点是侵袭性生长、治疗耐药和患者生存率低。我们报告了 HITMAN（使用磁驱动纳米天线的高度局部电场诱导肿瘤治疗）的开发，这是一种无线生物电疗法，可以以细胞精度选择性地根除 GBM 细胞。磁驱动纳米天线将低频（≤200 kHz）、深部大脑渗透磁场转换为局部电场，从而触发蛋白质展开、膜破坏和内质网应激。在体外，HITMAN 与替莫唑胺 (TMZ) 相比表现出卓越的功效，将耐药的患者来源 GBM 细胞的活力显着降低 52.2%，而 TMZ 则降低 10%，同时保留神经元和星形胶质细胞。从机制上讲，HITMAN 激活未折叠蛋白反应和自噬途径，抑制细胞周期和粘附基因，减少 Ki-67 表达，破坏细胞骨架结构，并提高 p53 水平，强调了多方面的抗肿瘤机制。在原位小鼠模型中，HITMAN 显着抑制肿瘤生长，将中位生存期延长 50% 以上，并且没有表现出全身毒性。因此，HITMAN 为 GBM 提供了一种微创、空间精确且可临床转化的治疗方法。",
+      "translationSource": "c3d48e80f2f2415b"
+    },
+    {
+      "pmid": "42715104",
+      "title": "Mitochondrial Fis1 tunes Rab7A activity via TBC1D15 modulating STING degradation.",
+      "titleZh": "线粒体 Fis1 通过 TBC1D15 调节 STING 降解来调节 Rab7A 活性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-09",
+      "doi": "10.1016/j.celrep.2026.117994",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117994",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42715104/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal。",
+      "abstractEn": "The mechanisms governing the final trafficking steps of the cyclic dinucleotide innate immune receptor stimulator of interferon genes (STING) are not fully understood. Here, we identify the mitochondrial protein Fis1 as a regulator of STING endolysosomal degradation. The absence of Fis1 in HeLa cells stabilizes STING, boosting downstream signaling without affecting its initial endoplasmic reticulum (ER)-to-Golgi traffic. Instead, Fis1 loss impairs STING delivery to endolysosomes. Fis1 recruits the Rab7A-GAP TBC1D15 to mitochondria and upon STING activation, TBC1D15 localization shifts to the Golgi. In the absence of Fis1, the interaction between TBC1D15 and Rab7A is disrupted, leading to decreased Rab7A GTPase activity and impaired STING degradation. Our findings reveal a mitochondria-controlled axis where Fis1 tunes Rab7A activity via TBC1D15, which is required to ensure proper STING degradation, directly linking mitochondria to lysosomal trafficking and the termination of innate immune signaling. Published by Elsevier Inc.",
+      "summaryZh": "干扰素基因环状二核苷酸先天免疫受体刺激剂 (STING) 的最终运输步骤的机制尚不完全清楚。在这里，我们将线粒体蛋白 Fis1 确定为 STING 内溶酶体降解的调节因子。 HeLa 细胞中 Fis1 的缺失可以稳定 STING，增强下游信号传导，而不影响其最初的内质网 (ER) 到高尔基体的运输。相反，Fis1 丢失会损害 STING 向内溶酶体的传递。 Fis1 将 Rab7A-GAP TBC1D15 招募到线粒体，并且在 STING 激活后，TBC1D15 定位转移到高尔基体。在 Fis1 缺失的情况下，TBC1D15 和 Rab7A 之间的相互作用被破坏，导致 Rab7A GTPase 活性降低和 STING 降解受损。我们的研究结果揭示了一个线粒体控制轴，Fis1 通过 TBC1D15 调节 Rab7A 活性，这是确保 STING 正确降解、直接将线粒体与溶酶体运输和先天免疫信号终止联系起来所必需的。由爱思唯尔公司出版",
+      "translationSource": "0950bf0f87584452"
+    },
+    {
+      "pmid": "42710495",
+      "title": "TRiC/CCT chaperonin governs RNA polymerase II activity in the nucleus to support RNA homeostasis.",
+      "titleZh": "TRiC/CCT 伴侣蛋白控制细胞核中的 RNA 聚合酶 II 活性，以支持 RNA 稳态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-09-08",
+      "doi": "10.1016/j.molcel.2026.08.015",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.08.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42710495/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Eukaryotic tailless complex polypeptide 1 ring complex/Chaperonin containing tailless complex polypeptide 1 (TRiC/CCT) chaperonin is typically considered a cytosolic machine mediating polypeptide folding and assembly of protein complexes. Here, we investigated the nuclear role of TRiC/CCT. Use of a TRiC/CCT temperature-sensitive allele revealed increased production of nascent RNA leading to the accumulation of noncoding transcripts. TRiC/CCT was associated with RNA polymerase II (RNAPII) in vitro and in vivo, including when bound to DNA. Heat treatment of the TRiC/CCT ts chaperonin stabilized the RNAPII complex association and binding to the actin and tubulin substrates. Expression of the Huntingtin protein Htt correlated with lowered RNA production and a decreased association between the RNAPII and TRiC/CCT complexes. Together, our presented data support a model where TRiC/CCT regulates the global activity of RNAPII in reaction to the status of proteostasis. Overall, our work reveals an avenue by which TRiC/CCT contributes to homeostasis by regulating the activity of nuclear RNAPII. Published by Elsevier Inc.",
+      "summaryZh": "真核无尾复合物多肽 1 环复合物/含有无尾复合物多肽 1 (TRiC/CCT) 伴侣蛋白通常被认为是介导多肽折叠和蛋白质复合物组装的胞质机器。在这里，我们研究了 TRiC/CCT 的核作用。 TRiC/CCT 温度敏感等位基因的使用揭示了新生 RNA 产量的增加，导致非编码转录本的积累。 TRiC/CCT 在体外和体内均与 RNA 聚合酶 II (RNAPII) 相关，包括与 DNA 结合时。 TRiC/CCT ts 伴侣蛋白的热处理稳定了 RNAPII 复合物的缔合以及与肌动蛋白和微管蛋白底物的结合。亨廷顿蛋白 Htt 的表达与 RNA 产量的降低以及 RNAPII 和 TRiC/CCT 复合物之间的关联性降低相关。总之，我们提供的数据支持 TRiC/CCT 调节 RNAPII 的整体活性以响应蛋白质稳态状态的模型。总的来说，我们的工作揭示了 TRiC/CCT 通过调节核 RNAPII 活性促进体内平衡的途径。由爱思唯尔公司出版",
+      "translationSource": "f88af8e96b77605c"
+    },
+    {
+      "pmid": "42709544",
+      "title": "Berberine, a natural molecular glue degrader, overcomes CML resistance via TRIM28-mediated HIF1α ubiquitination and subsequent ferroptosis.",
+      "titleZh": "小檗碱是一种天然分子胶降解剂，通过 TRIM28 介导的 HIF1α 泛素化和随后的铁死亡来克服 CML 耐药性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-08",
+      "doi": "10.1016/j.celrep.2026.117889",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117889",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42709544/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "BCR-ABL1-independent resistance remains a major challenge in chronic myeloid leukemia (CML). These resistant cells exhibit elevated basal reactive oxygen species (ROS), which creates a therapeutic vulnerability. We show that berberine (BBR) acts as a natural molecular glue degrader of Hypoxia-Inducible Factor 1 Alpha (HIF1α) to exploit this vulnerability. BBR directly binds HIF1α at E816, stabilizing its interaction with the E3 ubiquitin ligase TRIM28, which subsequently promotes K48-linked ubiquitination of HIF1α. HIF1α degradation transcriptionally suppresses PDE4D, leading to cyclic AMP (cAMP) accumulation and activation of the xCT axis, depleting glutathione. BBR also induces metallothionein-mediated metal ion dyshomeostasis by upregulating MT1X, MT2A, and SLC30A8 mRNA levels, sequestering Cu 2+ /Zn 2+ and inhibiting SOD1. These effects synergistically upregulate ROS to trigger ferroptosis, overcoming BCR-ABL1-independent resistance in vivo and in vitro. Thus, our findings identify an oxidative stress vulnerability in BCR-ABL1-independent resistant cells and show that BBR, a natural molecular glue degrader, exploits this vulnerability through HIF1α ubiquitination and degradation. This leads to elevated ROS that subsequently triggers ferroptosis, thereby offering a new therapeutic strategy against BCR-ABL1-independent resistance.",
+      "summaryZh": "BCR-ABL1 独立耐药性仍然是慢性粒细胞白血病 (CML) 的主要挑战。这些耐药细胞表现出基础活性氧（ROS）升高，从而造成治疗脆弱性。我们证明小檗碱 (BBR) 可以作为缺氧诱导因子 1 Alpha (HIF1α) 的天然分子胶降解剂来利用此漏洞。 BBR 在 E816 处直接结合 HIF1α，稳定其与 E3 泛素连接酶 TRIM28 的相互作用，随后促进 K48 连接的 HIF1α 泛素化。 HIF1α 降解会在转录上抑制 PDE4D，导致环 AMP (cAMP) 积累并激活 xCT 轴，从而耗尽谷胱甘肽。 BBR 还通过上调 MT1X、MT2A 和 SLC30A8 mRNA 水平、隔离 Cu 2+ /Zn 2+ 和抑制 SOD1 来诱导金属硫蛋白介导的金属离子稳态失调。这些效应协同上调 ROS，引发铁死亡，克服体内和体外不依赖于 BCR-ABL1 的耐药性。因此，我们的研究结果确定了 BCR-ABL1 独立耐药细胞中的氧化应激脆弱性，并表明 BBR（一种天然分子胶降解剂）通过 HIF1α 泛素化和降解利用了这种脆弱性。这导致 ROS 升高，随后引发铁死亡，从而提供了一种针对 BCR-ABL1 独立耐药性的新治疗策略。",
+      "translationSource": "abb27e9c64c94943"
+    },
     {
       "pmid": "42696591",
       "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae .",
@@ -237,6 +324,27 @@
       "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
       "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
       "translationSource": "4434e4f437b40da3"
+    },
+    {
+      "pmid": "42642514",
+      "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo.",
+      "titleZh": "在小鼠胚胎中发挥作用的组织特异性哺乳动物增强子的预测设计。",
+      "journal": "Nature Genetics",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41588-026-02729-1",
+      "doiUrl": "https://doi.org/10.1038/s41588-026-02729-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642514/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Enhancers control tissue-specific gene expression across animals 1 . Although deep learning 2,3 has enabled enhancer prediction and design in mammalian cell lines and non-mammalian model organisms 4-10 (reviewed in a previous publication 11 ), it remains unclear whether such approaches can operate within the regulatory complexity of mammalian genomes and tissues in vivo. Here we present a general strategy for designing tissue-specific enhancers that function reliably in mice. We use deep learning to train compact convolutional neural networks on curated chromatin accessibility data and fine-tune them by transfer learning on validated human and mouse enhancers. Guided by these models, we design 15 synthetic enhancers for the heart, limb and central nervous system in mouse embryos, all of which are active in their intended target tissue. These results demonstrate that mammalian enhancer function can be reliably inferred from DNA sequence alone, enabling the predictive de novo design of tissue-specific synthetic enhancers from modest training sets. This work establishes a generalizable framework for programmable control of mammalian gene expression in vivo, opening new avenues in functional genomics, synthetic biology and gene therapy.",
+      "summaryZh": "增强子控制动物组织特异性基因表达 1 。尽管深度学习 2,3 已经能够在哺乳动物细胞系和非哺乳动物模型生物体 4-10 中实现增强子预测和设计（在之前的出版物中进行了综述 11 ），但目前尚不清楚这些方法是否可以在哺乳动物基因组和体内组织的监管复杂性范围内发挥作用。在这里，我们提出了设计在小鼠中可靠发挥作用的组织特异性增强剂的一般策略。我们使用深度学习在精选的染色质可及性数据上训练紧凑的卷积神经网络，并通过对经过验证的人类和小鼠增强器进行迁移学习来对其进行微调。在这些模型的指导下，我们为小鼠胚胎的心脏、四肢和中枢神经系统设计了 15 种合成增强剂，所有这些增强剂在其预期目标组织中都有活性。这些结果表明，哺乳动物增强子功能可以仅从 DNA 序列可靠地推断出来，从而能够从适度的训练集中预测性地从头​​设计组织特异性合成增强子。这项工作为哺乳动物体内基因表达的可编程控制建立了一个通用框架，为功能基因组学、合成生物学和基因治疗开辟了新途径。",
+      "translationSource": "74403936a5015561"
     },
     {
       "pmid": "41942734",
@@ -700,27 +808,6 @@
       "abstractEn": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
       "summaryZh": "在额颞叶痴呆和肌萎缩侧索硬化症等神经退行性疾病中，Tau 和 TDP-43 等病理形式的蛋白质在细胞内大量异质包涵体中积累。目前消除患者体内此类异常蛋白质种类的策略面临三个主要挑战：穿过血脑屏障和质膜，专门识别蛋白质的病理形式，以及消除大实体的机制。在这里，我们将 LC3A（一种将底物招募到自噬体中的中心蛋白）与细胞质稳定的抗体融合。这些针对 Tau 或 TDP-43 的工程化自噬受体通过小细胞外囊泡进行递送，并减少模型中的病理学，包括 Tau P301S 成年原代小鼠神经元、TDP-43 G298S iPSC 衍生的运动神经元以及 Tau P301S 小鼠静脉注射后的病理。同样，TDP-43 ΔNLS 小鼠中腺相关病毒介导的递送增强了病理性 TDP-43 的清除。这种有针对性的降解策略允许将其输送到大脑中，同时利用抗体的特异性和自噬降解大型细胞内实体的能力。",
       "translationSource": "d748eac24c50f68f"
-    },
-    {
-      "pmid": "42642514",
-      "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo.",
-      "titleZh": "在小鼠胚胎中发挥作用的组织特异性哺乳动物增强子的预测设计。",
-      "journal": "Nature Genetics",
-      "year": 2026,
-      "published": "2026-08-25",
-      "doi": "10.1038/s41588-026-02729-1",
-      "doiUrl": "https://doi.org/10.1038/s41588-026-02729-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642514/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
-      "abstractEn": "Enhancers control tissue-specific gene expression across animals 1 . Although deep learning 2,3 has enabled enhancer prediction and design in mammalian cell lines and non-mammalian model organisms 4-10 (reviewed in a previous publication 11 ), it remains unclear whether such approaches can operate within the regulatory complexity of mammalian genomes and tissues in vivo. Here we present a general strategy for designing tissue-specific enhancers that function reliably in mice. We use deep learning to train compact convolutional neural networks on curated chromatin accessibility data and fine-tune them by transfer learning on validated human and mouse enhancers. Guided by these models, we design 15 synthetic enhancers for the heart, limb and central nervous system in mouse embryos, all of which are active in their intended target tissue. These results demonstrate that mammalian enhancer function can be reliably inferred from DNA sequence alone, enabling the predictive de novo design of tissue-specific synthetic enhancers from modest training sets. This work establishes a generalizable framework for programmable control of mammalian gene expression in vivo, opening new avenues in functional genomics, synthetic biology and gene therapy.",
-      "summaryZh": "增强子控制动物组织特异性基因表达 1 。尽管深度学习 2,3 已经能够在哺乳动物细胞系和非哺乳动物模型生物体 4-10 中实现增强子预测和设计（在之前的出版物中进行了综述 11 ），但目前尚不清楚这些方法是否可以在哺乳动物基因组和体内组织的监管复杂性范围内发挥作用。在这里，我们提出了设计在小鼠中可靠发挥作用的组织特异性增强剂的一般策略。我们使用深度学习在精选的染色质可及性数据上训练紧凑的卷积神经网络，并通过对经过验证的人类和小鼠增强器进行迁移学习来对其进行微调。在这些模型的指导下，我们为小鼠胚胎的心脏、四肢和中枢神经系统设计了 15 种合成增强剂，所有这些增强剂在其预期目标组织中都有活性。这些结果表明，哺乳动物增强子功能可以仅从 DNA 序列可靠地推断出来，从而能够从适度的训练集中预测性地从头​​设计组织特异性合成增强子。这项工作为哺乳动物体内基因表达的可编程控制建立了一个通用框架，为功能基因组学、合成生物学和基因治疗开辟了新途径。",
-      "translationSource": "74403936a5015561"
     },
     {
       "pmid": "42680774",
@@ -1194,6 +1281,27 @@
       "abstractEn": "The proteasome activator PA200 binds to the catalytic core of both standard proteasome (s20S) and the immunoproteasome (i20S); however, whether PA200 uses the same mechanisms to activate i20S remains unknown. In this work, the cryo-EM structures of singly- and doubly-capped i20S-PA200 complexes, combined with complementary in vitro biochemical assays, show that binding of the first PA200 induces allosteric bending of the i20S and widens the opposite α-ring, promoting higher PA200 occupancy and stronger activation compared to the s20S. PA200 also selectively modulates i20S proteolytic activity by enhancing peptide production and shifting cleavage specificity toward caspase-like activity. In cells and tissues co-expressing PA200, s20S, and i20S, PA200 preferentially associates with the i20S. Moreover, PA200 and i20S catalytic subunits are differentially regulated, with PA200 playing a potential role in regulating the i20S subunits' expression. Overall, these findings suggest that PA200 contributes to the regulation of i20S function and dynamics.",
       "summaryZh": "蛋白酶体激活剂 PA200 与标准蛋白酶体 (s20S) 和免疫蛋白酶体 (i20S) 的催化核心结合；然而，PA200是否使用相同的机制来激活i20S仍然未知。在这项工作中，单端和双端 i20S-PA200 复合物的冷冻电镜结构，结合互补的体外生化测定，表明第一个 PA200 的结合诱导 i20S 的变构弯曲并加宽相反的 α 环，与 s20S 相比，促进更高的 PA200 占有率和更强的激活。 PA200 还通过增强肽生成并将切割特异性转向半胱天冬酶样活性来选择性调节 i20S 蛋白水解活性。在共表达 PA200、s20S 和 i20S 的细胞和组织中，PA200 优先与 i20S 结合。此外，PA200和i20S催化亚基受到差异性调节，其中PA200在调节i20S亚基的表达中发挥潜在作用。总的来说，这些发现表明 PA200 有助于调节 i20S 功能和动力学。",
       "translationSource": "117da1f2c8a3e8fc"
+    },
+    {
+      "pmid": "42706267",
+      "title": "Rab4b controls hepatic glucose production during fasting through glycophagy.",
+      "titleZh": "Rab4b 通过糖吞噬控制禁食期间肝脏葡萄糖的产生。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-10",
+      "doi": "10.1038/s41467-026-76218-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76218-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42706267/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Hepatic glucose production, essential for maintaining glycemia, is often altered in metabolic-associated fatty liver and glycogen storage diseases. Therefore, understanding the mechanisms that regulate the glucose production by hepatocyte is pivotal. Recent studies have identified endocytic trafficking as a key modulator of liver glucose production. Particularly, its role in directing protein trafficking toward lysosomal degradation influences gluconeogenesis. However, the contribution of endocytic recycling to liver glucose production remains yet poorly understood. Here, we demonstrate that hepatocyte-specific disruption of endocytic recycling, achieved through Rab4b knockout in male, leads to fasting hyperglycemia. Mechanistically, hepatocytes lacking Rab4b exhibit an increased capacity to produce glucose independently of gluconeogenesis by depleting their glycogen stores. This is driven by enhanced glycophagy, leading to excessive glucose release and fasting hyperglycemia. Notably, liver Rab4b expression also correlates with glycemia in both mice and human, highlighting a critical role of Rab4b-dependent endocytic recycling in regulating blood glucose homeostasis during fasting.",
+      "summaryZh": "肝脏葡萄糖的产生对于维持血糖至关重要，但在代谢相关的脂肪肝和糖原储存疾病中经常发生改变。因此，了解调节肝细胞产生葡萄糖的机制至关重要。最近的研究已确定内吞运输是肝脏葡萄糖产生的关键调节剂。特别是，它在引导蛋白质运输至溶酶体降解方面的作用影响糖异生。然而，内吞再循环对肝脏葡萄糖产生的贡献仍然知之甚少。在这里，我们证明通过敲除男性中的 Rab4b 实现肝细胞特异性内吞再循环破坏，导致空腹高血糖。从机制上讲，缺乏 Rab4b 的肝细胞通过消耗其糖原储备，表现出独立于糖异生而产生葡萄糖的能力增加。这是由增强的糖吞噬作用驱动的，导致葡萄糖释放过多和空腹高血糖。值得注意的是，肝脏 Rab4b 表达还与小鼠和人类的血糖相关，突显了 Rab4b 依赖性内吞再循环在调节禁食期间血糖稳态中的关键作用。",
+      "translationSource": "4f85327336d84b75"
     },
     {
       "pmid": "42702606",
@@ -4217,27 +4325,6 @@
       "translationSource": "0749aff7cfce9e40"
     },
     {
-      "pmid": "42324259",
-      "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy.",
-      "titleZh": "传感中心体扩增：中心粒复制和自噬之间的界面。",
-      "journal": "Nature Communications",
-      "year": 2026,
-      "published": "2026-06-21",
-      "doi": "10.1038/s41467-026-74702-9",
-      "doiUrl": "https://doi.org/10.1038/s41467-026-74702-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42324259/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Multipolar mitotic spindles with extra centrosomes, first observed in cancer cells in the late nineteenth century, remain poorly understood. Here, to address how cells overcome proliferation arrest imposed by centrosome amplification, we describe a genome-wide screen revealing that downregulation of the Wnt, Hippo, Tpr53, PIDDosome, ciliary biogenesis, or autophagy pathways enables proliferation of mouse embryonic stem cells having PLK4-mediated centrosome amplification. We select the tumor suppressor, Guanine-nucleotide Activating Protein ARHGAP15, for further study as its depletion activates autophagy, overcomes centrosome amplification, and enables embryonic fibroblast proliferation. Reduction of centrosomes following ARHGAP15 depletion requires autophagy protein, ATG16L1, which associates with ARHGAP15 when the autophagy pathway is inactive. ARHGAP15 is opposed by Guanine-nucleotide Exchange Factor ARHGEF2, which is activated by the centriolar protein CEP170 to generate RAC1-GTP and promote autophagy. Together our findings add extra dimensions to the roles of RAC1 in cytoskeletal regulation and ARHGAP15 as a potential tumor suppressor.",
-      "summaryZh": "具有额外中心体的多极有丝分裂纺锤体首次在十九世纪末在癌细胞中观察到，但人们仍然知之甚少。在这里，为了解决细胞如何克服中心体扩增造成的增殖停滞，我们描述了全基因组筛选，揭示了Wnt、Hippo、Tpr53、PIDDosome、纤毛生物发生或自噬途径的下调使得具有PLK4介导的中心体扩增的小鼠胚胎干细胞能够增殖。我们选择肿瘤抑制因子鸟嘌呤核苷酸激活蛋白 ARHGAP15 进行进一步研究，因为它的消耗会激活自噬，克服中心体扩增，并使胚胎成纤维细胞增殖。 ARHGAP15 耗尽后中心体的减少需要自噬蛋白 ATG16L1，当自噬途径不活跃时，该蛋白与 ARHGAP15 结合。 ARHGAP15 与鸟嘌呤核苷酸交换因子 ARHGEF2 相对，后者被中心粒蛋白 CEP170 激活，生成 RAC1-GTP 并促进自噬。我们的研究结果共同为 RAC1 在细胞骨架调节中的作用和 ARHGAP15 作为潜在的肿瘤抑制因子增加了额外的维度。",
-      "translationSource": "3468fef8f6dcefaf"
-    },
-    {
       "pmid": "42324256",
       "title": "A unified platform for the rapid assembly of glutarimides for Cereblon E3 ligase modulatory drugs.",
       "titleZh": "用于快速组装 Cereblon E3 连接酶调节药物的戊二酰亚胺的统一平台。",
@@ -4260,6 +4347,27 @@
       "abstractEn": "Glutarimide-containing Cereblon (CRBN) ligands are critical motifs for PROTACs, molecular glue degraders and next-generation Cereblon E3 ligase modulatory drugs (CELMoDs), which represent promising therapeutic modalities in targeted protein degradation. However, the multistep synthetic routes required to access glutarimide scaffolds continue to present formidable challenges for medicinal chemists, limiting rapid structure-activity relationship (SAR) exploration and late-stage diversification. To streamline access to these privileged motifs, modular and efficient methodologies are still highly desirable. Here, we report a unified organocatalytic synthesis platform for the rapid assembly of diverse glutarimide derivatives from readily available nitrogen heterocycles. Employing a sequence of phosphine-catalysed C-N bond formation, metal-free Giese addition and acid-mediated cyclisation, this approach provides high selectivity, broad functional group tolerance and operational simplicity under conditions amenable to both multigram synthesis and high-throughput parallel synthesis. Using this platform, we rapidly prepare CRBN binder libraries, access control analogues (for example, N‑alkylated glutarimides) and perform late‑stage functionalisation of bioactive molecules. This strategy could offer a transformative solution for the efficient and cost-effective synthesis of CRBN-targeted therapeutics and chemical biology probes, overcoming longstanding synthetic bottlenecks in the field.",
       "summaryZh": "含戊二酰亚胺的 Cereblon (CRBN) 配体是 PROTAC、分子胶降解剂和下一代 Cereblon E3 连接酶调节药物 (CELMoD) 的关键基序，代表了靶向蛋白质降解的有前途的治疗方式。然而，获得戊二酰亚胺支架所需的多步合成路线继续给药物化学家带来巨大的挑战，限制了快速构效关系（SAR）探索和后期多样化。为了简化对这些特权主题的访问，仍然非常需要模块化和高效的方法。在这里，我们报告了一个统一的有机催化合成平台，用于从容易获得的氮杂环中快速组装各种戊二酰亚胺衍生物。该方法采用一系列膦催化的 C-N 键形成、无金属吉斯加成和酸介导的环化，在适合多克合成和高通量平行合成的条件下提供高选择性、广泛的官能团耐受性和操作简单性。使用该平台，我们快速制备 CRBN 结合物库、访问控制类似物（例如 N-烷基化戊二酰亚胺）并进行生物活性分子的后期功能化。该策略可以为高效且经济高效地合成 CRBN 靶向治疗药物和化学生物学探针提供变革性解决方案，克服该领域长期存在的合成瓶颈。",
       "translationSource": "cefe705622d49a06"
+    },
+    {
+      "pmid": "42324259",
+      "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy.",
+      "titleZh": "传感中心体扩增：中心粒复制和自噬之间的界面。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-06-21",
+      "doi": "10.1038/s41467-026-74702-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-74702-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42324259/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Multipolar mitotic spindles with extra centrosomes, first observed in cancer cells in the late nineteenth century, remain poorly understood. Here, to address how cells overcome proliferation arrest imposed by centrosome amplification, we describe a genome-wide screen revealing that downregulation of the Wnt, Hippo, Tpr53, PIDDosome, ciliary biogenesis, or autophagy pathways enables proliferation of mouse embryonic stem cells having PLK4-mediated centrosome amplification. We select the tumor suppressor, Guanine-nucleotide Activating Protein ARHGAP15, for further study as its depletion activates autophagy, overcomes centrosome amplification, and enables embryonic fibroblast proliferation. Reduction of centrosomes following ARHGAP15 depletion requires autophagy protein, ATG16L1, which associates with ARHGAP15 when the autophagy pathway is inactive. ARHGAP15 is opposed by Guanine-nucleotide Exchange Factor ARHGEF2, which is activated by the centriolar protein CEP170 to generate RAC1-GTP and promote autophagy. Together our findings add extra dimensions to the roles of RAC1 in cytoskeletal regulation and ARHGAP15 as a potential tumor suppressor.",
+      "summaryZh": "具有额外中心体的多极有丝分裂纺锤体首次在十九世纪末在癌细胞中观察到，但人们仍然知之甚少。在这里，为了解决细胞如何克服中心体扩增造成的增殖停滞，我们描述了全基因组筛选，揭示了Wnt、Hippo、Tpr53、PIDDosome、纤毛生物发生或自噬途径的下调使得具有PLK4介导的中心体扩增的小鼠胚胎干细胞能够增殖。我们选择肿瘤抑制因子鸟嘌呤核苷酸激活蛋白 ARHGAP15 进行进一步研究，因为它的消耗会激活自噬，克服中心体扩增，并使胚胎成纤维细胞增殖。 ARHGAP15 耗尽后中心体的减少需要自噬蛋白 ATG16L1，当自噬途径不活跃时，该蛋白与 ARHGAP15 结合。 ARHGAP15 与鸟嘌呤核苷酸交换因子 ARHGEF2 相对，后者被中心粒蛋白 CEP170 激活，生成 RAC1-GTP 并促进自噬。我们的研究结果共同为 RAC1 在细胞骨架调节中的作用和 ARHGAP15 作为潜在的肿瘤抑制因子增加了额外的维度。",
+      "translationSource": "3468fef8f6dcefaf"
     },
     {
       "pmid": "42308302",
