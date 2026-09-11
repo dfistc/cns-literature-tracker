@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:39:03+00:00",
+  "updatedAt": "2026-09-11T01:37:50+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -23,6 +23,92 @@
       "abstractEn": "Glioblastoma (GBM) remains a formidable clinical challenge, characterized by invasive growth, therapeutic resistance, and dismal patient survival. We report the development of HITMAN (highly localized electric field-induced tumor therapy using magnetically actuated nanoantennas), a wireless bioelectric therapy that selectively eradicates GBM cells with cellular precision. Magnetically actuated nanoantennas convert low-frequency (≤200 kHz), deep-brain-penetrant magnetic fields into localized electric fields, thereby triggering protein unfolding, membrane disruption, and ER stress. In vitro, HITMAN demonstrated superior efficacy compared to temozolomide (TMZ), significantly decreasing viability in drug-resistant, patient-derived GBM cells by 52.2%, versus 10% with TMZ while sparing neurons and astrocytes. Mechanistically, HITMAN activated the unfolded protein response and autophagy pathways, suppressed cell cycle and adhesion genes, reduced Ki-67 expression, disrupted cytoskeletal architecture, and elevated p53 levels, underscoring a multifaceted antitumor mechanism. In orthotopic mouse models, HITMAN significantly inhibited tumor growth, extended median survival by more than 50%, and exhibited no systemic toxicity. Thus, HITMAN offers a minimally invasive, spatially precise, and clinically translatable therapy for GBM.",
       "summaryZh": "胶质母细胞瘤（GBM）仍然是一个艰巨的临床挑战，其特点是侵袭性生长、治疗耐药和患者生存率低。我们报告了 HITMAN（使用磁驱动纳米天线的高度局部电场诱导肿瘤治疗）的开发，这是一种无线生物电疗法，可以以细胞精度选择性地根除 GBM 细胞。磁驱动纳米天线将低频（≤200 kHz）、深部大脑渗透磁场转换为局部电场，从而触发蛋白质展开、膜破坏和内质网应激。在体外，HITMAN 与替莫唑胺 (TMZ) 相比表现出卓越的功效，将耐药的患者来源 GBM 细胞的活力显着降低 52.2%，而 TMZ 则降低 10%，同时保留神经元和星形胶质细胞。从机制上讲，HITMAN 激活未折叠蛋白反应和自噬途径，抑制细胞周期和粘附基因，减少 Ki-67 表达，破坏细胞骨架结构，并提高 p53 水平，强调了多方面的抗肿瘤机制。在原位小鼠模型中，HITMAN 显着抑制肿瘤生长，将中位生存期延长 50% 以上，并且没有表现出全身毒性。因此，HITMAN 为 GBM 提供了一种微创、空间精确且可临床转化的治疗方法。",
       "translationSource": "c3d48e80f2f2415b"
+    },
+    {
+      "pmid": "42717093",
+      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK.",
+      "titleZh": "TRI-611，一种选择性脑渗透性 ALK 分子胶降解剂。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-09",
+      "doi": "10.1038/s41586-026-10998-3",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10998-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717093/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, degron。",
+      "abstractEn": "Tyrosine kinase inhibitors (TKIs) targeting anaplastic lymphoma kinase (ALK) have transformed the treatment landscape of ALK fusion-positive non-small-cell lung carcinoma (ALK-positive NSCLC), but the limited options for patients who progress on approved TKIs highlight a continued need for an orthogonal therapeutic approach 1,2 . TRI-611 is a potent, brain-penetrant molecular glue degrader of ALK fusion proteins with the potential to address this need. TRI-611 promotes the proximity of the ALK kinase domain and CRL4 substrate adaptor CRBN through a unique degron interface distal from the kinase active site. The unique binding interface of TRI-611 leads to selectivity across the proteome including known CRBN neosubstrates and other kinases. TRI-611 treatment induces degradation of all forms of ALK fusion proteins, including wild-type and ALK TKI-resistant versions, leading to regression of cell line and patient-derived subcutaneous and intracranial tumour models of ALK-positive NSCLC. TRI-611 can be combined with orthosteric ALK TKIs, achieving synergistic and durable tumour regressions. TRI-611 represents to our knowledge the first clinical-stage molecular glue degrader targeting an oncogenic gene fusion and has the potential to expand the arsenal of therapeutic options for patients with ALK-positive NSCLC .",
+      "summaryZh": "靶向间变性淋巴瘤激酶 (ALK) 的酪氨酸激酶抑制剂 (TKI) 已经改变了 ALK 融合阳性非小细胞肺癌（ALK 阳性 NSCLC）的治疗格局，但对于使用已批准 TKI 取得进展的患者来说，选择有限，凸显了对正交治疗方法的持续需求 1,2 。 TRI-611 是一种有效的脑渗透性 ALK 融合蛋白分子胶降解剂，有可能满足这一需求。 TRI-611 通过远离激酶活性位点的独特降解决定子界面促进 ALK 激酶结构域和 CRL4 底物接头 CRBN 的接近。 TRI-611 独特的结合界面导致对蛋白质组的选择性，包​​括已知的 CRBN 新底物和其他激酶。 TRI-611 治疗可诱导所有形式的 ALK 融合蛋白（包括野生型和 ALK TKI 耐药版本）降解，导致细胞系和患者来源的 ALK 阳性 NSCLC 皮下和颅内肿瘤模型消退。 TRI-611 可与正位 ALK TKI 联合使用，实现协同且持久的肿瘤消退。据我们所知，TRI-611 代表了第一个针对致癌基因融合的临床阶段分子胶降解剂，并有可能扩大 ALK 阳性 NSCLC 患者的治疗选择。",
+      "translationSource": "42cbe04ecc59a3fb"
+    },
+    {
+      "pmid": "42717083",
+      "title": "TM184C is a GPCR-like regulator of intercellular exchange and autophagy.",
+      "titleZh": "TM184C 是一种类似 GPCR 的细胞间交换和自噬调节因子。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-09",
+      "doi": "10.1038/s41586-026-10993-8",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10993-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717083/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Sequence similarity underlies most protein annotation, yet many functions remain hidden beyond detectable homology 1-3 . By mining millions of AlphaFold2 models 4,5 , we identify two human families of 'superdark' seven-transmembrane proteins-TM184 and PRRT-with structural homology to G-protein-coupled receptors (GPCRs). These proteins exhibit hallmark GPCR activities, including β-arrestin recruitment and GPCR kinase (GRK)-dependent phosphorylation. Here we focus on TM184C-the most broadly expressed and evolutionarily conserved superdark GPCR-like protein, which localizes to highly dynamic intracellular vesicles rather than the plasma membrane. These vesicles move along microtubules, accumulate in cell projections and promote the formation of tunnelling nanotube- and tumour microtubule-like intercellular connections. These bridges mediate organelle sharing through a process that requires the TM184C C-terminal tail and its arrestin code motif 6 , linking GPCR-like β-arrestin and GRK regulation to vesicle function and intercellular connectivity. TM184C also constrains autophagic flux by limiting LC3B lipidation and autophagosome accumulation-a role that is deeply conserved, as human TM184C restores autophagic body homeostasis in yeast lacking its homologue, Hfl1. Together, these findings illustrate how structure-based protein discovery can illuminate the dark proteome and identify TM184C as an ancient GPCR-like regulator of autophagy, intercellular connectivity and material exchange.",
+      "summaryZh": "序列相似性是大多数蛋白质注释的基础，但许多功能仍然隐藏在可检测的同源性之外 1-3 。通过挖掘数百万个 AlphaFold2 模型 4,5 ，我们确定了两个人类“超暗”七跨膜蛋白家族 - TM184 和 PRRT - 与 G 蛋白偶联受体 (GPCR) 具有结构同源性。这些蛋白质表现出标志性的 GPCR 活性，包括 β-arrestin 募集和 GPCR 激酶 (GRK) 依赖性磷酸化。在这里，我们重点关注 TM184C——表达最广泛、进化上最保守的超暗 GPCR 样蛋白，它定位于高度动态的细胞内囊泡而不是质膜。这些囊泡沿着微管移动，在细胞突起中积累，并促进隧道纳米管和肿瘤微管样细胞间连接的形成。这些桥通过需要 TM184C C 末端尾部及其抑制蛋白代码基序 6 的过程介导细胞器共享，将 GPCR 样 β-抑制蛋白和 GRK 调节与囊泡功能和细胞间连接联系起来。 TM184C 还通过限制 LC3B 脂化和自噬体积累来限制自噬通量，这一作用是高度保守的，因为人 TM184C 在缺乏其同源物 Hfl1 的酵母中恢复自噬体稳态。总之，这些发现说明了基于结构的蛋白质发现如何阐明暗蛋白质组，并将 TM184C 识别为自噬、细胞间连接和物质交换的古老 GPCR 样调节因子。",
+      "translationSource": "b62c73d21a163011"
+    },
+    {
+      "pmid": "42594861",
+      "title": "Proteasome-dependent protein degradation shapes developmental tempo in mouse and human neural progenitors.",
+      "titleZh": "蛋白酶体依赖性蛋白质降解影响小鼠和人类神经祖细胞的发育节奏。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-09-09",
+      "doi": "10.1016/j.devcel.2026.07.014",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.07.014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42594861/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "The pace of embryonic development differs between mammalian species, yet the molecular basis for this remains unknown. By comparing protein dynamics in mouse and human neural progenitors (NPs), we show that protein turnover is faster in mouse NPs, driven by higher rates of protein synthesis and degradation. Human NPs exhibit longer protein half-lives, reduced proteasomal activity, and lower proteasome abundance. These differences persist in post-mitotic neurons and are also observed in the embryonic spinal cord in vivo. Pharmacological inhibition of proteasomal activity slows differentiation in mouse NPs. Conversely, enhancing proteasomal activity accelerates neuronal output in human NPs. Moreover, accelerating the degradation of the key transcriptional repressor IRX3 in mouse NPs speeds the activation of its target gene. Together, these results provide evidence that species-specific regulation of proteasome-mediated proteolysis influences the timing of neural development and suggest that evolutionary tuning of proteasomal activity contributes to differences in embryonic developmental pace.",
+      "summaryZh": "哺乳动物物种之间的胚胎发育速度有所不同，但其分子基础仍然未知。通过比较小鼠和人类神经祖细胞 (NP) 中的蛋白质动态，我们发现小鼠 NP 中的蛋白质周转速度更快，这是由更高的蛋白质合成和降解率驱动的。人类纳米颗粒表现出更长的蛋白质半衰期、降低的蛋白酶体活性和更低的蛋白酶体丰度。这些差异在有丝分裂后神经元中持续存在，并且在体内胚胎脊髓中也观察到。蛋白酶体活性的药理抑制可减缓小鼠 NP 的分化。相反，增强蛋白酶体活性会加速人类纳米颗粒的神经元输出。此外，加速小鼠 NP 中关键转录抑制因子 IRX3 的降解，可加速其靶基因的激活。总之，这些结果提供了证据，表明蛋白酶体介导的蛋白水解的物种特异性调节影响神经发育的时间，并表明蛋白酶体活性的进化调整有助于胚胎发育速度的差异。",
+      "translationSource": "e206ecaaabfcd53d"
+    },
+    {
+      "pmid": "42716028",
+      "title": "Let there be multifunctionality: Uncovering the dynamical zoo of the AC-DC genetic circuit.",
+      "titleZh": "让它具有多功能性：揭示交流-直流遗传电路的动态动物园。",
+      "journal": "Cell Systems",
+      "year": 2026,
+      "published": "2026-09-09",
+      "doi": "10.1016/j.cels.2026.101715",
+      "doiUrl": "https://doi.org/10.1016/j.cels.2026.101715",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42716028/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Gene regulatory networks (GRNs) govern many cell processes. While multistability and oscillations are common GRN dynamics, they are typically studied and engineered in isolation. Here, we challenge this separation using the AC-DC circuit, a minimal three-gene network that merges the classical toggle switch and repressilator. Using a thermodynamic formalism and Bayesian inference, we show that a single-inducer version of the circuit displays diverse multifunctional dynamics, including coexistence of oscillations and multistability. We explore robustness, classify emergent behaviors, and analyze critical slowing down. Remarkably, the AC-DC circuit can produce more than thirty topologically distinct bifurcation diagrams, results that challenge the classical view that network topology rigidly constrains dynamical outcomes. This flexibility enables synthetic capabilities coupling hysteresis with oscillations, criticality, and reversibility. By uncovering the potential of minimal genetic circuits and outlining design principles for their implementation, this work opens directions for harnessing emergent complexity using the basic building blocks of life. A record of this paper's transparent peer review process is included in the supplemental information.",
+      "summaryZh": "基因调控网络（GRN）控制许多细胞过程。虽然多稳定性和振荡是常见的 GRN 动力学，但它们通常是单独研究和设计的。在这里，我们使用 AC-DC 电路来挑战这种分离，这是一个融合了经典拨动开关和抑制器的最小三基因网络。使用热力学形式和贝叶斯推理，我们证明了电路的单感应器版本显示出多种多功能动力学，包括振荡和多稳定性的共存。我们探索稳健性，对紧急行为进行分类，并分析关键的放缓。值得注意的是，AC-DC 电路可以产生三十多个拓扑不同的分叉图，这些结果挑战了网络拓扑严格限制动态结果的经典观点。这种灵活性使得合成能力能够将滞后与振荡、临界性和可逆性耦合起来。通过揭示最小遗传电路的潜力并概述其实施的设计原则，这项工作为利用生命的基本构建模块驾驭突发的复杂性开辟了方向。补充信息中包含了本文透明同行评审过程的记录。",
+      "translationSource": "b07d35d06dd7becc"
     },
     {
       "pmid": "42715104",
@@ -476,6 +562,28 @@
       "abstractEn": "Engineering synthetic intrinsically disordered proteins (synIDPs) enables regulation of biomolecular condensation and protein solubility. However, limited understanding of how sequence-dependent interaction cooperativity relates to the fitness impacts of synIDPs on endogenous cellular processes constrains our design capability. Here, to circumvent this design challenge, we present a systematic directed evolution method for the evolution of synIDPs capable of mediating diverse phase behaviors in living cells. The selection methods allow us to evolve a toolbox of synIDPs with distinct phase behaviors and thermoresponsive features in living cells, leading to the evolution of synthetic condensates. The reverse-selection method further allows us to select synIDPs as solubility tags. We demonstrate the applications of the evolved synIDPs in protein circuits to (1) regulate intracellular protein activity and (2) reverse antibiotic resistance. Our systematic evolution and selection strategies provide a versatile platform for developing synIDPs for broad applications in synthetic biology and biotechnology.",
       "summaryZh": "工程合成本质无序蛋白质 (synIDP) 能够调节生物分子缩合和蛋白质溶解度。然而，对序列依赖性相互作用协同性与 synIDP 对内源细胞过程的适应性影响如何相关的有限了解限制了我们的设计能力。在这里，为了规避这一设计挑战，我们提出了一种系统定向进化方法，用于能够介导活细胞中不同相行为的 synIDP 的进化。选择方法使我们能够在活细胞中进化出具有不同相行为和热响应特征的 synIDP 工具箱，从而导致合成缩合物的进化。反向选择方法进一步允许我们选择 synIDP 作为溶解度标签。我们展示了进化的 synIDP 在蛋白质电路中的应用，以 (1) 调节细胞内蛋白质活性和 (2) 逆转抗生素耐药性。我们的系统进化和选择策略为开发 synIDP 提供了一个多功能平台，可在合成生物学和生物技术领域广泛应用。",
       "translationSource": "2df1373b2a1d9b92"
+    },
+    {
+      "pmid": "42587154",
+      "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys.",
+      "titleZh": "用于小鼠和猴子血糖调节的葡萄糖反应性益生菌。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41586-026-10909-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10909-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42587154/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic gene circuit",
+        "gene circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic gene circuit, gene circuit。",
+      "abstractEn": "Sustained and controlled delivery of glucose-lowering agents using engineered designer cells is recognized as an effective strategy for diabetes therapy 1 . However, current technologies rely on external signal control or have been programmed into mammalian cells using synthetic gene networks, which pose safety concerns arising from transplantation 2,3 . Here we developed an engineered oral-deliverable glucose-sensing and functional response probiotic living drug for 'sense-and-respond'-based control of diabetic blood glucose. We created a glucose sensor based on a synthetic gene circuit that incorporates the glucose-responsive transcriptional regulator HexR, coupled with a synthetic promoter. Upon oral administration of the engineered probiotics carrying the sensor, the cells reside temporarily in the intestine and regulate the expression of therapeutic transgenes in response to glucose levels that exceed the normal threshold. We show efficacy from the engineered probiotics for glycaemic control in multiple diabetic mouse and non-human primate models, demonstrating that long-term oral administration drives clear improvements in lipid profiles, while also attenuating development of multiple diabetic complications. Our probiotics-based living drug enables therapeutic dosing in response to real-time blood glucose levels, providing a programmable, orally deliverable sense-and-respond platform for metabolic therapy without transplantation.",
+      "summaryZh": "使用工程设计细胞持续和受控地输送降糖药物被认为是糖尿病治疗的有效策略 1 。然而，当前的技术依赖于外部信号控制或已使用合成基因网络编程到哺乳动物细胞中，这引起了移植引起的安全问题 2,3 。在这里，我们开发了一种工程化的口服葡萄糖感应和功能反应益生菌活性药物，用于基于“感应和反应”的糖尿病血糖控制。我们创建了一种基于合成基因电路的葡萄糖传感器，该电路包含葡萄糖响应转录调节因子 HexR 以及合成启动子。口服携带传感器的工程益生菌后，细胞会暂时驻留在肠道中，并根据超过正常阈值的葡萄糖水平调节治疗性转基因的表达。我们在多种糖尿病小鼠和非人类灵长类动物模型中展示了工程益生菌对血糖控制的功效，证明长期口服给药可明显改善血脂状况，同时还可减轻多种糖尿病并发症的发展。我们基于益生菌的活体药物能够根据实时血糖水平进行治疗剂量，为无需移植的代谢治疗提供可编程的、口服的感知和响应平台。",
+      "translationSource": "2805b4a7bbf217b4"
     },
     {
       "pmid": "42679813",
@@ -1153,25 +1261,25 @@
       "translationSource": "82123be017d88104"
     },
     {
-      "pmid": "42594861",
-      "title": "Proteasome-dependent protein degradation shapes developmental tempo in mouse and human neural progenitors.",
-      "titleZh": "蛋白酶体依赖性蛋白质降解影响小鼠和人类神经祖细胞的发育节奏。",
-      "journal": "Developmental Cell",
+      "pmid": "42717200",
+      "title": "ARID5A RNA-binding coordinates microglial defense and ferroptosis in iPSC-derived models.",
+      "titleZh": "ARID5A RNA 结合可协调 iPSC 衍生模型中的小胶质细胞防御和铁死亡。",
+      "journal": "Nature Communications",
       "year": 2026,
-      "published": "2026-08-13",
-      "doi": "10.1016/j.devcel.2026.07.014",
-      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.07.014",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42594861/",
+      "published": "2026-08-12",
+      "doi": "10.1038/s41467-026-76131-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76131-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717200/",
       "categories": [
         "溶酶体/蛋白酶体"
       ],
       "matchedTerms": [
-        "proteasome"
+        "lysosomal"
       ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
-      "abstractEn": "The pace of embryonic development differs between mammalian species, yet the molecular basis for this remains unknown. By comparing protein dynamics in mouse and human neural progenitors (NPs), we show that protein turnover is faster in mouse NPs, driven by higher rates of protein synthesis and degradation. Human NPs exhibit longer protein half-lives, reduced proteasomal activity, and lower proteasome abundance. These differences persist in post-mitotic neurons and are also observed in the embryonic spinal cord in vivo. Pharmacological inhibition of proteasomal activity slows differentiation in mouse NPs. Conversely, enhancing proteasomal activity accelerates neuronal output in human NPs. Moreover, accelerating the degradation of the key transcriptional repressor IRX3 in mouse NPs speeds the activation of its target gene. Together, these results provide evidence that species-specific regulation of proteasome-mediated proteolysis influences the timing of neural development and suggest that evolutionary tuning of proteasomal activity contributes to differences in embryonic developmental pace.",
-      "summaryZh": "哺乳动物物种之间的胚胎发育速度有所不同，但其分子基础仍然未知。通过比较小鼠和人类神经祖细胞 (NP) 中的蛋白质动态，我们发现小鼠 NP 中的蛋白质周转速度更快，这是由更高的蛋白质合成和降解率驱动的。人类纳米颗粒表现出更长的蛋白质半衰期、降低的蛋白酶体活性和更低的蛋白酶体丰度。这些差异在有丝分裂后神经元中持续存在，并且在体内胚胎脊髓中也观察到。蛋白酶体活性的药理抑制可减缓小鼠 NP 的分化。相反，增强蛋白酶体活性会加速人类纳米颗粒的神经元输出。此外，加速小鼠 NP 中关键转录抑制因子 IRX3 的降解，可加速其靶基因的激活。总之，这些结果提供了证据，表明蛋白酶体介导的蛋白水解的物种特异性调节影响神经发育的时间，并表明蛋白酶体活性的进化调整有助于胚胎发育速度的差异。",
-      "translationSource": "e206ecaaabfcd53d"
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "RNA-binding proteins (RBPs) are key regulators of gene expression that shape cellular function in health and disease. However, the roles of RBPs in immune cells within the central nervous system (CNS) remain poorly understood. Here, we identify ARID5A as an RBP highly expressed in microglia and uncover its RNA-mediated regulatory functions using integrated multi-omics analyses of its RNA, DNA, and protein interactions. ARID5A regulates the splicing and translation of its RNA targets, many of which are integral to lysosomal, immune, and iron metabolism pathways. We confirm the functional relevance of this ARID5A-dependent RNA regulatory network by demonstrating that ARID5A modulates lysosomal activity, cytokine secretion, iron accumulation, and ferroptosis in iPSC-derived microglia. We further demonstrate that knockdown of microglial ARID5A reduces neuronal ferroptosis in co-cultures, underscoring the interconnected nature of these pathways. Moreover, in microglia harboring the TREM2-T66M mutation, ARID5A depletion restores dysregulated lysosomal and metabolic functions. Our results highlight the importance of protein-RNA interactions in regulating microglial cell biology.",
+      "summaryZh": "RNA 结合蛋白 (RBP) 是基因表达的关键调节因子，可影响健康和疾病中的细胞功能。然而，RBP 在中枢神经系统 (CNS) 免疫细胞中的作用仍知之甚少。在这里，我们将 ARID5A 鉴定为在小胶质细胞中高表达的 RBP，并通过对其 RNA、DNA 和蛋白质相互作用的综合多组学分析揭示了其 RNA 介导的调节功能。 ARID5A 调节其 RNA 靶点的剪接和翻译，其中许多靶点是溶酶体、免疫和铁代谢途径不可或缺的一部分。我们通过证明 ARID5A 调节 iPSC 衍生的小胶质细胞中的溶酶体活性、细胞因子分泌、铁积累和铁死亡来证实这种 ARID5A 依赖性 RNA 调节网络的功能相关性。我们进一步证明，小胶质细胞 ARID5A 的敲低可减少共​​培养物中的神经元铁死亡，强调了这些途径的相互关联的性质。此外，在携带 TREM2-T66M 突变的小胶质细胞中，ARID5A 缺失可以恢复失调的溶酶体和代谢功能。我们的结果强调了蛋白质-RNA 相互作用在调节小胶质细胞生物学中的重要性。",
+      "translationSource": "8ac2d5becb876db2"
     },
     {
       "pmid": "42586968",
@@ -1193,28 +1301,6 @@
       "abstractEn": "There is little understanding of how aging serves as the strongest risk factor for several neurodegenerative diseases. Microglia undergo age-related maladaptive changes, including increased inflammation, impaired debris clearance, and cellular senescence, yet specific mediators that regulate these processes remain unclear. The aged brain is rejuvenated by youth-associated plasma factors, including tissue inhibitor of metalloproteinases 2 (TIMP2), which we have shown acts on the extracellular matrix (ECM) to regulate synaptic plasticity. Given emerging roles for microglia in these processes, we examined the impact of TIMP2 on microglial function. We show that TIMP2 deletion in mice exacerbates microglial phenotypes associated with aging, including transcriptomic changes in cell activation, changes in lysosomal-associated markers and phagocytosis, and elevated levels of stress and inflammatory proteins in the brain extracellular space measured by in vivo microdialysis. Deleting specific cellular pools of TIMP2 in vivo increases microglial CD68 and alters myelin phagocytosis. Treating aged mice with TIMP2 reverses several phenotypes observed in our deletion models, resulting in decreased microglial activation, reduced proportions of proinflammatory microglia, and enhanced phagocytosis of physiological substrates. Our results identify TIMP2 as a modulator of age-associated microglia dysfunction. Harnessing its activity may mitigate detrimental effects of age-associated insults on microglia function.",
       "summaryZh": "人们对衰老如何成为几种神经退行性疾病的最强危险因素知之甚少。小胶质细胞经历与年龄相关的适应不良变化，包括炎症增加、碎片清除受损和细胞衰老，但调节这些过程的特定介质仍不清楚。年轻相关的血浆因子可以使衰老的大脑恢复活力，其中包括金属蛋白酶组织抑制剂 2 (TIMP2)，我们已经证明它可以作用于细胞外基质 (ECM) 来调节突触可塑性。鉴于小胶质细胞在这些过程中的新作用，我们研究了 TIMP2 对小胶质细胞功能的影响。我们发现，小鼠中 TIMP2 缺失加剧了与衰老相关的小胶质细胞表型，包括细胞活化的转录组变化、溶酶体相关标记和吞噬作用的变化，以及通过体内微透析测量的大脑细胞外间隙中应激和炎症蛋白水平的升高。体内删除 TIMP2 的特定细胞池会增加小胶质细胞 CD68 并改变髓磷脂吞噬作用。用 TIMP2 治疗老年小鼠可逆转我们的缺失模型中观察到的几种表型，导致小胶质细胞活化减少、促炎性小胶质细胞比例减少以及生理底物的吞噬作用增强。我们的结果表明 TIMP2 是年龄相关小胶质细胞功能障碍的调节剂。利用其活性可以减轻与年龄相关的损伤对小胶质细胞功能的有害影响。",
       "translationSource": "1e5d7729a09f69e9"
-    },
-    {
-      "pmid": "42587154",
-      "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys.",
-      "titleZh": "用于小鼠和猴子血糖调节的葡萄糖反应性益生菌。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-08-12",
-      "doi": "10.1038/s41586-026-10909-6",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10909-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42587154/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic gene circuit",
-        "gene circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic gene circuit, gene circuit。",
-      "abstractEn": "Sustained and controlled delivery of glucose-lowering agents using engineered designer cells is recognized as an effective strategy for diabetes therapy 1 . However, current technologies rely on external signal control or have been programmed into mammalian cells using synthetic gene networks, which pose safety concerns arising from transplantation 2,3 . Here we developed an engineered oral-deliverable glucose-sensing and functional response probiotic living drug for 'sense-and-respond'-based control of diabetic blood glucose. We created a glucose sensor based on a synthetic gene circuit that incorporates the glucose-responsive transcriptional regulator HexR, coupled with a synthetic promoter. Upon oral administration of the engineered probiotics carrying the sensor, the cells reside temporarily in the intestine and regulate the expression of therapeutic transgenes in response to glucose levels that exceed the normal threshold. We show efficacy from the engineered probiotics for glycaemic control in multiple diabetic mouse and non-human primate models, demonstrating that long-term oral administration drives clear improvements in lipid profiles, while also attenuating development of multiple diabetic complications. Our probiotics-based living drug enables therapeutic dosing in response to real-time blood glucose levels, providing a programmable, orally deliverable sense-and-respond platform for metabolic therapy without transplantation.",
-      "summaryZh": "使用工程设计细胞持续和受控地输送降糖药物被认为是糖尿病治疗的有效策略 1 。然而，当前的技术依赖于外部信号控制或已使用合成基因网络编程到哺乳动物细胞中，这引起了移植引起的安全问题 2,3 。在这里，我们开发了一种工程化的口服葡萄糖感应和功能反应益生菌活性药物，用于基于“感应和反应”的糖尿病血糖控制。我们创建了一种基于合成基因电路的葡萄糖传感器，该电路包含葡萄糖响应转录调节因子 HexR 以及合成启动子。口服携带传感器的工程益生菌后，细胞会暂时驻留在肠道中，并根据超过正常阈值的葡萄糖水平调节治疗性转基因的表达。我们在多种糖尿病小鼠和非人类灵长类动物模型中展示了工程益生菌对血糖控制的功效，证明长期口服给药可明显改善血脂状况，同时还可减轻多种糖尿病并发症的发展。我们基于益生菌的活体药物能够根据实时血糖水平进行治疗剂量，为无需移植的代谢治疗提供可编程的、口服的感知和响应平台。",
-      "translationSource": "2805b4a7bbf217b4"
     },
     {
       "pmid": "42586046",
@@ -1260,6 +1346,48 @@
       "abstractEn": "The systemic coordination of autophagy during development remains poorly understood. Here, we identify two parallel neuronal circuits that regulate the autophagy-lysosome pathway in the body wall muscle of C. elegans. One circuit, utilizing UNC-7/UNC-9 electrical synapses between AVA interneurons and A-type motor neurons (A-MNs), promotes autophagy by inhibiting neuropeptide release from A-MNs. The other employs the TGF-β-like molecule DAF-7, secreted from ASI sensory neurons, which activates autophagy via the canonical TGF-β pathway. These pathways converge to regulate cytosolic Ca²⁺ levels in the muscle, thereby maintaining lysosomal integrity. Disruption of either circuit elevates Ca²⁺, overactivating calpain. This leads to the accumulation of non-degradative autolysosomes and accelerates muscle degeneration. Our findings elucidate a neuronal mechanism for controlling muscle autophagy and provide insights into the pathogenesis of neurogenic myopathy.",
       "summaryZh": "发育过程中自噬的系统协调仍然知之甚少。在这里，我们确定了两个平行的神经元回路，它们调节线虫体壁肌肉中的自噬-溶酶体途径。一种电路利用 AVA 中间神经元和 A 型运动神经元 (A-MN) 之间的 UNC-7/UNC-9 电突触，通过抑制 A-MN 释放神经肽来促进自噬。另一种方法采用 ASI 感觉神经元分泌的 TGF-β 样分子 DAF-7，它通过经典的 TGF-β 途径激活自噬。这些途径汇聚在一起调节肌肉中的胞质 Ca2+ 水平，从而维持溶酶体的完整性。任何一个回路的破坏都会导致 Ca2+ 升高，从而过度激活钙蛋白酶。这导致非降解性自溶酶体的积累并加速肌肉退化。我们的研究结果阐明了控制肌肉自噬的神经机制，并为神经源性肌病的发病机制提供了见解。",
       "translationSource": "1b36a72cb6e2dda6"
+    },
+    {
+      "pmid": "42717201",
+      "title": "Host-aware Identification of Intrinsic Gene Expression Biopart Parameters using Combinatorial Libraries.",
+      "titleZh": "使用组合文库对内在基因表达生物部分参数进行宿主感知识别。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-11",
+      "doi": "10.1038/s41467-026-76332-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76332-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717201/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Model-based design in synthetic biology is limited because bioparts are typically characterised by relative metrics that vary across genetic and physiological contexts. To address this, we introduce a host-aware framework for quantitatively characterising bioparts in combinatorial libraries of plasmid-based constitutive expression constructs. The approach integrates a digital twin of Escherichia coli, conditioned on measured growth rate, with model-in-the-loop parameter identification to separate biopart-associated properties from host-dependent effects. Using structured combinatorial libraries, we identify mechanistically interpretable, transferable parameters for plasmid origins, promoters and ribosome binding sites. In particular, we define an intrinsic translation initiation capacity that captures the dominant RBS-associated contribution to translation while context-dependent expression emerges from host physiology and local sequence context. The resulting parameterisation accurately predicts protein synthesis across physiological conditions, supports incremental library expansion, and reveals localised failures of modularity, providing a scalable foundation for predictive host-aware design in synthetic biology.",
+      "summaryZh": "合成生物学中基于模型的设计受到限制，因为生物部件通常由随遗传和生理背景而变化的相对指标来表征。为了解决这个问题，我们引入了一个宿主感知框架，用于定量表征基于质粒的组成型表达构建体的组合文库中的生物部分。该方法将大肠杆菌的数字双胞胎（以测量的生长速率为条件）与模型在环参数识别相结合，以将生物部分相关特性与宿主依赖性效应分开。使用结构化组合文库，我们确定了质粒起源、启动子和核糖体结合位点的机械上可解释的、可转移的参数。特别是，我们定义了一种内在的翻译起始能力，它捕获了 RBS 相关的翻译贡献，同时上下文相关的表达从宿主生理学和局部序列上下文中出现。由此产生的参数化可以准确预测跨生理条件下的蛋白质合成，支持增量库扩展，并揭示模块化的局部失败，为合成生物学中的预测性宿主感知设计提供可扩展的基础。",
+      "translationSource": "04b2d0d2abe70d5b"
+    },
+    {
+      "pmid": "42716947",
+      "title": "Integrative structural analysis of human endosomal NHE6 reveals a lipid-associated gate and disordered C-terminus.",
+      "titleZh": "人内体 NHE6 的综合结构分析揭示了脂质相关门和无序的 C 末端。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-11",
+      "doi": "10.1038/s41467-026-76368-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76368-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42716947/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Human NHE6 (HsNHE6) is an endosomal Na⁺/H⁺ exchanger essential for maintaining luminal pH and endo-lysosomal trafficking in neurons. HsNHE6 mutations are implicated in devastating neurological syndromes, but mechanistically the transporter remains poorly understood. Here, we present the single-particle cryo-electron microscopy (cryo-EM) structure of HsNHE6 at 3.4 Å, captured in an inward-facing conformation. The structure reveals a homodimeric architecture with 13 transmembrane helices per protomer, with the conserved ion-binding site located at the interface of the core and dimerization domains. Functional assays demonstrate that HsNHE6 reconstituted in liposomes exchanges Na⁺, K⁺, Li⁺, and Rb + for H + , with kinetic analysis revealing a preference for K⁺. A structured C-terminal helix interacts with the transmembrane core, jointly forming a hydrophobic cavity containing two non-protein cryo-EM densities consistent with bound lipids that may modulate cation access to the ion-binding site. The remaining distal C-terminus of HsNHE6 is intrinsically disordered, as revealed by NMR and small-angle X-ray scattering, and extends up to 170 Å into the cytosol. Our integrative structural model of full-length HsNHE6 provides a framework for understanding HsNHE6-mediated ion exchange and its disruption in Christianson syndrome.",
+      "summaryZh": "人 NHE6 (HsNHE6) 是一种内体 Na⁺/H⁺ 交换剂，对于维持神经元内的腔内 pH 值和内溶酶体运输至关重要。 HsNHE6 突变与破坏性神经系统综合征有关，但从机制上讲，转运蛋白仍然知之甚少。在这里，我们展示了 HsNHE6 3.4 Å 的单粒子冷冻电子显微镜 (cryo-EM) 结构，以向内的构象捕获。该结构揭示了同源二聚体结构，每个原聚体具有 13 个跨膜螺旋，保守的离子结合位点位于核心和二聚化结构域的界面处。功能分析表明，在脂质体中重构的 HsNHE6 将 Na+、K+、Li+ 和 Rb+ 交换为 H+，动力学分析显示对 K+ 的偏好。结构化的 C 端螺旋与跨膜核心相互作用，共同形成一个疏水腔，其中包含两个与结合脂质一致的非蛋白质冷冻电镜密度，可以调节阳离子进入离子结合位点。 NMR 和小角 X 射线散射显示，HsNHE6 的剩余远端 C 末端本质上是无序的，并延伸至细胞质中达 170 Å。我们的全长 HsNHE6 综合结构模型为理解 HsNHE6 介导的离子交换及其在 Christianson 综合征中的破坏提供了一个框架。",
+      "translationSource": "22fb1f0151e0ff4c"
     },
     {
       "pmid": "42581047",
