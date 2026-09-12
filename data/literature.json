@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:37:50+00:00",
+  "updatedAt": "2026-09-12T01:44:30+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -23,6 +23,27 @@
       "abstractEn": "Glioblastoma (GBM) remains a formidable clinical challenge, characterized by invasive growth, therapeutic resistance, and dismal patient survival. We report the development of HITMAN (highly localized electric field-induced tumor therapy using magnetically actuated nanoantennas), a wireless bioelectric therapy that selectively eradicates GBM cells with cellular precision. Magnetically actuated nanoantennas convert low-frequency (≤200 kHz), deep-brain-penetrant magnetic fields into localized electric fields, thereby triggering protein unfolding, membrane disruption, and ER stress. In vitro, HITMAN demonstrated superior efficacy compared to temozolomide (TMZ), significantly decreasing viability in drug-resistant, patient-derived GBM cells by 52.2%, versus 10% with TMZ while sparing neurons and astrocytes. Mechanistically, HITMAN activated the unfolded protein response and autophagy pathways, suppressed cell cycle and adhesion genes, reduced Ki-67 expression, disrupted cytoskeletal architecture, and elevated p53 levels, underscoring a multifaceted antitumor mechanism. In orthotopic mouse models, HITMAN significantly inhibited tumor growth, extended median survival by more than 50%, and exhibited no systemic toxicity. Thus, HITMAN offers a minimally invasive, spatially precise, and clinically translatable therapy for GBM.",
       "summaryZh": "胶质母细胞瘤（GBM）仍然是一个艰巨的临床挑战，其特点是侵袭性生长、治疗耐药和患者生存率低。我们报告了 HITMAN（使用磁驱动纳米天线的高度局部电场诱导肿瘤治疗）的开发，这是一种无线生物电疗法，可以以细胞精度选择性地根除 GBM 细胞。磁驱动纳米天线将低频（≤200 kHz）、深部大脑渗透磁场转换为局部电场，从而触发蛋白质展开、膜破坏和内质网应激。在体外，HITMAN 与替莫唑胺 (TMZ) 相比表现出卓越的功效，将耐药的患者来源 GBM 细胞的活力显着降低 52.2%，而 TMZ 则降低 10%，同时保留神经元和星形胶质细胞。从机制上讲，HITMAN 激活未折叠蛋白反应和自噬途径，抑制细胞周期和粘附基因，减少 Ki-67 表达，破坏细胞骨架结构，并提高 p53 水平，强调了多方面的抗肿瘤机制。在原位小鼠模型中，HITMAN 显着抑制肿瘤生长，将中位生存期延长 50% 以上，并且没有表现出全身毒性。因此，HITMAN 为 GBM 提供了一种微创、空间精确且可临床转化的治疗方法。",
       "translationSource": "c3d48e80f2f2415b"
+    },
+    {
+      "pmid": "42722687",
+      "title": "Proteasome inhibition alleviates proteinuria in Lmx1b knock-in mice with dysfunctional LIM domains.",
+      "titleZh": "蛋白酶体抑制可减轻 LIM 结构域功能失调的 Lmx1b 敲入小鼠的蛋白尿。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-11",
+      "doi": "10.1038/s41467-026-77485-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77485-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42722687/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Mutations in the transcription factor LMX1B have been identified as the cause of the autosomal-dominant disease nail-patella syndrome. It manifests in small or absent patellae and dysplastic or missing toe- and fingernails, but the prognosis of the patients is determined by the development of renal symptoms due to dysfunctional podocytes. The pathogenetic mechanisms leading to podocyte damage and their association with specific mutations in the LMX1B gene are not understood, which has impeded the development of specific therapeutic strategies. Here we identify the pathogenetic mechanism affecting many patients with nail-patella syndrome, provide proof of principle for a novel therapeutic approach and suggest a domain-specific effect in gene regulation by LMX1B. Interestingly, missense mutations in the LIM domains of Lmx1b result in a recessive phenotype in two different knock-in mouse lines due to proteasomal degradation of the mutated proteins. The decreased half-life of the mutated LMX1B proteins can be attributed to ubiquitinylation and is prolonged by two proteasomal inhibitors, one of which was also tested in our mouse models and results in an alleviation of the renal symptoms. RNA sequencing of genetically altered podocytes indicates that LMX1B predominantly acts as a transcriptional repressor and furthermore suggests that the two LIM domains contribute to the distinct regulation of LMX1B target genes. We conclude that proteasomal inhibitors, drugs already approved for treatment of patients with multiple myeloma, warrant further studies to prevent renal failure in patients with nail-patella syndrome caused by mutations in the LIM domains. These studies should be designed to deliver the drug specifically to podocytes and to target specific ubiquitin ligases in order to limit side effects.",
+      "summaryZh": "转录因子 LMX1B 的突变已被确定为常染色体显性遗传疾病指甲-髌骨综合征的病因。它表现为髌骨小或缺失以及脚趾甲和指甲发育不良或缺失，但患者的预后取决于足细胞功能障碍导致的肾脏症状的发展。导致足细胞损伤的发病机制及其与 LMX1B 基因特定突变的关联尚不清楚，这阻碍了特定治疗策略的开发。在这里，我们确定了影响许多指甲-髌骨综合征患者的发病机制，为一种新的治疗方法提供了原理证明，并提出了 LMX1B 在基因调控中的域特异性效应。有趣的是，由于突变蛋白的蛋白酶体降解，Lmx1b LIM 结构域中的错义突变导致两个不同的敲入小鼠系中出现隐性表型。突变 LMX1B 蛋白的半衰期缩短可归因于泛素化，并可通过两种蛋白酶体抑制剂延长，其中一种也在我们的小鼠模型中进行了测试，并导致肾脏症状减轻。基因改变的足细胞的 RNA 测序表明，LMX1B 主要充当转录抑制子，并且进一步表明两个 LIM 结构域有助于 LMX1B 靶基因的独特调节。我们的结论是，蛋白酶体抑制剂（已被批准用于治疗多发性骨髓瘤患者的药物）值得进一步研究，以预防由 LIM 结构域突变引起的指甲-髌骨综合征患者的肾功能衰竭。 这些研究应旨在将药物特异性地递送至足细胞并靶向特定的泛素连接酶，以限制副作用。",
+      "translationSource": "3882a1d2d2d41520"
     },
     {
       "pmid": "42717093",
@@ -562,6 +583,111 @@
       "abstractEn": "Engineering synthetic intrinsically disordered proteins (synIDPs) enables regulation of biomolecular condensation and protein solubility. However, limited understanding of how sequence-dependent interaction cooperativity relates to the fitness impacts of synIDPs on endogenous cellular processes constrains our design capability. Here, to circumvent this design challenge, we present a systematic directed evolution method for the evolution of synIDPs capable of mediating diverse phase behaviors in living cells. The selection methods allow us to evolve a toolbox of synIDPs with distinct phase behaviors and thermoresponsive features in living cells, leading to the evolution of synthetic condensates. The reverse-selection method further allows us to select synIDPs as solubility tags. We demonstrate the applications of the evolved synIDPs in protein circuits to (1) regulate intracellular protein activity and (2) reverse antibiotic resistance. Our systematic evolution and selection strategies provide a versatile platform for developing synIDPs for broad applications in synthetic biology and biotechnology.",
       "summaryZh": "工程合成本质无序蛋白质 (synIDP) 能够调节生物分子缩合和蛋白质溶解度。然而，对序列依赖性相互作用协同性与 synIDP 对内源细胞过程的适应性影响如何相关的有限了解限制了我们的设计能力。在这里，为了规避这一设计挑战，我们提出了一种系统定向进化方法，用于能够介导活细胞中不同相行为的 synIDP 的进化。选择方法使我们能够在活细胞中进化出具有不同相行为和热响应特征的 synIDP 工具箱，从而导致合成缩合物的进化。反向选择方法进一步允许我们选择 synIDP 作为溶解度标签。我们展示了进化的 synIDP 在蛋白质电路中的应用，以 (1) 调节细胞内蛋白质活性和 (2) 逆转抗生素耐药性。我们的系统进化和选择策略为开发 synIDP 提供了一个多功能平台，可在合成生物学和生物技术领域广泛应用。",
       "translationSource": "2df1373b2a1d9b92"
+    },
+    {
+      "pmid": "42567989",
+      "title": "PGAM1 rheostat in glycolysis and autophagy.",
+      "titleZh": "糖酵解和自噬中的 PGAM1 变阻器。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41556-026-02033-4",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02033-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42567989/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "fbf34419840dfb1e"
+    },
+    {
+      "pmid": "42527668",
+      "title": "The glycolytic enzyme PGAM1 functions as a metabolic-autophagy checkpoint to coordinate growth and stress tolerance.",
+      "titleZh": "糖酵解酶 PGAM1 作为代谢自噬检查点来协调生长和应激耐受性。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41556-026-02034-3",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02034-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42527668/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Cell survival requires tight coordination between growth-promoting metabolism and cellular quality-control pathways, yet how these processes are integrated remains unclear. Here we identify the conserved glycolytic enzyme PGAM1 as a metabolic-autophagy checkpoint that links glycolysis to autophagy initiation independently of its catalytic activity. Using complementary yeast and mammalian systems we show that PGAM1 functions as a molecular scaffold that recruits phosphatidylinositol 3-kinase complex I to the phagophore assembly site, thereby licensing autophagosome biogenesis. This autophagy-regulatory function is genetically essential, evolutionarily conserved and functionally separable from glycolysis. It is regulated by Atg1/ULK1-mediated phosphorylation that enhances Atg14 binding under starvation. Functionally, PGAM1 coordinates anabolic growth and stress-induced survival to maintain cellular homeostasis. In cancer, PGAM1 upregulation enhances both glycolytic flux and autophagy capacity. Disruption of either function markedly impairs tumour growth, establishing PGAM1 as a homeostatic checkpoint that is hijacked in cancer to drive both proliferation and stress tolerance.",
+      "summaryZh": "细胞生存需要促进生长的代谢和细胞质量控制途径之间的紧密协调，但这些过程如何整合仍不清楚。在这里，我们将保守的糖酵解酶 PGAM1 确定为代谢自噬检查点，它将糖酵解与自噬启动联系起来，与其催化活性无关。使用互补的酵母和哺乳动物系统，我们证明 PGAM1 作为分子支架发挥作用，将磷脂酰肌醇 3-激酶复合物 I 招募到吞噬细胞组装位点，从而许可自噬体生物发生。这种自噬调节功能在遗传上是必需的，在进化上是保守的，并且在功能上与糖酵解是分开的。它受 Atg1/ULK1 介导的磷酸化调节，从而增强饥饿条件下 Atg14 的结合。在功能上，PGAM1 协调合成代谢生长和应激诱导的生存以维持细胞稳态。在癌症中，PGAM1 上调可增强糖酵解通量和自噬能力。任一功能的破坏都会显着损害肿瘤生长，从而使 PGAM1 成为一种稳态检查点，在癌症中被劫持以驱动增殖和应激耐受。",
+      "translationSource": "f1b4c385dac100f7"
+    },
+    {
+      "pmid": "42521791",
+      "title": "Nuclear class 3 PI3K co-activates fasting-specific chromatin remodelling.",
+      "titleZh": "核 3 类 PI3K 共同激活禁食特异性染色质重塑。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41556-026-02030-7",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02030-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521791/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Transcriptional remodelling during fasting ensures metabolic adaptation and provides health benefits across species. Although several regulators of fasting-induced transcription and chromatin are known, how nutrient levels directly influence RNA polymerase II (RNAPII) and epigenetic writers remains unclear. Here we show that lipid kinase class 3 phosphatidylinositol 3-kinase (PI3K-3), a master regulator of autophagy, also functions on chromatin as a co-activator of epigenetic writers to promote RNAPII transcription. PI3K-3 overlaps with transcriptionally engaged RNAPII phosphorylated at Ser5 and with Setd1a/COMPASS, the complex that deposits the activating H3K4me3 mark. Nuclear PI3K-3 interacts with RNAPII and Setd1a/COMPASS and promotes their chromatin binding. PI3K-3 loss reduces RNAPII-S5p and H3K4me3 at selected genes, whereas PI3K-3 overexpression co-activates p300/CBP and chromatin-targeted PI3K-3 increases H3K4me3. During starvation, PI3K-3 induces autophagy genes and drives fasted liver towards ketogenesis and lipid degradation. These findings link nutrient stress to chromatin-mediated transcriptional activation.",
+      "summaryZh": "禁食期间的转录重塑可确保代谢适应并为跨物种提供健康益处。尽管已知禁食诱导的转录和染色质的几种调节因子，但营养水平如何直接影响 RNA 聚合酶 II (RNAPII) 和表观遗传作家仍不清楚。在这里，我们表明，脂质激酶 3 类磷脂酰肌醇 3-激酶 (PI3K-3)（自噬的主要调节因子）也在染色质上发挥表观遗传写入因子的共激活剂的作用，以促进 RNAPII 转录。 PI3K-3 与转录参与的 RNAPII（Ser5 磷酸化）以及 Setd1a/COMPASS（沉积激活 H3K4me3 标记的复合物）重叠。核 PI3K-3 与 RNAPII 和 Setd1a/COMPASS 相互作用并促进它们的染色质结合。 PI3K-3 缺失会减少选定基因的 RNAPII-S5p 和 H3K4me3，而 PI3K-3 过表达会共同激活 p300/CBP，并且靶向染色质的 PI3K-3 会增加 H3K4me3。饥饿期间，PI3K-3 诱导自噬基因并驱动禁食的肝脏生酮和脂质降解。这些发现将营养应激与染色质介导的转录激活联系起来。",
+      "translationSource": "271cb9c0f247aae0"
+    },
+    {
+      "pmid": "42722824",
+      "title": "On-demand glycemic control by engineered bacteria.",
+      "titleZh": "通过工程细菌按需控制血糖。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41587-026-03323-w",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03323-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42722824/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "b58c79cb7f7adabf"
+    },
+    {
+      "pmid": "42722812",
+      "title": "Synthetic biology.",
+      "titleZh": "合成生物学。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41587-026-03289-9",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03289-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42722812/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "38dc87ad4b7dd264"
     },
     {
       "pmid": "42587154",
@@ -1239,6 +1365,27 @@
       "translationSource": "126e32564ece6a29"
     },
     {
+      "pmid": "42722646",
+      "title": "InsP3R signaling and actomyosin-dependent mitochondrial dynamics play essential roles in mitochondrial stress-induced longevity.",
+      "titleZh": "InsP3R 信号传导和肌动球蛋白依赖性线粒体动力学在线粒体应激诱导的长寿中发挥着重要作用。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-13",
+      "doi": "10.1038/s41467-026-76514-3",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76514-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42722646/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Certain forms of mitochondrial impairment confer longevity, while disease-associated mitochondrial dysfunction triggers pathogenesis. The adaptive pathways that distinguish benefit from pathology remain unclear. Here we reveal that longevity induced by mitochondrial Complex I/nuo-6 mutation in C. elegans is dependent on the endoplasmic reticulum (ER) Ca 2+ channel, InsP3R. To explain this connection, we test multiple candidate links between Ca 2+ and mitochondrial homeostasis previously established in vitro, including mitochondrial calcium uniporter (MCU)-dependent stimulation of respiration and cytosolic pathways regulating mitochondrial dynamics. We find that MCU is dispensable for both respiration and longevity in Complex I mutants. Conversely, transcriptomic profiling and imaging reveal InsP3R impairment results in maladaptive expansion of compromised mitochondrial networks. We provide evidence that this aberrant mitochondrial expansion results from disruption of a conserved, InsP3R-dependent actin remodeling network centered on Arp2/3. Disruption of actin remodeling or autophagy mimics the mitochondrial expansion and longevity suppression of InsP3R mutants. Conversely, driving mitochondrial fragmentation ameliorates mitochondrial expansion and rescues longevity in InsP3R mutants, supporting a model in which InsP3R-dependent actin remodeling is required for segregation and clearance of mitochondria. These findings identify an inter-organelle signaling axis linking ER calcium release and cytoskeletal remodeling to adaptive mitochondrial responses associated with longevity.",
+      "summaryZh": "某些形式的线粒体损伤可延长寿命，而与疾病相关的线粒体功能障碍则会引发发病机制。区分获益和病理的适应性途径仍不清楚。在这里，我们揭示了线虫线粒体复合物 I/nuo-6 突变诱导的长寿依赖于内质网 (ER) Ca 2+ 通道 InsP3R。为了解释这种联系，我们测试了先前在体外建立的 Ca 2+ 和线粒体稳态之间的多个候选联系，包括线粒体钙单向转运蛋白 (MCU) 依赖的呼吸刺激和调节线粒体动力学的细胞溶质途径。我们发现 MCU 对于 Complex I 突变体的呼吸和寿命都是可有可无的。相反，转录组分析和成像揭示 InsP3R 损伤会导致受损线粒体网络的适应不良扩张。我们提供的证据表明，这种异常的线粒体扩张是由于以 Arp2/3 为中心的保守的、依赖 InsP3R 的肌动蛋白重塑网络的破坏造成的。肌动蛋白重塑或自噬的破坏模拟了 InsP3R 突变体的线粒体扩张和寿命抑制。相反，驱动线粒体断裂可改善线粒体扩张并延长 InsP3R 突变体的寿命，这支持了一种模型，其中需要依赖 InsP3R 的肌动蛋白重塑来分离和清除线粒体。这些发现确定了一个细胞器间信号轴，将内质网钙释放和细胞骨架重塑与与长寿相关的适应性线粒体反应联系起来。",
+      "translationSource": "cc58a4e2543e7011"
+    },
+    {
       "pmid": "42595817",
       "title": "Proteome-wide identification of the druggable CRBN interactome.",
       "titleZh": "可药物 CRBN 相互作用组的蛋白质组范围鉴定。",
@@ -1473,27 +1620,6 @@
       "abstractEn": "Recent clinical trials have shown that dual GLP-1R/GCGR agonists, including mazdutide and cotadutide, provide kidney benefits in patients with type 2 diabetes and CKD, suggesting a potential contribution of GCGR activation to these renal effects. However, whether GCGR directly confers renoprotection and the underlying mechanisms remain unclear. Here, using tubule-specific GCGR loss- and gain-of-function mouse models and human kidney samples, we show that tubular GCGR signaling exerts an important renoprotective role in DKD. Tubular GCGR expression is reduced in humans and mice with DKD and correlates with worse kidney function and increased renal injury. Genetic ablation of tubular GCGR markedly exacerbates DKD and induces pronounced phospholipid accumulation within enlarged lysosomes. Mechanistically, GCGR loss disrupts its association with the V-ATPase V1A subunit ATP6V1A, compromises V1-V0 assembly, and thereby impairs lysosomal acidification. This defect leads to impaired phospholipid hydrolysis and protease maturation, blockade of autophagic flux, and ultimately tubular cell injury. In vivo, ATP6V1A overexpression markedly reverses GCGR deficiency-induced lysosomal dysfunction and DKD progression. Consistently, re-expression of tubular GCGR via AAV9 restores lysosomal function, reduces phospholipid accumulation, and mitigates renal injury in DKD. Together, these findings provide genetic evidence for the renoprotective role of tubular GCGR in DKD, delineate a kidney-intrinsic GCGR-ATP6V1A-lysosome axis that protects tubular integrity, and extend prior GCGR-in-kidney observations into a more concrete GCGR-lysosome mechanism.",
       "summaryZh": "最近的临床试验表明，GLP-1R/GCGR 双重激动剂（包括马兹度肽和科他度肽）可为 2 型糖尿病和 CKD 患者提供肾脏益处，这表明 GCGR 激活对这些肾脏影响可能有贡献。然而，GCGR 是否直接赋予肾脏保护作用及其潜在机制仍不清楚。在这里，我们使用肾小管特异性 GCGR 功能丧失和获得功能小鼠模型和人类肾脏样本，证明肾小管 GCGR 信号在 DKD 中发挥重要的肾脏保护作用。患有 DKD 的人和小鼠的肾小管 GCGR 表达降低，并与肾功能恶化和肾损伤增加相关。肾小管 GCGR 的基因消融显着加剧 DKD 并诱导扩大的溶酶体内明显的磷脂积累。从机制上讲，GCGR 损失会破坏其与 V-ATPase V1A 亚基 ATP6V1A 的关联，损害 V1-V0 组装，从而损害溶酶体酸化。这种缺陷导致磷脂水解和蛋白酶成熟受损、自噬流受阻，并最终导致肾小管细胞损伤。在体内，ATP6V1A 过表达可显着逆转 GCGR 缺乏引起的溶酶体功能障碍和 DKD 进展。一致地，通过 AAV9 重新表达肾小管 GCGR 可恢复溶酶体功能，减少磷脂积累，并减轻 DKD 的肾损伤。总之，这些发现为肾小管 GCGR 在 DKD 中的肾脏保护作用提供了遗传证据，描绘了保护肾小管完整性的肾脏固有 GCGR-ATP6V1A-溶酶体轴，并将先前的肾脏内 GCGR 观察扩展到更具体的 GCGR-溶酶体机制。",
       "translationSource": "b7f92a6b5280ecc6"
-    },
-    {
-      "pmid": "42567989",
-      "title": "PGAM1 rheostat in glycolysis and autophagy.",
-      "titleZh": "糖酵解和自噬中的 PGAM1 变阻器。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-08-07",
-      "doi": "10.1038/s41556-026-02033-4",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02033-4",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42567989/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "fbf34419840dfb1e"
     },
     {
       "pmid": "42570241",
@@ -2344,27 +2470,6 @@
       "translationSource": "19bfc9a26b5cce2d"
     },
     {
-      "pmid": "42527668",
-      "title": "The glycolytic enzyme PGAM1 functions as a metabolic-autophagy checkpoint to coordinate growth and stress tolerance.",
-      "titleZh": "糖酵解酶 PGAM1 作为代谢自噬检查点来协调生长和应激耐受性。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-07-29",
-      "doi": "10.1038/s41556-026-02034-3",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02034-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42527668/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Cell survival requires tight coordination between growth-promoting metabolism and cellular quality-control pathways, yet how these processes are integrated remains unclear. Here we identify the conserved glycolytic enzyme PGAM1 as a metabolic-autophagy checkpoint that links glycolysis to autophagy initiation independently of its catalytic activity. Using complementary yeast and mammalian systems we show that PGAM1 functions as a molecular scaffold that recruits phosphatidylinositol 3-kinase complex I to the phagophore assembly site, thereby licensing autophagosome biogenesis. This autophagy-regulatory function is genetically essential, evolutionarily conserved and functionally separable from glycolysis. It is regulated by Atg1/ULK1-mediated phosphorylation that enhances Atg14 binding under starvation. Functionally, PGAM1 coordinates anabolic growth and stress-induced survival to maintain cellular homeostasis. In cancer, PGAM1 upregulation enhances both glycolytic flux and autophagy capacity. Disruption of either function markedly impairs tumour growth, establishing PGAM1 as a homeostatic checkpoint that is hijacked in cancer to drive both proliferation and stress tolerance.",
-      "summaryZh": "细胞生存需要促进生长的代谢和细胞质量控制途径之间的紧密协调，但这些过程如何整合仍不清楚。在这里，我们将保守的糖酵解酶 PGAM1 确定为代谢自噬检查点，它将糖酵解与自噬启动联系起来，与其催化活性无关。使用互补的酵母和哺乳动物系统，我们证明 PGAM1 作为分子支架发挥作用，将磷脂酰肌醇 3-激酶复合物 I 招募到吞噬细胞组装位点，从而许可自噬体生物发生。这种自噬调节功能在遗传上是必需的，在进化上是保守的，并且在功能上与糖酵解是分开的。它受 Atg1/ULK1 介导的磷酸化调节，从而增强饥饿条件下 Atg14 的结合。在功能上，PGAM1 协调合成代谢生长和应激诱导的生存以维持细胞稳态。在癌症中，PGAM1 上调可增强糖酵解通量和自噬能力。任一功能的破坏都会显着损害肿瘤生长，从而使 PGAM1 成为一种稳态检查点，在癌症中被劫持以驱动增殖和应激耐受。",
-      "translationSource": "f1b4c385dac100f7"
-    },
-    {
       "pmid": "42660886",
       "title": "A hybrid system enables plasmid copy number control in yeast.",
       "titleZh": "混合系统能够控制酵母中的质粒拷贝数。",
@@ -2405,27 +2510,6 @@
       "abstractEn": "Resistance exercise (RE) improves strength and muscle mass, with multiple benefits for human health. However, intense RE also induces acute myofibrillar damage. The molecular mechanisms that preserve, mark, degrade, and restore damaged proteins to keep skeletal muscle working under RE are incompletely understood. Based on repeated sampling of human skeletal muscle, we show here that acute, repeated and interrupted RE induce dynamic changes of the protein landscape associated with the sarcomeric cytoskeleton. These changes correlate with changes in phosphorylation indicative of adaptation and deadaptation signaling footprints. Regulation mainly affects the protein network linked to the muscle maintenance protein BAG3, which includes mechanosensory proteins, small heat shock proteins, and a lipid droplet associated protein. All network components exhibit altered phosphorylation and increased cytoskeletal association after damaging RE. Moreover, network components cooperate to recognize strained skeletal muscle structures and mediate their degradation through chaperone-assisted selective autophagy (CASA). Our study thus identifies key regulators of skeletal muscle homeostasis in humans.",
       "summaryZh": "抗阻运动 (RE) 可以提高力量和肌肉质量，对人类健康具有多种益处。然而，强烈的 RE 也会引起急性肌原纤维损伤。保存、标记、降解和恢复受损蛋白质以保持骨骼肌在 RE 下工作的分子机制尚不完全清楚。基于对人类骨骼肌的重复采样，我们在此表明​​，急性、重复和中断的 RE 会诱导与肌细胞骨架相关的蛋白质景观的动态变化。这些变化与指示适应和去适应信号足迹的磷酸化变化相关。调节主要影响与肌肉维持蛋白 BAG3 相关的蛋白网络，其中包括机械感觉蛋白、小热休克蛋白和脂滴相关蛋白。 RE 受损后，所有网络组件均表现出磷酸化改变和细胞骨架关联增加。此外，网络组件合作识别紧张的骨骼肌结构，并通过分子伴侣辅助选择性自噬（CASA）介导其降解。因此，我们的研究确定了人类骨骼肌稳态的关键调节因子。",
       "translationSource": "278da0a4bae0544c"
-    },
-    {
-      "pmid": "42521791",
-      "title": "Nuclear class 3 PI3K co-activates fasting-specific chromatin remodelling.",
-      "titleZh": "核 3 类 PI3K 共同激活禁食特异性染色质重塑。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-07-28",
-      "doi": "10.1038/s41556-026-02030-7",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02030-7",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42521791/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Transcriptional remodelling during fasting ensures metabolic adaptation and provides health benefits across species. Although several regulators of fasting-induced transcription and chromatin are known, how nutrient levels directly influence RNA polymerase II (RNAPII) and epigenetic writers remains unclear. Here we show that lipid kinase class 3 phosphatidylinositol 3-kinase (PI3K-3), a master regulator of autophagy, also functions on chromatin as a co-activator of epigenetic writers to promote RNAPII transcription. PI3K-3 overlaps with transcriptionally engaged RNAPII phosphorylated at Ser5 and with Setd1a/COMPASS, the complex that deposits the activating H3K4me3 mark. Nuclear PI3K-3 interacts with RNAPII and Setd1a/COMPASS and promotes their chromatin binding. PI3K-3 loss reduces RNAPII-S5p and H3K4me3 at selected genes, whereas PI3K-3 overexpression co-activates p300/CBP and chromatin-targeted PI3K-3 increases H3K4me3. During starvation, PI3K-3 induces autophagy genes and drives fasted liver towards ketogenesis and lipid degradation. These findings link nutrient stress to chromatin-mediated transcriptional activation.",
-      "summaryZh": "禁食期间的转录重塑可确保代谢适应并为跨物种提供健康益处。尽管已知禁食诱导的转录和染色质的几种调节因子，但营养水平如何直接影响 RNA 聚合酶 II (RNAPII) 和表观遗传作家仍不清楚。在这里，我们表明，脂质激酶 3 类磷脂酰肌醇 3-激酶 (PI3K-3)（自噬的主要调节因子）也在染色质上发挥表观遗传写入因子的共激活剂的作用，以促进 RNAPII 转录。 PI3K-3 与转录参与的 RNAPII（Ser5 磷酸化）以及 Setd1a/COMPASS（沉积激活 H3K4me3 标记的复合物）重叠。核 PI3K-3 与 RNAPII 和 Setd1a/COMPASS 相互作用并促进它们的染色质结合。 PI3K-3 缺失会减少选定基因的 RNAPII-S5p 和 H3K4me3，而 PI3K-3 过表达会共同激活 p300/CBP，并且靶向染色质的 PI3K-3 会增加 H3K4me3。饥饿期间，PI3K-3 诱导自噬基因并驱动禁食的肝脏生酮和脂质降解。这些发现将营养应激与染色质介导的转录激活联系起来。",
-      "translationSource": "271cb9c0f247aae0"
     },
     {
       "pmid": "42519832",
@@ -4262,27 +4346,6 @@
       "translationSource": "42cbbfefa170f284"
     },
     {
-      "pmid": "42228561",
-      "title": "Faf1 accelerates p97-mediated protein unfolding by promoting ubiquitin engagement.",
-      "titleZh": "Faf1 通过促进泛素结合来加速 p97 介导的蛋白质展开。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117393",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117393",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42228561/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "ER-associated degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
-      "abstractEn": "P97/VCP is a protein unfoldase of the AAA+ ATPase family that plays essential roles in numerous processes, including ER-associated degradation and DNA replication. For unfolding of proteins modified with K48-linked ubiquitin chains, p97 works with the heterodimeric cofactor Ufd1-Npl4, and the cofactor Faf1 was shown to enhance this activity during replisome disassembly by unknown mechanisms. Here, we employ an in vitro reconstituted system with human components for biochemical experiments, FRET-based assays, and cryo-EM structure determination to reveal that Faf1 generally accelerates ubiquitin-dependent substrate processing by promoting the unfolding of an initiator ubiquitin and its engagement by the ATPase. Faf1 thereby uses its p97-bound C-terminal UBX domain to anchor a long helix that braces Ufd1's UT3 domain and stabilizes Ufd1-Npl4 for ubiquitin unfolding. Our findings demonstrate how p97 works simultaneously with several cofactors to facilitate the unfolding of ubiquitinated proteins, indicating more complex regulatory mechanisms than for the simpler yeast Cdc48.",
-      "summaryZh": "P97/VCP 是 AAA+ ATP 酶家族的一种蛋白质解折叠酶，在许多过程中发挥重要作用，包括 ER 相关降解和 DNA 复制。对于用 K48 连接的泛素链修饰的蛋白质的展开，p97 与异二聚体辅因子 Ufd1-Npl4 一起作用，并且辅因子 Faf1 在复制体分解过程中通过未知机制增强了这种活性。在这里，我们采用含有人体成分的体外重建系统进行生化实验、基于 FRET 的测定和冷冻电镜结构测定，以揭示 Faf1 通常通过促进起始泛素的展开及其与 ATP 酶的结合来加速泛素依赖性底物加工。因此，Faf1 使用其 p97 结合的 C 端 UBX 结构域锚定一个长螺旋，支撑 Ufd1 的 UT3 结构域并稳定 Ufd1-Npl4 以实现泛素解折叠。我们的研究结果证明了 p97 如何与多个辅助因子同时作用以促进泛素化蛋白的展开，这表明比更简单的酵母 Cdc48 更复杂的调节机制。",
-      "translationSource": "4dfd9ff707ba466a"
-    },
-    {
       "pmid": "42224082",
       "title": "Structure of the E3 ligase CRL2 ZYG11B with substrates reveals the molecular basis for N-degron recognition and ubiquitination.",
       "titleZh": "E3 连接酶 CRL2 ZYG11B 与底物的结构揭示了 N-降解决定子识别和泛素化的分子基础。",
@@ -4302,6 +4365,27 @@
       "abstractEn": "ZYG11B is a substrate specificity factor for the cullin-2-RING ubiquitin ligase (CRL2), which plays a critical role in the recognition and degradation of Gly/N-degrons. Yet, how ZYG11B assembles with CRL2, and how ZYG11B couples specific substrate recognition to CRL2-mediated ubiquitination, is unknown. We present the cryo-electron microscopy (cryo-EM) structures of the CRL2 ZYG11B holoenzyme alone and in complex with a Gly/N-peptide from the inflammasome-forming pathogen sensor NLRP1. The structures indicate that ZYG11B folds into a leucine-rich repeat followed by two armadillo repeat domains that promote assembly with CRL2 and specific recognition of the NLRP1 Gly/N-degron that is revealed by viral protease cleavage. Our structural and functional data indicate that blocking ZYG11B recognition of the NLRP1 Gly/N-degron inhibits NLRP1 inflammasome activation by a viral protease. Overall, we show how the CRL2 ZYG11B E3 ligase complex recognizes Gly/N-degron substrates, including those that are involved in viral protease-mediated activation of the NLRP1 inflammasome.",
       "summaryZh": "ZYG11B 是 cullin-2-RING 泛素连接酶 (CRL2) 的底物特异性因子，在 Gly/N-降解决定子的识别和降解中发挥着关键作用。然而，ZYG11B 如何与 CRL2 组装，以及 ZYG11B 如何将特定底物识别与 CRL2 介导的泛素化结合起来，尚不清楚。我们展示了单独的 CRL2 ZYG11B 全酶以及与来自炎症小体形成病原体传感器 NLRP1 的 Gly/N 肽复合物的冷冻电子显微镜 (cryo-EM) 结构。这些结构表明，ZYG11B 折叠成富含亮氨酸的重复序列，然后是两个犰狳重复结构域，促进与 CRL2 的组装以及病毒蛋白酶裂解揭示的 NLRP1 Gly/N-degron 的特异性识别。我们的结构和功能数据表明，阻断 ZYG11B 对 NLRP1 Gly/N-degron 的识别会抑制病毒蛋白酶对 NLRP1 炎症小体的激活。总体而言，我们展示了 CRL2 ZYG11B E3 连接酶复合物如何识别 Gly/N-degron 底物，包括那些参与病毒蛋白酶介导的 NLRP1 炎症小体激活的底物。",
       "translationSource": "39413d412d88e2e7"
+    },
+    {
+      "pmid": "42228561",
+      "title": "Faf1 accelerates p97-mediated protein unfolding by promoting ubiquitin engagement.",
+      "titleZh": "Faf1 通过促进泛素结合来加速 p97 介导的蛋白质展开。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117393",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117393",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42228561/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "ER-associated degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：ER-associated degradation。",
+      "abstractEn": "P97/VCP is a protein unfoldase of the AAA+ ATPase family that plays essential roles in numerous processes, including ER-associated degradation and DNA replication. For unfolding of proteins modified with K48-linked ubiquitin chains, p97 works with the heterodimeric cofactor Ufd1-Npl4, and the cofactor Faf1 was shown to enhance this activity during replisome disassembly by unknown mechanisms. Here, we employ an in vitro reconstituted system with human components for biochemical experiments, FRET-based assays, and cryo-EM structure determination to reveal that Faf1 generally accelerates ubiquitin-dependent substrate processing by promoting the unfolding of an initiator ubiquitin and its engagement by the ATPase. Faf1 thereby uses its p97-bound C-terminal UBX domain to anchor a long helix that braces Ufd1's UT3 domain and stabilizes Ufd1-Npl4 for ubiquitin unfolding. Our findings demonstrate how p97 works simultaneously with several cofactors to facilitate the unfolding of ubiquitinated proteins, indicating more complex regulatory mechanisms than for the simpler yeast Cdc48.",
+      "summaryZh": "P97/VCP 是 AAA+ ATP 酶家族的一种蛋白质解折叠酶，在许多过程中发挥重要作用，包括 ER 相关降解和 DNA 复制。对于用 K48 连接的泛素链修饰的蛋白质的展开，p97 与异二聚体辅因子 Ufd1-Npl4 一起作用，并且辅因子 Faf1 在复制体分解过程中通过未知机制增强了这种活性。在这里，我们采用含有人体成分的体外重建系统进行生化实验、基于 FRET 的测定和冷冻电镜结构测定，以揭示 Faf1 通常通过促进起始泛素的展开及其与 ATP 酶的结合来加速泛素依赖性底物加工。因此，Faf1 使用其 p97 结合的 C 端 UBX 结构域锚定一个长螺旋，支撑 Ufd1 的 UT3 结构域并稳定 Ufd1-Npl4 以实现泛素解折叠。我们的研究结果证明了 p97 如何与多个辅助因子同时作用以促进泛素化蛋白的展开，这表明比更简单的酵母 Cdc48 更复杂的调节机制。",
+      "translationSource": "4dfd9ff707ba466a"
     },
     {
       "pmid": "42207641",
@@ -13455,6 +13539,27 @@
       "translationSource": "bb3bddae5c633e5c"
     },
     {
+      "pmid": "39695235",
+      "title": "Lithocholic acid binds TULP3 to activate sirtuins and AMPK to slow down ageing.",
+      "titleZh": "石胆酸结合 TULP3，激活去乙酰化酶和 AMPK，从而延缓衰老。",
+      "journal": "Nature",
+      "year": 2025,
+      "published": "2025-07-01",
+      "doi": "10.1038/s41586-024-08348-2",
+      "doiUrl": "https://doi.org/10.1038/s41586-024-08348-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39695235/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Lithocholic acid (LCA) is accumulated in mammals during calorie restriction and it can activate AMP-activated protein kinase (AMPK) to slow down ageing 1 . However, the molecular details of how LCA activates AMPK and induces these biological effects are unclear. Here we show that LCA enhances the activity of sirtuins to deacetylate and subsequently inhibit vacuolar H + -ATPase (v-ATPase), which leads to AMPK activation through the lysosomal glucose-sensing pathway. Proteomics analyses of proteins that co-immunoprecipitated with sirtuin 1 (SIRT1) identified TUB-like protein 3 (TULP3), a sirtuin-interacting protein 2 , as a LCA receptor. In detail, LCA-bound TULP3 allosterically activates sirtuins, which then deacetylate the V1E1 subunit of v-ATPase on residues K52, K99 and K191. Muscle-specific expression of a V1E1 mutant (3KR), which mimics the deacetylated state, strongly activates AMPK and rejuvenates muscles in aged mice. In nematodes and flies, LCA depends on the TULP3 homologues tub-1 and ktub, respectively, to activate AMPK and extend lifespan and healthspan. Our study demonstrates that activation of the TULP3-sirtuin-v-ATPase-AMPK pathway by LCA reproduces the benefits of calorie restriction.",
+      "summaryZh": "石胆酸 (LCA) 在哺乳动物热量限制期间积累，它可以激活 AMP 激活蛋白激酶 (AMPK) 以延缓衰老 1 。然而，LCA 如何激活 AMPK 并诱导这些生物效应的分子细节尚不清楚。在这里，我们发现 LCA 增强了 Sirtuins 的脱乙酰化活性，随后抑制液泡 H + -ATP 酶（v-ATP 酶），从而通过溶酶体葡萄糖传感途径导致 AMPK 激活。对与 Sirtuin 1 (SIRT1) 共免疫沉淀的蛋白质进行蛋白质组学分析，确定 TUB 样蛋白 3 (TULP3)（一种 Sirtuin 相互作用蛋白 2 ）为 LCA 受体。具体来说，LCA 结合的 TULP3 变构激活 Sirtuins，然后使 v-ATPase 的 V1E1 亚基在残基 K52、K99 和 K191 上脱乙酰化。 V1E1 突变体 (3KR) 的肌肉特异性表达模拟脱乙酰化状态，强烈激活 AMPK 并使衰老小鼠的肌肉恢复活力。在线虫和果蝇中，LCA 分别依赖于 TULP3 同源物 tube-1 和 ktub 来激活 AMPK 并延长寿命和健康寿命。我们的研究表明，LCA 激活 TULP3-sirtuin-v-ATPase-AMPK 通路可重现热量限制的益处。",
+      "translationSource": "e4c29ecb208683c3"
+    },
+    {
       "pmid": "40369063",
       "title": "STAT5 and STAT3 balance shapes dendritic cell function and tumour immunity.",
       "titleZh": "STAT5 和 STAT3 平衡树突状细胞功能和肿瘤免疫。",
@@ -13475,27 +13580,6 @@
       "abstractEn": "Immune checkpoint blockade (ICB) has transformed cancer therapy 1,2 . The efficacy of immunotherapy depends on dendritic cell-mediated tumour antigen presentation, T cell priming and activation 3,4 . However, the relationship between the key transcription factors in dendritic cells and ICB efficacy remains unknown. Here we found that ICB reprograms the interplay between the STAT3 and STAT5 transcriptional pathways in dendritic cells, thereby activating T cell immunity and enabling ICB efficacy. Mechanistically, STAT3 restrained the JAK2 and STAT5 transcriptional pathway, determining the fate of dendritic cell function. As STAT3 is often activated in the tumour microenvironment 5 , we developed two distinct PROTAC (proteolysis-targeting chimera) degraders of STAT3, SD-36 and SD-2301. STAT3 degraders effectively degraded STAT3 in dendritic cells and reprogrammed the dendritic cell-transcriptional network towards immunogenicity. Furthermore, STAT3 degrader monotherapy was efficacious in treatment of advanced tumours and ICB-resistant tumours without toxicity in mice. Thus, the crosstalk between STAT3 and STAT5 transcriptional pathways determines the dendritic cell phenotype in the tumour microenvironment and STAT3 degraders hold promise for cancer immunotherapy.",
       "summaryZh": "免疫检查点阻断 (ICB) 改变了癌症治疗 1,2 。免疫疗法的功效取决于树突状细胞介导的肿瘤抗原呈递、T 细胞启动和激活 3,4 。然而，树突状细胞中的关键转录因子与 ICB 功效之间的关系仍不清楚。在这里，我们发现 ICB 重新编程了树突状细胞中 STAT3 和 STAT5 转录途径之间的相互作用，从而激活 T 细胞免疫并实现 ICB 功效。从机制上讲，STAT3 抑制 JAK2 和 STAT5 转录途径，决定树突状细胞功能的命运。由于 STAT3 通常在肿瘤微环境中被激活 5 ，我们开发了两种不同的 STAT3 PROTAC（蛋白水解靶向嵌合体）降解剂：SD-36 和 SD-2301。 STAT3 降解剂有效降解树突状细胞中的 STAT3，并将树突状细胞转录网络重新编程为免疫原性。此外，STAT3降解剂单一疗法可有效治疗晚期肿瘤和ICB耐药肿瘤，且对小鼠无毒性。因此，STAT3 和 STAT5 转录途径之间的串扰决定了肿瘤微环境中的树突状细胞表型，STAT3 降解剂有望用于癌症免疫治疗。",
       "translationSource": "92db3d852188596b"
-    },
-    {
-      "pmid": "39695235",
-      "title": "Lithocholic acid binds TULP3 to activate sirtuins and AMPK to slow down ageing.",
-      "titleZh": "石胆酸结合 TULP3，激活去乙酰化酶和 AMPK，从而延缓衰老。",
-      "journal": "Nature",
-      "year": 2025,
-      "published": "2025-07-01",
-      "doi": "10.1038/s41586-024-08348-2",
-      "doiUrl": "https://doi.org/10.1038/s41586-024-08348-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39695235/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Lithocholic acid (LCA) is accumulated in mammals during calorie restriction and it can activate AMP-activated protein kinase (AMPK) to slow down ageing 1 . However, the molecular details of how LCA activates AMPK and induces these biological effects are unclear. Here we show that LCA enhances the activity of sirtuins to deacetylate and subsequently inhibit vacuolar H + -ATPase (v-ATPase), which leads to AMPK activation through the lysosomal glucose-sensing pathway. Proteomics analyses of proteins that co-immunoprecipitated with sirtuin 1 (SIRT1) identified TUB-like protein 3 (TULP3), a sirtuin-interacting protein 2 , as a LCA receptor. In detail, LCA-bound TULP3 allosterically activates sirtuins, which then deacetylate the V1E1 subunit of v-ATPase on residues K52, K99 and K191. Muscle-specific expression of a V1E1 mutant (3KR), which mimics the deacetylated state, strongly activates AMPK and rejuvenates muscles in aged mice. In nematodes and flies, LCA depends on the TULP3 homologues tub-1 and ktub, respectively, to activate AMPK and extend lifespan and healthspan. Our study demonstrates that activation of the TULP3-sirtuin-v-ATPase-AMPK pathway by LCA reproduces the benefits of calorie restriction.",
-      "summaryZh": "石胆酸 (LCA) 在哺乳动物热量限制期间积累，它可以激活 AMP 激活蛋白激酶 (AMPK) 以延缓衰老 1 。然而，LCA 如何激活 AMPK 并诱导这些生物效应的分子细节尚不清楚。在这里，我们发现 LCA 增强了 Sirtuins 的脱乙酰化活性，随后抑制液泡 H + -ATP 酶（v-ATP 酶），从而通过溶酶体葡萄糖传感途径导致 AMPK 激活。对与 Sirtuin 1 (SIRT1) 共免疫沉淀的蛋白质进行蛋白质组学分析，确定 TUB 样蛋白 3 (TULP3)（一种 Sirtuin 相互作用蛋白 2 ）为 LCA 受体。具体来说，LCA 结合的 TULP3 变构激活 Sirtuins，然后使 v-ATPase 的 V1E1 亚基在残基 K52、K99 和 K191 上脱乙酰化。 V1E1 突变体 (3KR) 的肌肉特异性表达模拟脱乙酰化状态，强烈激活 AMPK 并使衰老小鼠的肌肉恢复活力。在线虫和果蝇中，LCA 分别依赖于 TULP3 同源物 tube-1 和 ktub 来激活 AMPK 并延长寿命和健康寿命。我们的研究表明，LCA 激活 TULP3-sirtuin-v-ATPase-AMPK 通路可重现热量限制的益处。",
-      "translationSource": "e4c29ecb208683c3"
     },
     {
       "pmid": "40472846",
@@ -13954,30 +14038,6 @@
       "translationSource": "53d4f0206dfbbb3e"
     },
     {
-      "pmid": "39870762",
-      "title": "Implications of frequent hitter E3 ligases in targeted protein degradation screens.",
-      "titleZh": "频繁击球手 E3 连接酶在靶向蛋白质降解筛选中的意义。",
-      "journal": "Nature Chemical Biology",
-      "year": 2025,
-      "published": "2025-04-01",
-      "doi": "10.1038/s41589-024-01821-z",
-      "doiUrl": "https://doi.org/10.1038/s41589-024-01821-z",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39870762/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "proteasome",
-        "ubiquitin-proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, proteasome, ubiquitin-proteasome。",
-      "abstractEn": "Targeted protein degradation (TPD) offers a promising approach for chemical probe and drug discovery that uses small molecules or biologics to direct proteins to the cellular machinery for destruction. Among the >600 human E3 ligases, CRBN and VHL have served as workhorses for ubiquitin-proteasome system-dependent TPD. Identification of additional E3 ligases capable of supporting TPD would unlock the full potential of this mechanism for both research and pharmaceutical applications. This perspective discusses recent strategies to expand the scope of TPD and the surprising convergence of these diverse screening efforts on a handful of E3 ligases, specifically DCAF16, DCAF11 and FBXO22. We speculate that a combination of properties, including superficial ligandability, potential for promiscuous substrate interactions and high occupancy in Cullin-RING complexes, may position these E3 ligases as 'low-hanging fruit' in TPD screens. We also discuss complementary approaches that might further expand the E3 ligase landscape supporting TPD.",
-      "summaryZh": "靶向蛋白质降解（TPD）为化学探针和药物发现提供了一种有前途的方法，它使用小分子或生物制剂将蛋白质引导至细胞机器进行破坏。在超过 600 种人类 E3 连接酶中，CRBN 和 VHL 已成为泛素蛋白酶体系统依赖性 TPD 的主力。鉴定出能够支持 TPD 的其他 E3 连接酶将释放该机制在研究和制药应用方面的全部潜力。该观点讨论了扩大 TPD 范围的最新策略，以及对少数 E3 连接酶（特别是 DCAF16、DCAF11 和 FBXO22）的这些不同筛选工作的令人惊讶的融合。我们推测，包括表面配体性、混杂底物相互作用的潜力以及 Cullin-RING 复合物中的高占有率在内的特性组合可能会将这些 E3 连接酶定位为 TPD 筛选中的“容易实现的成果”。我们还讨论了可能进一步扩大支持 TPD 的 E3 连接酶景观的补充方法。",
-      "translationSource": "f1b0ab3c42583d73"
-    },
-    {
       "pmid": "39482469",
       "title": "Carbonic anhydrase inhibition ameliorates tau toxicity via enhanced tau secretion.",
       "titleZh": "碳酸酐酶抑制通过增强 tau 分泌来改善 tau 毒性。",
@@ -14018,6 +14078,30 @@
       "abstractEn": "Phase-separated condensates are membrane-less intracellular structures comprising dynamic protein interactions that organize essential biological processes. Understanding the composition and dynamics of these organelles advances our knowledge of cellular behaviors and disease pathologies related to granule dysregulation. In this study, we apply microenvironment mapping with a HaloTag-based platform (HaloMap) to characterize intracellular stress granule dynamics in living cells. After validating the robustness and sensitivity of this approach, we then profile the stress granule proteome throughout the formation and disassembly and under pharmacological perturbation. These experiments reveal several ubiquitin-related modulators, including the HECT (homologous to E6AP C terminus) E3 ligases ITCH and NEDD4L, as well as the ubiquitin receptor toll-interacting protein TOLLIP, as key mediators of granule disassembly. In addition, we identify an autophagy-related pathway that promotes granule clearance. Collectively, this work establishes a general photoproximity labeling approach for unraveling intracellular protein interactomes and uncovers previously unexplored regulatory mechanisms of stress granule dynamics.",
       "summaryZh": "相分离冷凝物是无膜细胞内结构，包含组织基本生物过程的动态蛋白质相互作用。了解这些细胞器的组成和动态可以增进我们对与颗粒失调相关的细胞行为和疾病病理学的了解。在本研究中，我们应用基于 HaloTag 的平台 (HaloMap) 绘制微环境图来表征活细胞中的细胞内应激颗粒动力学。在验证了这种方法的稳健性和敏感性后，我们对整个形成和分解过程以及药理学扰动下的应激颗粒蛋白质组进行了分析。这些实验揭示了几种与泛素相关的调节剂，包括 HECT（与 E6AP C 末端同源）E3 连接酶 ITCH 和 NEDD4L，以及泛素受体 Toll 相互作用蛋白 TOLLIP，作为颗粒分解的关键介质。此外，我们还发现了一种促进颗粒清除的自噬相关途径。总的来说，这项工作建立了一种通用的光邻近标记方法，用于解开细胞内蛋白质相互作用组，并揭示了先前未探索的应激颗粒动力学的调节机制。",
       "translationSource": "9842e93d84d0fbb5"
+    },
+    {
+      "pmid": "39870762",
+      "title": "Implications of frequent hitter E3 ligases in targeted protein degradation screens.",
+      "titleZh": "频繁击球手 E3 连接酶在靶向蛋白质降解筛选中的意义。",
+      "journal": "Nature Chemical Biology",
+      "year": 2025,
+      "published": "2025-04-01",
+      "doi": "10.1038/s41589-024-01821-z",
+      "doiUrl": "https://doi.org/10.1038/s41589-024-01821-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39870762/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Targeted protein degradation (TPD) offers a promising approach for chemical probe and drug discovery that uses small molecules or biologics to direct proteins to the cellular machinery for destruction. Among the >600 human E3 ligases, CRBN and VHL have served as workhorses for ubiquitin-proteasome system-dependent TPD. Identification of additional E3 ligases capable of supporting TPD would unlock the full potential of this mechanism for both research and pharmaceutical applications. This perspective discusses recent strategies to expand the scope of TPD and the surprising convergence of these diverse screening efforts on a handful of E3 ligases, specifically DCAF16, DCAF11 and FBXO22. We speculate that a combination of properties, including superficial ligandability, potential for promiscuous substrate interactions and high occupancy in Cullin-RING complexes, may position these E3 ligases as 'low-hanging fruit' in TPD screens. We also discuss complementary approaches that might further expand the E3 ligase landscape supporting TPD.",
+      "summaryZh": "靶向蛋白质降解（TPD）为化学探针和药物发现提供了一种有前途的方法，它使用小分子或生物制剂将蛋白质引导至细胞机器进行破坏。在超过 600 种人类 E3 连接酶中，CRBN 和 VHL 已成为泛素蛋白酶体系统依赖性 TPD 的主力。鉴定出能够支持 TPD 的其他 E3 连接酶将释放该机制在研究和制药应用方面的全部潜力。该观点讨论了扩大 TPD 范围的最新策略，以及对少数 E3 连接酶（特别是 DCAF16、DCAF11 和 FBXO22）的这些不同筛选工作的令人惊讶的融合。我们推测，包括表面配体性、混杂底物相互作用的潜力以及 Cullin-RING 复合物中的高占有率在内的特性组合可能会将这些 E3 连接酶定位为 TPD 筛选中的“容易实现的成果”。我们还讨论了可能进一步扩大支持 TPD 的 E3 连接酶景观的补充方法。",
+      "translationSource": "f1b0ab3c42583d73"
     },
     {
       "pmid": "39533105",
@@ -14212,27 +14296,6 @@
       "translationSource": "c47c4b2f5c2473f2"
     },
     {
-      "pmid": "39215101",
-      "title": "Engineering artificial non-coding RNAs for targeted protein degradation.",
-      "titleZh": "工程化人工非编码 RNA 用于靶向蛋白质降解。",
-      "journal": "Nature Chemical Biology",
-      "year": 2025,
-      "published": "2025-03-01",
-      "doi": "10.1038/s41589-024-01719-w",
-      "doiUrl": "https://doi.org/10.1038/s41589-024-01719-w",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39215101/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
-      "abstractEn": "Targeted protein degradation has become a notable drug development strategy, but its application has been limited by the dependence on protein-based chimeras with restricted genetic manipulation capabilities. The use of long non-coding RNAs (lncRNAs) has emerged as a viable alternative, offering interactions with cellular proteins to modulate pathways and enhance degradation capabilities. Here we introduce a strategy employing artificial lncRNAs (alncRNAs) for precise targeted protein degradation. By integrating RNA aptamers and sequences from the lncRNA HOTAIR, our alncRNAs specifically target and facilitate the ubiquitination and degradation of oncogenic transcription factors and tumor-related proteins, such as c-MYC, NF-κB, ETS-1, KRAS and EGFR. These alncRNAs show potential in reducing malignant phenotypes in cells, both in vitro and in vivo, offering advantages in efficiency, adaptability and versatility. This research enhances knowledge of lncRNA-driven protein degradation and presents an effective method for targeted therapies.",
-      "summaryZh": "靶向蛋白质降解已成为一种值得注意的药物开发策略，但其应用因依赖于遗传操作能力有限的基于蛋白质的嵌合体而受到限制。长非编码 RNA (lncRNA) 的使用已成为一种可行的替代方案，它可以与细胞蛋白质相互作用来调节途径并增强降解能力。在这里，我们介绍了一种利用人工 lncRNA (alncRNA) 进行精确靶向蛋白质降解的策略。通过整合来自 lncRNA HOTAIR 的 RNA 适体和序列，我们的 ancRNA 特异性靶向并促进致癌转录因子和肿瘤相关蛋白（如 c-MYC、NF-κB、ETS-1、KRAS 和 EGFR）的泛素化和降解。这些alncRNA在体外和体内均显示出减少细胞恶性表型的潜力，在效率、适应性和多功能性方面具有优势。这项研究增强了对 lncRNA 驱动的蛋白质降解的认识，并为靶向治疗提供了一种有效的方法。",
-      "translationSource": "38b6c9e2148625a3"
-    },
-    {
       "pmid": "39266721",
       "title": "Customizable gene sensing and response without altering endogenous coding sequences.",
       "titleZh": "可定制的基因感应和响应，无需改变内源编码序列。",
@@ -14275,6 +14338,27 @@
       "abstractEn": "Trafficking of G protein-coupled receptors (GPCRs) through the endosomal-lysosomal pathway is critical to homeostatic regulation of GPCRs following activation with agonist. Identifying the genes involved in GPCR trafficking is challenging due to the complexity of sorting operations and the large number of cellular proteins involved in the process. Here, we developed a high-sensitivity biosensor for GPCR expression and agonist-induced trafficking to the lysosome by leveraging the ability of the engineered peroxidase APEX2 to activate the fluorogenic substrate Amplex UltraRed (AUR). We used the GPCR-APEX2/AUR assay to perform a genome-wide CRISPR interference screen focused on identifying genes regulating expression and trafficking of the δ-opioid receptor (DOR). We identified 492 genes consisting of both known and new regulators of DOR function. We demonstrate that one new regulator, DNAJC13, controls trafficking of multiple GPCRs, including DOR, through the endosomal-lysosomal pathway by regulating the composition of the endosomal proteome and endosomal homeostasis.",
       "summaryZh": "G 蛋白偶联受体 (GPCR) 通过内体-溶酶体途径的运输对于激动剂激活后 GPCR 的稳态调节至关重要。由于分选操作的复杂性以及该过程涉及大量细胞蛋白，识别参与 GPCR 运输的基因具有挑战性。在这里，我们利用工程过氧化物酶 APEX2 激活荧光底物 Amplex UltraRed (AUR) 的能力，开发了一种高灵敏度生物传感器，用于 GPCR 表达和激动剂诱导的溶酶体运输。我们使用 GPCR-APEX2/AUR 测定进行全基因组 CRISPR 干扰筛选，重点是识别调节 δ-阿片受体 (DOR) 表达和运输的基因。我们鉴定了 492 个由已知和新的 DOR 功能调节因子组成的基因。我们证明了一种新的调节因子DNAJC13，通过调节内体蛋白质组的组成和内体稳态，通过内体-溶酶体途径控制多种GPCR（包括DOR）的运输。",
       "translationSource": "a4535f8efcf113a7"
+    },
+    {
+      "pmid": "39215101",
+      "title": "Engineering artificial non-coding RNAs for targeted protein degradation.",
+      "titleZh": "工程化人工非编码 RNA 用于靶向蛋白质降解。",
+      "journal": "Nature Chemical Biology",
+      "year": 2025,
+      "published": "2025-03-01",
+      "doi": "10.1038/s41589-024-01719-w",
+      "doiUrl": "https://doi.org/10.1038/s41589-024-01719-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39215101/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "Targeted protein degradation has become a notable drug development strategy, but its application has been limited by the dependence on protein-based chimeras with restricted genetic manipulation capabilities. The use of long non-coding RNAs (lncRNAs) has emerged as a viable alternative, offering interactions with cellular proteins to modulate pathways and enhance degradation capabilities. Here we introduce a strategy employing artificial lncRNAs (alncRNAs) for precise targeted protein degradation. By integrating RNA aptamers and sequences from the lncRNA HOTAIR, our alncRNAs specifically target and facilitate the ubiquitination and degradation of oncogenic transcription factors and tumor-related proteins, such as c-MYC, NF-κB, ETS-1, KRAS and EGFR. These alncRNAs show potential in reducing malignant phenotypes in cells, both in vitro and in vivo, offering advantages in efficiency, adaptability and versatility. This research enhances knowledge of lncRNA-driven protein degradation and presents an effective method for targeted therapies.",
+      "summaryZh": "靶向蛋白质降解已成为一种值得注意的药物开发策略，但其应用因依赖于遗传操作能力有限的基于蛋白质的嵌合体而受到限制。长非编码 RNA (lncRNA) 的使用已成为一种可行的替代方案，它可以与细胞蛋白质相互作用来调节途径并增强降解能力。在这里，我们介绍了一种利用人工 lncRNA (alncRNA) 进行精确靶向蛋白质降解的策略。通过整合来自 lncRNA HOTAIR 的 RNA 适体和序列，我们的 ancRNA 特异性靶向并促进致癌转录因子和肿瘤相关蛋白（如 c-MYC、NF-κB、ETS-1、KRAS 和 EGFR）的泛素化和降解。这些alncRNA在体外和体内均显示出减少细胞恶性表型的潜力，在效率、适应性和多功能性方面具有优势。这项研究增强了对 lncRNA 驱动的蛋白质降解的认识，并为靶向治疗提供了一种有效的方法。",
+      "translationSource": "38b6c9e2148625a3"
     },
     {
       "pmid": "38769424",
@@ -14469,47 +14553,29 @@
       "translationSource": "50499e7237462598"
     },
     {
-      "pmid": "39778578",
-      "title": "Targeting N-Myc in neuroblastoma with selective Aurora kinase A degraders.",
-      "titleZh": "使用选择性 Aurora 激酶 A 降解剂靶向神经母细胞瘤中的 N-Myc。",
+      "pmid": "39721580",
+      "title": "Anti-tumor immunotherapy using engineered bacterial outer membrane vesicles fused to lysosome-targeting chimeras mediated by transferrin receptor.",
+      "titleZh": "使用与转铁蛋白受体介导的溶酶体靶向嵌合体融合的工程细菌外膜囊泡进行抗肿瘤免疫治疗。",
       "journal": "Cell Chemical Biology",
       "year": 2025,
       "published": "2025-02-20",
-      "doi": "10.1016/j.chembiol.2024.12.006",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.12.006",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39778578/",
+      "doi": "10.1016/j.chembiol.2024.12.008",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.12.008",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39721580/",
       "categories": [
-        "靶向蛋白降解"
+        "合成生物学",
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
       ],
       "matchedTerms": [
-        "targeted protein degradation"
+        "engineered bacteria",
+        "lysosome-targeting chimera",
+        "lysosome"
       ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
-      "abstractEn": "The N-Myc transcription factor, encoded by MYCN, is a mechanistically validated, yet challenging, target for neuroblastoma (NB) therapy development. In normal neuronal progenitors, N-Myc undergoes rapid degradation, while, in MYCN-amplified NB cells, Aurora kinase A (Aurora-A) binds to and stabilizes N-Myc, resulting in elevated protein levels. Here, we demonstrate that targeted protein degradation of Aurora-A decreases N-Myc levels. A potent Aurora-A degrader, HLB-0532259 (compound 4), was developed from an Aurora-A-binding ligand that engages the Aurora-A/N-Myc complex. HLB-0532259 promotes the degradation of Aurora-A, which elicits concomitant N-Myc degradation, with nanomolar potency and excellent selectivity. HLB-0532259 surpasses the cellular efficacy of established allosteric Aurora-A inhibitors, exhibits favorable pharmacokinetic properties, and elicits tumor reduction in a murine xenograft NB model. This study broadly delineates a strategy for targeting \"undruggable\" proteins that are reliant on accessory proteins for cellular stabilization.",
-      "summaryZh": "由 MYCN 编码的 N-Myc 转录因子是神经母细胞瘤 (NB) 治疗开发的一个经过机制验证但具有挑战性的靶标。在正常神经元祖细胞中，N-Myc 经历快速降解，而在 MYCN 扩增的 NB 细胞中，极光激酶 A (Aurora-A) 结合并稳定 N-Myc，导致蛋白质水平升高。在这里，我们证明 Aurora-A 的靶向蛋白质降解可降低 N-Myc 水平。一种有效的 Aurora-A 降解剂 HLB-0532259（化合物 4）是由与 Aurora-A/N-Myc 复合物结合的 Aurora-A 结合配体开发而成。 HLB-0532259 可促进 Aurora-A 的降解，从而引发伴随的 N-Myc 降解，具有纳摩尔效力和出色的选择性。 HLB-0532259 超越了现有变构 Aurora-A 抑制剂的细胞功效，表现出良好的药代动力学特性，并在小鼠异种移植 NB 模型中引起肿瘤减少。这项研究广泛地描绘了一种针对“不可成药”蛋白质的策略，这些蛋白质依赖于辅助蛋白质来稳定细胞。",
-      "translationSource": "addb2cbf04b79527"
-    },
-    {
-      "pmid": "39755121",
-      "title": "The efflux pump ABCC1/MRP1 constitutively restricts PROTAC sensitivity in cancer cells.",
-      "titleZh": "外排泵 ABCC1/MRP1 持续限制癌细胞中的 PROTAC 敏感性。",
-      "journal": "Cell Chemical Biology",
-      "year": 2025,
-      "published": "2025-02-20",
-      "doi": "10.1016/j.chembiol.2024.11.009",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.11.009",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39755121/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "protac",
-        "proteolysis targeting chimera"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac, proteolysis targeting chimera。",
-      "abstractEn": "Proteolysis targeting chimeras (PROTACs) are bifunctional molecules that induce selective protein degradation by linking an E3 ubiquitin ligase enzyme to a target protein. This approach allows scope for targeting \"undruggable\" proteins, and several PROTACs have reached the stage of clinical candidates. However, the roles of cellular transmembrane transporters in PROTAC uptake and efflux remain underexplored. Here, we utilized transporter-focused genetic screens to identify the ATP-binding cassette transporter ABCC1/MRP1 as a key PROTAC resistance factor. Unlike the previously identified inducible PROTAC exporter ABCB1/MDR1, ABCC1 is highly expressed among cancers of various origins and constitutively restricts PROTAC bioavailability. Moreover, in a genome-wide PROTAC resistance screen, we identified candidates involved in processes such as ubiquitination, mTOR signaling, and apoptosis as genetic factors involved in PROTAC resistance. In summary, our findings reveal ABCC1 as a crucial constitutively active efflux pump limiting PROTAC efficacy in various cancer cells, offering insights for overcoming drug resistance.",
-      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 是双功能分子，通过将 E3 泛素连接酶与靶蛋白连接来诱导选择性蛋白质降解。这种方法为靶向“不可成药”蛋白质提供了空间，并且几种 PROTAC 已达到临床候选阶段。然而，细胞跨膜转运蛋白在 PROTAC 摄取和流出中的作用仍未得到充分研究。在这里，我们利用以转运蛋白为重点的遗传筛选来鉴定 ATP 结合盒转运蛋白 ABCC1/MRP1 作为关键的 PROTAC 耐药因子。与之前确定的诱导型 PROTAC 输出蛋白 ABCB1/MDR1 不同，ABCC1 在各种来源的癌症中高表达，并构成性地限制 PROTAC 的生物利用度。此外，在全基因组 PROTAC 抗性筛选中，我们确定了参与泛素化、mTOR 信号传导和细胞凋亡等过程的候选物作为参与 PROTAC 抗性的遗传因素。总之，我们的研究结果表明 ABCC1 作为一种关键的组成性主动外排泵，限制了 PROTAC 在各种癌细胞中的功效，为克服耐药性提供了见解。",
-      "translationSource": "faba1cb5514334aa"
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria, lysosome-targeting chimera, lysosome。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "009a71ada9334227"
     },
     {
       "pmid": "39610248",
@@ -14576,29 +14642,47 @@
       "translationSource": "18d46497d63341d9"
     },
     {
-      "pmid": "39721580",
-      "title": "Anti-tumor immunotherapy using engineered bacterial outer membrane vesicles fused to lysosome-targeting chimeras mediated by transferrin receptor.",
-      "titleZh": "使用与转铁蛋白受体介导的溶酶体靶向嵌合体融合的工程细菌外膜囊泡进行抗肿瘤免疫治疗。",
+      "pmid": "39778578",
+      "title": "Targeting N-Myc in neuroblastoma with selective Aurora kinase A degraders.",
+      "titleZh": "使用选择性 Aurora 激酶 A 降解剂靶向神经母细胞瘤中的 N-Myc。",
       "journal": "Cell Chemical Biology",
       "year": 2025,
       "published": "2025-02-20",
-      "doi": "10.1016/j.chembiol.2024.12.008",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.12.008",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39721580/",
+      "doi": "10.1016/j.chembiol.2024.12.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.12.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39778578/",
       "categories": [
-        "合成生物学",
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
+        "靶向蛋白降解"
       ],
       "matchedTerms": [
-        "engineered bacteria",
-        "lysosome-targeting chimera",
-        "lysosome"
+        "targeted protein degradation"
       ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria, lysosome-targeting chimera, lysosome。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "009a71ada9334227"
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "The N-Myc transcription factor, encoded by MYCN, is a mechanistically validated, yet challenging, target for neuroblastoma (NB) therapy development. In normal neuronal progenitors, N-Myc undergoes rapid degradation, while, in MYCN-amplified NB cells, Aurora kinase A (Aurora-A) binds to and stabilizes N-Myc, resulting in elevated protein levels. Here, we demonstrate that targeted protein degradation of Aurora-A decreases N-Myc levels. A potent Aurora-A degrader, HLB-0532259 (compound 4), was developed from an Aurora-A-binding ligand that engages the Aurora-A/N-Myc complex. HLB-0532259 promotes the degradation of Aurora-A, which elicits concomitant N-Myc degradation, with nanomolar potency and excellent selectivity. HLB-0532259 surpasses the cellular efficacy of established allosteric Aurora-A inhibitors, exhibits favorable pharmacokinetic properties, and elicits tumor reduction in a murine xenograft NB model. This study broadly delineates a strategy for targeting \"undruggable\" proteins that are reliant on accessory proteins for cellular stabilization.",
+      "summaryZh": "由 MYCN 编码的 N-Myc 转录因子是神经母细胞瘤 (NB) 治疗开发的一个经过机制验证但具有挑战性的靶标。在正常神经元祖细胞中，N-Myc 经历快速降解，而在 MYCN 扩增的 NB 细胞中，极光激酶 A (Aurora-A) 结合并稳定 N-Myc，导致蛋白质水平升高。在这里，我们证明 Aurora-A 的靶向蛋白质降解可降低 N-Myc 水平。一种有效的 Aurora-A 降解剂 HLB-0532259（化合物 4）是由与 Aurora-A/N-Myc 复合物结合的 Aurora-A 结合配体开发而成。 HLB-0532259 可促进 Aurora-A 的降解，从而引发伴随的 N-Myc 降解，具有纳摩尔效力和出色的选择性。 HLB-0532259 超越了现有变构 Aurora-A 抑制剂的细胞功效，表现出良好的药代动力学特性，并在小鼠异种移植 NB 模型中引起肿瘤减少。这项研究广泛地描绘了一种针对“不可成药”蛋白质的策略，这些蛋白质依赖于辅助蛋白质来稳定细胞。",
+      "translationSource": "addb2cbf04b79527"
+    },
+    {
+      "pmid": "39755121",
+      "title": "The efflux pump ABCC1/MRP1 constitutively restricts PROTAC sensitivity in cancer cells.",
+      "titleZh": "外排泵 ABCC1/MRP1 持续限制癌细胞中的 PROTAC 敏感性。",
+      "journal": "Cell Chemical Biology",
+      "year": 2025,
+      "published": "2025-02-20",
+      "doi": "10.1016/j.chembiol.2024.11.009",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.11.009",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39755121/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac",
+        "proteolysis targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac, proteolysis targeting chimera。",
+      "abstractEn": "Proteolysis targeting chimeras (PROTACs) are bifunctional molecules that induce selective protein degradation by linking an E3 ubiquitin ligase enzyme to a target protein. This approach allows scope for targeting \"undruggable\" proteins, and several PROTACs have reached the stage of clinical candidates. However, the roles of cellular transmembrane transporters in PROTAC uptake and efflux remain underexplored. Here, we utilized transporter-focused genetic screens to identify the ATP-binding cassette transporter ABCC1/MRP1 as a key PROTAC resistance factor. Unlike the previously identified inducible PROTAC exporter ABCB1/MDR1, ABCC1 is highly expressed among cancers of various origins and constitutively restricts PROTAC bioavailability. Moreover, in a genome-wide PROTAC resistance screen, we identified candidates involved in processes such as ubiquitination, mTOR signaling, and apoptosis as genetic factors involved in PROTAC resistance. In summary, our findings reveal ABCC1 as a crucial constitutively active efflux pump limiting PROTAC efficacy in various cancer cells, offering insights for overcoming drug resistance.",
+      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 是双功能分子，通过将 E3 泛素连接酶与靶蛋白连接来诱导选择性蛋白质降解。这种方法为靶向“不可成药”蛋白质提供了空间，并且几种 PROTAC 已达到临床候选阶段。然而，细胞跨膜转运蛋白在 PROTAC 摄取和流出中的作用仍未得到充分研究。在这里，我们利用以转运蛋白为重点的遗传筛选来鉴定 ATP 结合盒转运蛋白 ABCC1/MRP1 作为关键的 PROTAC 耐药因子。与之前确定的诱导型 PROTAC 输出蛋白 ABCB1/MDR1 不同，ABCC1 在各种来源的癌症中高表达，并构成性地限制 PROTAC 的生物利用度。此外，在全基因组 PROTAC 抗性筛选中，我们确定了参与泛素化、mTOR 信号传导和细胞凋亡等过程的候选物作为参与 PROTAC 抗性的遗传因素。总之，我们的研究结果表明 ABCC1 作为一种关键的组成性主动外排泵，限制了 PROTAC 在各种癌细胞中的功效，为克服耐药性提供了见解。",
+      "translationSource": "faba1cb5514334aa"
     },
     {
       "pmid": "39933019",
@@ -14844,6 +14928,27 @@
       "translationSource": "9b2072b17881c0b0"
     },
     {
+      "pmid": "39317847",
+      "title": "Partitioning of a 2-bit hash function across 66 communicating cells.",
+      "titleZh": "跨 66 个通信单元的 2 位散列函数的分区。",
+      "journal": "Nature Chemical Biology",
+      "year": 2025,
+      "published": "2025-02-01",
+      "doi": "10.1038/s41589-024-01730-1",
+      "doiUrl": "https://doi.org/10.1038/s41589-024-01730-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39317847/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Powerful distributed computing can be achieved by communicating cells that individually perform simple operations. Here, we report design software to divide a large genetic circuit across cells as well as the genetic parts to implement the subcircuits in their genomes. These tools were demonstrated using a 2-bit version of the MD5 hashing algorithm, which is an early predecessor to the cryptographic functions underlying cryptocurrency. One iteration requires 110 logic gates, which were partitioned across 66 Escherichia coli strains, requiring the introduction of a total of 1.1 Mb of recombinant DNA into their genomes. The strains were individually experimentally verified to integrate their assigned input signals, process this information correctly and propagate the result to the cell in the next layer. This work demonstrates the potential to obtain programable control of multicellular biological processes.",
+      "summaryZh": "通过单独执行简单操作的通信单元可以实现强大的分布式计算。在这里，我们报告了设计软件，该软件可以在细胞之间划分大型遗传电路以及遗传部分，以在其基因组中实现子电路。这些工具是使用 MD5 哈希算法的 2 位版本进行演示的，该算法是加密货币底层加密函数的早期前身。一次迭代需要 110 个逻辑门，这些逻辑门被划分为 66 个大肠杆菌菌株，需要将总共 1.1 Mb 的重组 DNA 引入其基因组中。这些菌株经过单独的实验验证，可以整合分配给它们的输入信号，正确处理这些信息并将结果传播到下一层的细胞。这项工作展示了获得多细胞生物过程的可编程控制的潜力。",
+      "translationSource": "0de7d2db7069646b"
+    },
+    {
       "pmid": "38907112",
       "title": "Inhibition of OSBP blocks retrograde trafficking by inducing partial Golgi degradation.",
       "titleZh": "抑制 OSBP 通过诱导部分高尔基体降解来阻止逆行运输。",
@@ -14865,27 +14970,6 @@
       "abstractEn": "Sterol-binding proteins are important regulators of lipid homeostasis and membrane integrity; however, the discovery of selective modulators can be challenging due to structural similarities in the sterol-binding domains. We report the discovery of potent and selective inhibitors of oxysterol-binding protein (OSBP), which we term oxybipins. Sterol-containing chemical chimeras aimed at identifying new sterol-binding proteins by targeted degradation, led to a significant reduction in levels of Golgi-associated proteins. The degradation occurred in lysosomes, concomitant with changes in protein glycosylation, indicating that the degradation of Golgi proteins was a downstream effect. By establishing a sterol transport protein biophysical assay panel, we discovered that the oxybipins potently inhibited OSBP, resulting in blockage of retrograde trafficking and attenuating Shiga toxin toxicity. As the oxybipins do not target other sterol transporters and only stabilized OSBP in intact cells, we advocate their use as tools to study OSBP function and therapeutic relevance.",
       "summaryZh": "甾醇结合蛋白是脂质稳态和膜完整性的重要调节剂；然而，由于甾醇结合域的结构相似性，选择性调节剂的发现可能具有挑战性。我们报告发现了有效且选择性的氧甾醇结合蛋白（OSBP）抑制剂，我们将其称为奥比平（oxybipins）。含有甾醇的化学嵌合体旨在通过靶向降解来识别新的甾醇结合蛋白，导致高尔基体相关蛋白水平显着降低。降解发生在溶酶体中，伴随着蛋白质糖基化的变化，表明高尔基体蛋白的降解是下游效应。通过建立甾醇转运蛋白生物物理检测组，我们发现奥比平能有效抑制 OSBP，从而阻断逆行运输并减弱志贺毒素毒性。由于奥比平不靶向其他甾醇转运蛋白，仅稳定完整细胞中的 OSBP，因此我们主张将其用作研究 OSBP 功能和治疗相关性的工具。",
       "translationSource": "7856a3ba3be02a1f"
-    },
-    {
-      "pmid": "39317847",
-      "title": "Partitioning of a 2-bit hash function across 66 communicating cells.",
-      "titleZh": "跨 66 个通信单元的 2 位散列函数的分区。",
-      "journal": "Nature Chemical Biology",
-      "year": 2025,
-      "published": "2025-02-01",
-      "doi": "10.1038/s41589-024-01730-1",
-      "doiUrl": "https://doi.org/10.1038/s41589-024-01730-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39317847/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "genetic circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
-      "abstractEn": "Powerful distributed computing can be achieved by communicating cells that individually perform simple operations. Here, we report design software to divide a large genetic circuit across cells as well as the genetic parts to implement the subcircuits in their genomes. These tools were demonstrated using a 2-bit version of the MD5 hashing algorithm, which is an early predecessor to the cryptographic functions underlying cryptocurrency. One iteration requires 110 logic gates, which were partitioned across 66 Escherichia coli strains, requiring the introduction of a total of 1.1 Mb of recombinant DNA into their genomes. The strains were individually experimentally verified to integrate their assigned input signals, process this information correctly and propagate the result to the cell in the next layer. This work demonstrates the potential to obtain programable control of multicellular biological processes.",
-      "summaryZh": "通过单独执行简单操作的通信单元可以实现强大的分布式计算。在这里，我们报告了设计软件，该软件可以在细胞之间划分大型遗传电路以及遗传部分，以在其基因组中实现子电路。这些工具是使用 MD5 哈希算法的 2 位版本进行演示的，该算法是加密货币底层加密函数的早期前身。一次迭代需要 110 个逻辑门，这些逻辑门被划分为 66 个大肠杆菌菌株，需要将总共 1.1 Mb 的重组 DNA 引入其基因组中。这些菌株经过单独的实验验证，可以整合分配给它们的输入信号，正确处理这些信息并将结果传播到下一层的细胞。这项工作展示了获得多细胞生物过程的可编程控制的潜力。",
-      "translationSource": "0de7d2db7069646b"
     },
     {
       "pmid": "39774271",
@@ -14931,33 +15015,6 @@
       "translationSource": "491228ff9814be82"
     },
     {
-      "pmid": "39322662",
-      "title": "Designed endocytosis-inducing proteins degrade targets and amplify signals.",
-      "titleZh": "设计的内吞诱导蛋白可降解靶标并放大信号。",
-      "journal": "Nature",
-      "year": 2025,
-      "published": "2025-02-01",
-      "doi": "10.1038/s41586-024-07948-2",
-      "doiUrl": "https://doi.org/10.1038/s41586-024-07948-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39322662/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "targeted degradation",
-        "lytac",
-        "lysosome-targeting chimaera",
-        "kinetac",
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, lytac, lysosome-targeting chimaera, kinetac, lysosome, lysosomal。",
-      "abstractEn": "Endocytosis and lysosomal trafficking of cell surface receptors can be triggered by endogenous ligands. Therapeutic approaches such as lysosome-targeting chimaeras 1,2 (LYTACs) and cytokine receptor-targeting chimeras 3 (KineTACs) have used this to target specific proteins for degradation by fusing modified native ligands to target binding proteins. Although powerful, these approaches can be limited by competition with native ligands and requirements for chemical modification that limit genetic encodability and can complicate manufacturing, and, more generally, there may be no native ligands that stimulate endocytosis through a given receptor. Here we describe computational design approaches for endocytosis-triggering binding proteins (EndoTags) that overcome these challenges. We present EndoTags for insulin-like growth factor 2 receptor (IGF2R) and asialoglycoprotein receptor (ASGPR), sortilin and transferrin receptors, and show that fusing these tags to soluble or transmembrane target protein binders leads to lysosomal trafficking and target degradation. As these receptors have different tissue distributions, the different EndoTags could enable targeting of degradation to different tissues. EndoTag fusion to a PD-L1 antibody considerably increases efficacy in a mouse tumour model compared to antibody alone. The modularity and genetic encodability of EndoTags enables AND gate control for higher-specificity targeted degradation, and the localized secretion of degraders from engineered cells. By promoting endocytosis, EndoTag fusion increases signalling through an engineered ligand-receptor system by nearly 100-fold. EndoTags have considerable therapeutic potential as targeted degradation inducers, signalling activators for endocytosis-dependent pathways, and cellular uptake inducers for targeted antibody-drug and antibody-RNA conjugates.",
-      "summaryZh": "细胞表面受体的内吞作用和溶酶体运输可以由内源配体触发。溶酶体靶向嵌合体 1,2 (LYTAC) 和细胞因子受体靶向嵌合体 3 (KineTAC) 等治疗方法已利用这种方法通过将修饰的天然配体与靶向结合蛋白融合来靶向特定蛋白质进行降解。尽管功能强大，但这些方法可能受到与天然配体的竞争和化学修饰要求的限制，这些化学修饰限制了遗传可编码性并使制造复杂化，并且更一般地，可能不存在通过给定受体刺激内吞作用的天然配体。在这里，我们描述了克服这些挑战的内吞作用触发结合蛋白（EndoTags）的计算设计方法。我们提出了胰岛素样生长因子 2 受体 (IGF2R) 和脱唾液酸糖蛋白受体 (ASGPR)、分拣蛋白和转铁蛋白受体的 EndoTags，并表明将这些标签融合到可溶性或跨膜靶蛋白结合物会导致溶酶体运输和靶点降解。由于这些受体具有不同的组织分布，不同的 EndoTags 可以实现针对不同组织的降解。与单独的抗体相比，EndoTag 与 PD-L1 抗体的融合显着提高了小鼠肿瘤模型的疗效。 EndoTags 的模块化和遗传可编码性使得 AND 门控制能够实现更高特异性的靶向降解，以及工程细胞中降解剂的局部分泌。通过促进内吞作用，EndoTag 融合将通过工程配体-受体系统的信号传导增强近 100 倍。 EndoTags 作为靶向降解诱导剂、内吞依赖途径的信号激活剂以及靶向抗体-药物和抗体-RNA 缀合物的细胞摄取诱导剂具有相当大的治疗潜力。",
-      "translationSource": "f2f64394ce112111"
-    },
-    {
       "pmid": "39663458",
       "title": "Crosslinking intermodular condensation in non-ribosomal peptide biosynthesis.",
       "titleZh": "非核糖体肽生物合成中的交联模块间缩合。",
@@ -14998,6 +15055,33 @@
       "abstractEn": "Despite recent advances in mammalian synthetic biology, there remains a lack of modular synthetic receptors that can robustly respond to soluble ligands and, in turn, activate bespoke cellular functions. Such receptors would have extensive clinical potential to regulate the activity of engineered therapeutic cells, but so far only receptors against cell-surface targets have approached clinical translation 1 . To address this gap, here we adapt a receptor architecture called the synthetic intramembrane proteolysis receptor (SNIPR) for activation by soluble ligands. Our SNIPR platform can be activated by both natural and synthetic soluble factors, with notably low baseline activity and high fold activation, through an endocytic, pH-dependent cleavage mechanism. We demonstrate the therapeutic capabilities of the receptor platform by localizing the activity of chimeric antigen receptor (CAR) T cells to solid tumours in which soluble disease-associated factors are expressed, bypassing the major hurdle of on-target off-tumour toxicity in bystander organs. We further apply the SNIPR platform to engineer fully synthetic signalling networks between cells orthogonal to natural signalling pathways, expanding the scope of synthetic biology. Our design framework enables cellular communication and environmental interactions, extending the capabilities of synthetic cellular networking in clinical and research contexts.",
       "summaryZh": "尽管哺乳动物合成生物学最近取得了进展，但仍然缺乏能够对可溶性配体做出强烈反应并进而激活定制细胞功能的模块化合成受体。此类受体在调节工程治疗细胞的活性方面具有广泛的临床潜力，但迄今为止，只有针对细胞表面靶标的受体已接近临床转化 1 。为了解决这个问题，我们采用了一种称为合成膜内蛋白水解受体（SNIPR）的受体结构，用于通过可溶性配体激活。我们的 SNIPR 平台可以通过天然和合成的可溶性因子激活，通过内吞、pH 依赖性裂解机制，具有显着低的基线活性和高倍数激活。我们通过将嵌合抗原受体（CAR）T细胞的活性定位于表达可溶性疾病相关因子的实体瘤来证明受体平台的治疗能力，绕过了旁观者器官中的靶向非肿瘤毒性的主要障碍。我们进一步应用 SNIPR 平台来设计与自然信号通路正交的细胞之间的完全合成信号网络，扩大了合成生物学的范围。我们的设计框架支持细胞通信和环境交互，扩展了合成细胞网络在临床和研究环境中的功能。",
       "translationSource": "4617ac4f5209c754"
+    },
+    {
+      "pmid": "39322662",
+      "title": "Designed endocytosis-inducing proteins degrade targets and amplify signals.",
+      "titleZh": "设计的内吞诱导蛋白可降解靶标并放大信号。",
+      "journal": "Nature",
+      "year": 2025,
+      "published": "2025-02-01",
+      "doi": "10.1038/s41586-024-07948-2",
+      "doiUrl": "https://doi.org/10.1038/s41586-024-07948-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39322662/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted degradation",
+        "lytac",
+        "lysosome-targeting chimaera",
+        "kinetac",
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, lytac, lysosome-targeting chimaera, kinetac, lysosome, lysosomal。",
+      "abstractEn": "Endocytosis and lysosomal trafficking of cell surface receptors can be triggered by endogenous ligands. Therapeutic approaches such as lysosome-targeting chimaeras 1,2 (LYTACs) and cytokine receptor-targeting chimeras 3 (KineTACs) have used this to target specific proteins for degradation by fusing modified native ligands to target binding proteins. Although powerful, these approaches can be limited by competition with native ligands and requirements for chemical modification that limit genetic encodability and can complicate manufacturing, and, more generally, there may be no native ligands that stimulate endocytosis through a given receptor. Here we describe computational design approaches for endocytosis-triggering binding proteins (EndoTags) that overcome these challenges. We present EndoTags for insulin-like growth factor 2 receptor (IGF2R) and asialoglycoprotein receptor (ASGPR), sortilin and transferrin receptors, and show that fusing these tags to soluble or transmembrane target protein binders leads to lysosomal trafficking and target degradation. As these receptors have different tissue distributions, the different EndoTags could enable targeting of degradation to different tissues. EndoTag fusion to a PD-L1 antibody considerably increases efficacy in a mouse tumour model compared to antibody alone. The modularity and genetic encodability of EndoTags enables AND gate control for higher-specificity targeted degradation, and the localized secretion of degraders from engineered cells. By promoting endocytosis, EndoTag fusion increases signalling through an engineered ligand-receptor system by nearly 100-fold. EndoTags have considerable therapeutic potential as targeted degradation inducers, signalling activators for endocytosis-dependent pathways, and cellular uptake inducers for targeted antibody-drug and antibody-RNA conjugates.",
+      "summaryZh": "细胞表面受体的内吞作用和溶酶体运输可以由内源配体触发。溶酶体靶向嵌合体 1,2 (LYTAC) 和细胞因子受体靶向嵌合体 3 (KineTAC) 等治疗方法已利用这种方法通过将修饰的天然配体与靶向结合蛋白融合来靶向特定蛋白质进行降解。尽管功能强大，但这些方法可能受到与天然配体的竞争和化学修饰要求的限制，这些化学修饰限制了遗传可编码性并使制造复杂化，并且更一般地，可能不存在通过给定受体刺激内吞作用的天然配体。在这里，我们描述了克服这些挑战的内吞作用触发结合蛋白（EndoTags）的计算设计方法。我们提出了胰岛素样生长因子 2 受体 (IGF2R) 和脱唾液酸糖蛋白受体 (ASGPR)、分拣蛋白和转铁蛋白受体的 EndoTags，并表明将这些标签融合到可溶性或跨膜靶蛋白结合物会导致溶酶体运输和靶点降解。由于这些受体具有不同的组织分布，不同的 EndoTags 可以实现针对不同组织的降解。与单独的抗体相比，EndoTag 与 PD-L1 抗体的融合显着提高了小鼠肿瘤模型的疗效。 EndoTags 的模块化和遗传可编码性使得 AND 门控制能够实现更高特异性的靶向降解，以及工程细胞中降解剂的局部分泌。通过促进内吞作用，EndoTag 融合将通过工程配体-受体系统的信号传导增强近 100 倍。 EndoTags 作为靶向降解诱导剂、内吞依赖途径的信号激活剂以及靶向抗体-药物和抗体-RNA 缀合物的细胞摄取诱导剂具有相当大的治疗潜力。",
+      "translationSource": "f2f64394ce112111"
     },
     {
       "pmid": "39322661",
@@ -15042,48 +15126,6 @@
       "abstractEn": "Effective modulation of gene expression in plants is achievable through tools like CRISPR and RNA interference, yet methods for directly modifying endogenous proteins remain lacking. Here, we identify the E3 ubiquitin ligase E3TCD1 and develope a Targeted Condensation-prone-protein Degradation (TCD) strategy. The X-E3TCD1 fusion protein acts as a genetically engineered degrader, selectively targeting endogenous proteins prone to condensation. For example, a transgenic E3TCD1 fusion with Teosinte branched 1 (TB1) degrades the native TB1 protein, resulting in increased tiller numbers in rice. Additionally, conditional degradation of the negative defense regulator Early Flowering 3 via a pathogen-responsive Pro TBF1 -uORFs TBF1 cassette enhances rice blast resistance without affecting flowering time in the absence of pathogen. Unlike prevailing targeted protein degradation strategies, the TCD system does not rely on small molecules, antibodies, or genetic knock-in fusion tags, demonstrating its promise as a transgene-based approach for optimizing crop performance.",
       "summaryZh": "通过 CRISPR 和 RNA 干扰等工具可以有效调节植物中的基因表达，但仍然缺乏直接修饰内源蛋白质的方法。在这里，我们鉴定了 E3 泛素连接酶 E3TCD1 并开发了一种靶向易缩合蛋白降解 (TCD) 策略。 X-E3TCD1 融合蛋白充当基因工程降解剂，选择性地针对易于凝结的内源蛋白。例如，转基因 E3TCD1 与 Teosinte Branched 1 (TB1) 融合会降解天然 TB1 蛋白，导致水稻分蘖数增加。此外，通过病原体响应性 Pro TBF1 -uORFs TBF1 盒对负防御调节剂 Early Flowering 3 进行条件降解，可增强稻瘟病抗性，而不会影响在没有病原体的情况下的开花时间。与流行的靶向蛋白质降解策略不同，TCD 系统不依赖小分子、抗体或基因敲入融合标签，这证明了其作为基于转基因的方法来优化作物性能的前景。",
       "translationSource": "4461b7288370bb52"
-    },
-    {
-      "pmid": "39823230",
-      "title": "ERF114/115/109 are essential for jasmonate-repressed non-canonical JAZ8 activity in JA signaling.",
-      "titleZh": "ERF114/115/109 对于 JA 信号传导中茉莉酸抑制的非经典 JAZ8 活性至关重要。",
-      "journal": "Cell Reports",
-      "year": 2025,
-      "published": "2025-01-28",
-      "doi": "10.1016/j.celrep.2024.115222",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2024.115222",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39823230/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "Jasmonate (JA), a key plant hormone, regulates various aspects of plant development and stress responses, primarily through the degradation of canonical jasmonate-ZIM domain (JAZ) proteins by the SCF COI1 complex. While JAZ8, a non-canonical JAZ protein lacking the degron signal, has been shown to repress JA responses, the mechanism by which JA inhibits JAZ8 activity remains unclear. Here, we demonstrate that Arabidopsis ethylene response factor 114 (ERF114), ERF115, and ERF109 regulate JA signaling through interacting with JAZ8. This interaction disrupts the formation of the MYC2/3/4-JAZ8 and root hair defective 6 (RHD6)-JAZ8 complexes. We show that ERF114 positively regulates JA-induced transcriptional responses and that JA-promoted root hair growth is highly alleviated in erf114 mutants. Furthermore, the transcription of ERF114/115/109 is induced by JA in an MYC2-dependent manner, thus forming a positive feedback loop in JA signaling. Collectively, this study reveals a regulatory pathway in which ERF114/115/109 regulate JA signaling by targeting non-canonical JAZ proteins.",
-      "summaryZh": "茉莉酸 (JA) 是一种关键的植物激素，主要通过 SCF COI1 复合物降解经典茉莉酸-ZIM 结构域 (JAZ) 蛋白来调节植物发育和胁迫反应的各个方面。虽然 JAZ8（一种缺乏降解决定子信号的非经典 JAZ 蛋白）已被证明可以抑制 JA 反应，但 JA 抑制 JAZ8 活性的机制仍不清楚。在这里，我们证明拟南芥乙烯反应因子 114 (ERF114)、ERF115 和 ERF109 通过与 JAZ8 相互作用来调节 JA 信号传导。这种相互作用破坏了 MYC2/3/4-JAZ8 和根毛缺陷 6 (RHD6)-JAZ8 复合物的形成。我们发现，ERF114 正向调节 JA 诱导的转录反应，并且 JA 促进的根毛生长在 erf114 突变体中得到极大缓解。此外，ERF114/115/109的转录是由JA以MYC2依赖性方式诱导的，从而在JA信号传导中形成正反馈环。总的来说，这项研究揭示了 ERF114/115/109 通过靶向非经典 JAZ 蛋白来调节 JA 信号传导的调控途径。",
-      "translationSource": "ded31c0ddcbf30df"
-    },
-    {
-      "pmid": "39799569",
-      "title": "A conserved switch to less catalytically active Polycomb repressive complexes in non-dividing cells.",
-      "titleZh": "在非分裂细胞中保守地转向催化活性较低的 Polycomb 抑制复合物。",
-      "journal": "Cell Reports",
-      "year": 2025,
-      "published": "2025-01-28",
-      "doi": "10.1016/j.celrep.2024.115192",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2024.115192",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39799569/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "protac"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
-      "abstractEn": "Polycomb repressive complex 2 (PRC2), composed of the core subunits EED, SUZ12, and either EZH1 or EZH2, is critical for maintaining cellular identity in multicellular organisms. PRC2 deposits H3K27me3, which is thought to recruit the canonical form of PRC1 (cPRC1) to promote gene repression. Here, we show that EZH1-PRC2 and cPRC1 are the primary Polycomb complexes on target genes in non-dividing, quiescent cells. Furthermore, these cells are resistant to PRC2 inhibitors. While PROTAC-mediated degradation of EZH1-PRC2 in quiescent cells does not reduce H3K27me3, it partially displaces cPRC1. Our results reveal an evolutionarily conserved switch to less catalytically active Polycomb complexes in non-dividing cells and raise concerns about using PRC2 inhibitors in cancers with significant populations of non-dividing cells.",
-      "summaryZh": "Polycomb 抑制复合物 2 (PRC2) 由核心亚基 EED、SUZ12 以及 EZH1 或 EZH2 组成，对于维持多细胞生物体中的细胞身份至关重要。 PRC2 沉积 H3K27me3，它被认为可以招募 PRC1 (cPRC1) 的规范形式来促进基因抑制。在这里，我们证明 EZH1-PRC2 和 cPRC1 是非分裂静止细胞中靶基因上的主要 Polycomb 复合物。此外，这些细胞对 PRC2 抑制剂具有抵抗力。虽然静止细胞中 PROTAC 介导的 EZH1-PRC2 降解不会减少 H3K27me3，但它会部分取代 cPRC1。我们的结果揭示了非分裂细胞中向催化活性较低的 Polycomb 复合物的进化保守性转变，并引起了对在具有大量非分裂细胞的癌症中使用 PRC2 抑制剂的担忧。",
-      "translationSource": "89687b0f05613462"
     },
     {
       "pmid": "39709605",
@@ -15194,6 +15236,48 @@
       "translationSource": "21172ea7875639f6"
     },
     {
+      "pmid": "39823230",
+      "title": "ERF114/115/109 are essential for jasmonate-repressed non-canonical JAZ8 activity in JA signaling.",
+      "titleZh": "ERF114/115/109 对于 JA 信号传导中茉莉酸抑制的非经典 JAZ8 活性至关重要。",
+      "journal": "Cell Reports",
+      "year": 2025,
+      "published": "2025-01-28",
+      "doi": "10.1016/j.celrep.2024.115222",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2024.115222",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39823230/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Jasmonate (JA), a key plant hormone, regulates various aspects of plant development and stress responses, primarily through the degradation of canonical jasmonate-ZIM domain (JAZ) proteins by the SCF COI1 complex. While JAZ8, a non-canonical JAZ protein lacking the degron signal, has been shown to repress JA responses, the mechanism by which JA inhibits JAZ8 activity remains unclear. Here, we demonstrate that Arabidopsis ethylene response factor 114 (ERF114), ERF115, and ERF109 regulate JA signaling through interacting with JAZ8. This interaction disrupts the formation of the MYC2/3/4-JAZ8 and root hair defective 6 (RHD6)-JAZ8 complexes. We show that ERF114 positively regulates JA-induced transcriptional responses and that JA-promoted root hair growth is highly alleviated in erf114 mutants. Furthermore, the transcription of ERF114/115/109 is induced by JA in an MYC2-dependent manner, thus forming a positive feedback loop in JA signaling. Collectively, this study reveals a regulatory pathway in which ERF114/115/109 regulate JA signaling by targeting non-canonical JAZ proteins.",
+      "summaryZh": "茉莉酸 (JA) 是一种关键的植物激素，主要通过 SCF COI1 复合物降解经典茉莉酸-ZIM 结构域 (JAZ) 蛋白来调节植物发育和胁迫反应的各个方面。虽然 JAZ8（一种缺乏降解决定子信号的非经典 JAZ 蛋白）已被证明可以抑制 JA 反应，但 JA 抑制 JAZ8 活性的机制仍不清楚。在这里，我们证明拟南芥乙烯反应因子 114 (ERF114)、ERF115 和 ERF109 通过与 JAZ8 相互作用来调节 JA 信号传导。这种相互作用破坏了 MYC2/3/4-JAZ8 和根毛缺陷 6 (RHD6)-JAZ8 复合物的形成。我们发现，ERF114 正向调节 JA 诱导的转录反应，并且 JA 促进的根毛生长在 erf114 突变体中得到极大缓解。此外，ERF114/115/109的转录是由JA以MYC2依赖性方式诱导的，从而在JA信号传导中形成正反馈环。总的来说，这项研究揭示了 ERF114/115/109 通过靶向非经典 JAZ 蛋白来调节 JA 信号传导的调控途径。",
+      "translationSource": "ded31c0ddcbf30df"
+    },
+    {
+      "pmid": "39799569",
+      "title": "A conserved switch to less catalytically active Polycomb repressive complexes in non-dividing cells.",
+      "titleZh": "在非分裂细胞中保守地转向催化活性较低的 Polycomb 抑制复合物。",
+      "journal": "Cell Reports",
+      "year": 2025,
+      "published": "2025-01-28",
+      "doi": "10.1016/j.celrep.2024.115192",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2024.115192",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39799569/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "Polycomb repressive complex 2 (PRC2), composed of the core subunits EED, SUZ12, and either EZH1 or EZH2, is critical for maintaining cellular identity in multicellular organisms. PRC2 deposits H3K27me3, which is thought to recruit the canonical form of PRC1 (cPRC1) to promote gene repression. Here, we show that EZH1-PRC2 and cPRC1 are the primary Polycomb complexes on target genes in non-dividing, quiescent cells. Furthermore, these cells are resistant to PRC2 inhibitors. While PROTAC-mediated degradation of EZH1-PRC2 in quiescent cells does not reduce H3K27me3, it partially displaces cPRC1. Our results reveal an evolutionarily conserved switch to less catalytically active Polycomb complexes in non-dividing cells and raise concerns about using PRC2 inhibitors in cancers with significant populations of non-dividing cells.",
+      "summaryZh": "Polycomb 抑制复合物 2 (PRC2) 由核心亚基 EED、SUZ12 以及 EZH1 或 EZH2 组成，对于维持多细胞生物体中的细胞身份至关重要。 PRC2 沉积 H3K27me3，它被认为可以招募 PRC1 (cPRC1) 的规范形式来促进基因抑制。在这里，我们证明 EZH1-PRC2 和 cPRC1 是非分裂静止细胞中靶基因上的主要 Polycomb 复合物。此外，这些细胞对 PRC2 抑制剂具有抵抗力。虽然静止细胞中 PROTAC 介导的 EZH1-PRC2 降解不会减少 H3K27me3，但它会部分取代 cPRC1。我们的结果揭示了非分裂细胞中向催化活性较低的 Polycomb 复合物的进化保守性转变，并引起了对在具有大量非分裂细胞的癌症中使用 PRC2 抑制剂的担忧。",
+      "translationSource": "89687b0f05613462"
+    },
+    {
       "pmid": "39476838",
       "title": "An SLC12A9-dependent ion transport mechanism maintains lysosomal osmolarity.",
       "titleZh": "SLC12A9 依赖性离子转运机制维持溶酶体渗透压。",
@@ -15258,27 +15342,6 @@
       "translationSource": "6048cc14fca74fc8"
     },
     {
-      "pmid": "39536762",
-      "title": "Degradome analysis to identify direct protein substrates of small-molecule degraders.",
-      "titleZh": "降解组分析可鉴定小分子降解剂的直接蛋白质底物。",
-      "journal": "Cell Chemical Biology",
-      "year": 2025,
-      "published": "2025-01-16",
-      "doi": "10.1016/j.chembiol.2024.10.007",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.10.007",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39536762/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
-      "abstractEn": "Targeted protein degradation (TPD) has emerged as a powerful strategy to selectively eliminate cellular proteins using small-molecule degraders, offering therapeutic promise for targeting proteins that are otherwise undruggable. However, a remaining challenge is to unambiguously identify primary TPD targets that are distinct from secondary downstream effects in the proteome. Here we introduce an approach for selective analysis of protein degradation by mass spectrometry (DegMS) at proteomic scale, which derives its specificity from the exclusion of confounding effects of altered transcription and translation induced by target depletion. We show that the approach efficiently operates at the timescale of TPD (hours) and we demonstrate its utility by analyzing the cyclin K degraders dCeMM2 and dCeMM4, which induce widespread transcriptional downregulation, and the GSPT1 degrader CC-885, an inhibitor of protein translation. Additionally, we apply DegMS to characterize a previously uncharacterized degrader, and identify the zinc-finger protein FIZ1 as a degraded target.",
-      "summaryZh": "靶向蛋白质降解（TPD）已成为一种使用小分子降解剂选择性消除细胞蛋白质的强大策略，为靶向原本无法成药的蛋白质提供了治疗前景。然而，剩下的挑战是明确识别与蛋白质组中的次要下游效应不同的主要 TPD 靶点。在这里，我们介绍了一种在蛋白质组规模上通过质谱（DegMS）选择性分析蛋白质降解的方法，该方法的特异性来自于排除靶标耗竭引起的转录和翻译改变的混杂效应。我们证明该方法在 TPD（小时）的时间尺度上有效运行，并通过分析细胞周期蛋白 K 降解剂 dCeMM2 和 dCeMM4（诱导广泛的转录下调）和 GSPT1 降解剂 CC-885（蛋白质翻译抑制剂）来证明其实用性。此外，我们应用 DegMS 来表征以前未表征的降解剂，并将锌指蛋白 FIZ1 确定为降解靶标。",
-      "translationSource": "7e6078c047c5f1ed"
-    },
-    {
       "pmid": "39626664",
       "title": "β-hydroxybutyrate is a metabolic regulator of proteostasis in the aged and Alzheimer disease brain.",
       "titleZh": "β-羟基丁酸是老年人和阿尔茨海默病大脑中蛋白质稳态的代谢调节剂。",
@@ -15298,6 +15361,27 @@
       "abstractEn": "Loss of proteostasis is a hallmark of aging and Alzheimer disease (AD). We identify β-hydroxybutyrate (βHB), a ketone body, as a regulator of protein solubility. βHB primarily provides ATP substrate during periods of reduced glucose availability, and regulates other cellular processes through protein interactions. We demonstrate βHB-induced protein insolubility is not dependent on covalent protein modification, pH, or solute load, and is observable in mouse brain in vivo after delivery of a ketone ester. This mechanism is selective for pathological proteins such as amyloid-β, and exogenous βHB ameliorates pathology in nematode models of amyloid-β aggregation toxicity. We generate libraries of the βHB-induced protein insolublome using mass spectrometry proteomics, and identify common protein domains and upstream regulators. We show enrichment of neurodegeneration-related proteins among βHB targets and the clearance of these targets from mouse brain. These data indicate a metabolically regulated mechanism of proteostasis relevant to aging and AD.",
       "summaryZh": "蛋白质稳态丧失是衰老和阿尔茨海默病 (AD) 的标志。我们将酮体 β-羟基丁酸 (βHB) 确定为蛋白质溶解度的调节剂。 βHB 主要在葡萄糖利用率降低期间提供 ATP 底物，并通过蛋白质相互作用调节其他细胞过程。我们证明 βHB 诱导的蛋白质不溶性不依赖于共价蛋白质修饰、pH 或溶质负载，并且在传递酮酯后在体内的小鼠大脑中可以观察到。这种机制对β淀粉样蛋白等病理蛋白具有选择性，外源性βHB可改善β淀粉样蛋白聚集毒性线虫模型的病理学。我们使用质谱蛋白质组学生成 βHB 诱导的蛋白质 insolublome 文库，并识别常见的蛋白质结构域和上游调节因子。我们展示了 βHB 靶标中神经退行性相关蛋白的富集以及这些靶标从小鼠大脑中的清除。这些数据表明与衰老和 AD 相关的蛋白质稳态代谢调节机制。",
       "translationSource": "03596e4707548b57"
+    },
+    {
+      "pmid": "39536762",
+      "title": "Degradome analysis to identify direct protein substrates of small-molecule degraders.",
+      "titleZh": "降解组分析可鉴定小分子降解剂的直接蛋白质底物。",
+      "journal": "Cell Chemical Biology",
+      "year": 2025,
+      "published": "2025-01-16",
+      "doi": "10.1016/j.chembiol.2024.10.007",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2024.10.007",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39536762/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "Targeted protein degradation (TPD) has emerged as a powerful strategy to selectively eliminate cellular proteins using small-molecule degraders, offering therapeutic promise for targeting proteins that are otherwise undruggable. However, a remaining challenge is to unambiguously identify primary TPD targets that are distinct from secondary downstream effects in the proteome. Here we introduce an approach for selective analysis of protein degradation by mass spectrometry (DegMS) at proteomic scale, which derives its specificity from the exclusion of confounding effects of altered transcription and translation induced by target depletion. We show that the approach efficiently operates at the timescale of TPD (hours) and we demonstrate its utility by analyzing the cyclin K degraders dCeMM2 and dCeMM4, which induce widespread transcriptional downregulation, and the GSPT1 degrader CC-885, an inhibitor of protein translation. Additionally, we apply DegMS to characterize a previously uncharacterized degrader, and identify the zinc-finger protein FIZ1 as a degraded target.",
+      "summaryZh": "靶向蛋白质降解（TPD）已成为一种使用小分子降解剂选择性消除细胞蛋白质的强大策略，为靶向原本无法成药的蛋白质提供了治疗前景。然而，剩下的挑战是明确识别与蛋白质组中的次要下游效应不同的主要 TPD 靶点。在这里，我们介绍了一种在蛋白质组规模上通过质谱（DegMS）选择性分析蛋白质降解的方法，该方法的特异性来自于排除靶标耗竭引起的转录和翻译改变的混杂效应。我们证明该方法在 TPD（小时）的时间尺度上有效运行，并通过分析细胞周期蛋白 K 降解剂 dCeMM2 和 dCeMM4（诱导广泛的转录下调）和 GSPT1 降解剂 CC-885（蛋白质翻译抑制剂）来证明其实用性。此外，我们应用 DegMS 来表征以前未表征的降解剂，并将锌指蛋白 FIZ1 确定为降解靶标。",
+      "translationSource": "7e6078c047c5f1ed"
     },
     {
       "pmid": "39163853",
@@ -15409,27 +15493,6 @@
       "translationSource": "dac5b52a41c3f26b"
     },
     {
-      "pmid": "39741225",
-      "title": "Targeted degradation of membrane proteins.",
-      "titleZh": "膜蛋白的靶向降解。",
-      "journal": "Nature Structural & Molecular Biology",
-      "year": 2025,
-      "published": "2025-01-01",
-      "doi": "10.1038/s41594-024-01461-w",
-      "doiUrl": "https://doi.org/10.1038/s41594-024-01461-w",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39741225/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "1d591405cb1af4a9"
-    },
-    {
       "pmid": "39174844",
       "title": "Structural basis for lipid transfer by the ATG2A-ATG9A complex.",
       "titleZh": "ATG2A-ATG9A 复合物脂质转移的结构基础。",
@@ -15470,6 +15533,27 @@
       "abstractEn": "Eukaryotic members of the endosome sorting complex required for transport-III (ESCRT-III) family have been shown to form diverse higher-order assemblies. The bacterial phage shock protein A (PspA) has been identified as a member of the ESCRT-III superfamily, and PspA homo-oligomerizes to form rod-shaped assemblies. As observed for eukaryotic ESCRT-III, PspA forms tubular assemblies of varying diameters. Using electron cryo-electron microscopy, we determined 61 Synechocystis PspA structures and observed in molecular detail how the structural plasticity of PspA rods is mediated by conformational changes at three hinge regions in the monomer and by the fixed and changing molecular contacts between protomers. Moreover, we reduced and increased the structural plasticity of PspA rods by removing the loop connecting helices α3/α4 and the addition of nucleotides, respectively. Based on our analysis of PspA-mediated membrane remodeling, we suggest that the observed mode of structural plasticity is a prerequisite for the biological function of ESCRT-III members.",
       "summaryZh": "运输-III (ESCRT-III) 家族所需的内体分选复合物的真核成员已被证明可以形成不同的高阶组装体。细菌噬菌体休克蛋白 A (PspA) 已被鉴定为 ESCRT-III 超家族的成员，并且 PspA 同源寡聚化形成杆状组件。正如对真核 ESCRT-III 所观察到的，PspA 形成不同直径的管状组件。使用电子冷冻电子显微镜，我们确定了 61 个集胞藻 PspA 结构，并在分子细节中观察了 PspA 杆的结构可塑性如何通过单体中三个铰链区的构象变化以及原聚体之间的固定和变化的分子接触来介导。此外，我们分别通过去除连接螺旋α3/α4的环和添加核苷酸来减少和增加PspA杆的结构可塑性。基于我们对 PspA 介导的膜重塑的分析，我们认为观察到的结构可塑性模式是 ESCRT-III 成员生物学功能的先决条件。",
       "translationSource": "9a0e6b4c05f31ed2"
+    },
+    {
+      "pmid": "39741225",
+      "title": "Targeted degradation of membrane proteins.",
+      "titleZh": "膜蛋白的靶向降解。",
+      "journal": "Nature Structural & Molecular Biology",
+      "year": 2025,
+      "published": "2025-01-01",
+      "doi": "10.1038/s41594-024-01461-w",
+      "doiUrl": "https://doi.org/10.1038/s41594-024-01461-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39741225/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "1d591405cb1af4a9"
     },
     {
       "pmid": "39327512",
