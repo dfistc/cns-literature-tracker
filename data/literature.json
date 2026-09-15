@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:52:54+00:00",
+  "updatedAt": "2026-09-15T02:02:11+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1363,6 +1363,27 @@
       "abstractEn": "Niemann-Pick type C (NPC) disease is a lysosomal storage disorder primarily caused by mutations in the NPC1 gene. Most patients present with early-life symptoms including hepatosplenomegaly and digestive system impairment, followed by progressive neurodegeneration. However, effective therapeutic approaches to improve survival in NPC disease remain limited. In this study, using an npc1 -knockout (NPC1-KO) zebrafish model established in our laboratory, our team suggests that npc1 deficiency appears to correlate with marked down-regulation of superoxide dismutase 2 (Sod2) expression, concurrent with excessive oxidative stress (OS), mitochondrial dysfunction, and defective mitophagy. Treatment with Mito-TEMPO, a mitochondria-targeted antioxidant acting on SOD, increased survival rates and ameliorated cholesterol accumulation and liver function impairment in early-stage NPC1-KO zebrafish. The underlying mechanism may involve attenuation of OS and promotion of PINK1/Parkin-dependent mitophagic flux through SOD2 enhancement. Our findings support Mito-TEMPO as a potential therapeutic agent and SOD2 as a possible target for NPC disease.",
       "summaryZh": "C 型尼曼-匹克 (NPC) 病是一种溶酶体贮积症，主要由 NPC1 基因突变引起。大多数患者出现早期症状，包括肝脾肿大和消化系统损伤，随后出现进行性神经退行性变。然而，提高鼻咽癌患者生存率的有效治疗方法仍然有限。在这项研究中，我们的团队使用我们实验室建立的 npc1 敲除 (NPC1-KO) 斑马鱼模型，表明 npc1 缺陷似乎与超氧化物歧化酶 2 (Sod2) 表达显着下调相关，同时伴有过度氧化应激 (OS)、线粒体功能障碍和线粒体自噬缺陷。 Mito-TEMPO（一种作用于 SOD 的线粒体靶向抗氧化剂）治疗可提高早期 NPC1-KO 斑马鱼的存活率并改善胆固醇积累和肝功能损伤。潜在机制可能涉及 OS 减弱和通过 SOD2 增强促进 PINK1/Parkin 依赖性线粒体自噬通量。我们的研究结果支持 Mito-TEMPO 作为潜在的治疗剂，并支持 SOD2 作为鼻咽癌疾病的可能靶标。",
       "translationSource": "126e32564ece6a29"
+    },
+    {
+      "pmid": "42733072",
+      "title": "Inhibition of RhoA-mediated secretory autophagy in megakaryocytes mitigates myelofibrosis in mice.",
+      "titleZh": "抑制巨核细胞中 RhoA 介导的分泌性自噬可减轻小鼠骨髓纤维化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-13",
+      "doi": "10.1038/s41467-026-76615-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76615-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42733072/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Megakaryocytes (MKs) are polyploid cells that maintain bone marrow homeostasis by secreting cytokines, including transforming growth factor β1 (TGFβ1). During neoplastic transformation, MKs accumulate in the bone marrow, promoting fibrotic remodeling that leads to myelofibrosis. However, the therapeutic potential of targeting MK cytokine secretion remains poorly understood. Because unconventional secretion of TGFβ1 and interleukin 1β (IL1β) via secretory autophagy occurs in other cell types, we investigated whether MKs may utilize the same mechanism. Disrupting secretory autophagy, or inhibiting the small GTPase RhoA or its downstream effector Rho-associated kinase (ROCK), markedly reduced TGFβ1 and IL1β secretion in vitro. Conditional deletion of the autophagy gene Atg5 in the hematopoietic system limited megakaryocytosis and aberrant cytokine secretion in an MPL W515L -driven transplant model, while MK-specific deletion of Rhoa protected mice from fibrosis. Ultimately, ROCK inhibition, alone or combined with a JAK2 inhibitor, also attenuated disease hallmarks, identifying the RhoA-secretory autophagy axis as a promising therapeutic target in myelofibrosis.",
+      "summaryZh": "巨核细胞 (MK) 是多倍体细胞，通过分泌细胞因子维持骨髓稳态，包括转化生长因子 β1 (TGFβ1)。在肿瘤转化过程中，MK 在骨髓中积累，促进纤维化重塑，从而导致骨髓纤维化。然而，针对 MK 细胞因子分泌的治疗潜力仍知之甚少。由于 TGFβ1 和白细胞介素 1β (IL1β) 通过分泌性自噬的非常规分泌发生在其他细胞类型中，因此我们研究了 MK 是否可能利用相同的机制。破坏分泌性自噬，或抑制小 GTPase RhoA 或其下游效应器 Rho 相关激酶 (ROCK)，可在体外显着减少 TGFβ1 和 IL1β 分泌。在 MPL W515L 驱动的移植模型中，造血系统中自噬基因 Atg5 的条件性删除限制了巨核细胞增多和异常细胞因子分泌，而 Rhoa 的 MK 特异性删除则保护小鼠免受纤维化。最终，单独或与 JAK2 抑制剂联合使用 ROCK 抑制也可以减轻疾病特征，从而将 RhoA 分泌性自噬轴确定为骨髓纤维化的有希望的治疗靶点。",
+      "translationSource": "e29747b180b3f97c"
     },
     {
       "pmid": "42722646",
@@ -4304,27 +4325,6 @@
       "translationSource": "87ceea77bac1a75f"
     },
     {
-      "pmid": "42234560",
-      "title": "Synchronous spatiotemporal control of autophagy and organelle trafficking is necessary for infection by Magnaporthe oryzae.",
-      "titleZh": "自噬和细胞器运输的同步时空控制对于稻瘟病菌的感染是必要的。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117396",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117396",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42234560/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "The blast fungus Magnaporthe oryzae infects plants using an appressorium that generates force to breach the leaf cuticle. Appressorium development follows a cell-cycle-regulated morphogenetic program requiring autophagy-associated death of the spore. How proliferative growth is coordinated with cell death remains unclear. Here, we show that each conidial cell follows a distinct developmental program essential for infection. Using quantitative live-cell imaging, we tracked 10 organelle types during appressorium morphogenesis in wild-type and Δatg8 mutant strains. Photoactivatable GFP microscopy revealed that mitochondria traffic from a single conidial cell into the appressorium, while the remaining cells undergo autophagy. Organelle inheritance occurs independently of cell-cycle checkpoints but coincides with spore germination. Photoconvertible fluorescence microscopy defined the temporal sequence of organelle movement and de novo biogenesis. Our findings reveal that coordinated spatiotemporal control of autophagy and organelle trafficking is necessary for rice blast infection.",
-      "summaryZh": "稻瘟病菌利用附着胞产生破坏叶角质层的力来感染植物。附着胞的发育遵循细胞周期调节的形态发生程序，需要孢子自噬相关的死亡。增殖生长如何与细胞死亡协调仍不清楚。在这里，我们表明每个分生孢子细胞都遵循感染所必需的独特发育程序。使用定量活细胞成像，我们追踪了野生型和 Δatg8 突变株的附着胞形态发生过程中的 10 种细胞器类型。光激活 GFP 显微镜显示线粒体从单个分生孢子细胞进入附着细胞，而其余细胞则进行自噬。细胞器遗传独立于细胞周期检查点发生，但与孢子萌发同时发生。光转换荧光显微镜定义了细胞器运动和从头生物发生的时间顺序。我们的研究结果表明，自噬和细胞器运输的协调时空控制对于稻瘟病感染是必要的。",
-      "translationSource": "79644a8ca25ce43d"
-    },
-    {
       "pmid": "42228563",
       "title": "An orally active dual CBP/p300 degrader targets core dependencies of multiple myeloma.",
       "titleZh": "口服活性双 CBP/p300 降解剂针对多发性骨髓瘤的核心依赖性。",
@@ -4365,6 +4365,27 @@
       "abstractEn": "ZYG11B is a substrate specificity factor for the cullin-2-RING ubiquitin ligase (CRL2), which plays a critical role in the recognition and degradation of Gly/N-degrons. Yet, how ZYG11B assembles with CRL2, and how ZYG11B couples specific substrate recognition to CRL2-mediated ubiquitination, is unknown. We present the cryo-electron microscopy (cryo-EM) structures of the CRL2 ZYG11B holoenzyme alone and in complex with a Gly/N-peptide from the inflammasome-forming pathogen sensor NLRP1. The structures indicate that ZYG11B folds into a leucine-rich repeat followed by two armadillo repeat domains that promote assembly with CRL2 and specific recognition of the NLRP1 Gly/N-degron that is revealed by viral protease cleavage. Our structural and functional data indicate that blocking ZYG11B recognition of the NLRP1 Gly/N-degron inhibits NLRP1 inflammasome activation by a viral protease. Overall, we show how the CRL2 ZYG11B E3 ligase complex recognizes Gly/N-degron substrates, including those that are involved in viral protease-mediated activation of the NLRP1 inflammasome.",
       "summaryZh": "ZYG11B 是 cullin-2-RING 泛素连接酶 (CRL2) 的底物特异性因子，在 Gly/N-降解决定子的识别和降解中发挥着关键作用。然而，ZYG11B 如何与 CRL2 组装，以及 ZYG11B 如何将特定底物识别与 CRL2 介导的泛素化结合起来，尚不清楚。我们展示了单独的 CRL2 ZYG11B 全酶以及与来自炎症小体形成病原体传感器 NLRP1 的 Gly/N 肽复合物的冷冻电子显微镜 (cryo-EM) 结构。这些结构表明，ZYG11B 折叠成富含亮氨酸的重复序列，然后是两个犰狳重复结构域，促进与 CRL2 的组装以及病毒蛋白酶裂解揭示的 NLRP1 Gly/N-degron 的特异性识别。我们的结构和功能数据表明，阻断 ZYG11B 对 NLRP1 Gly/N-degron 的识别会抑制病毒蛋白酶对 NLRP1 炎症小体的激活。总体而言，我们展示了 CRL2 ZYG11B E3 连接酶复合物如何识别 Gly/N-degron 底物，包括那些参与病毒蛋白酶介导的 NLRP1 炎症小体激活的底物。",
       "translationSource": "39413d412d88e2e7"
+    },
+    {
+      "pmid": "42234560",
+      "title": "Synchronous spatiotemporal control of autophagy and organelle trafficking is necessary for infection by Magnaporthe oryzae.",
+      "titleZh": "自噬和细胞器运输的同步时空控制对于稻瘟病菌的感染是必要的。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117396",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117396",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42234560/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "The blast fungus Magnaporthe oryzae infects plants using an appressorium that generates force to breach the leaf cuticle. Appressorium development follows a cell-cycle-regulated morphogenetic program requiring autophagy-associated death of the spore. How proliferative growth is coordinated with cell death remains unclear. Here, we show that each conidial cell follows a distinct developmental program essential for infection. Using quantitative live-cell imaging, we tracked 10 organelle types during appressorium morphogenesis in wild-type and Δatg8 mutant strains. Photoactivatable GFP microscopy revealed that mitochondria traffic from a single conidial cell into the appressorium, while the remaining cells undergo autophagy. Organelle inheritance occurs independently of cell-cycle checkpoints but coincides with spore germination. Photoconvertible fluorescence microscopy defined the temporal sequence of organelle movement and de novo biogenesis. Our findings reveal that coordinated spatiotemporal control of autophagy and organelle trafficking is necessary for rice blast infection.",
+      "summaryZh": "稻瘟病菌利用附着胞产生破坏叶角质层的力来感染植物。附着胞的发育遵循细胞周期调节的形态发生程序，需要孢子自噬相关的死亡。增殖生长如何与细胞死亡协调仍不清楚。在这里，我们表明每个分生孢子细胞都遵循感染所必需的独特发育程序。使用定量活细胞成像，我们追踪了野生型和 Δatg8 突变株的附着胞形态发生过程中的 10 种细胞器类型。光激活 GFP 显微镜显示线粒体从单个分生孢子细胞进入附着细胞，而其余细胞则进行自噬。细胞器遗传独立于细胞周期检查点发生，但与孢子萌发同时发生。光转换荧光显微镜定义了细胞器运动和从头生物发生的时间顺序。我们的研究结果表明，自噬和细胞器运输的协调时空控制对于稻瘟病感染是必要的。",
+      "translationSource": "79644a8ca25ce43d"
     },
     {
       "pmid": "42228561",
