@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-09-15T02:02:11+00:00",
+  "updatedAt": "2026-09-16T01:52:54+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42743266",
+      "title": "Viral hijacking of the host ubiquitin-proteasome system for immune escape.",
+      "titleZh": "病毒劫持宿主泛素蛋白酶体系统以实现免疫逃逸。",
+      "journal": "Science Signaling",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1126/scisignal.aek8777",
+      "doiUrl": "https://doi.org/10.1126/scisignal.aek8777",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743266/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "E3 ubiquitin ligases regulate protein turnover and signaling by mediating degradative or nondegradative types of ubiquitylation. In the 20 August 2026 issue of Science , Glassman et al. identified mechanisms by which viral proteins commandeer the ubiquitin-proteasome system to dysregulate innate immunity, unveiling potential avenues for designing antiviral interventions.",
+      "summaryZh": "E3 泛素连接酶通过介导降解或非降解类型的泛素化来调节蛋白质周转和信号传导。在 2026 年 8 月 20 日出版的《科学》杂志上，Glassman 等人。确定了病毒蛋白利用泛素蛋白酶体系统失调先天免疫的机制，揭示了设计抗病毒干预措施的潜在途径。",
+      "translationSource": "a0b6479f5f394569"
+    },
+    {
+      "pmid": "42743056",
+      "title": "Engineered bacterial outer membrane vesicle vaccine prevents T cell exhaustion for antibacterial immunotherapy.",
+      "titleZh": "工程细菌外膜囊泡疫苗可防止抗菌免疫治疗中 T 细胞耗竭。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1016/j.celrep.2026.117954",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117954",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743056/",
+      "categories": [
+        "合成生物学",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "engineered bacteria",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria, lysosomal。",
+      "abstractEn": "Gram-negative pathogens evade immune clearance and promote chronic infections by residing intracellularly. While outer membrane vesicles (OMVs) hold promise as antibacterial vaccine platforms, their clinical potential is limited by lysosomal entrapment of antigens and endotoxin-induced toxicity. Herein, we present an innovative nano-encapsulation strategy to engineer OMVs and overcome these two obstacles. We engineered Porphyromonas gingivalis (P. gingivalis) OMVs by incorporating metal ion adjuvants, coordinated with phenolic ligands, to form a rigid, acid-responsive nanoshell. This shell enhances dendritic cell uptake and promotes lysosomal escape, redirecting antigens to cytosolic cross-presentation and reprogramming CD8 + T cell responses through STING signaling. Nano-encapsulation also attenuates endotoxin-induced systemic cytokine storms, reducing lethality. In murine periodontitis, the engineered OMV vaccine lowers P. gingivalis burden, prevents T cell exhaustion, and mitigates inflammatory tissue damage. These findings provide a safe and effective strategy to counteract immune evasion by intracellular pathogens, with promising potential for immunotherapy against chronic bacterial infections.",
+      "summaryZh": "革兰氏阴性病原体通过驻留在细胞内逃避免疫清除并促进慢性感染。虽然外膜囊泡（OMV）有望作为抗菌疫苗平台，但其临床潜力受到抗原溶酶体截留和内毒素诱导的毒性的限制。在此，我们提出了一种创新的纳米封装策略来设计 OMV 并克服这两个障碍。我们通过掺入金属离子佐剂与酚类配体配合来设计牙龈卟啉单胞菌（P.gingivalis）OMV，形成刚性的酸响应性纳米壳。该外壳增强树突状细胞的摄取并促进溶酶体逃逸，将抗原重定向至胞质交叉呈递，并通过 STING 信号传导重新编程 CD8 + T 细胞反应。纳米封装还可以减弱内毒素引起的全身细胞因子风暴，从而降低致死率。在小鼠牙周炎中，工程化 OMV 疫苗可降低牙龈卟啉单胞菌负担，防止 T 细胞耗竭，并减轻炎症组织损伤。这些发现提供了一种安全有效的策略来对抗细胞内病原体的免疫逃避，在针对慢性细菌感染的免疫治疗方面具有广阔的前景。",
+      "translationSource": "bf8cb9584d4f2369"
+    },
+    {
+      "pmid": "42546705",
+      "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer.",
+      "titleZh": "压力适应性脂质激酶轴定义了神经内分泌前列腺癌的代谢脆弱性。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-09-14",
+      "doi": "10.1016/j.ccell.2026.07.003",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.003",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42546705/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Neuroendocrine prostate cancer (NEPC) persists in a profoundly hypoxic microenvironment, yet the mechanisms enabling tumor adaptation to this metabolically challenging niche remain undefined. Here, we identify the lipid kinase PIKfyve as overexpressed in NEPC, functioning as a central node in a stress-adaptive lipid kinase axis that supports adaptation to persistent endoplasmic reticulum (ER) stress. Mechanistically, NEPC requires PIKfyve-mediated lysosomal degradation and lipid recycling to maintain metabolic homeostasis under hypoxia. PIKfyve inhibition disrupts lysosomal function, exacerbates ER stress, and activates a compensatory sterol regulatory element-binding protein (SREBP)-dependent de novo lipogenesis program essential for NEPC survival. This stress-lipid axis creates a synthetic vulnerability between PIKfyve and fatty acid synthase (FASN), where dual inhibition synergistically amplifies ER stress, triggers the terminal unfolded protein response, and induces tumor cell death. These findings reveal a metabolic adaptation in NEPC and provide preclinical evidence that co-targeting PIKfyve and FASN can overcome hypoxia-associated stress adaptation.",
+      "summaryZh": "神经内分泌前列腺癌（NEPC）持续存在于极度缺氧的微环境中，但使肿瘤适应这种具有代谢挑战性的生态位的机制仍不清楚。在这里，我们确定脂质激酶 PIKfyve 在 NEPC 中过度表达，作为应激适应性脂质激酶轴的中心节点，支持对持续内质网 (ER) 应激的适应。从机制上讲，NEPC 需要 PIKfyve 介导的溶酶体降解和脂质回收来维持缺氧下的代谢稳态。 PIKfyve 抑制会破坏溶酶体功能，加剧 ER 应激，并激活补偿性甾醇调节元件结合蛋白 (SREBP) 依赖性从头脂肪生成程序，这对 NEPC 生存至关重要。这种应激-脂质轴在 PIKfyve 和脂肪酸合酶 (FASN) 之间产生了合成脆弱性，其中双重抑制协同放大 ER 应激，触发末端未折叠蛋白反应，并诱导肿瘤细胞死亡。这些发现揭示了 NEPC 的代谢适应，并提供了临床前证据，证明共同靶向 PIKfyve 和 FASN 可以克服缺氧相关的应激适应。",
+      "translationSource": "3ae21e5bd8d5238b"
+    },
     {
       "pmid": "42715333",
       "title": "Magnetically actuated nanoantennas for wireless glioblastoma therapy.",
@@ -1279,6 +1345,49 @@
       "translationSource": "061bb7ed7785224e"
     },
     {
+      "pmid": "42736308",
+      "title": "Redox cycling of viral RNA polymerase controls picornavirus replication.",
+      "titleZh": "病毒 RNA 聚合酶的氧化还原循环控制小核糖核酸病毒的复制。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-15",
+      "doi": "10.1038/s41467-026-76818-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76818-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42736308/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Picornaviruses, including foot-and-mouth disease virus (FMDV), enterovirus 71 (EV71) and encephalomyocarditis virus (EMCV), are important pathogens that cause fever, herpes, and myocarditis in humans and animals. The interplay between picornaviruses and their hosts remains enigmatic. Here we perform porcine genome-wide CRISPR/Cas9 screens and identify methionine sulfoxide reductase B3 (MSRB3) as an essential factor for FMDV. MSRB3 deficiency inhibits FMDV replication. Mechanistically, MSRB3 eliminates methionine oxidation of FMDV 3D polymerase and stabilizes its expression. Further studies show that radical SAM domain-containing protein 1 (RSAD1) catalyzes methionine oxidation of FMDV 3D polymerase and promotes its aggregation and subsequent degradation through the autophagy-lysosome pathway. Importantly, RSAD1-MSRB3-mediated redox modification also affects the stability of 3D polymerases of EV71 and EMCV, and regulates their infectivity and pathogenesis both in vitro and in vivo. Collectively, this study corroborates that RSAD1-MSRB3-mediated redox cycling of 3D polymerase plays a conserved function in modulating picornavirus infection, providing insights into viral pathogenesis and broad-spectrum antiviral development.",
+      "summaryZh": "小核糖核酸病毒，包括口蹄疫病毒（FMDV）、肠道病毒71型（EV71）和脑心肌炎病毒（EMCV），是引起人类和动物发烧、疱疹和心肌炎的重要病原体。小核糖核酸病毒与其宿主之间的相互作用仍然是个谜。在这里，我们进行了猪全基因组 CRISPR/Cas9 筛选，并确定甲硫氨酸亚砜还原酶 B3 (MSRB3) 是口蹄疫病毒的一个重要因子。 MSRB3 缺陷会抑制 FMDV 复制。从机制上讲，MSRB3 消除了 FMDV 3D 聚合酶的甲硫氨酸氧化并稳定其表达。进一步的研究表明，自由基 SAM 结构域蛋白 1 (RSAD1) 催化 FMDV 3D 聚合酶的甲硫氨酸氧化，并通过自噬-溶酶体途径促进其聚集和随后的降解。重要的是，RSAD1-MSRB3介导的氧化还原修饰还会影响EV71和EMCV 3D聚合酶的稳定性，并在体外和体内调节它们的感染性和发病机制。总的来说，这项研究证实了 RSAD1-MSRB3 介导的 3D 聚合酶氧化还原循环在调节小核糖核酸病毒感染中发挥着保守功能，为病毒发病机制和广谱抗病毒药物的开发提供了见解。",
+      "translationSource": "b5938d45559b71b3"
+    },
+    {
+      "pmid": "42736303",
+      "title": "Phosphorylation of OTUB1 promotes autophagy initiation under starvation.",
+      "titleZh": "OTUB1 的磷酸化促进饥饿条件下自噬的启动。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-15",
+      "doi": "10.1038/s41467-026-76796-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76796-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42736303/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Eukaryotes initiate autophagy in response to environmental challenges such as nutrient deprivation. However, the mechanisms governing autophagy initiation remain incompletely understood. Here, we demonstrated that OTUB1 phosphorylation plays a key role in starvation-induced autophagy initiation. Specifically, ERK phosphorylates OTUB1 at S118 during starvation. This phosphorylation enables competitive binding of ANXA2 to OTUB1, disrupting its interaction with TRIM29 and enhancing OTUB1 stability. Stabilized OTUB1 upregulated DEPTOR, thereby inhibiting mTOR and inducing autophagy. Furthermore, in vivo studies reveal that fasting-induced OTUB1-mTOR-autophagy axis counteracted Western diet-mediated mTOR activation by restoring ERK-dependent OTUB1 phosphorylation, ultimately ameliorating MASLD progression. Collectively, this study uncovers a phosphorylation-dependent regulatory mechanism controlling OTUB1's function in nutrient deficiency-triggered autophagy initiation, providing cellular and molecular evidence supporting the therapeutic potential of fasting in alleviating MASLD.",
+      "summaryZh": "真核生物启动自噬来应对营养匮乏等环境挑战。然而，控制自噬启动的机制仍不完全清楚。在这里，我们证明了 OTUB1 磷酸化在饥饿诱导的自噬启动中起着关键作用。具体而言，ERK 在饥饿期间使 OTUB1 在 S118 处磷酸化。这种磷酸化使 ANXA2 能够竞争性结合 OTUB1，破坏其与 TRIM29 的相互作用并增强 OTUB1 稳定性。稳定的 OTUB1 上调 DEPTOR，从而抑制 mTOR 并诱导自噬。此外，体内研究表明，禁食诱导的 OTUB1-mTOR 自噬轴通过恢复 ERK 依赖性 OTUB1 磷酸化来抵消西方饮食介导的 mTOR 激活，最终改善 MASLD 进展。总的来说，这项研究揭示了控制 OTUB1 在营养缺乏引发的自噬启动中的功能的磷酸化依赖性调节机制，提供了支持禁食在缓解 MASLD 方面的治疗潜力的细胞和分子证据。",
+      "translationSource": "537ebf3dd2f63c14"
+    },
+    {
       "pmid": "42603823",
       "title": "Automated synthetic cell-based screening for designed proteins with emergent functions.",
       "titleZh": "基于细胞的自动合成筛选具有新兴功能的设计蛋白质。",
@@ -1968,27 +2077,6 @@
       "abstractEn": "Regulation of phospholipid composition is essential for cellular homeostasis. Phosphatidylserine (PS) synthesized in the endoplasmic reticulum (ER) plays critical roles in the plasma membrane and endolysosomal system. Although aberrant PS metabolism is linked to diseases, its cellular effects remain poorly understood. Here, we reveal a conserved role for PS in maintaining Ca 2+ homeostasis. PS deficiency in Drosophila leads to mitochondrial damage, which is reversed by reducing inositol 1,4,5-trisphosphate receptor (IP 3 R)-mediated ER Ca 2+ release. Notably, in mammalian cells with pathological PS levels-either deficiency or excess as in Lenz-Majewski syndrome-IP 3 R activation leads to oscillatory or reduced ER-surface Ca 2+ release, contrasting with steady-state conditions. Manipulating phospholipid composition via the phosphatidylethanolamine (PE)-SREBP axis in Drosophila and the phosphatidylcholine (PC)-SREBP axis in mammals normalizes IP 3 R-mediated Ca 2+ release during PS deficiency. These findings establish modulated ER Ca 2+ release as a key function of PS and suggest therapeutic strategies for treating lipid metabolic disorders.",
       "summaryZh": "磷脂组成的调节对于细胞稳态至关重要。在内质网 (ER) 中合成的磷脂酰丝氨酸 (PS) 在质膜和内溶酶体系统中发挥着关键作用。尽管 PS 代谢异常与疾病有关，但其细胞效应仍知之甚少。在这里，我们揭示了 PS 在维持 Ca 2+ 稳态中的保守作用。果蝇中的 PS 缺乏会导致线粒体损伤，可通过减少肌醇 1,4,5-三磷酸受体 (IP 3 R) 介导的 ER Ca 2+ 释放来逆转线粒体损伤。值得注意的是，在具有病理性 PS 水平的哺乳动物细胞中（如 Lenz-Majewski 综合征中的不足或过量），IP 3 R 激活会导致振荡或减少 ER 表面 Ca 2+ 释放，与稳态条件相反。通过果蝇中的磷脂酰乙醇胺 (PE)-SREBP 轴和哺乳动物中的磷脂酰胆碱 (PC)-SREBP 轴操纵磷脂组成，可以在 PS 缺乏期间使 IP 3 R 介导的 Ca 2+ 释放正常化。这些发现将调节 ER Ca 2+ 释放确定为 PS 的关键功能，并提出了治疗脂质代谢紊乱的治疗策略。",
       "translationSource": "25be069639964e4d"
-    },
-    {
-      "pmid": "42546705",
-      "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer.",
-      "titleZh": "压力适应性脂质激酶轴定义了神经内分泌前列腺癌的代谢脆弱性。",
-      "journal": "Cancer Cell",
-      "year": 2026,
-      "published": "2026-08-03",
-      "doi": "10.1016/j.ccell.2026.07.003",
-      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.003",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42546705/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Neuroendocrine prostate cancer (NEPC) persists in a profoundly hypoxic microenvironment, yet the mechanisms enabling tumor adaptation to this metabolically challenging niche remain undefined. Here, we identify the lipid kinase PIKfyve as overexpressed in NEPC, functioning as a central node in a stress-adaptive lipid kinase axis that supports adaptation to persistent endoplasmic reticulum (ER) stress. Mechanistically, NEPC requires PIKfyve-mediated lysosomal degradation and lipid recycling to maintain metabolic homeostasis under hypoxia. PIKfyve inhibition disrupts lysosomal function, exacerbates ER stress, and activates a compensatory sterol regulatory element-binding protein (SREBP)-dependent de novo lipogenesis program essential for NEPC survival. This stress-lipid axis creates a synthetic vulnerability between PIKfyve and fatty acid synthase (FASN), where dual inhibition synergistically amplifies ER stress, triggers the terminal unfolded protein response, and induces tumor cell death. These findings reveal a metabolic adaptation in NEPC and provide preclinical evidence that co-targeting PIKfyve and FASN can overcome hypoxia-associated stress adaptation.",
-      "summaryZh": "神经内分泌前列腺癌（NEPC）持续存在于极度缺氧的微环境中，但使肿瘤适应这种具有代谢挑战性的生态位的机制仍不清楚。在这里，我们确定脂质激酶 PIKfyve 在 NEPC 中过度表达，作为应激适应性脂质激酶轴的中心节点，支持对持续内质网 (ER) 应激的适应。从机制上讲，NEPC 需要 PIKfyve 介导的溶酶体降解和脂质回收来维持缺氧下的代谢稳态。 PIKfyve 抑制会破坏溶酶体功能，加剧 ER 应激，并激活补偿性甾醇调节元件结合蛋白 (SREBP) 依赖性从头脂肪生成程序，这对 NEPC 生存至关重要。这种应激-脂质轴在 PIKfyve 和脂肪酸合酶 (FASN) 之间产生了合成脆弱性，其中双重抑制协同放大 ER 应激，触发末端未折叠蛋白反应，并诱导肿瘤细胞死亡。这些发现揭示了 NEPC 的代谢适应，并提供了临床前证据，证明共同靶向 PIKfyve 和 FASN 可以克服缺氧相关的应激适应。",
-      "translationSource": "3ae21e5bd8d5238b"
     },
     {
       "pmid": "42587083",
@@ -4217,6 +4305,69 @@
       "translationSource": "fa44de59bbae5dba"
     },
     {
+      "pmid": "42250221",
+      "title": "Poising and connectivity of emergent human developmental enhancers in the transition from naive to primed pluripotency.",
+      "titleZh": "从幼稚到启动多能性的转变中人类新兴发育增强子的平衡和连接。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117402",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117402",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42250221/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "Poised enhancers (PEs), co-marked by H3K4me1 and Polycomb-associated H3K27me3, are common in primed human pluripotent stem cells (hPSCs) resembling post-implantation epiblast but scarce in naive hPSCs modeling pre-implantation epiblast. PEs form abundant chromosomal contacts with developmental genes, but the timing of their emergence, their relationship to enhancer poising, and their functional significance remain unclear. We devised high-resolution, PE-targeted Capture Hi-C to map PE contacts during the transition from naive to primed pluripotency. We find that enhancer poising emerges early in the transition, while the contacts show diverse dynamics. PROTAC-induced degradation of Polycomb repressive complex 2 early in the transition, but not inhibition of its H3K27 methyltransferase activity, weakens PE connectivity. Finally, PE contacts persist after developmental activation or ectopic CRISPRa targeting and can mediate long-range gene induction. Together, these findings reveal the temporal and mechanistic principles of PE connectivity and highlight a potential role of PE contacts in establishing developmental gene expression patterns.",
+      "summaryZh": "由 H3K4me1 和 Polycomb 相关的 H3K27me3 共同标记的平衡增强子 (PE) 在类似于植入后外胚层的致敏人多能干细胞 (hPSC) 中很常见，但在模拟植入前外胚层的初始 hPSC 中很少见。 PE与发育基因形成丰富的染色体接触，但它们出现的时间、它们与增强子平衡的关系以及它们的功能意义仍不清楚。我们设计了高分辨率、PE 靶向的 Capture Hi-C，以在从初始多能性到引发多能性的转变过程中绘制 PE 接触图谱。我们发现增强子平衡出现在转变的早期，而接触则表现出不同的动态。 PROTAC 在过渡早期诱导 Polycomb 抑制复合物 2 降解，但不抑制其 H3K27 甲基转移酶活性，从而削弱了 PE 连接。最后，PE接触在发育激活或异位CRISPRa靶向后持续存在，并且可以介导远程基因诱导。总之，这些发现揭示了 PE 连接的时间和机制原理，并强调了 PE 接触在建立发育基因表达模式中的潜在作用。",
+      "translationSource": "d842bfe1bbecfe6d"
+    },
+    {
+      "pmid": "42228563",
+      "title": "An orally active dual CBP/p300 degrader targets core dependencies of multiple myeloma.",
+      "titleZh": "口服活性双 CBP/p300 降解剂针对多发性骨髓瘤的核心依赖性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117464",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117464",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42228563/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
+      "abstractEn": "The enhancer lysine acetyltransferases CBP/p300 are compelling targets for multiple myeloma therapy. Chemical inhibition of these multidomain factors, either through the bromodomain or the catalytic acetyltransferase domain, show promising activity in pre-clinical models. Chemical degradation is the only modality that can completely disrupt all functional domains. Our previous attempts to induce CBP/p300 targeted degradation led to a potent tool compound, dCBP-1. Here we comprehensively demonstrate across a large panel of cell lines how CBP/p300 degradation compares to inhibition, with pronounced selective antiproliferative activity toward multiple myeloma. We use chemical linker optimization strategies to create a compound with better pharmacokinetic properties. Through these we define an advanced analog of dCBP-1, dCBP-30, that has improved potency and improved in vivo properties including oral bioavailability. dCBP-30 led to potent and sustained loss of CBP and p300, potent inhibition of several myeloma-specific dependency programs, and elicits tumor reduction in xenograft models.",
+      "summaryZh": "增强剂赖氨酸乙酰转移酶 CBP/p300 是多发性骨髓瘤治疗的引人注目的靶点。通过溴结构域或催化乙酰转移酶结构域对这些多结构域因子进行化学抑制，在临床前模型中显示出有希望的活性。化学降解是唯一可以完全破坏所有功能域的方式。我们之前诱导 CBP/p300 靶向降解的尝试产生了一种有效的工具化合物 dCBP-1。在这里，我们在大量细胞系中全面展示了 CBP/p300 降解与抑制的比较，以及对多发性骨髓瘤具有明显的选择性抗增殖活性。我们使用化学接头优化策略来创建具有更好药代动力学特性的化合物。通过这些，我们定义了 dCBP-1 的高级类似物 dCBP-30，它具有提高的效力和改善的体内特性，包括口服生物利用度。 dCBP-30 导致 CBP 和 p300 有效且持续的损失，有效抑制多种骨髓瘤特异性依赖性程序，并在异种移植模型中引起肿瘤减少。",
+      "translationSource": "42cbbfefa170f284"
+    },
+    {
+      "pmid": "42224082",
+      "title": "Structure of the E3 ligase CRL2 ZYG11B with substrates reveals the molecular basis for N-degron recognition and ubiquitination.",
+      "titleZh": "E3 连接酶 CRL2 ZYG11B 与底物的结构揭示了 N-降解决定子识别和泛素化的分子基础。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117401",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117401",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42224082/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "ZYG11B is a substrate specificity factor for the cullin-2-RING ubiquitin ligase (CRL2), which plays a critical role in the recognition and degradation of Gly/N-degrons. Yet, how ZYG11B assembles with CRL2, and how ZYG11B couples specific substrate recognition to CRL2-mediated ubiquitination, is unknown. We present the cryo-electron microscopy (cryo-EM) structures of the CRL2 ZYG11B holoenzyme alone and in complex with a Gly/N-peptide from the inflammasome-forming pathogen sensor NLRP1. The structures indicate that ZYG11B folds into a leucine-rich repeat followed by two armadillo repeat domains that promote assembly with CRL2 and specific recognition of the NLRP1 Gly/N-degron that is revealed by viral protease cleavage. Our structural and functional data indicate that blocking ZYG11B recognition of the NLRP1 Gly/N-degron inhibits NLRP1 inflammasome activation by a viral protease. Overall, we show how the CRL2 ZYG11B E3 ligase complex recognizes Gly/N-degron substrates, including those that are involved in viral protease-mediated activation of the NLRP1 inflammasome.",
+      "summaryZh": "ZYG11B 是 cullin-2-RING 泛素连接酶 (CRL2) 的底物特异性因子，在 Gly/N-降解决定子的识别和降解中发挥着关键作用。然而，ZYG11B 如何与 CRL2 组装，以及 ZYG11B 如何将特定底物识别与 CRL2 介导的泛素化结合起来，尚不清楚。我们展示了单独的 CRL2 ZYG11B 全酶以及与来自炎症小体形成病原体传感器 NLRP1 的 Gly/N 肽复合物的冷冻电子显微镜 (cryo-EM) 结构。这些结构表明，ZYG11B 折叠成富含亮氨酸的重复序列，然后是两个犰狳重复结构域，促进与 CRL2 的组装以及病毒蛋白酶裂解揭示的 NLRP1 Gly/N-degron 的特异性识别。我们的结构和功能数据表明，阻断 ZYG11B 对 NLRP1 Gly/N-degron 的识别会抑制病毒蛋白酶对 NLRP1 炎症小体的激活。总体而言，我们展示了 CRL2 ZYG11B E3 连接酶复合物如何识别 Gly/N-degron 底物，包括那些参与病毒蛋白酶介导的 NLRP1 炎症小体激活的底物。",
+      "translationSource": "39413d412d88e2e7"
+    },
+    {
       "pmid": "42268710",
       "title": "STING-OPTN signaling confers cytoprotection through TBK1-dependent mitophagy.",
       "titleZh": "STING-OPTN 信号传导通过 TBK1 依赖性线粒体自噬提供细胞保护。",
@@ -4262,27 +4413,6 @@
       "translationSource": "2a0de2d2f00e17c1"
     },
     {
-      "pmid": "42250221",
-      "title": "Poising and connectivity of emergent human developmental enhancers in the transition from naive to primed pluripotency.",
-      "titleZh": "从幼稚到启动多能性的转变中人类新兴发育增强子的平衡和连接。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117402",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117402",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42250221/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "protac"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
-      "abstractEn": "Poised enhancers (PEs), co-marked by H3K4me1 and Polycomb-associated H3K27me3, are common in primed human pluripotent stem cells (hPSCs) resembling post-implantation epiblast but scarce in naive hPSCs modeling pre-implantation epiblast. PEs form abundant chromosomal contacts with developmental genes, but the timing of their emergence, their relationship to enhancer poising, and their functional significance remain unclear. We devised high-resolution, PE-targeted Capture Hi-C to map PE contacts during the transition from naive to primed pluripotency. We find that enhancer poising emerges early in the transition, while the contacts show diverse dynamics. PROTAC-induced degradation of Polycomb repressive complex 2 early in the transition, but not inhibition of its H3K27 methyltransferase activity, weakens PE connectivity. Finally, PE contacts persist after developmental activation or ectopic CRISPRa targeting and can mediate long-range gene induction. Together, these findings reveal the temporal and mechanistic principles of PE connectivity and highlight a potential role of PE contacts in establishing developmental gene expression patterns.",
-      "summaryZh": "由 H3K4me1 和 Polycomb 相关的 H3K27me3 共同标记的平衡增强子 (PE) 在类似于植入后外胚层的致敏人多能干细胞 (hPSC) 中很常见，但在模拟植入前外胚层的初始 hPSC 中很少见。 PE与发育基因形成丰富的染色体接触，但它们出现的时间、它们与增强子平衡的关系以及它们的功能意义仍不清楚。我们设计了高分辨率、PE 靶向的 Capture Hi-C，以在从初始多能性到引发多能性的转变过程中绘制 PE 接触图谱。我们发现增强子平衡出现在转变的早期，而接触则表现出不同的动态。 PROTAC 在过渡早期诱导 Polycomb 抑制复合物 2 降解，但不抑制其 H3K27 甲基转移酶活性，从而削弱了 PE 连接。最后，PE接触在发育激活或异位CRISPRa靶向后持续存在，并且可以介导远程基因诱导。总之，这些发现揭示了 PE 连接的时间和机制原理，并强调了 PE 接触在建立发育基因表达模式中的潜在作用。",
-      "translationSource": "d842bfe1bbecfe6d"
-    },
-    {
       "pmid": "42247288",
       "title": "The C-terminal region of TENT5 proteins drives ER-associated mRNA polyadenylation via FNDC3 interaction.",
       "titleZh": "TENT5 蛋白的 C 末端区域通过 FNDC3 相互作用驱动 ER 相关 mRNA 多聚腺苷酸化。",
@@ -4323,48 +4453,6 @@
       "abstractEn": "Oxidative protein folding in the endoplasmic reticulum (ER) is essential for eukaryotic cells yet generates hydrogen peroxide (H 2 O 2 ), a reactive oxygen species. The ER-transmembrane protein that supports ER proteostasis and guards the cytosol for antioxidant defense remains unidentified. Here, we combine AlphaFold2 and functional screens in C. elegans to discover a previously uncharacterized and evolutionarily conserved protein ERGU-1 that fulfills these roles. Deleting ERGU-1 upregulates H 2 O 2 and NRF2/SKN-1-dependent gene expression. ERGU-1 deficiency also impairs organismal reproduction and behavioral responses to H 2 O 2 . Both C. elegans ERGU-1 and human homolog TMEM161B localize to ER membranes, forming reticular networks. Human and Drosophila homologs of ERGU-1 rescue C. elegans mutant phenotypes, demonstrating ancient and conserved functions. In addition, purified ERGU-1 and TMEM161B exhibit redox-modulated oligomeric states. Together, our results reveal an ER-membrane-specific machinery, suggesting a conserved mechanism for maintaining ER redox homeostasis and proteostasis in animal cells.",
       "summaryZh": "内质网 (ER) 中的氧化蛋白折叠对于真核细胞至关重要，同时会产生过氧化氢 (H 2 O 2 )，一种活性氧。支持内质网蛋白质稳态并保护细胞质进行抗氧化防御的内质网跨膜蛋白仍然未知。在这里，我们将 AlphaFold2 和秀丽隐杆线虫的功能筛选结合起来，发现了一种以前未表征的、进化上保守的蛋白质 ERGU-1，它可以发挥这些作用。删除 ERGU-1 上调 H 2 O 2 和 NRF2/SKN-1 依赖性基因表达。 ERGU-1 缺乏还会损害有机体繁殖和对 H 2 O 2 的行为反应。线虫 ERGU-1 和人类同源物 TMEM161B 均定位于 ER 膜，形成网状网络。 ERGU-1 的人类和果蝇同源物拯救了秀丽隐杆线虫突变表型，展示了古老且保守的功能。此外，纯化的 ERGU-1 和 TMEM161B 表现出氧化还原调节的寡聚状态。总之，我们的结果揭示了内质网膜特异性机制，表明动物细胞中维持内质网氧化还原稳态和蛋白质稳态的保守机制。",
       "translationSource": "87ceea77bac1a75f"
-    },
-    {
-      "pmid": "42228563",
-      "title": "An orally active dual CBP/p300 degrader targets core dependencies of multiple myeloma.",
-      "titleZh": "口服活性双 CBP/p300 降解剂针对多发性骨髓瘤的核心依赖性。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117464",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117464",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42228563/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation。",
-      "abstractEn": "The enhancer lysine acetyltransferases CBP/p300 are compelling targets for multiple myeloma therapy. Chemical inhibition of these multidomain factors, either through the bromodomain or the catalytic acetyltransferase domain, show promising activity in pre-clinical models. Chemical degradation is the only modality that can completely disrupt all functional domains. Our previous attempts to induce CBP/p300 targeted degradation led to a potent tool compound, dCBP-1. Here we comprehensively demonstrate across a large panel of cell lines how CBP/p300 degradation compares to inhibition, with pronounced selective antiproliferative activity toward multiple myeloma. We use chemical linker optimization strategies to create a compound with better pharmacokinetic properties. Through these we define an advanced analog of dCBP-1, dCBP-30, that has improved potency and improved in vivo properties including oral bioavailability. dCBP-30 led to potent and sustained loss of CBP and p300, potent inhibition of several myeloma-specific dependency programs, and elicits tumor reduction in xenograft models.",
-      "summaryZh": "增强剂赖氨酸乙酰转移酶 CBP/p300 是多发性骨髓瘤治疗的引人注目的靶点。通过溴结构域或催化乙酰转移酶结构域对这些多结构域因子进行化学抑制，在临床前模型中显示出有希望的活性。化学降解是唯一可以完全破坏所有功能域的方式。我们之前诱导 CBP/p300 靶向降解的尝试产生了一种有效的工具化合物 dCBP-1。在这里，我们在大量细胞系中全面展示了 CBP/p300 降解与抑制的比较，以及对多发性骨髓瘤具有明显的选择性抗增殖活性。我们使用化学接头优化策略来创建具有更好药代动力学特性的化合物。通过这些，我们定义了 dCBP-1 的高级类似物 dCBP-30，它具有提高的效力和改善的体内特性，包括口服生物利用度。 dCBP-30 导致 CBP 和 p300 有效且持续的损失，有效抑制多种骨髓瘤特异性依赖性程序，并在异种移植模型中引起肿瘤减少。",
-      "translationSource": "42cbbfefa170f284"
-    },
-    {
-      "pmid": "42224082",
-      "title": "Structure of the E3 ligase CRL2 ZYG11B with substrates reveals the molecular basis for N-degron recognition and ubiquitination.",
-      "titleZh": "E3 连接酶 CRL2 ZYG11B 与底物的结构揭示了 N-降解决定子识别和泛素化的分子基础。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117401",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117401",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42224082/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "ZYG11B is a substrate specificity factor for the cullin-2-RING ubiquitin ligase (CRL2), which plays a critical role in the recognition and degradation of Gly/N-degrons. Yet, how ZYG11B assembles with CRL2, and how ZYG11B couples specific substrate recognition to CRL2-mediated ubiquitination, is unknown. We present the cryo-electron microscopy (cryo-EM) structures of the CRL2 ZYG11B holoenzyme alone and in complex with a Gly/N-peptide from the inflammasome-forming pathogen sensor NLRP1. The structures indicate that ZYG11B folds into a leucine-rich repeat followed by two armadillo repeat domains that promote assembly with CRL2 and specific recognition of the NLRP1 Gly/N-degron that is revealed by viral protease cleavage. Our structural and functional data indicate that blocking ZYG11B recognition of the NLRP1 Gly/N-degron inhibits NLRP1 inflammasome activation by a viral protease. Overall, we show how the CRL2 ZYG11B E3 ligase complex recognizes Gly/N-degron substrates, including those that are involved in viral protease-mediated activation of the NLRP1 inflammasome.",
-      "summaryZh": "ZYG11B 是 cullin-2-RING 泛素连接酶 (CRL2) 的底物特异性因子，在 Gly/N-降解决定子的识别和降解中发挥着关键作用。然而，ZYG11B 如何与 CRL2 组装，以及 ZYG11B 如何将特定底物识别与 CRL2 介导的泛素化结合起来，尚不清楚。我们展示了单独的 CRL2 ZYG11B 全酶以及与来自炎症小体形成病原体传感器 NLRP1 的 Gly/N 肽复合物的冷冻电子显微镜 (cryo-EM) 结构。这些结构表明，ZYG11B 折叠成富含亮氨酸的重复序列，然后是两个犰狳重复结构域，促进与 CRL2 的组装以及病毒蛋白酶裂解揭示的 NLRP1 Gly/N-degron 的特异性识别。我们的结构和功能数据表明，阻断 ZYG11B 对 NLRP1 Gly/N-degron 的识别会抑制病毒蛋白酶对 NLRP1 炎症小体的激活。总体而言，我们展示了 CRL2 ZYG11B E3 连接酶复合物如何识别 Gly/N-degron 底物，包括那些参与病毒蛋白酶介导的 NLRP1 炎症小体激活的底物。",
-      "translationSource": "39413d412d88e2e7"
     },
     {
       "pmid": "42234560",
