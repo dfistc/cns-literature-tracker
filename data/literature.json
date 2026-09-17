@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-09-16T01:52:54+00:00",
+  "updatedAt": "2026-09-17T01:56:50+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42747968",
+      "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation.",
+      "titleZh": "TCF25 作为营养传感器，通过增强葡萄糖饥饿下的溶酶体酸化来协调代谢适应和细胞死亡。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1016/j.celrep.2026.118055",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118055",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42747968/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "1763b7f80dd96e71"
+    },
     {
       "pmid": "42743266",
       "title": "Viral hijacking of the host ubiquitin-proteasome system for immune escape.",
@@ -24,6 +45,92 @@
       "abstractEn": "E3 ubiquitin ligases regulate protein turnover and signaling by mediating degradative or nondegradative types of ubiquitylation. In the 20 August 2026 issue of Science , Glassman et al. identified mechanisms by which viral proteins commandeer the ubiquitin-proteasome system to dysregulate innate immunity, unveiling potential avenues for designing antiviral interventions.",
       "summaryZh": "E3 泛素连接酶通过介导降解或非降解类型的泛素化来调节蛋白质周转和信号传导。在 2026 年 8 月 20 日出版的《科学》杂志上，Glassman 等人。确定了病毒蛋白利用泛素蛋白酶体系统失调先天免疫的机制，揭示了设计抗病毒干预措施的潜在途径。",
       "translationSource": "a0b6479f5f394569"
+    },
+    {
+      "pmid": "42744861",
+      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis.",
+      "titleZh": "巴顿病蛋白 CLN8 是双（单酰基甘油）磷酸生物合成中的立体特异性酰基转移酶。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1038/s41556-026-02061-0",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02061-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744861/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Loss-of-function mutations in the endoplasmic reticulum membrane protein CLN8 cause Batten disease, a neurodegenerative lysosomal storage disorder. CLN8 acts with the lysosomal enzyme CLN5 to produce bis(monoacylglycero)phosphate (BMP), a signature lysosomal phospholipid with unique S,S stereochemistry. However, the role of CLN8 in this pathway has remained unclear. Here we establish that CLN8 is a glycerophosphoglycerol acyltransferase that catalyses the stereospecific acylation of S,S-glycerophosphoglycerol to generate S,S-lysophosphatidylglycerol, the CLN5 substrate in BMP synthesis. Cryo-electron microscopy structures define the CLN8 active site and support a ping-pong acyl transfer mechanism. Batten disease mutations impair CLN8 enzymatic activity and abolish BMP production in mice. Exogenous S,S-lysophosphatidylglycerol, but not the R,S stereoisomer, restores BMP synthesis in CLN8-deficient cells and mice and improves neurological phenotypes in cln8 mutant zebrafish. These findings define the function of CLN8, explain the biochemical basis of CLN8 Batten disease and establish BMP precursor supplementation as a proof-of-concept therapeutic strategy.",
+      "summaryZh": "内质网膜蛋白 CLN8 的功能丧失突变会导致巴顿病，一种神经退行性溶酶体贮积症。 CLN8 与溶酶体酶 CLN5 作用，产生双（单酰基甘油）磷酸盐 (BMP)，这是一种具有独特 S,S 立体化学的标志性溶酶体磷脂。然而，CLN8 在该途径中的作用仍不清楚。在此，我们确定 CLN8 是一种甘油磷酸甘油酰基转移酶，可催化 S,S-磷酸甘油的立体特异性酰化生成 S,S-溶血磷脂酰甘油，即 BMP 合成中的 CLN5 底物。冷冻电子显微镜结构定义了 CLN8 活性位点并支持乒乓酰基转移机制。 Batten 病突变会损害小鼠体内的 CLN8 酶活性并消除 BMP 的产生。外源性 S,S-溶血磷脂酰甘油（而非 R,S 立体异构体）可恢复 CLN8 缺陷细胞和小鼠中的 BMP 合成，并改善 cln8 突变斑马鱼的神经表型。这些发现定义了 CLN8 的功能，解释了 CLN8 Batten 病的生化基础，并将 BMP 前体补充剂确立为一种概念验证治疗策略。",
+      "translationSource": "4cc77592c4c96c93"
+    },
+    {
+      "pmid": "42744859",
+      "title": "Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway.",
+      "titleZh": "Batten 病蛋白 CLN8 启用非经典磷脂合成途径。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1038/s41556-026-02059-8",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02059-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744859/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "According to text book knowledge, de novo glycerophospholipid (GPL) synthesis begins with the acylation of glycerol-3-phosphate to form phosphatidic acid, the precursor of all other GPLs. Here we describe an alternative GPL synthesis pathway that starts with the acyl-CoA-dependent acylation of glycerophosphoglycerol, resulting in the formation of lysophosphatidylglycerol. The acyltransferase reaction is catalysed by the Batten disease-associated protein ceroid lipofuscinosis neuronal 8 (CLN8). Tracer studies revealed that CLN8-derived lysophosphatidylglycerol is selectively converted into bis(monoacylglycero)phosphate (BMP), a GPL essential for lysosomal lipid homeostasis but not into phosphatidylglycerol or cardiolipin. CLN8-knockout cells and mice cannot utilize glycerophosphoglycerol for BMP synthesis, resulting in BMP deficiency and excess accumulation of phospholipids in lysosomes. The lipid synthesis pathway described herein is relevant for understanding lysosomal lipid metabolism and the pathogenesis of neurodegenerative diseases. BMP deficiency may contribute to or even underlie lysosomal cargo accumulation in certain forms of Batten disease and other lysosomal storage disorders.",
+      "summaryZh": "根据教科书知识，甘油磷脂 (GPL) 的从头合成始于 3-磷酸甘油酰化形成磷脂酸，磷脂酸是所有其他 GPL 的前体。在这里，我们描述了另一种 GPL 合成途径，该途径从甘油磷酸甘油的酰基辅酶 A 依赖性酰化开始，导致溶血磷脂酰甘油的形成。酰基转移酶反应由巴顿病相关蛋白蜡质脂褐素沉着症神经元 8 (CLN8) 催化。示踪剂研究表明，CLN8 衍生的溶血磷脂酰甘油选择性转化为双（单酰基甘油）磷酸酯 (BMP)（一种对溶酶体脂质稳态至关重要的 GPL），但不转化为磷脂酰甘油或心磷脂。 CLN8敲除细胞和小鼠不能利用甘油磷酸甘油合成BMP，导致BMP缺乏和溶酶体中磷脂过量积累。本文描述的脂质合成途径与理解溶酶体脂质代谢和神经退行性疾病的发病机制相关。 BMP 缺乏可能导致某些形式的巴顿病和其他溶酶体贮积症中溶酶体物质积累，甚至是其基础。",
+      "translationSource": "ba9e7a1a21e1418c"
+    },
+    {
+      "pmid": "42744858",
+      "title": "DFCP1-containing ER microdomains mediate lysosomal membrane repair.",
+      "titleZh": "含有 DFCP1 的 ER 微结构域介导溶酶体膜修复。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1038/s41556-026-02062-z",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02062-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744858/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal membrane integrity is essential for preserving cellular homeostasis in response to different stressors. Upon lysosomal membrane permeabilization, cells activate several mechanisms for lysosomal membrane repair, including ESCRT proteins, phosphatidylinositol 4-phosphate (PI4P)-dependent lipid transfer from the endoplasmic reticulum (ER) and conjugation of ATG8 family proteins to single membranes (CASM). The interplay between these pathways and the regulation of the lipid transfer machinery remain incompletely understood. Here we show that phosphatidylinositol 3-phosphate (PI3P)-containing ER domains play a major role in lysosomal membrane repair. PI3P is formed on lysosome-proximal ER domains by the phosphatidylinositol 3-kinase PIK3C3/VPS34 in response to membrane damage, and inhibition or depletion of PIK3C3 inhibits lysosome repair. Mechanistically, the ATPase DFCP1/ZFYVE1 accumulates on lysosome-proximal ER domains by its PI3P binding, triggered by Ca 2+ efflux from lysosomes and requiring the ULK1 kinase complex and ER proteins of the VAP family. Downstream of CASM, PI4P, ESCRTs and PI3P, DFCP1 promotes focal accumulation of the lipid channel VPS13C on ER domains proximal to damaged lysosomes to promote their repair. The function and dynamics of DFCP1 depend on its ability to bind and hydrolyse ATP, and absence of DFCP1 compromises cellular resistance to vacuolar damage induced by Listeria monocytogenes. We conclude that DFCP1 mediates concentration of the ER-associated lipid transport machinery at damaged lysosomes to promote their sealing in response to Ca 2+ flux and PIK3C3 activation.",
+      "summaryZh": "溶酶体膜的完整性对于保持细胞稳态以应对不同的应激源至关重要。溶酶体膜透化后，细胞激活多种溶酶体膜修复机制，包括 ESCRT 蛋白、磷脂酰肌醇 4-磷酸 (PI4P) 依赖性从内质网 (ER) 的脂质转移以及 ATG8 家族蛋白与单膜 (CASM) 的缀合。这些途径与脂质转移机制之间的相互作用仍不完全清楚。在这里，我们发现含有 3-磷酸磷脂酰肌醇 (PI3P) 的 ER 结构域在溶酶体膜修复中发挥着重要作用。 PI3P 是由磷脂酰肌醇 3-激酶 PIK3C3/VPS34 响应膜损伤而在溶酶体近端 ER 结构域上形成的，抑制或耗尽 PIK3C3 会抑制溶酶体修复。从机制上讲，ATP 酶 DFCP1/ZFYVE1 通过其 PI3P 结合在溶酶体近端 ER 结构域上积累，由溶酶体中的 Ca 2+ 流出触发，并需要 ULK1 激酶复合物和 VAP 家族的 ER 蛋白。 CASM、PI4P、ESCRT 和 PI3P 的下游，DFCP1 促进脂质通道 VPS13C 在靠近受损溶酶体的 ER 结构域上的局部积累，从而促进其修复。 DFCP1 的功能和动力学取决于其结合和水解 ATP 的能力，DFCP1 的缺失会损害细胞对单核细胞增生李斯特氏菌诱导的空泡损伤的抵抗力。我们得出的结论是，DFCP1 介导受损溶酶体中 ER 相关脂质转运机制的浓度，以促进其响应 Ca 2+ 通量和 PIK3C3 激活而封闭。",
+      "translationSource": "c4c68da4425a1346"
+    },
+    {
+      "pmid": "42744304",
+      "title": "Quality control of glycogen through direct ubiquitylation by RNF213.",
+      "titleZh": "通过 RNF213 直接泛素化来控制糖原的质量。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-15",
+      "doi": "10.1038/s41586-026-11139-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11139-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744304/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Quality control of biomolecules is vital for organismal health. While DNA repair and protein quality control are well understood, how cells monitor other important biomolecules such as glycogen remains ill-defined. The accumulation of aberrant, poorly branched glycogen into insoluble polyglucosan bodies causes severe disease 1,2 . Here, we discover autophagy of ubiquitylated aberrant glycogen as a previously unrecognized quality control mechanism safeguarding the brain from polyglucosan buildup. This mechanism depends on the E3 ubiquitin ligase RNF213. Mice lacking ligase activity in RNF213 accumulate polyglucosan in cerebellum, pons, and hippocampus. Using cells engineered to produce polyglucosan, we show that RNF213 selectively ubiquitylates abnormal glycogen. Cryo-EM analysis of RNF213 bound to glycogen-derived maltoheptaose revealed its CBM20 domain binds linear oligosaccharides. Disrupting carbohydrate binding results in gain of E3 ligase activity towards physiological glycogen, indicating the CBM20 domain limits RNF213 activity towards physiological glycogen. Epistasis analysis places RNF213 upstream of LUBAC, suggesting a hierarchical network of multiple E3 ligases surveying glycogen quality. Ubiquitylated polyglucosan recruits the autophagy receptors SQSTM1, TAX1BP1, and optineurin, thereby triggering uptake into autophagosomes. These findings identify RNF213 as a quality control factor preventing polyglucosan accumulation in astrocytes through direct ubiquitylation of polyglucosan, revealing an essential role for non-protein ubiquitylation in glycogen quality control.",
+      "summaryZh": "生物分子的质量控制对于机体健康至关重要。虽然 DNA 修复和蛋白质质量控​​制已广为人知，但细胞如何监测糖原等其他重要生物分子仍然不明确。异常的、支化不良的糖原在不溶性聚葡聚糖体中积累会导致严重的疾病 1,2 。在这里，我们发现泛素化异常糖原的自噬作为一种以前未被认识的质量控制机制，可以保护大脑免受聚葡萄糖积聚的影响。该机制依赖于 E3 泛素连接酶 RNF213。 RNF213 缺乏连接酶活性的小鼠在小脑、脑桥和海马中积累聚葡聚糖。使用经过改造的细胞来生产聚葡聚糖，我们发现 RNF213 选择性地泛素化异常糖原。对 RNF213 与糖原衍生的麦芽七糖结合的冷冻电镜分析表明，其 CBM20 结构域与线性寡糖结合。破坏碳水化合物结合导致 E3 连接酶对生理糖原的活性增加，表明 CBM20 结构域限制 RNF213 对生理糖原的活性。上位性分析将 RNF213 置于 LUBAC 上游，表明多个 E3 连接酶的分层网络可测量糖原质量。泛素化聚葡聚糖招募自噬受体 SQSTM1、TAX1BP1 和 optineurin，从而触发自噬体的摄取。这些发现确定RNF213是一种质量控制因子，通过聚葡聚糖的直接泛素化来防止星形胶质细胞中聚葡聚糖的积累，揭示了非蛋白质泛素化在糖原质量控制中的重要作用。",
+      "translationSource": "102647aeb14bb133"
     },
     {
       "pmid": "42743056",
@@ -1299,6 +1406,49 @@
       "abstractEn": "Developmental biology seeks to understand how multicellular organization emerges from cell-cell interactions. Advances in stem cell and synthetic biology now enable researchers to rebuild developmental processes outside the embryo, with varying degrees of resemblance to natural systems. While some reconstituted systems reveal how development occurs, others uncover what is possible. This perspective examines how such bottom-up approaches have elucidated general principles and causal mechanisms of multicellular organization. We argue that synthetic systems, though simplified, provide powerful platforms to test the limits of developmental potential, disentangle causal relationships, and inform predictive models. With rapid advances in genomic engineering, imaging, and computational modeling, leveraging these engineered systems to discover what is possible holds transformative promise for understanding what is happening in nature.",
       "summaryZh": "发育生物学试图了解多细胞组织是如何从细胞与细胞相互作用中产生的。干细胞和合成生物学的进步现在使研究人员能够在胚胎外重建发育过程，与自然系统具有不同程度的相似性。虽然一些重构的系统揭示了发育是如何发生的，但另一些则揭示了可能性。这种观点探讨了这种自下而上的方法如何阐明多细胞组织的一般原理和因果机制。我们认为，合成系统虽然经过简化，但却提供了强大的平台来测试发展潜力的极限、理清因果关系并为预测模型提供信息。随着基因组工程、成像和计算建模的快速发展，利用这些工程系统来发现可能性，为理解自然界正在发生的事情带来了变革性的希望。",
       "translationSource": "56285894774fbca4"
+    },
+    {
+      "pmid": "42744795",
+      "title": "Engineered bacteria as exogenous organelle mimics restore PTEN and p53 tumor suppressor functions for cancer therapy.",
+      "titleZh": "工程细菌作为外源细胞器模拟物，可恢复 PTEN 和 p53 肿瘤抑制功能，用于癌症治疗。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76647-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76647-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744795/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "PTEN and p53 are two pivotal tumor suppressors that synergistically restrain tumor progression but are frequently inactivated in cancer. Restoring their functions is a promising therapeutic strategy but remains limited by unsustainable protein production and off-target effects. Here, we report a biohybrid platform integrating engineered attenuated Salmonella typhimurium VNP20009 with nanotechnology to enable durable restoration of PTEN and p53 functions in tumors. The bacteria are engineered with a quorum-sensing-regulated lysis circuit coupled to PTEN expression, enabling controlled proliferation and sustained PTEN production and release. Their intrinsic tumor tropism and long-term intracellular parasitism allow them to function as exogenous organelle mimics, providing continuous PTEN supplementation. Surface-conjugated nanoparticles further deliver the MDM2 inhibitor to stabilize p53 and synergistically restore the PTEN-p53 network. This platform achieves 94.9% tumor inhibition in murine melanoma and confers durable survival in all treated mice when combined with anti-PD-1 therapy, highlighting its strong therapeutic potential for cancer treatment.",
+      "summaryZh": "PTEN 和 p53 是两种关键的肿瘤抑制因子，可协同抑制肿瘤进展，但在癌症中经常失活。恢复它们的功能是一种有前途的治疗策略，但仍然受到不可持续的蛋白质生产和脱靶效应的限制。在这里，我们报告了一个生物混合平台，将工程减毒鼠伤寒沙门氏菌 VNP20009 与纳米技术相结合，以实现肿瘤中 PTEN 和 p53 功能的持久恢复。这些细菌采用群体感应调节的裂解电路与 PTEN 表达相结合，从而实现受控增殖和持续 PTEN 的产生和释放。它们内在的肿瘤趋向性和长期的细胞内寄生使它们能够充当外源性细胞器模拟物，提供持续的 PTEN 补充。表面缀合的纳米粒子进一步递送 MDM2 抑制剂以稳定 p53 并协同恢复 PTEN-p53 网络。该平台在小鼠黑色素瘤中实现了 94.9% 的肿瘤抑制，并与抗 PD-1 疗法相结合，使所有接受治疗的小鼠都能持久存活，凸显了其强大的癌症治疗潜力。",
+      "translationSource": "9a18aaf5744f033c"
+    },
+    {
+      "pmid": "42744773",
+      "title": "Mixed positive and negative feedback loops drive diverse single-cell gene expression dynamics.",
+      "titleZh": "混合的正反馈环和负反馈环驱动不同的单细胞基因表达动态。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-75107-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75107-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744773/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology",
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, genetic circuit。",
+      "abstractEn": "Genetic circuits with only a few components can generate complex gene regulatory dynamics. Here, we combine stochastic modelling and single-cell time-lapse microscopy to map how a common circuit motif, the mixed positive/negative feedback loop, gives rise to diverse single-cell behaviours. Our minimal stochastic model of this motif reveals ten distinct classes of dynamic output, including stochastic pulsing, oscillations, and bistability. We systematically map how the circuit's core parameters can be tuned to generate each of the behaviours. Experimental validation in two different mixed feedback circuits in the bacterium Bacillus subtilis, σ B and σ V , confirms our model's predictive power. Guided by our simulations, we are able to transition between selected dynamic behaviours by modulating in vivo parameters. Together, these results establish a quantitative framework for how mixed feedback loops generate diverse single-cell dynamics, improving our understanding of this common biological network motif and informing our efforts to engineer them for synthetic biology applications.",
+      "summaryZh": "仅含有少量组件的遗传回路就可以产生复杂的基因调控动态。在这里，我们结合随机建模和单细胞延时显微镜来绘制常见的电路图案（混合正/负反馈回路）如何引起不同的单细胞行为。我们的该主题的最小随机模型揭示了十种不同类别的动态输出，包括随机脉冲、振荡和双稳态。我们系统地绘制了如何调整电路的核心参数以生成每种行为。在枯草芽孢杆菌中的两个不同混合反馈电路 σ B 和 σ V 中进行的实验验证证实了我们模型的预测能力。在我们的模拟指导下，我们能够通过调节体内参数在选定的动态行为之间进行转换。总之，这些结果为混合反馈回路如何产生不同的单细胞动力学建立了一个定量框架，提高了我们对这种常见生物网络基序的理解，并为我们为合成生物学应用设计它们的努力提供了信息。",
+      "translationSource": "7216ad98885ad575"
     },
     {
       "pmid": "42608567",
@@ -4260,51 +4410,6 @@
       "translationSource": "d7c02827980eea4b"
     },
     {
-      "pmid": "42287635",
-      "title": "SARS-CoV-2 ORF3a blocks lysosomal cholesterol egress by disrupting VPS39-regulated NPC2 trafficking and BMP metabolism.",
-      "titleZh": "SARS-CoV-2 ORF3a 通过破坏 VPS39 调节的 NPC2 运输和 BMP 代谢来阻止溶酶体胆固醇流出。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117544",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117544",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287635/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "autophagy",
-        "endosome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy, endosome。",
-      "abstractEn": "Cholesterol homeostasis depends on lysosomes liberating cholesterol from degraded lipids. We show that SARS-CoV-2 blocks lysosomal cholesterol egress through the viral protein ORF3a. ORF3a binds the HOPS subunit VPS39 via the W193 and Y184 residues. Disrupting this interface restores cholesterol trafficking. Mechanistically, the ORF3a-VPS39 interaction exerts dual effects. First, it traps the retromer complex on endolysosomes, preventing endosome-to-Golgi recycling and mislocalizing the cholesterol transporter NPC2. Retromer deletion reproduced these defects, whereas the ORF3a W193A mutant restored retromer trafficking. Second, ORF3a-VPS39 interaction reduces bis(monoacylglycerol)phosphates (BMPs), lysosomal lipids required for cholesterol egress, by disrupting the transfer of their precursor, phosphatidylglycerols, from mitochondria. Lipidomics revealed increased mitochondrial and decreased lysosomal phosphatidylglycerol metabolites. Disturbing autophagy or mitochondrion-derived vesicles did not alter BMP levels, whereas ORF3a reduced mitochondrion-lysosome membrane contacts. These findings identify dual functions of VPS39-regulating retromer trafficking and BMP biosynthesis-and also reveal how ORF3a blocks lysosomal cholesterol egress.",
-      "summaryZh": "胆固醇稳态取决于溶酶体从降解的脂质中释放胆固醇。我们发现 SARS-CoV-2 通过病毒蛋白 ORF3a 阻止溶酶体胆固醇流出。 ORF3a 通过 W193 和 Y184 残基结合 HOPS 亚基 VPS39。破坏这个界面可以恢复胆固醇的运输。从机制上讲，ORF3a-VPS39 相互作用发挥双重作用。首先，它将逆转录酶复合物捕获在内溶酶体上，阻止内体到高尔基体的再循环并使胆固醇转运蛋白 NPC2 错误定位。逆转录体删除再现了这些缺陷，而 ORF3a W193A 突变体则恢复了逆转录体运输。其次，ORF3a-VPS39相互作用通过破坏其前体磷脂酰甘油从线粒体的转移来减少双（单酰基甘油）磷酸酯（BMP），即胆固醇排出所需的溶酶体脂质。脂质组学显示线粒体增加和溶酶体磷脂酰甘油代谢物减少。干扰自噬或线粒体衍生的囊泡不会改变 BMP 水平，而 ORF3a 会减少线粒体与溶酶体膜的接触。这些发现确定了 VPS39 的双重功能——调节逆转录体运输和 BMP 生物合成——并揭示了 ORF3a 如何阻止溶酶体胆固醇流出。",
-      "translationSource": "d46176d801910d50"
-    },
-    {
-      "pmid": "42268712",
-      "title": "RNA-programmable cell-type monitoring and manipulation in the human cortex with CellREADR.",
-      "titleZh": "使用 CellREADR 对人类皮质中的 RNA 可编程细胞类型进行监测和操作。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-06-23",
-      "doi": "10.1016/j.celrep.2026.117589",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117589",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42268712/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "programmable cell"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "fa44de59bbae5dba"
-    },
-    {
       "pmid": "42250221",
       "title": "Poising and connectivity of emergent human developmental enhancers in the transition from naive to primed pluripotency.",
       "titleZh": "从幼稚到启动多能性的转变中人类新兴发育增强子的平衡和连接。",
@@ -4366,6 +4471,51 @@
       "abstractEn": "ZYG11B is a substrate specificity factor for the cullin-2-RING ubiquitin ligase (CRL2), which plays a critical role in the recognition and degradation of Gly/N-degrons. Yet, how ZYG11B assembles with CRL2, and how ZYG11B couples specific substrate recognition to CRL2-mediated ubiquitination, is unknown. We present the cryo-electron microscopy (cryo-EM) structures of the CRL2 ZYG11B holoenzyme alone and in complex with a Gly/N-peptide from the inflammasome-forming pathogen sensor NLRP1. The structures indicate that ZYG11B folds into a leucine-rich repeat followed by two armadillo repeat domains that promote assembly with CRL2 and specific recognition of the NLRP1 Gly/N-degron that is revealed by viral protease cleavage. Our structural and functional data indicate that blocking ZYG11B recognition of the NLRP1 Gly/N-degron inhibits NLRP1 inflammasome activation by a viral protease. Overall, we show how the CRL2 ZYG11B E3 ligase complex recognizes Gly/N-degron substrates, including those that are involved in viral protease-mediated activation of the NLRP1 inflammasome.",
       "summaryZh": "ZYG11B 是 cullin-2-RING 泛素连接酶 (CRL2) 的底物特异性因子，在 Gly/N-降解决定子的识别和降解中发挥着关键作用。然而，ZYG11B 如何与 CRL2 组装，以及 ZYG11B 如何将特定底物识别与 CRL2 介导的泛素化结合起来，尚不清楚。我们展示了单独的 CRL2 ZYG11B 全酶以及与来自炎症小体形成病原体传感器 NLRP1 的 Gly/N 肽复合物的冷冻电子显微镜 (cryo-EM) 结构。这些结构表明，ZYG11B 折叠成富含亮氨酸的重复序列，然后是两个犰狳重复结构域，促进与 CRL2 的组装以及病毒蛋白酶裂解揭示的 NLRP1 Gly/N-degron 的特异性识别。我们的结构和功能数据表明，阻断 ZYG11B 对 NLRP1 Gly/N-degron 的识别会抑制病毒蛋白酶对 NLRP1 炎症小体的激活。总体而言，我们展示了 CRL2 ZYG11B E3 连接酶复合物如何识别 Gly/N-degron 底物，包括那些参与病毒蛋白酶介导的 NLRP1 炎症小体激活的底物。",
       "translationSource": "39413d412d88e2e7"
+    },
+    {
+      "pmid": "42287635",
+      "title": "SARS-CoV-2 ORF3a blocks lysosomal cholesterol egress by disrupting VPS39-regulated NPC2 trafficking and BMP metabolism.",
+      "titleZh": "SARS-CoV-2 ORF3a 通过破坏 VPS39 调节的 NPC2 运输和 BMP 代谢来阻止溶酶体胆固醇流出。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117544",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117544",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287635/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "autophagy",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy, endosome。",
+      "abstractEn": "Cholesterol homeostasis depends on lysosomes liberating cholesterol from degraded lipids. We show that SARS-CoV-2 blocks lysosomal cholesterol egress through the viral protein ORF3a. ORF3a binds the HOPS subunit VPS39 via the W193 and Y184 residues. Disrupting this interface restores cholesterol trafficking. Mechanistically, the ORF3a-VPS39 interaction exerts dual effects. First, it traps the retromer complex on endolysosomes, preventing endosome-to-Golgi recycling and mislocalizing the cholesterol transporter NPC2. Retromer deletion reproduced these defects, whereas the ORF3a W193A mutant restored retromer trafficking. Second, ORF3a-VPS39 interaction reduces bis(monoacylglycerol)phosphates (BMPs), lysosomal lipids required for cholesterol egress, by disrupting the transfer of their precursor, phosphatidylglycerols, from mitochondria. Lipidomics revealed increased mitochondrial and decreased lysosomal phosphatidylglycerol metabolites. Disturbing autophagy or mitochondrion-derived vesicles did not alter BMP levels, whereas ORF3a reduced mitochondrion-lysosome membrane contacts. These findings identify dual functions of VPS39-regulating retromer trafficking and BMP biosynthesis-and also reveal how ORF3a blocks lysosomal cholesterol egress.",
+      "summaryZh": "胆固醇稳态取决于溶酶体从降解的脂质中释放胆固醇。我们发现 SARS-CoV-2 通过病毒蛋白 ORF3a 阻止溶酶体胆固醇流出。 ORF3a 通过 W193 和 Y184 残基结合 HOPS 亚基 VPS39。破坏这个界面可以恢复胆固醇的运输。从机制上讲，ORF3a-VPS39 相互作用发挥双重作用。首先，它将逆转录酶复合物捕获在内溶酶体上，阻止内体到高尔基体的再循环并使胆固醇转运蛋白 NPC2 错误定位。逆转录体删除再现了这些缺陷，而 ORF3a W193A 突变体则恢复了逆转录体运输。其次，ORF3a-VPS39相互作用通过破坏其前体磷脂酰甘油从线粒体的转移来减少双（单酰基甘油）磷酸酯（BMP），即胆固醇排出所需的溶酶体脂质。脂质组学显示线粒体增加和溶酶体磷脂酰甘油代谢物减少。干扰自噬或线粒体衍生的囊泡不会改变 BMP 水平，而 ORF3a 会减少线粒体与溶酶体膜的接触。这些发现确定了 VPS39 的双重功能——调节逆转录体运输和 BMP 生物合成——并揭示了 ORF3a 如何阻止溶酶体胆固醇流出。",
+      "translationSource": "d46176d801910d50"
+    },
+    {
+      "pmid": "42268712",
+      "title": "RNA-programmable cell-type monitoring and manipulation in the human cortex with CellREADR.",
+      "titleZh": "使用 CellREADR 对人类皮质中的 RNA 可编程细胞类型进行监测和操作。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-06-23",
+      "doi": "10.1016/j.celrep.2026.117589",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117589",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42268712/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "programmable cell"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "fa44de59bbae5dba"
     },
     {
       "pmid": "42268710",
