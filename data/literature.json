@@ -1,8 +1,94 @@
 {
-  "updatedAt": "2026-09-17T01:56:50+00:00",
+  "updatedAt": "2026-09-18T01:44:58+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42749893",
+      "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.",
+      "titleZh": "编码原噬菌体的工程细菌能够对小鼠肠道感染进行预防性裂解噬菌体治疗。",
+      "journal": "Nature Microbiology",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1038/s41564-026-02484-3",
+      "doiUrl": "https://doi.org/10.1038/s41564-026-02484-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749893/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Phage therapy is a promising antibacterial approach but it has limited efficacy against enteric bacterial infections, such as Salmonella enterica Typhimurium (STm). Here we hypothesized that establishing high concentrations of a pathogen-targeting phage in the gut before infection would prophylactically protect against future infection. To this end, we engineered non-pathogenic Escherichia coli to encode a prophage that produces obligately lytic phage progeny targeting STm while overcoming its host defence systems, including restriction-modification systems. We show that prophylactic gut colonization with this lytic phage-producing lysogen of E. coli produces high levels of lytic phage before infection, inhibits the establishment of STm after infection and improves survival in mouse models of STm-induced colitis. Using a mutant STm strain limited to intestinal colonization, we show that phage-producing E. coli consistently colonized, produced high phage levels and eliminated STm from the intestinal tract. Our findings present a proof-of-concept that prophylactic prophage therapy can protect against an enteric infection.",
+      "summaryZh": "噬菌体疗法是​​一种有前途的抗菌方法，但其对抗肠道细菌感染（例如鼠伤寒沙门氏菌（STm））的功效有限。在这里，我们假设在感染前在肠道中建立高浓度的针对病原体的噬菌体可以预防性地防止未来的感染。为此，我们设计了非致病性大肠杆菌来编码一种原噬菌体，该原噬菌体产生针对 STm 的专性裂解噬菌体后代，同时克服其宿主防御系统，包括限制性修饰系统。我们发现，用这种产生裂解性噬菌体的大肠杆菌溶原菌进行预防性肠道定植，可以在感染前产生高水平的裂解性噬菌体，抑制感染后 STm 的建立，并提高 STm 诱导的结肠炎小鼠模型的存活率。使用仅限于肠道定植的突变 STm 菌株，我们发现产生噬菌体的大肠杆菌持续定殖，产生高水平的噬菌体并从肠道中消除 STm。我们的研究结果证明了预防性前噬菌体疗法可以预防肠道感染。",
+      "translationSource": "896defdcac2589cd"
+    },
+    {
+      "pmid": "42749740",
+      "title": "Cholesterol maintains the degradative capacity of lysosomes during clearance and recycling of dysfunctional mitochondria.",
+      "titleZh": "胆固醇在功能失调的线粒体的清除和再循环过程中维持溶酶体的降解能力。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1038/s41467-026-77423-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77423-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749740/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Efficient clearance and recycling of dysfunctional mitochondria through the robust catabolic activity of lysosomes are essential for cellular health. However, how membrane lipids contribute to maintaining the degradative capacity of lysosomes remains poorly understood. Here, we show that cholesterol plays a critical role in preserving the functional integrity of degradative lysosomes. Clearance of damaged mitochondria by degradative lysosomes is tightly coupled with the acute accumulation of phosphatidylinositol 4-phosphate (PI4P) on the lysosomal surface via PI4KIIα activity. This PI4P accumulation activates oxysterol-binding protein (OSBP)-mediated cholesterol transport from the endoplasmic reticulum (ER) to lysosomal membranes. The resulting efflux of cholesterol from the ER activates sterol regulatory element-binding protein 2 (SREBP-2), enhancing cholesterol production. Sustained cholesterol accumulation on lysosomal membranes maintains lysosomal acidity and membrane integrity for efficient mitochondrial degradation. This degradation process then leads to the release of free fatty acids and their recycling and storage through the formation of DGAT1-dependent lipid droplets. These findings uncover a key phosphoinositide-regulated cholesterol transport pathway that promotes the clearance and recycling of dysfunctional mitochondria, a process whose impairment is closely linked to neurodegeneration.",
+      "summaryZh": "通过溶酶体强大的分解代谢活性有效清除和回收功能失调的线粒体对于细胞健康至关重要。然而，膜脂如何有助于维持溶酶体的降解能力仍然知之甚少。在这里，我们表明胆固醇在保持降解溶酶体的功能完整性方面发挥着关键作用。降解溶酶体对受损线粒体的清除与 PI4KIIα 活性在溶酶体表面的 4-磷酸磷脂酰肌醇 (PI4P) 的急性积累紧密相关。这种 PI4P 积累会激活氧甾醇结合蛋白 (OSBP) 介导的胆固醇从内质网 (ER) 转运至溶酶体膜。由此产生的胆固醇从内质网流出会激活甾醇调节元件结合蛋白 2 (SREBP-2)，从而增强胆固醇的产生。溶酶体膜上持续的胆固醇积累可维持溶酶体的酸度和膜的完整性，从而实现线粒体的有效降解。然后，这种降解过程导致游离脂肪酸的释放，并通过形成 DGAT1 依赖性脂滴来回收和储存游离脂肪酸。这些发现揭示了一个关键的磷酸肌醇调节的胆固醇转运途径，该途径促进功能失调的线粒体的清除和再循环，该过程的损伤与神经退行性疾病密切相关。",
+      "translationSource": "aa533e7042556f3f"
+    },
+    {
+      "pmid": "42749737",
+      "title": "Quantitative proteomics reveals coordinated changes in the proteome during replicative senescence.",
+      "titleZh": "定量蛋白质组学揭示了复制衰老过程中蛋白质组的协调变化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1038/s41467-026-77686-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77686-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749737/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, proteostasis。",
+      "abstractEn": "Cellular senescence is a state of irreversible cell cycle arrest triggered by telomere erosion, persistent DNA damage or chronic stress. The accumulation of senescent cells disrupts tissue function and contributes to aging and disease. Here, we employ mass spectrometry-based proteomics to systematically interrogate dynamic proteome changes at multiple levels during the progression of replicative cellular senescence. We demonstrate that proteome changes during senescence occur in a coordinated manner, characterized by widespread protein depletion on chromatin. Moreover, components of the cytoplasmic translation machinery are depleted, while mitochondrial proteins display increased insolubility. Autophagic and proteasome activity is compromised in senescent cells along with remodeling of ubiquitin linkages and depletion of ubiquitin E3 ligases. Comparison of the senescent proteome with different pathophysiological cellular states reveals a distinctive senescent signature shaped by changes in the proteostasis network. Collectively, we provide a resource for the exploration of temporally resolved changes in the senescent proteome.",
+      "summaryZh": "细胞衰老是一种由端粒侵蚀、持续性 DNA 损伤或慢性应激引发的不可逆细胞周期停滞状态。衰老细胞的积累会破坏组织功能并导致衰老和疾病。在这里，我们采用基于质谱的蛋白质组学来系统地询问复制性细胞衰老过程中多个水平的动态蛋白质组变化。我们证明衰老过程中蛋白质组的变化以协调的方式发生，其特征是染色质上广泛的蛋白质消耗。此外，细胞质翻译机制的成分被耗尽，而线粒体蛋白的不溶性增加。衰老细胞中的自噬和蛋白酶体活性随着泛素连接的重塑和泛素 E3 连接酶的消耗而受到损害。衰老蛋白质组与不同病理生理细胞状态的比较揭示了由蛋白质稳态网络变化形成的独特衰老特征。总的来说，我们为探索衰老蛋白质组中暂时解决的变化提供了资源。",
+      "translationSource": "7b8f9ec0590df87f"
+    },
+    {
+      "pmid": "42749806",
+      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
+      "titleZh": "粘连蛋白重塑复制叉接触，以帮助复制叉减慢和逆转。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1038/s41586-026-11034-0",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11034-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749806/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "DNA replication forks can be challenged by cancer chemotherapeutic treatments, leading to accumulation of single-stranded DNA and slowdown of DNA synthesis. The marked plasticity of replication forks under replication stress ensures fork stability, damage tolerance and complete genome duplication 1 . Initiation and progression of replication forks occur in a three-dimensionally organized genome. DNA loop extrusion by the cohesin complex organizes the genome 2 and regulates the initiation and positioning of DNA replication origins 3,4 . Although transient interaction of sister forks was recently reported during unperturbed replication 5 , the functional relevance of fork contacts during replication stress and the role of cohesin in this context remain unknown. Here we show that cohesin-mediated loop extrusion rearranges nascent DNA contacts at stressed replication forks to promote genome stability. Using auxin-inducible degron 6 , separation-of-function mutants 7-9 and a newly developed Micro-C-based technique to capture chromatin contacts at nascent DNA (Repli-C), we found that loop-extruding cohesin accumulates at stalled replication forks, limiting sister-fork coupling in favour of inter-replicon contacts. This process promotes active fork slowing and reversal by preventing PRIMPOL action on single-stranded DNA 1 . These findings show that the replication stress response is not merely an accumulation of individual regulatory events, but is topologically integrated across the genome through cohesin loop extrusion. While providing a new function for loop-extruding cohesin, our results indicate the potential impact on cancer therapy of frequent cohesin mutations in tumours 10 .",
+      "summaryZh": "DNA 复制叉可能会受到癌症化疗的挑战，导致单链 DNA 积累和 DNA 合成减慢。复制叉在复制压力下的显着可塑性确保了复制叉的稳定性、损伤耐受性和完整的基因组复制 1 。复制叉的启动和进展发生在三维组织的基因组中。由粘连蛋白复合物挤出的 DNA 环组织基因组 2 并调节 DNA 复制起点的启动和定位 3,4 。尽管最近报道了在不受干扰的复制过程中姐妹叉的短暂相互作用 5 ，但在复制应激期间叉接触的功能相关性以及粘连蛋白在这种情况下的作用仍然未知。在这里，我们展示了粘连蛋白介导的环挤压在受压复制叉处重新排列新生DNA接触，以促进基因组稳定性。使用生长素诱导的降解决定子 6 、功能分离突变体 7-9 和新开发的基于 Micro-C 的技术来捕获新生 DNA (Repli-C) 上的染色质接触，我们发现环挤出粘连蛋白在停滞的复制叉处积累，限制姐妹叉耦合，有利于复制子间接触。该过程通过阻止 PRIMPOL 对单链 DNA 的作用来促进活性分叉减慢和逆转 1 。这些发现表明，复制应激反应不仅仅是单个调控事件的积累，而是通过粘连蛋白环挤出在整个基因组中进行拓扑整合。在为环挤出粘连蛋白提供新功能的同时，我们的结果表明肿瘤中频繁的粘连蛋白突变对癌症治疗的潜在影响 10 。",
+      "translationSource": "7ea445e9ee521282"
+    },
     {
       "pmid": "42747968",
       "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation.",
@@ -240,27 +326,6 @@
       "abstractEn": "Tyrosine kinase inhibitors (TKIs) targeting anaplastic lymphoma kinase (ALK) have transformed the treatment landscape of ALK fusion-positive non-small-cell lung carcinoma (ALK-positive NSCLC), but the limited options for patients who progress on approved TKIs highlight a continued need for an orthogonal therapeutic approach 1,2 . TRI-611 is a potent, brain-penetrant molecular glue degrader of ALK fusion proteins with the potential to address this need. TRI-611 promotes the proximity of the ALK kinase domain and CRL4 substrate adaptor CRBN through a unique degron interface distal from the kinase active site. The unique binding interface of TRI-611 leads to selectivity across the proteome including known CRBN neosubstrates and other kinases. TRI-611 treatment induces degradation of all forms of ALK fusion proteins, including wild-type and ALK TKI-resistant versions, leading to regression of cell line and patient-derived subcutaneous and intracranial tumour models of ALK-positive NSCLC. TRI-611 can be combined with orthosteric ALK TKIs, achieving synergistic and durable tumour regressions. TRI-611 represents to our knowledge the first clinical-stage molecular glue degrader targeting an oncogenic gene fusion and has the potential to expand the arsenal of therapeutic options for patients with ALK-positive NSCLC .",
       "summaryZh": "靶向间变性淋巴瘤激酶 (ALK) 的酪氨酸激酶抑制剂 (TKI) 已经改变了 ALK 融合阳性非小细胞肺癌（ALK 阳性 NSCLC）的治疗格局，但对于使用已批准 TKI 取得进展的患者来说，选择有限，凸显了对正交治疗方法的持续需求 1,2 。 TRI-611 是一种有效的脑渗透性 ALK 融合蛋白分子胶降解剂，有可能满足这一需求。 TRI-611 通过远离激酶活性位点的独特降解决定子界面促进 ALK 激酶结构域和 CRL4 底物接头 CRBN 的接近。 TRI-611 独特的结合界面导致对蛋白质组的选择性，包​​括已知的 CRBN 新底物和其他激酶。 TRI-611 治疗可诱导所有形式的 ALK 融合蛋白（包括野生型和 ALK TKI 耐药版本）降解，导致细胞系和患者来源的 ALK 阳性 NSCLC 皮下和颅内肿瘤模型消退。 TRI-611 可与正位 ALK TKI 联合使用，实现协同且持久的肿瘤消退。据我们所知，TRI-611 代表了第一个针对致癌基因融合的临床阶段分子胶降解剂，并有可能扩大 ALK 阳性 NSCLC 患者的治疗选择。",
       "translationSource": "42cbe04ecc59a3fb"
-    },
-    {
-      "pmid": "42717083",
-      "title": "TM184C is a GPCR-like regulator of intercellular exchange and autophagy.",
-      "titleZh": "TM184C 是一种类似 GPCR 的细胞间交换和自噬调节因子。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-09-09",
-      "doi": "10.1038/s41586-026-10993-8",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10993-8",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717083/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Sequence similarity underlies most protein annotation, yet many functions remain hidden beyond detectable homology 1-3 . By mining millions of AlphaFold2 models 4,5 , we identify two human families of 'superdark' seven-transmembrane proteins-TM184 and PRRT-with structural homology to G-protein-coupled receptors (GPCRs). These proteins exhibit hallmark GPCR activities, including β-arrestin recruitment and GPCR kinase (GRK)-dependent phosphorylation. Here we focus on TM184C-the most broadly expressed and evolutionarily conserved superdark GPCR-like protein, which localizes to highly dynamic intracellular vesicles rather than the plasma membrane. These vesicles move along microtubules, accumulate in cell projections and promote the formation of tunnelling nanotube- and tumour microtubule-like intercellular connections. These bridges mediate organelle sharing through a process that requires the TM184C C-terminal tail and its arrestin code motif 6 , linking GPCR-like β-arrestin and GRK regulation to vesicle function and intercellular connectivity. TM184C also constrains autophagic flux by limiting LC3B lipidation and autophagosome accumulation-a role that is deeply conserved, as human TM184C restores autophagic body homeostasis in yeast lacking its homologue, Hfl1. Together, these findings illustrate how structure-based protein discovery can illuminate the dark proteome and identify TM184C as an ancient GPCR-like regulator of autophagy, intercellular connectivity and material exchange.",
-      "summaryZh": "序列相似性是大多数蛋白质注释的基础，但许多功能仍然隐藏在可检测的同源性之外 1-3 。通过挖掘数百万个 AlphaFold2 模型 4,5 ，我们确定了两个人类“超暗”七跨膜蛋白家族 - TM184 和 PRRT - 与 G 蛋白偶联受体 (GPCR) 具有结构同源性。这些蛋白质表现出标志性的 GPCR 活性，包括 β-arrestin 募集和 GPCR 激酶 (GRK) 依赖性磷酸化。在这里，我们重点关注 TM184C——表达最广泛、进化上最保守的超暗 GPCR 样蛋白，它定位于高度动态的细胞内囊泡而不是质膜。这些囊泡沿着微管移动，在细胞突起中积累，并促进隧道纳米管和肿瘤微管样细胞间连接的形成。这些桥通过需要 TM184C C 末端尾部及其抑制蛋白代码基序 6 的过程介导细胞器共享，将 GPCR 样 β-抑制蛋白和 GRK 调节与囊泡功能和细胞间连接联系起来。 TM184C 还通过限制 LC3B 脂化和自噬体积累来限制自噬通量，这一作用是高度保守的，因为人 TM184C 在缺乏其同源物 Hfl1 的酵母中恢复自噬体稳态。总之，这些发现说明了基于结构的蛋白质发现如何阐明暗蛋白质组，并将 TM184C 识别为自噬、细胞间连接和物质交换的古老 GPCR 样调节因子。",
-      "translationSource": "b62c73d21a163011"
     },
     {
       "pmid": "42594861",
@@ -863,6 +928,27 @@
       "translationSource": "38dc87ad4b7dd264"
     },
     {
+      "pmid": "42717083",
+      "title": "TM184C is a GPCR-like regulator of intercellular exchange and autophagy.",
+      "titleZh": "TM184C 是一种类似 GPCR 的细胞间交换和自噬调节因子。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41586-026-10993-8",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10993-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717083/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Sequence similarity underlies most protein annotation, yet many functions remain hidden beyond detectable homology 1-3 . By mining millions of AlphaFold2 models 4,5 , we identify two human families of 'superdark' seven-transmembrane proteins-TM184 and PRRT-with structural homology to G-protein-coupled receptors (GPCRs). These proteins exhibit hallmark GPCR activities, including β-arrestin recruitment and GPCR kinase (GRK)-dependent phosphorylation. Here we focus on TM184C-the most broadly expressed and evolutionarily conserved superdark GPCR-like protein, which localizes to highly dynamic intracellular vesicles rather than the plasma membrane. These vesicles move along microtubules, accumulate in cell projections and promote the formation of tunnelling nanotube- and tumour microtubule-like intercellular connections. These bridges mediate organelle sharing through a process that requires the TM184C C-terminal tail and its arrestin code motif 6 , linking GPCR-like β-arrestin and GRK regulation to vesicle function and intercellular connectivity. TM184C also constrains autophagic flux by limiting LC3B lipidation and autophagosome accumulation-a role that is deeply conserved, as human TM184C restores autophagic body homeostasis in yeast lacking its homologue, Hfl1. Together, these findings illustrate how structure-based protein discovery can illuminate the dark proteome and identify TM184C as an ancient GPCR-like regulator of autophagy, intercellular connectivity and material exchange.",
+      "summaryZh": "序列相似性是大多数蛋白质注释的基础，但许多功能仍然隐藏在可检测的同源性之外 1-3 。通过挖掘数百万个 AlphaFold2 模型 4,5 ，我们确定了两个人类“超暗”七跨膜蛋白家族 - TM184 和 PRRT - 与 G 蛋白偶联受体 (GPCR) 具有结构同源性。这些蛋白质表现出标志性的 GPCR 活性，包括 β-arrestin 募集和 GPCR 激酶 (GRK) 依赖性磷酸化。在这里，我们重点关注 TM184C——表达最广泛、进化上最保守的超暗 GPCR 样蛋白，它定位于高度动态的细胞内囊泡而不是质膜。这些囊泡沿着微管移动，在细胞突起中积累，并促进隧道纳米管和肿瘤微管样细胞间连接的形成。这些桥通过需要 TM184C C 末端尾部及其抑制蛋白代码基序 6 的过程介导细胞器共享，将 GPCR 样 β-抑制蛋白和 GRK 调节与囊泡功能和细胞间连接联系起来。 TM184C 还通过限制 LC3B 脂化和自噬体积累来限制自噬通量，这一作用是高度保守的，因为人 TM184C 在缺乏其同源物 Hfl1 的酵母中恢复自噬体稳态。总之，这些发现说明了基于结构的蛋白质发现如何阐明暗蛋白质组，并将 TM184C 识别为自噬、细胞间连接和物质交换的古老 GPCR 样调节因子。",
+      "translationSource": "b62c73d21a163011"
+    },
+    {
       "pmid": "42587154",
       "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys.",
       "titleZh": "用于小鼠和猴子血糖调节的葡萄糖反应性益生菌。",
@@ -883,6 +969,27 @@
       "abstractEn": "Sustained and controlled delivery of glucose-lowering agents using engineered designer cells is recognized as an effective strategy for diabetes therapy 1 . However, current technologies rely on external signal control or have been programmed into mammalian cells using synthetic gene networks, which pose safety concerns arising from transplantation 2,3 . Here we developed an engineered oral-deliverable glucose-sensing and functional response probiotic living drug for 'sense-and-respond'-based control of diabetic blood glucose. We created a glucose sensor based on a synthetic gene circuit that incorporates the glucose-responsive transcriptional regulator HexR, coupled with a synthetic promoter. Upon oral administration of the engineered probiotics carrying the sensor, the cells reside temporarily in the intestine and regulate the expression of therapeutic transgenes in response to glucose levels that exceed the normal threshold. We show efficacy from the engineered probiotics for glycaemic control in multiple diabetic mouse and non-human primate models, demonstrating that long-term oral administration drives clear improvements in lipid profiles, while also attenuating development of multiple diabetic complications. Our probiotics-based living drug enables therapeutic dosing in response to real-time blood glucose levels, providing a programmable, orally deliverable sense-and-respond platform for metabolic therapy without transplantation.",
       "summaryZh": "使用工程设计细胞持续和受控地输送降糖药物被认为是糖尿病治疗的有效策略 1 。然而，当前的技术依赖于外部信号控制或已使用合成基因网络编程到哺乳动物细胞中，这引起了移植引起的安全问题 2,3 。在这里，我们开发了一种工程化的口服葡萄糖感应和功能反应益生菌活性药物，用于基于“感应和反应”的糖尿病血糖控制。我们创建了一种基于合成基因电路的葡萄糖传感器，该电路包含葡萄糖响应转录调节因子 HexR 以及合成启动子。口服携带传感器的工程益生菌后，细胞会暂时驻留在肠道中，并根据超过正常阈值的葡萄糖水平调节治疗性转基因的表达。我们在多种糖尿病小鼠和非人类灵长类动物模型中展示了工程益生菌对血糖控制的功效，证明长期口服给药可明显改善血脂状况，同时还可减轻多种糖尿病并发症的发展。我们基于益生菌的活体药物能够根据实时血糖水平进行治疗剂量，为无需移植的代谢治疗提供可编程的、口服的感知和响应平台。",
       "translationSource": "2805b4a7bbf217b4"
+    },
+    {
+      "pmid": "42557317",
+      "title": "FNIP1 variants are associated with favourable metabolism in 1 million humans.",
+      "titleZh": "FNIP1 变异与 100 万人的良好新陈代谢有关。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41586-026-10864-2",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10864-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557317/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Altered energy metabolism is a shared driver across cardiometabolic diseases-the leading cause of death globally 1 . Energy metabolism varies between individuals and is partly heritable 2-9 . Here, to investigate the genetic basis of energy metabolism, we perform an exome-sequencing analysis of 1,032,116 people from America, Europe and Asia, and estimate associations between rare protein-coding variants and the ratio of triglyceride to high-density-lipoprotein cholesterol (TG:HDL)-an energy-state biomarker that we associate with diverse cardiometabolic risk factors and diseases. We identify 59 independent genes (P < 1.04 × 10 -7 ) that are enriched for liver- and adipose-expressed master regulators of energy balance, storage and metabolism; 23 (39%) of these genes encode approved or clinical-stage drug targets. Ultra-rare protein-truncating variants in FNIP1 (allele frequency, 0.01%), which encodes a suppressor of energy expenditure and mitochondrial metabolism, are associated with a lower TG:HDL ratio, lower liver fat, lower glycaemia, favourable fat distribution and around 60% lower odds of cardiometabolic disease. FNIP1 knockdown in primary human hepatocytes induces lipid breakdown and lysosomal gene expression, while combined hepatic knockdown of Fnip1 with its paralogue Fnip2 or knockdown of its interactor Flcn protect against weight gain, reduce liver fat and enhance insulin sensitivity in mice fed a high-fat diet. Our study implicates the FNIP1 pathway in human energy metabolism and highlights its inhibition as a potential therapeutic strategy in cardiometabolic disease.",
+      "summaryZh": "能量代谢改变是心脏代谢疾病的共同驱动因素，而心脏代谢疾病是全球死亡的主要原因 1 。能量代谢因人而异，并且部分具有遗传性 2-9 。在这里，为了研究能量代谢的遗传基础，我们对来自美洲、欧洲和亚洲的 1,032,116 人进行了外显子组测序分析，并估计了罕见蛋白质编码变异与甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率之间的关联，甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率是一种与多种心脏代谢危险因素和疾病相关的能量状态生物标志物。我们确定了 59 个独立基因 (P < 1.04 × 10 -7 )，这些基因富含肝脏和脂肪表达的能量平衡、储存和代谢的主调节因子；其中 23 个（39%）基因编码已批准或临床阶段的药物靶点。 FNIP1 中的超罕见蛋白质截短变体（等位基因频率，0.01%）编码能量消耗和线粒体代谢的抑制因子，与较低的 TG:HDL 比率、较低的肝脏脂肪、较低的血糖、有利的脂肪分布以及约 60% 的心脏代谢疾病发病率降低相关。原代人肝细胞中的 FNIP1 敲除可诱导脂质分解和溶酶体基因表达，而 Fnip1 及其旁系同源物 Fnip2 的肝脏敲除或其相互作用因子 Flcn 的敲除可防止高脂饮食小鼠的体重增加、减少肝脏脂肪并增强胰岛素敏感性。我们的研究表明 FNIP1 通路与人类能量代谢有关，并强调其抑制作为心脏代谢疾病的潜在治疗策略。",
+      "translationSource": "2cd03daa02b10d50"
     },
     {
       "pmid": "42679813",
@@ -1343,6 +1450,27 @@
       "abstractEn": "Therapeutic protein overexpression can overwhelm endoplasmic reticulum (ER) folding capacity, trigger unfolded protein response (UPR) signaling, and compromise the safety of gene and mRNA therapies. Here, we engineer stress-responsive RNA rheostats that couple transgene expression to endogenous ER stress sensing. Short RNA elements derived from X-box-binding protein 1 (XBP1) mRNA undergo inositol-requiring enzyme 1α (IRE1α)-dependent splicing under ER stress, inducing a frameshift that attenuates downstream protein expression. XBP1 switches function across DNA and mRNA delivery platforms and regulate the expression of fluorescent reporters, coagulation factor VIII, and Leronlimab, a therapeutic anti-CCR5 monoclonal antibody. Switch activation reduces ER stress markers while preserving expression under homeostatic conditions. We further demonstrate the regulation of Leronlimab expression in vivo using recombinant adeno-associated virus vectors. Together, these findings establish programmable RNA feedback control as a strategy for linking cellular proteostasis to therapeutic protein expression and improving the safety of gene and mRNA therapies.",
       "summaryZh": "治疗性蛋白过度表达会压倒内质网 (ER) 折叠能力，触发未折叠蛋白反应 (UPR) 信号传导，并损害基因和 mRNA 治疗的安全性。在这里，我们设计了应激响应 RNA 变阻器，将转基因表达与内源性 ER 应激传感相结合。源自 X-box 结合蛋白 1 (XBP1) mRNA 的短 RNA 元件在内质网应激下经历肌醇需求酶 1α (IRE1α) 依赖性剪接，诱导移码，从而减弱下游蛋白表达。 XBP1 在 DNA 和 mRNA 传递平台之间切换功能，并调节荧光报告基因、凝血因子 VIII 和 Leronlimab（一种治疗性抗 CCR5 单克隆抗体）的表达。开关激活可减少 ER 应激标记物，同时保持稳态条件下的表达。我们进一步证明了使用重组腺相关病毒载体对 Leronlimab 体内表达的调节。总之，这些发现确立了可编程 RNA 反馈控制作为将细胞蛋白质稳态与治疗性蛋白质表达联系起来并提高基因和 mRNA 治疗安全性的策略。",
       "translationSource": "98e811f12708f97e"
+    },
+    {
+      "pmid": "42749735",
+      "title": "APOE genotypes differentially remodel the astrocytic lipid droplet proteome to shape lipid droplet dynamics.",
+      "titleZh": "APOE 基因型差异性地重塑星形胶质细胞脂滴蛋白质组以塑造脂滴动力学。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-19",
+      "doi": "10.1038/s41467-026-76565-6",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76565-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749735/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Lipid droplets are dynamic cellular organelles that store neutral lipids and coordinate metabolic and stress-response pathways. In the brain, lipid droplets in glial cells, including astrocytes, have been implicated in Alzheimer's disease, but how genetic risk factors influence their composition and turnover remains poorly understood. APOE is the strongest genetic modulator of late-onset Alzheimer's disease and exists in common variants that confer decreased, neutral, or increased risk. Here we show that APOE genotype shapes the lipid droplet proteome, lipidome, and degradation dynamics in human induced pluripotent stem cell-derived astrocytes. By comparing oleic acid-treated astrocytes carrying APOE2, APOE3, or APOE4, we find that each variant is associated with distinct lipid droplet proteins and lipids. These molecular differences correspond to genotype-dependent changes in lipophagy, an autophagy-mediated pathway for lipid droplet clearance. Lipid droplets in APOE2 astrocytes undergo efficient autophagic turnover, whereas those in APOE4 astrocytes resist degradation. These findings identify impaired lipid droplet clearance as a potential mechanism linking APOE4 to Alzheimer's disease risk.",
+      "summaryZh": "脂滴是动态的细胞器，可储存中性脂质并协调代谢和应激反应途径。在大脑中，包括星形胶质细胞在内的神经胶质细胞中的脂滴与阿尔茨海默病有关，但遗传风险因素如何影响其组成和周转仍知之甚少。 APOE 是晚发性阿尔茨海默病最强的基因调节剂，存在于导致风险降低、中性或增加的常见变异体中。在这里，我们表明 APOE 基因型塑造了人类诱导多能干细胞衍生的星形胶质细胞中的脂滴蛋白质组、脂质组和降解动力学。通过比较携带 APOE2、APOE3 或 APOE4 的油酸处理的星形胶质细胞，我们发现每种变体都与不同的脂滴蛋白和脂质相关。这些分子差异对应于脂肪自噬的基因型依赖性变化，脂肪自噬是一种自噬介导的脂滴清除途径。 APOE2 星形胶质细胞中的脂滴经历有效的自噬周转，而 APOE4 星形胶质细胞中的脂滴则抵抗降解。这些发现表明脂滴清除受损是 APOE4 与阿尔茨海默病风险之间的潜在机制。",
+      "translationSource": "fa9ead3874777b80"
     },
     {
       "pmid": "42618804",
@@ -2163,27 +2291,6 @@
       "abstractEn": "A rational design for facilitating innovative cell death modes can substantially aid advances in antitumour therapy 1,2 . Here we design and implement a unique mode of immunogenic membranolytic cell death (mLCD) in tumour cells, characterized by time-lagged rupture from the lysosomal to plasma membranes; this approach was found to robustly potentiate immune checkpoint blockade therapy. This mode of mLCD was induced by the synthetic-acid-responsive membranolytic peptide (aMP) aMP C16 -CA 50 , which exhibits hierarchical responsiveness to the decreasing pH associated with the tumour extracellular environment and lysosomes. aMP C16 -CA 50 activated an inflammatory transcriptional program in tumour cells, potentiating their ability to induce antigen presentation on class I major histocompatibility complex molecules on dendritic cells and the subsequent activation of T cells. The pH-responsive kinetics and membranolytic activity of the membranolytic peptides had a critical role in enhancing the immunogenicity of lytic tumour cells through the spatiotemporal regulation of the membrane-rupture processes. Furthermore, aMP C16 -CA 50 exhibited a considerable advantage in enhancing the antitumour efficacy of immune checkpoint blockade therapy through the promotion of antitumour immune response. Moreover, its systemic administration was well tolerated in mice. Overall, we successfully programmed a unique mode of immunogenic mLCD in tumour cells through the spatiotemporal regulation of membrane-rupture processes using a synthetic pH-responsive membranolytic peptide amenable to manipulation.",
       "summaryZh": "促进创新细胞死亡模式的合理设计可以极大地促进抗肿瘤治疗的进展 1,2 。在这里，我们设计并实现了肿瘤细胞中免疫原性溶膜细胞死亡（mLCD）的独特模式，其特征是从溶酶体到质膜的时滞破裂；人们发现这种方法可以强有力地增强免疫检查点阻断疗法。这种 mLCD 模式是由合成酸响应性溶膜肽 (aMP) aMP C16 -CA 50 诱导的，它对与肿瘤细胞外环境和溶酶体相关的 pH 值降低表现出分级响应性。 aMP C16 -CA 50 激活肿瘤细胞中的炎症转录程序，增强其诱导树突状细胞上 I 类主要组织相容性复合物分子抗原呈递以及随后激活 T 细胞的能力。溶膜肽的 pH 响应动力学和溶膜活性在通过膜破裂过程的时空调节增强裂解肿瘤细胞的免疫原性方面发挥着关键作用。此外，aMP C16 -CA 50 通过促进抗肿瘤免疫反应，在增强免疫检查点阻断疗法的抗肿瘤功效方面表现出相当大的优势。此外，其全身给药在小鼠中具有良好的耐受性。总体而言，我们使用易于操作的合成 pH 响应膜溶解肽，通过膜破裂过程的时空调节，成功地在肿瘤细胞中编程了一种独特的免疫原性 mLCD 模式。",
       "translationSource": "1b2ecdd313edc971"
-    },
-    {
-      "pmid": "42557317",
-      "title": "FNIP1 variants are associated with favourable metabolism in 1 million humans.",
-      "titleZh": "FNIP1 变异与 100 万人的良好新陈代谢有关。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-08-05",
-      "doi": "10.1038/s41586-026-10864-2",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10864-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557317/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Altered energy metabolism is a shared driver across cardiometabolic diseases-the leading cause of death globally 1 . Energy metabolism varies between individuals and is partly heritable 2-9 . Here, to investigate the genetic basis of energy metabolism, we perform an exome-sequencing analysis of 1,032,116 people from America, Europe and Asia, and estimate associations between rare protein-coding variants and the ratio of triglyceride to high-density-lipoprotein cholesterol (TG:HDL)-an energy-state biomarker that we associate with diverse cardiometabolic risk factors and diseases. We identify 59 independent genes (P < 1.04 × 10 -7 ) that are enriched for liver- and adipose-expressed master regulators of energy balance, storage and metabolism; 23 (39%) of these genes encode approved or clinical-stage drug targets. Ultra-rare protein-truncating variants in FNIP1 (allele frequency, 0.01%), which encodes a suppressor of energy expenditure and mitochondrial metabolism, are associated with a lower TG:HDL ratio, lower liver fat, lower glycaemia, favourable fat distribution and around 60% lower odds of cardiometabolic disease. FNIP1 knockdown in primary human hepatocytes induces lipid breakdown and lysosomal gene expression, while combined hepatic knockdown of Fnip1 with its paralogue Fnip2 or knockdown of its interactor Flcn protect against weight gain, reduce liver fat and enhance insulin sensitivity in mice fed a high-fat diet. Our study implicates the FNIP1 pathway in human energy metabolism and highlights its inhibition as a potential therapeutic strategy in cardiometabolic disease.",
-      "summaryZh": "能量代谢改变是心脏代谢疾病的共同驱动因素，而心脏代谢疾病是全球死亡的主要原因 1 。能量代谢因人而异，并且部分具有遗传性 2-9 。在这里，为了研究能量代谢的遗传基础，我们对来自美洲、欧洲和亚洲的 1,032,116 人进行了外显子组测序分析，并估计了罕见蛋白质编码变异与甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率之间的关联，甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率是一种与多种心脏代谢危险因素和疾病相关的能量状态生物标志物。我们确定了 59 个独立基因 (P < 1.04 × 10 -7 )，这些基因富含肝脏和脂肪表达的能量平衡、储存和代谢的主调节因子；其中 23 个（39%）基因编码已批准或临床阶段的药物靶点。 FNIP1 中的超罕见蛋白质截短变体（等位基因频率，0.01%）编码能量消耗和线粒体代谢的抑制因子，与较低的 TG:HDL 比率、较低的肝脏脂肪、较低的血糖、有利的脂肪分布以及约 60% 的心脏代谢疾病发病率降低相关。原代人肝细胞中的 FNIP1 敲除可诱导脂质分解和溶酶体基因表达，而 Fnip1 及其旁系同源物 Fnip2 的肝脏敲除或其相互作用因子 Flcn 的敲除可防止高脂饮食小鼠的体重增加、减少肝脏脂肪并增强胰岛素敏感性。我们的研究表明 FNIP1 通路与人类能量代谢有关，并强调其抑制作为心脏代谢疾病的潜在治疗策略。",
-      "translationSource": "2cd03daa02b10d50"
     },
     {
       "pmid": "42547503",
