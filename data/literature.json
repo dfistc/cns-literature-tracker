@@ -1,8 +1,143 @@
 {
-  "updatedAt": "2026-09-18T01:44:58+00:00",
+  "updatedAt": "2026-09-19T01:49:24+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42758827",
+      "title": "Ubiquitin receptor-mediated, ubiquitin-independent targeted protein degradation via 26 S proteasomes.",
+      "titleZh": "通过 26 S 蛋白酶体进行泛素受体介导、不依赖泛素的靶向蛋白质降解。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-18",
+      "doi": "10.1126/sciadv.aeh0227",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh0227",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42758827/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protein degrader",
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, proteasome。",
+      "abstractEn": "The 26 S proteasome engages with ubiquitinated substrates primarily through its constituent ubiquitin (Ub) receptors, which initiates a cascade of proteolytic processes. Leveraging this recognition mechanism, we developed a targeted protein degradation (TPD) strategy that recruits substrates directly to the proteasome, thereby bypassing the ubiquitination step. Our proteasome-targeting chimera, Protea-Tac, is a heterobifunctional protein degrader composed of a Ub receptor and an intracellular antibody. This chimera integrates into 26 S proteasomes without altering their structural or functional integrity. Protea-Tac with cognate antibodies degraded various target proteins, including c-Fos, BRD4, Flag TDP43, HA tau, and GFP ODC. We mechanistically demonstrated that this platform is (i) modular, allowing facile target switching, (ii) Ub independent, and (iii) highly target specific. Furthermore, Protea-Tac exhibited potent in vivo antitumor efficacy, posttranslationally inducing c-Fos degradation and substantially delaying tumor progression through both viral and nonviral delivery systems. These findings identify Protea-Tac as a distinct TPD platform capable of directly degrading intracellular proteins via engineered 26 S proteasomes.",
+      "summaryZh": "26 S 蛋白酶体主要通过其组成的泛素 (Ub) 受体与泛素化底物结合，从而启动一系列蛋白水解过程。利用这种识别机制，我们开发了一种靶向蛋白质降解（TPD）策略，将底物直接招募到蛋白酶体，从而绕过泛素化步骤。我们的蛋白酶体靶向嵌合体 Protea-Tac 是一种异双功能蛋白质降解剂，由 Ub 受体和细胞内抗体组成。该嵌合体整合到 26 S 蛋白酶体中，而不改变其结构或功能完整性。 Protea-Tac 与同源抗体可降解各种靶蛋白，包括 c-Fos、BRD4、Flag TDP43、HA tau 和 GFP ODC。我们从机械上证明了该平台是（i）模块化的，允许轻松的目标切换，（ii）Ub独立，以及（iii）高度目标特定。此外，Protea-Tac 表现出强大的体内抗肿瘤功效，可在翻译后诱导 c-Fos 降解，并通过病毒和非病毒递送系统显着延缓肿瘤进展。这些发现将 Protea-Tac 确定为独特的 TPD 平台，能够通过工程化 26 S 蛋白酶体直接降解细胞内蛋白质。",
+      "translationSource": "5b3373dabf8c56cd"
+    },
+    {
+      "pmid": "42710495",
+      "title": "TRiC/CCT chaperonin governs RNA polymerase II activity in the nucleus to support RNA homeostasis.",
+      "titleZh": "TRiC/CCT 伴侣蛋白控制细胞核中的 RNA 聚合酶 II 活性，以支持 RNA 稳态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1016/j.molcel.2026.08.015",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.08.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42710495/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Eukaryotic tailless complex polypeptide 1 ring complex/Chaperonin containing tailless complex polypeptide 1 (TRiC/CCT) chaperonin is typically considered a cytosolic machine mediating polypeptide folding and assembly of protein complexes. Here, we investigated the nuclear role of TRiC/CCT. Use of a TRiC/CCT temperature-sensitive allele revealed increased production of nascent RNA leading to the accumulation of noncoding transcripts. TRiC/CCT was associated with RNA polymerase II (RNAPII) in vitro and in vivo, including when bound to DNA. Heat treatment of the TRiC/CCT ts chaperonin stabilized the RNAPII complex association and binding to the actin and tubulin substrates. Expression of the Huntingtin protein Htt correlated with lowered RNA production and a decreased association between the RNAPII and TRiC/CCT complexes. Together, our presented data support a model where TRiC/CCT regulates the global activity of RNAPII in reaction to the status of proteostasis. Overall, our work reveals an avenue by which TRiC/CCT contributes to homeostasis by regulating the activity of nuclear RNAPII. Published by Elsevier Inc.",
+      "summaryZh": "真核无尾复合物多肽 1 环复合物/含有无尾复合物多肽 1 (TRiC/CCT) 伴侣蛋白通常被认为是介导多肽折叠和蛋白质复合物组装的胞质机器。在这里，我们研究了 TRiC/CCT 的核作用。 TRiC/CCT 温度敏感等位基因的使用揭示了新生 RNA 产量的增加，导致非编码转录本的积累。 TRiC/CCT 在体外和体内均与 RNA 聚合酶 II (RNAPII) 相关，包括与 DNA 结合时。 TRiC/CCT ts 伴侣蛋白的热处理稳定了 RNAPII 复合物的缔合以及与肌动蛋白和微管蛋白底物的结合。亨廷顿蛋白 Htt 的表达与 RNA 产量的降低以及 RNAPII 和 TRiC/CCT 复合物之间的关联性降低相关。总之，我们提供的数据支持 TRiC/CCT 调节 RNAPII 的整体活性以响应蛋白质稳态状态的模型。总的来说，我们的工作揭示了 TRiC/CCT 通过调节核 RNAPII 活性促进体内平衡的途径。由爱思唯尔公司出版",
+      "translationSource": "f88af8e96b77605c"
+    },
+    {
+      "pmid": "42679813",
+      "title": "Oncogene activation mechanism determines the limits of targeted protein degradation.",
+      "titleZh": "癌基因激活机制决定了靶向蛋白质降解的限度。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1016/j.chembiol.2026.08.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679813/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protein degrader",
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, protac。",
+      "abstractEn": "Protein degrader drugs such as PROTACs are being advanced as therapeutics targeted against oncogenic proteins. During tumorigenesis, oncogenic proteins can become constitutively activated via mechanisms including gene amplification, which increases protein production, and point mutations, which can extend protein half-life. Few experimental studies have addressed how disease-associated changes in target protein homeostasis influence PROTAC activity. We developed orthogonal methods to increase production or enhance stability of β-catenin, an important oncoprotein and target for degrader therapeutics, and used the dTAG system to evaluate the consequences for PROTAC activity. Stabilizing oncogenic missense mutations increase protein expression up to 5-fold but do not alter the PROTAC-imposed minimal steady-state level. In contrast, transcriptional upregulation increases both pre- and post-treatment target levels, revealing a synthesis-dependent ceiling on achievable depletion. Our results highlight distinct constraints on PROTAC activity arising from different mechanisms of oncogene activation, with potential implications for preclinical modeling, drug resistance and personalized medicine.",
+      "summaryZh": "PROTAC 等蛋白质降解药物正在被开发为针对致癌蛋白质的治疗方法。在肿瘤发生过程中，致癌蛋白可以通过基因扩增（增加蛋白质产量）和点突变（延长蛋白质半衰期）等机制而被组成型激活。很少有实验研究涉及疾病相关的靶蛋白稳态变化如何影响 PROTAC 活性。我们开发了正交方法来增加 β-连环蛋白的产量或增强其稳定性，β-连环蛋白是一种重要的癌蛋白和降解剂治疗的靶标，并使用 dTAG 系统来评估 PROTAC 活性的后果。稳定致癌错义突变可将蛋白质表达增加高达 5 倍，但不会改变 PROTAC 规定的最低稳态水平。相反，转录上调会增加治疗前和治疗后的目标水平，揭示可实现的消耗的合成依赖性上限。我们的结果强调了不同癌基因激活机制对 PROTAC 活性的明显限制，对临床前建模、耐药性和个性化医疗具有潜在影响。",
+      "translationSource": "21794c3082f7d512"
+    },
+    {
+      "pmid": "42480533",
+      "title": "Dual-function PROTAC suppresses ferroptosis and restores neuronal function via brain-targeted delivery.",
+      "titleZh": "双功能 PROTAC 通过大脑靶向递送抑制铁死亡并恢复神经元功能。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1016/j.chembiol.2026.06.010",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.06.010",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42480533/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "protac",
+        "proteolysis-targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protac, proteolysis-targeting chimera。",
+      "abstractEn": "Targeted protein degradation (TPD) via proteolysis-targeting chimeras (PROTACs) offers a promising strategy for modulating disease-associated proteins, yet effective brain-preferred protein degradation remains challenging. Herein, we report a dual-function PROTAC, dACSL4, and its nose-to-brain delivery for brain-preferred protein degradation and therapeutic suppression of ferroptosis in neurodegeneration. dACSL4 selectively degrades acyl-CoA synthetase long-chain family member 4 (ACSL4) while concurrently activating peroxisome proliferator-activated receptor γ (PPARγ), thereby coordinating lipid metabolism and oxidative stress to suppress neuronal ferroptosis. dACSL4 achieved up to 30-fold greater protection against neuronal ferroptosis compared to conventional ferroptosis inhibitors. Intranasal delivery of dACSL4 using biodegradable lipid nanoparticles (BAmP-TK12) enabled brain-preferred ACSL4 degradation and PPARγ activation, reducing lipid peroxidation and preserving dopaminergic neurons in a Parkinson's disease model, ultimately improving motor function. Our findings establish a modular strategy for brain-preferred protein degradation and highlight the therapeutic potential of dual-function degraders for ferroptosis suppression in neurodegenerative diseases.",
+      "summaryZh": "通过蛋白水解靶向嵌合体（PROTAC）进行的靶向蛋白质降解（TPD）为调节疾病相关蛋白质提供了一种有前途的策略，但有效的大脑偏好的蛋白质降解仍然具有挑战性。在此，我们报告了一种双功能 PROTAC，dACSL4，及其从鼻子到大脑的递送，用于大脑偏好的蛋白质降解和神经变性中铁死亡的治疗抑制。 dACSL4 选择性降解酰基辅酶 A 合成酶长链家族成员 4 (ACSL4)，同时激活过氧化物酶体增殖物激活受体 γ (PPARγ)，从而协调脂质代谢和氧化应激，抑制神经元铁死亡。与传统的铁死亡抑制剂相比，dACSL4 对神经元铁死亡的保护作用高出 30 倍。使用可生物降解的脂质纳米颗粒 (BAmP-TK12) 鼻内递送 dACSL4 能够实现大脑偏好的 ACSL4 降解和 PPARγ 激活，减少脂质过氧化并保留帕金森病模型中的多巴胺能神经元，最终改善运动功能。我们的研究结果建立了大脑偏好的蛋白质降解的模块化策略，并强调了双功能降解剂在抑制神经退行性疾病中铁死亡的治疗潜力。",
+      "translationSource": "5fbcc1bbea8e4ac8"
+    },
+    {
+      "pmid": "42392088",
+      "title": "Mechanistic dissection of SMARCA2/4 molecular glues reveals programmable switching between DCAF16 and FBXO22.",
+      "titleZh": "SMARCA2/4 分子胶的机械剖析揭示了 DCAF16 和 FBXO22 之间的可编程切换。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1016/j.chembiol.2026.05.019",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.05.019",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42392088/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue degrader, molecular glue。",
+      "abstractEn": "Molecular glue degraders (MGDs) represent a powerful strategy for targeted protein degradation, yet the rules governing ligase selectivity remain elusive. Here, we characterize a class of SMARCA2/4 MGDs with tunable E3 ligase engagement. Compound 1 degraded SMARCA2/4 exclusively via DCAF16, driven by covalent capture of Cys173. Strikingly, 1-carbon analogs rewired ligase preferences: compounds 2 and 3 recruited both DCAF16 and FBXO22, whereas compound 4 remained strictly DCAF16 dependent despite weak FBXO22 binding, although all compounds shared an alkynyl pyridine moiety essential for covalent attachment. Mutational analysis further pinpointed Cys228 and Cys326 in FBXO22 as indispensable for degradation. These findings reveal that subtle scaffold modifications dictate ligase preference and that only productive ternary geometries drive ubiquitination and degradation. By exposing new cysteine liabilities and showcasing precise control over ligase engagement, this work highlights how single-atom edits in MGDs can unlock tunable, switchable degradation mechanisms.",
+      "summaryZh": "分子胶降解剂（MGD）代表了一种强大的靶向蛋白质降解策略，但控制连接酶选择性的规则仍然难以捉摸。在这里，我们描述了一类具有可调节 E3 连接酶接合的 SMARCA2/4 MGD。在 Cys173 的共价捕获驱动下，化合物 1 仅通过 DCAF16 降解 SMARCA2/4。引人注目的是，1-碳类似物重新连接了连接酶偏好：化合物 2 和 3 招募了 DCAF16 和 FBXO22，而化合物 4 尽管 FBXO22 结合较弱，但仍然严格依赖 DCAF16，尽管所有化合物都共享共价连接所必需的炔基吡啶部分。突变分析进一步确定 FBXO22 中的 Cys228 和 Cys326 对于降解是必不可少的。这些发现表明，微妙的支架修饰决定了连接酶的偏好，并且只有高效的三元几何结构才能驱动泛素化和降解。通过揭示新的半胱氨酸负债并展示对连接酶参与的精确控制，这项工作强调了 MGD 中的单原子编辑如何解锁可调节、可切换的降解机制。",
+      "translationSource": "7ddf07a65655db7a"
+    },
+    {
+      "pmid": "42753692",
+      "title": "A world model of the virtual cell.",
+      "titleZh": "虚拟细胞的世界模型。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1016/j.cell.2026.08.042",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.042",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "programmable cell"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
+      "abstractEn": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful computational system capable of simulating the activity and behavior of a living cell. Such a system could shift cell biology from trial-and-error experimentation with cell-culture models in the wet lab toward systematic simulation of combinatorial interventions in a digital laboratory. In this paper, we propose the world model as an operational framework for realizing this vision-an emerging AI paradigm that supports action-conditioned simulation, counterfactual reasoning and long-horizon planning in complex dynamic environments. In this formulation, a virtual cell world model (VCWM) represents a persistent cellular state and simulates its evolution under genetic, chemical, environmental, and other biological interventions. In contrast to predictive foundation models optimized for specific tasks or endpoints, a VCWM seeks to model the underlying cellular system, allowing interventions to propagate through an evolving state and generate coherent molecular, structural, interactional, and morphological outcomes over time. We outline an architecture, a data framework, training strategy, and evaluation principles for realizing this vision and discuss how existing biological foundation models can serve as its building blocks. We envisage that VCWMs could transform biological discovery from exhaustive experimental search toward structured navigation of learned cellular worlds, enabling counterfactual exploration, rational intervention design, and ultimately more predictive, designable, and programmable cell biology.",
+      "summaryZh": "人工智能驱动的数字有机体（AIDO）（例如虚拟细胞）的前景最近引起了人工智能和生物学界日益增长的兴奋和想象力。我们将虚拟细胞设想为一个多模式、多尺度、动态和有状态的计算系统，能够模拟活细胞的活动和行为。这样的系统可以将细胞生物学从湿实验室中细胞培养模型的试错实验转向数字实验室中组合干预的系统模拟。在本文中，我们提出世界模型作为实现这一愿景的操作框架——一种新兴的人工智能范式，支持复杂动态环境中的动作条件模拟、反事实推理和长期规划。在这个公式中，虚拟细胞世界模型（VCWM）代表持久的细胞状态，并模拟其在遗传、化学、环境和其他生物干预下的进化。与针对特定任务或终点优化的预测基础模型相比，VCWM 寻求对底层细胞系统进行建模，允许干预措施通过不断演变的状态传播，并随着时间的推移产生连贯的分子、结构、相互作用和形态结果。我们概述了实现这一愿景的架构、数据框架、培训策略和评估原则，并讨论了现有的生物基础模型如何作为其构建块。我们设想 VCWM 可以将生物发现从详尽的实验搜索转变为学习细胞世界的结构化导航，从而实现反事实探索、合理的干预设计，并最终实现更具预测性、可设计性和可编程性的细胞生物学。",
+      "translationSource": "40c4d106c1cbcfe1"
+    },
     {
       "pmid": "42749893",
       "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.",
@@ -391,27 +526,6 @@
       "abstractEn": "The mechanisms governing the final trafficking steps of the cyclic dinucleotide innate immune receptor stimulator of interferon genes (STING) are not fully understood. Here, we identify the mitochondrial protein Fis1 as a regulator of STING endolysosomal degradation. The absence of Fis1 in HeLa cells stabilizes STING, boosting downstream signaling without affecting its initial endoplasmic reticulum (ER)-to-Golgi traffic. Instead, Fis1 loss impairs STING delivery to endolysosomes. Fis1 recruits the Rab7A-GAP TBC1D15 to mitochondria and upon STING activation, TBC1D15 localization shifts to the Golgi. In the absence of Fis1, the interaction between TBC1D15 and Rab7A is disrupted, leading to decreased Rab7A GTPase activity and impaired STING degradation. Our findings reveal a mitochondria-controlled axis where Fis1 tunes Rab7A activity via TBC1D15, which is required to ensure proper STING degradation, directly linking mitochondria to lysosomal trafficking and the termination of innate immune signaling. Published by Elsevier Inc.",
       "summaryZh": "干扰素基因环状二核苷酸先天免疫受体刺激剂 (STING) 的最终运输步骤的机制尚不完全清楚。在这里，我们将线粒体蛋白 Fis1 确定为 STING 内溶酶体降解的调节因子。 HeLa 细胞中 Fis1 的缺失可以稳定 STING，增强下游信号传导，而不影响其最初的内质网 (ER) 到高尔基体的运输。相反，Fis1 丢失会损害 STING 向内溶酶体的传递。 Fis1 将 Rab7A-GAP TBC1D15 招募到线粒体，并且在 STING 激活后，TBC1D15 定位转移到高尔基体。在 Fis1 缺失的情况下，TBC1D15 和 Rab7A 之间的相互作用被破坏，导致 Rab7A GTPase 活性降低和 STING 降解受损。我们的研究结果揭示了一个线粒体控制轴，Fis1 通过 TBC1D15 调节 Rab7A 活性，这是确保 STING 正确降解、直接将线粒体与溶酶体运输和先天免疫信号终止联系起来所必需的。由爱思唯尔公司出版",
       "translationSource": "0950bf0f87584452"
-    },
-    {
-      "pmid": "42710495",
-      "title": "TRiC/CCT chaperonin governs RNA polymerase II activity in the nucleus to support RNA homeostasis.",
-      "titleZh": "TRiC/CCT 伴侣蛋白控制细胞核中的 RNA 聚合酶 II 活性，以支持 RNA 稳态。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-09-08",
-      "doi": "10.1016/j.molcel.2026.08.015",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.08.015",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42710495/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Eukaryotic tailless complex polypeptide 1 ring complex/Chaperonin containing tailless complex polypeptide 1 (TRiC/CCT) chaperonin is typically considered a cytosolic machine mediating polypeptide folding and assembly of protein complexes. Here, we investigated the nuclear role of TRiC/CCT. Use of a TRiC/CCT temperature-sensitive allele revealed increased production of nascent RNA leading to the accumulation of noncoding transcripts. TRiC/CCT was associated with RNA polymerase II (RNAPII) in vitro and in vivo, including when bound to DNA. Heat treatment of the TRiC/CCT ts chaperonin stabilized the RNAPII complex association and binding to the actin and tubulin substrates. Expression of the Huntingtin protein Htt correlated with lowered RNA production and a decreased association between the RNAPII and TRiC/CCT complexes. Together, our presented data support a model where TRiC/CCT regulates the global activity of RNAPII in reaction to the status of proteostasis. Overall, our work reveals an avenue by which TRiC/CCT contributes to homeostasis by regulating the activity of nuclear RNAPII. Published by Elsevier Inc.",
-      "summaryZh": "真核无尾复合物多肽 1 环复合物/含有无尾复合物多肽 1 (TRiC/CCT) 伴侣蛋白通常被认为是介导多肽折叠和蛋白质复合物组装的胞质机器。在这里，我们研究了 TRiC/CCT 的核作用。 TRiC/CCT 温度敏感等位基因的使用揭示了新生 RNA 产量的增加，导致非编码转录本的积累。 TRiC/CCT 在体外和体内均与 RNA 聚合酶 II (RNAPII) 相关，包括与 DNA 结合时。 TRiC/CCT ts 伴侣蛋白的热处理稳定了 RNAPII 复合物的缔合以及与肌动蛋白和微管蛋白底物的结合。亨廷顿蛋白 Htt 的表达与 RNA 产量的降低以及 RNAPII 和 TRiC/CCT 复合物之间的关联性降低相关。总之，我们提供的数据支持 TRiC/CCT 调节 RNAPII 的整体活性以响应蛋白质稳态状态的模型。总的来说，我们的工作揭示了 TRiC/CCT 通过调节核 RNAPII 活性促进体内平衡的途径。由爱思唯尔公司出版",
-      "translationSource": "f88af8e96b77605c"
     },
     {
       "pmid": "42709544",
@@ -990,29 +1104,6 @@
       "abstractEn": "Altered energy metabolism is a shared driver across cardiometabolic diseases-the leading cause of death globally 1 . Energy metabolism varies between individuals and is partly heritable 2-9 . Here, to investigate the genetic basis of energy metabolism, we perform an exome-sequencing analysis of 1,032,116 people from America, Europe and Asia, and estimate associations between rare protein-coding variants and the ratio of triglyceride to high-density-lipoprotein cholesterol (TG:HDL)-an energy-state biomarker that we associate with diverse cardiometabolic risk factors and diseases. We identify 59 independent genes (P < 1.04 × 10 -7 ) that are enriched for liver- and adipose-expressed master regulators of energy balance, storage and metabolism; 23 (39%) of these genes encode approved or clinical-stage drug targets. Ultra-rare protein-truncating variants in FNIP1 (allele frequency, 0.01%), which encodes a suppressor of energy expenditure and mitochondrial metabolism, are associated with a lower TG:HDL ratio, lower liver fat, lower glycaemia, favourable fat distribution and around 60% lower odds of cardiometabolic disease. FNIP1 knockdown in primary human hepatocytes induces lipid breakdown and lysosomal gene expression, while combined hepatic knockdown of Fnip1 with its paralogue Fnip2 or knockdown of its interactor Flcn protect against weight gain, reduce liver fat and enhance insulin sensitivity in mice fed a high-fat diet. Our study implicates the FNIP1 pathway in human energy metabolism and highlights its inhibition as a potential therapeutic strategy in cardiometabolic disease.",
       "summaryZh": "能量代谢改变是心脏代谢疾病的共同驱动因素，而心脏代谢疾病是全球死亡的主要原因 1 。能量代谢因人而异，并且部分具有遗传性 2-9 。在这里，为了研究能量代谢的遗传基础，我们对来自美洲、欧洲和亚洲的 1,032,116 人进行了外显子组测序分析，并估计了罕见蛋白质编码变异与甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率之间的关联，甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率是一种与多种心脏代谢危险因素和疾病相关的能量状态生物标志物。我们确定了 59 个独立基因 (P < 1.04 × 10 -7 )，这些基因富含肝脏和脂肪表达的能量平衡、储存和代谢的主调节因子；其中 23 个（39%）基因编码已批准或临床阶段的药物靶点。 FNIP1 中的超罕见蛋白质截短变体（等位基因频率，0.01%）编码能量消耗和线粒体代谢的抑制因子，与较低的 TG:HDL 比率、较低的肝脏脂肪、较低的血糖、有利的脂肪分布以及约 60% 的心脏代谢疾病发病率降低相关。原代人肝细胞中的 FNIP1 敲除可诱导脂质分解和溶酶体基因表达，而 Fnip1 及其旁系同源物 Fnip2 的肝脏敲除或其相互作用因子 Flcn 的敲除可防止高脂饮食小鼠的体重增加、减少肝脏脂肪并增强胰岛素敏感性。我们的研究表明 FNIP1 通路与人类能量代谢有关，并强调其抑制作为心脏代谢疾病的潜在治疗策略。",
       "translationSource": "2cd03daa02b10d50"
-    },
-    {
-      "pmid": "42679813",
-      "title": "Oncogene activation mechanism determines the limits of targeted protein degradation.",
-      "titleZh": "癌基因激活机制决定了靶向蛋白质降解的限度。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-09-01",
-      "doi": "10.1016/j.chembiol.2026.08.006",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.006",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679813/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "protein degrader",
-        "protac"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protein degrader, protac。",
-      "abstractEn": "Protein degrader drugs such as PROTACs are being advanced as therapeutics targeted against oncogenic proteins. During tumorigenesis, oncogenic proteins can become constitutively activated via mechanisms including gene amplification, which increases protein production, and point mutations, which can extend protein half-life. Few experimental studies have addressed how disease-associated changes in target protein homeostasis influence PROTAC activity. We developed orthogonal methods to increase production or enhance stability of β-catenin, an important oncoprotein and target for degrader therapeutics, and used the dTAG system to evaluate the consequences for PROTAC activity. Stabilizing oncogenic missense mutations increase protein expression up to 5-fold but do not alter the PROTAC-imposed minimal steady-state level. In contrast, transcriptional upregulation increases both pre- and post-treatment target levels, revealing a synthesis-dependent ceiling on achievable depletion. Our results highlight distinct constraints on PROTAC activity arising from different mechanisms of oncogene activation, with potential implications for preclinical modeling, drug resistance and personalized medicine.",
-      "summaryZh": "PROTAC 等蛋白质降解药物正在被开发为针对致癌蛋白质的治疗方法。在肿瘤发生过程中，致癌蛋白可以通过基因扩增（增加蛋白质产量）和点突变（延长蛋白质半衰期）等机制而被组成型激活。很少有实验研究涉及疾病相关的靶蛋白稳态变化如何影响 PROTAC 活性。我们开发了正交方法来增加 β-连环蛋白的产量或增强其稳定性，β-连环蛋白是一种重要的癌蛋白和降解剂治疗的靶标，并使用 dTAG 系统来评估 PROTAC 活性的后果。稳定致癌错义突变可将蛋白质表达增加高达 5 倍，但不会改变 PROTAC 规定的最低稳态水平。相反，转录上调会增加治疗前和治疗后的目标水平，揭示可实现的消耗的合成依赖性上限。我们的结果强调了不同癌基因激活机制对 PROTAC 活性的明显限制，对临床前建模、耐药性和个性化医疗具有潜在影响。",
-      "translationSource": "21794c3082f7d512"
     },
     {
       "pmid": "42679820",
@@ -3328,29 +3419,6 @@
       "translationSource": "9059199163ddad71"
     },
     {
-      "pmid": "42480533",
-      "title": "Dual-function PROTAC suppresses ferroptosis and restores neuronal function via brain-targeted delivery.",
-      "titleZh": "双功能 PROTAC 通过大脑靶向递送抑制铁死亡并恢复神经元功能。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-07-21",
-      "doi": "10.1016/j.chembiol.2026.06.010",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.06.010",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42480533/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "protac",
-        "proteolysis-targeting chimera"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, protac, proteolysis-targeting chimera。",
-      "abstractEn": "Targeted protein degradation (TPD) via proteolysis-targeting chimeras (PROTACs) offers a promising strategy for modulating disease-associated proteins, yet effective brain-preferred protein degradation remains challenging. Herein, we report a dual-function PROTAC, dACSL4, and its nose-to-brain delivery for brain-preferred protein degradation and therapeutic suppression of ferroptosis in neurodegeneration. dACSL4 selectively degrades acyl-CoA synthetase long-chain family member 4 (ACSL4) while concurrently activating peroxisome proliferator-activated receptor γ (PPARγ), thereby coordinating lipid metabolism and oxidative stress to suppress neuronal ferroptosis. dACSL4 achieved up to 30-fold greater protection against neuronal ferroptosis compared to conventional ferroptosis inhibitors. Intranasal delivery of dACSL4 using biodegradable lipid nanoparticles (BAmP-TK12) enabled brain-preferred ACSL4 degradation and PPARγ activation, reducing lipid peroxidation and preserving dopaminergic neurons in a Parkinson's disease model, ultimately improving motor function. Our findings establish a modular strategy for brain-preferred protein degradation and highlight the therapeutic potential of dual-function degraders for ferroptosis suppression in neurodegenerative diseases.",
-      "summaryZh": "通过蛋白水解靶向嵌合体（PROTAC）进行的靶向蛋白质降解（TPD）为调节疾病相关蛋白质提供了一种有前途的策略，但有效的大脑偏好的蛋白质降解仍然具有挑战性。在此，我们报告了一种双功能 PROTAC，dACSL4，及其从鼻子到大脑的递送，用于大脑偏好的蛋白质降解和神经变性中铁死亡的治疗抑制。 dACSL4 选择性降解酰基辅酶 A 合成酶长链家族成员 4 (ACSL4)，同时激活过氧化物酶体增殖物激活受体 γ (PPARγ)，从而协调脂质代谢和氧化应激，抑制神经元铁死亡。与传统的铁死亡抑制剂相比，dACSL4 对神经元铁死亡的保护作用高出 30 倍。使用可生物降解的脂质纳米颗粒 (BAmP-TK12) 鼻内递送 dACSL4 能够实现大脑偏好的 ACSL4 降解和 PPARγ 激活，减少脂质过氧化并保留帕金森病模型中的多巴胺能神经元，最终改善运动功能。我们的研究结果建立了大脑偏好的蛋白质降解的模块化策略，并强调了双功能降解剂在抑制神经退行性疾病中铁死亡的治疗潜力。",
-      "translationSource": "5fbcc1bbea8e4ac8"
-    },
-    {
       "pmid": "42476144",
       "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
       "titleZh": "用于微管动力学可逆可视化和可编程控制的单组分光遗传学工具包。",
@@ -4038,29 +4106,6 @@
       "abstractEn": "Chronic stress influences hematopoietic stem cells (HSCs). However, how psychological stress regulates HSC function remains incompletely understood. Here, we show that psychological stress impairs HSC self-renewal and lymphoid differentiation, inducing aging-like phenotypes. Stress suppresses neuronal activity in the medial prefrontal cortex (mPFC) and periaqueductal gray (PAG), leading to HSC dysfunction, whereas chemogenetic activation of these regions restores HSC function. Psychological stress or chemogenetic inhibition of the mPFC and PAG reduces the abundance of L. reuteri in the gut microbiota and lowers spermidine levels. Mechanistically, spermidine depletion suppresses mitochondrial autophagy, promotes mitochondrial peroxidative stress, and increases ferroptotic stress in HSCs. We further demonstrate that mPFC and PAG activity regulate the intestinal environment through a sympathetic pathway, reducing intestinal mucin levels, L. reuteri abundance, and spermidine levels. These findings identify a brain-gut-bone marrow axis linking psychological stress to aging-like HSC dysfunction through sympathetic regulation of intestinal microbiota and spermidine metabolism.",
       "summaryZh": "慢性压力会影响造血干细胞（HSC）。然而，心理压力如何调节 HSC 功能仍不完全清楚。在这里，我们发现心理压力会损害 HSC 的自我更新和淋巴分化，从而诱导衰老样表型。压力会抑制内侧前额叶皮层 (mPFC) 和导水管周围灰质 (PAG) 的神经元活动，导致 HSC 功能障碍，而这些区域的化学遗传学激活可恢复 HSC 功能。心理应激或 mPFC 和 PAG 的化学遗传学抑制会降低肠道微生物群中罗伊氏乳杆菌的丰度并降低亚精胺水平。从机制上讲，亚精胺消耗会抑制线粒体自噬，促进线粒体过氧化应激，并增加 HSC 中的铁死亡应激。我们进一步证明 mPFC 和 PAG 活性通过交感神经通路调节肠道环境，降低肠道粘蛋白水平、罗伊氏乳杆菌丰度和亚精胺水平。这些发现确定了脑-肠-骨髓轴通过肠道微生物群和亚精胺代谢的交感调节将心理压力与衰老样 HSC 功能障碍联系起来。",
       "translationSource": "9bc4c32773adb6d6"
-    },
-    {
-      "pmid": "42392088",
-      "title": "Mechanistic dissection of SMARCA2/4 molecular glues reveals programmable switching between DCAF16 and FBXO22.",
-      "titleZh": "SMARCA2/4 分子胶的机械剖析揭示了 DCAF16 和 FBXO22 之间的可编程切换。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-07-02",
-      "doi": "10.1016/j.chembiol.2026.05.019",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.05.019",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42392088/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "molecular glue degrader",
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue degrader, molecular glue。",
-      "abstractEn": "Molecular glue degraders (MGDs) represent a powerful strategy for targeted protein degradation, yet the rules governing ligase selectivity remain elusive. Here, we characterize a class of SMARCA2/4 MGDs with tunable E3 ligase engagement. Compound 1 degraded SMARCA2/4 exclusively via DCAF16, driven by covalent capture of Cys173. Strikingly, 1-carbon analogs rewired ligase preferences: compounds 2 and 3 recruited both DCAF16 and FBXO22, whereas compound 4 remained strictly DCAF16 dependent despite weak FBXO22 binding, although all compounds shared an alkynyl pyridine moiety essential for covalent attachment. Mutational analysis further pinpointed Cys228 and Cys326 in FBXO22 as indispensable for degradation. These findings reveal that subtle scaffold modifications dictate ligase preference and that only productive ternary geometries drive ubiquitination and degradation. By exposing new cysteine liabilities and showcasing precise control over ligase engagement, this work highlights how single-atom edits in MGDs can unlock tunable, switchable degradation mechanisms.",
-      "summaryZh": "分子胶降解剂（MGD）代表了一种强大的靶向蛋白质降解策略，但控制连接酶选择性的规则仍然难以捉摸。在这里，我们描述了一类具有可调节 E3 连接酶接合的 SMARCA2/4 MGD。在 Cys173 的共价捕获驱动下，化合物 1 仅通过 DCAF16 降解 SMARCA2/4。引人注目的是，1-碳类似物重新连接了连接酶偏好：化合物 2 和 3 招募了 DCAF16 和 FBXO22，而化合物 4 尽管 FBXO22 结合较弱，但仍然严格依赖 DCAF16，尽管所有化合物都共享共价连接所必需的炔基吡啶部分。突变分析进一步确定 FBXO22 中的 Cys228 和 Cys326 对于降解是必不可少的。这些发现表明，微妙的支架修饰决定了连接酶的偏好，并且只有高效的三元几何结构才能驱动泛素化和降解。通过揭示新的半胱氨酸负债并展示对连接酶参与的精确控制，这项工作强调了 MGD 中的单原子编辑如何解锁可调节、可切换的降解机制。",
-      "translationSource": "7ddf07a65655db7a"
     },
     {
       "pmid": "42410215",
