@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:49:24+00:00",
+  "updatedAt": "2026-09-20T01:51:28+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -26,6 +26,27 @@
       "abstractEn": "The 26 S proteasome engages with ubiquitinated substrates primarily through its constituent ubiquitin (Ub) receptors, which initiates a cascade of proteolytic processes. Leveraging this recognition mechanism, we developed a targeted protein degradation (TPD) strategy that recruits substrates directly to the proteasome, thereby bypassing the ubiquitination step. Our proteasome-targeting chimera, Protea-Tac, is a heterobifunctional protein degrader composed of a Ub receptor and an intracellular antibody. This chimera integrates into 26 S proteasomes without altering their structural or functional integrity. Protea-Tac with cognate antibodies degraded various target proteins, including c-Fos, BRD4, Flag TDP43, HA tau, and GFP ODC. We mechanistically demonstrated that this platform is (i) modular, allowing facile target switching, (ii) Ub independent, and (iii) highly target specific. Furthermore, Protea-Tac exhibited potent in vivo antitumor efficacy, posttranslationally inducing c-Fos degradation and substantially delaying tumor progression through both viral and nonviral delivery systems. These findings identify Protea-Tac as a distinct TPD platform capable of directly degrading intracellular proteins via engineered 26 S proteasomes.",
       "summaryZh": "26 S 蛋白酶体主要通过其组成的泛素 (Ub) 受体与泛素化底物结合，从而启动一系列蛋白水解过程。利用这种识别机制，我们开发了一种靶向蛋白质降解（TPD）策略，将底物直接招募到蛋白酶体，从而绕过泛素化步骤。我们的蛋白酶体靶向嵌合体 Protea-Tac 是一种异双功能蛋白质降解剂，由 Ub 受体和细胞内抗体组成。该嵌合体整合到 26 S 蛋白酶体中，而不改变其结构或功能完整性。 Protea-Tac 与同源抗体可降解各种靶蛋白，包括 c-Fos、BRD4、Flag TDP43、HA tau 和 GFP ODC。我们从机械上证明了该平台是（i）模块化的，允许轻松的目标切换，（ii）Ub独立，以及（iii）高度目标特定。此外，Protea-Tac 表现出强大的体内抗肿瘤功效，可在翻译后诱导 c-Fos 降解，并通过病毒和非病毒递送系统显着延缓肿瘤进展。这些发现将 Protea-Tac 确定为独特的 TPD 平台，能够通过工程化 26 S 蛋白酶体直接降解细胞内蛋白质。",
       "translationSource": "5b3373dabf8c56cd"
+    },
+    {
+      "pmid": "42760279",
+      "title": "Autophagy inhibition sensitizes radiotherapy responses in high-grade mutant IDH1 glioma.",
+      "titleZh": "自噬抑制使高级别突变 IDH1 神经胶质瘤的放射治疗反应敏感。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-18",
+      "doi": "10.1038/s41467-026-77320-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77320-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42760279/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Mutant isocitrate dehydrogenase 1 (mIDH1) catalyzes 2-hydroxyglutarate (2HG) production which leads to epigenetic reprogramming in astrocytomas with tumor protein p53 (TP53)/α-thalassemia/mental retardation, X-linked (ATRX) loss. RNA-sequencing, single-cell RNA-sequencing, and Chromatin Immunoprecipitation sequencing (ChIP-seq) followed by bioinformatics analysis shows that human and mouse mIDH1 gliomas exhibit downregulated gene ontologies (GOs) related to mitochondrial metabolism and upregulated autophagy-related GOs. Decreased mitochondrial metabolism is accompanied by decreased glycolysis, rendering autophagy as a source of energy in mIDH1 gliomas. Mutant IDH1 glioma cells exhibit increased expression of autophagy-related proteins and enhanced microtubule-associated protein 1 light chain 3 (LC3) I/II conversion, indicating augmented autophagy. Inhibiting autophagy in vivo by administration of synthetic protein nanoparticles (SPNPs) encapsulating autophagy related gene 7 (ATG7) silencing RNA sensitizes mIDH1 glioma cells to radiation, resulting in tumor regression, long-term survival, and immunological memory. This work uncovers autophagy as a critical pathway for survival in mIDH1 gliomas and its inhibition elicits radiosensitivity in vitro in human and mouse mIDH1 glioma cells, and in vivo in mIDH1 models.",
+      "summaryZh": "突变的异柠檬酸脱氢酶 1 (mIDH1) 催化 2-羟基戊二酸 (2HG) 的产生，从而导致星形细胞瘤中的表观遗传重编程，并伴有肿瘤蛋白 p53 (TP53)/α-地中海贫血/精神发育迟滞、X 连锁 (ATRX) 丢失。 RNA 测序、单细胞 RNA 测序和染色质免疫沉淀测序 (ChIP-seq) 以及生物信息学分析表明，人类和小鼠 mIDH1 神经胶质瘤表现出与线粒体代谢相关的基因本体 (GO) 下调和自噬相关 GO 上调。线粒体代谢减少伴随着糖酵解减少，使自噬成为 mIDH1 神经胶质瘤的能量来源。突变的 IDH1 神经胶质瘤细胞表现出自噬相关蛋白表达增加和微管相关蛋白 1 轻链 3 (LC3) I/II 转换增强，表明自噬增强。通过给予封装自噬相关基因 7 (ATG7) 沉默 RNA 的合成蛋白纳米颗粒 (SPNP) 抑制体内自噬，可使 mIDH1 胶质瘤细胞对辐射敏感，从而导致肿瘤消退、长期存活和免疫记忆。这项工作揭示了自噬是 mIDH1 神经胶质瘤生存的关键途径，其抑制作用可在人和小鼠 mIDH1 神经胶质瘤细胞的体外以及 mIDH1 模型的体内引起放射敏感性。",
+      "translationSource": "49128627cbd8ab52"
     },
     {
       "pmid": "42710495",
