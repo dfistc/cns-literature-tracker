@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:52:23+00:00",
+  "updatedAt": "2026-09-22T02:00:36+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1520,6 +1520,27 @@
       "abstractEn": "Skeletal muscle is a central determinant of organismal health. Preserving muscle quality is therefore critical for preventing disease and sustaining quality of life across the lifespan. Despite its central role, the field lacks a unifying framework that defines the core properties of skeletal muscle health. Here, we propose a conceptual framework for muscle homeostasis built around seven interconnected hallmarks-metabolism and bioenergetics, proteostasis, genomics, excitability, structure, regeneration and cross-talk-that collectively govern muscle integrity, adaptability and resilience. Each hallmark is mechanistically grounded, quantifiable and potentially modifiable. This framework provides a unifying blueprint for the next generation of precision diagnostics and targeted therapies for preserving skeletal muscle health.",
       "summaryZh": "骨骼肌是机体健康的核心决定因素。因此，保持肌肉质量对于预防疾病和维持整个生命周期的生活质量至关重要。尽管发挥着核心作用，但该领域缺乏一个统一的框架来定义骨骼肌健康的核心特性。在这里，我们提出了一个肌肉稳态的概念框架，围绕七个相互关联的特征——代谢和生物能量学、蛋白质稳态、基因组学、兴奋性、结构、再生和串扰——共同控制肌肉的完整性、适应性和恢复力。每个标志都有机械依据、可量化且可能可修改。该框架为下一代精确诊断和维持骨骼肌健康的靶向治疗提供了统一的蓝图。",
       "translationSource": "ccb37c1e1703a373"
+    },
+    {
+      "pmid": "42764280",
+      "title": "Drug screen and machine learning predict neuroprotective agents in a preclinical human model of childhood dementia.",
+      "titleZh": "药物筛选和机器学习可预测儿童痴呆症临床前人类模型中的神经保护剂。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-20",
+      "doi": "10.1038/s41467-026-76837-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76837-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42764280/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Childhood dementias are a group of paediatric neurodegenerative disorders characterised by neurocognitive decline, and in many cases underpinned by pathophysiological mechanisms similar to adult-onset dementias. In this study, we use patient-derived induced pluripotent stem cells (iPSCs) from children with one of the most prevalent childhood dementias, Mucopolysaccharidosis Type IIIA (MPS IIIA), also known as Sanfilippo syndrome. The derived cortical cultures exhibit lysosomal dysfunction, heparan sulfate accumulation, progressive neurodegeneration and astrocytic reactivity, recapitulating prototypical in-vivo phenotypes. Using a multimodal drug screening platform that integrates machine learning, high-content confocal imaging, single-nuclei transcriptomics and electrophysiology, we identify at least nine repurposed compounds that significantly mitigate these adverse effects within two weeks of treatment in vitro, demonstrating potential for rapid clinical translation. This human preclinical model for MPS IIIA, coupled with a robust multimodal therapeutic interrogation platform, serves as an exemplar for advancing drug discovery for childhood dementias and the broader neurodegenerative disease spectrum.",
+      "summaryZh": "儿童痴呆症是一组以神经认知衰退为特征的小儿神经退行性疾病，在许多情况下其病理生理机制与成人发病的痴呆症类似。在这项研究中，我们使用来自患者的诱导多能干细胞 (iPSC)，该干细胞来自患有最常见的儿童痴呆症之一的儿童的诱导多能干细胞 (iPSC)，即粘多糖贮积症 IIIA 型 (MPS IIIA)（也称为 Sanfilippo 综合征）。衍生的皮质培养物表现出溶酶体功能障碍、硫酸乙酰肝素积累、进行性神经变性和星形胶质细胞反应性，再现了典型的体内表型。使用集成了机器学习、高内涵共焦成像、单核转录组学和电生理学的多模式药物筛选平台，我们鉴定出至少九种重新利用的化合物，它们在体外治疗两周内显着减轻这些副作用，展示了快速临床转化的潜力。这种 MPS IIIA 人体临床前模型与强大的多模式治疗询问平台相结合，可作为推进儿童痴呆症和更广泛的神经退行性疾病谱药物发现的典范。",
+      "translationSource": "367715ae374581ed"
     },
     {
       "pmid": "42624994",
