@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-09-22T02:00:36+00:00",
+  "updatedAt": "2026-09-23T01:59:21+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42476144",
+      "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
+      "titleZh": "用于微管动力学可逆可视化和可编程控制的单组分光遗传学工具包。",
+      "journal": "Cell Reports Methods",
+      "year": 2026,
+      "published": "2026-09-21",
+      "doi": "10.1016/j.crmeth.2026.101532",
+      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101532",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476144/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Microtubules form dynamic cytoskeletal scaffolds essential for intracellular transport, organelle positioning, and spatial organization of signaling. Their architecture and function are continuously remodeled through the concerted actions of microtubule-associated proteins (MAPs), post-translational modifications (PTMs), and molecular motors. To precisely interrogate these processes in living systems, we developed a genetically encoded, single-component optogenetic platform for spatiotemporal control of microtubule organization and dynamics. By harnessing light-induced oligomerization to regulate microtubule association, this system supports reversible microtubule labeling and plus-end tracking, localized control of tubulin PTMs, optically regulated kinesin-driven cargo transport, and inducible microtubule severing within a unified design strategy. Using these tools, we reveal how local microtubule integrity governs lysosomal trafficking and endoplasmic reticulum (ER)-associated signaling dynamics. Collectively, this modular optogenetic toolkit bridges molecular design with cytoskeletal function, offering a versatile platform to dissect how dynamic cytoskeletal architectures coordinate intracellular organization, transport, and signaling.",
+      "summaryZh": "微管形成动态细胞骨架支架，对于细胞内运输、细胞器定位和信号传导的空间组织至关重要。它们的结构和功能通过微管相关蛋白（MAP）、翻译后修饰（PTM）和分子马达的协同作用不断重塑。为了精确地探究生命系统中的这些过程，我们开发了一种基因编码的单组分光遗传学平台，用于微管组织和动力学的时空控制。通过利用光诱导的寡聚化来调节微管关联，该系统支持可逆微管标记和加端跟踪、微管蛋白 PTM 的局部控制、光学调节驱动蛋白驱动的货物运输以及统一设计策略中的诱导微管切断。使用这些工具，我们揭示了局部微管完整性如何控制溶酶体运输和内质网 (ER) 相关信号动力学。总的来说，这个模块化光遗传学工具包将分子设计与细胞骨架功能联系起来，提供了一个多功能平台来剖析动态细胞骨架结构如何协调细胞内组织、运输和信号传导。",
+      "translationSource": "c8bc3a5b7df08f56"
+    },
     {
       "pmid": "42758827",
       "title": "Ubiquitin receptor-mediated, ubiquitin-independent targeted protein degradation via 26 S proteasomes.",
@@ -3459,27 +3480,6 @@
       "abstractEn": "The ubiquitin E3 ligase SCF FBXO24 targets key proteins for degradation that regulate important biological processes, but the mechanisms controlling cellular concentrations of its receptor subunit, F-box only protein 24 (FBXO24), remain unknown. Here, Haemophilus influenzae type B (HiB), an important cause of pneumonia, protects FBXO24 from lysosomal degradation in THP-1 macrophage cells by reducing its ubiquitylation levels. We identified that the ubiquitin-specific peptidase 4 (USP4) mediates FBXO24 deubiquitylation and stabilization in response to HiB infection in a TLR4 receptor-dependent manner. In experimental HiB pneumonia, either nanoparticle delivery of encapsulated USP4 siRNA or targeted genetic disruption of Fbxo24 in mice led to increased alveolar mononuclear cells coupled with reduced bacterial loads, attenuated pulmonary edema and decreased lung injury severity compared to control mice. Collectively, these findings demonstrate the ability of a bacterial pathogen to exploit a deubiquitylation mechanism to preserve cellular levels of an E3 ligase component, thereby impairing innate host defense responses.",
       "summaryZh": "泛素 E3 连接酶 SCF FBXO24 以调节重要生物过程的关键蛋白质为目标进行降解，但控制其受体亚基 F-box 唯一蛋白 24 (FBXO24) 细胞浓度的机制仍然未知。在此，B 型流感嗜血杆菌 (HiB) 是肺炎的重要病因，它通过降低 FBXO24 的泛素化水平来保护 FBXO24 免受 THP-1 巨噬细胞中的溶酶体降解。我们发现泛素特异性肽酶 4 (USP4) 以 TLR4 受体依赖性方式介导 FBXO24 去泛素化和稳定化，以响应 HiB 感染。在实验性 HiB 肺炎中，与对照小鼠相比，封装的 USP4 siRNA 的纳米颗粒递送或 Fbxo24 的靶向基因破坏可导致肺泡单核细胞增加，同时细菌负荷减少、肺水肿减轻并降低肺损伤严重程度。总的来说，这些发现证明细菌病原体能够利用去泛素化机制来维持 E3 连接酶成分的细胞水平，从而损害宿主的先天防御反应。",
       "translationSource": "9059199163ddad71"
-    },
-    {
-      "pmid": "42476144",
-      "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
-      "titleZh": "用于微管动力学可逆可视化和可编程控制的单组分光遗传学工具包。",
-      "journal": "Cell Reports Methods",
-      "year": 2026,
-      "published": "2026-07-20",
-      "doi": "10.1016/j.crmeth.2026.101532",
-      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101532",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42476144/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Microtubules form dynamic cytoskeletal scaffolds essential for intracellular transport, organelle positioning, and spatial organization of signaling. Their architecture and function are continuously remodeled through the concerted actions of microtubule-associated proteins (MAPs), post-translational modifications (PTMs), and molecular motors. To precisely interrogate these processes in living systems, we developed a genetically encoded, single-component optogenetic platform for spatiotemporal control of microtubule organization and dynamics. By harnessing light-induced oligomerization to regulate microtubule association, this system supports reversible microtubule labeling and plus-end tracking, localized control of tubulin PTMs, optically regulated kinesin-driven cargo transport, and inducible microtubule severing within a unified design strategy. Using these tools, we reveal how local microtubule integrity governs lysosomal trafficking and endoplasmic reticulum (ER)-associated signaling dynamics. Collectively, this modular optogenetic toolkit bridges molecular design with cytoskeletal function, offering a versatile platform to dissect how dynamic cytoskeletal architectures coordinate intracellular organization, transport, and signaling.",
-      "summaryZh": "微管形成动态细胞骨架支架，对于细胞内运输、细胞器定位和信号传导的空间组织至关重要。它们的结构和功能通过微管相关蛋白（MAP）、翻译后修饰（PTM）和分子马达的协同作用不断重塑。为了精确地探究生命系统中的这些过程，我们开发了一种基因编码的单组分光遗传学平台，用于微管组织和动力学的时空控制。通过利用光诱导的寡聚化来调节微管关联，该系统支持可逆微管标记和加端跟踪、微管蛋白 PTM 的局部控制、光学调节驱动蛋白驱动的货物运输以及统一设计策略中的诱导微管切断。使用这些工具，我们揭示了局部微管完整性如何控制溶酶体运输和内质网 (ER) 相关信号动力学。总的来说，这个模块化光遗传学工具包将分子设计与细胞骨架功能联系起来，提供了一个多功能平台来剖析动态细胞骨架结构如何协调细胞内组织、运输和信号传导。",
-      "translationSource": "c8bc3a5b7df08f56"
     },
     {
       "pmid": "42467786",
