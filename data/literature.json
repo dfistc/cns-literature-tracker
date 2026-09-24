@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-09-23T01:59:21+00:00",
+  "updatedAt": "2026-09-24T01:47:35+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42777087",
+      "title": "The guanine nucleotide exchange factor Rin-like is a repressor for renal uric acid excretion in human and mouse.",
+      "titleZh": "鸟嘌呤核苷酸交换因子 Rin 样是人和小鼠肾脏尿酸排泄的抑制剂。",
+      "journal": "Science Translational Medicine",
+      "year": 2026,
+      "published": "2026-09-23",
+      "doi": "10.1126/scitranslmed.aed1866",
+      "doiUrl": "https://doi.org/10.1126/scitranslmed.aed1866",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42777087/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted degradation",
+        "lysosomal",
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, lysosomal, proteasome。",
+      "abstractEn": "The prevalence of hyperuricemia (HUA) is increasing annually and now affects ∼14% of the population. Uric acid (UA) is the end product of purine metabolism in humans. Either increased production or reduced excretion of UA can induce HUA. Here, we identified RAS and RAB interactor-like (RINL) as a regulator of renal UA excretion and conducted a screen for compounds capable of lowering serum UA concentrations. We found that the human RINL ( hRINL ) Pro 139 →Ser (P139S) mutation was pathogenic for HUA in a familial pedigree. As a guanine nucleotide exchange factor, RINL activated RAB5C in renal tubular epithelial cells. Activated RAB5C promoted the endocytosis and lysosomal degradation of the UA transporter ATP-binding cassette subfamily G member 2, thereby inhibiting renal UA excretion and contributing to the development of HUA. The hRINL (P139S) mutation inhibited proteasome-mediated degradation of hRINL in renal tubular epithelial cells, causing its accumulation, and the homologous mouse RINL ( mRINL ) Pro 140 →Ser (P140S) mutation up-regulated mRINL in mouse kidneys, indicating a gain-of-function mutation. We screened a library of 1500 natural products for RINL inhibitors and, after experimental validation, found that tetrahydrocurcumin bound to RINL and promoted its degradation, thereby ameliorating HUA induced by potassium oxonate treatment, uricase knockout, or secondary to severe malaria and chronic kidney disease in mice. These findings establish RINL as a repressor of UA excretion in both humans and mice and suggest that targeted degradation of RINL represents a promising strategy for HUA treatment.",
+      "summaryZh": "高尿酸血症 (HUA) 的患病率逐年增加，目前影响约 14% 的人口。尿酸（UA）是人体嘌呤代谢的最终产物。 UA 产生增加或排泄减少均可诱发 HUA。在这里，我们确定了 RAS 和 RAB 类相互作用子 (RINL) 作为肾脏 UA 排泄的调节剂，并筛选了能够降低血清 UA 浓度的化合物。我们发现人类 RINL ( hRINL ) Pro 139 →Ser (P139S) 突变对家族谱系中的 HUA 具有致病性。作为鸟嘌呤核苷酸交换因子，RINL 激活肾小管上皮细胞中的 RAB5C。激活的RAB5C促进UA转运蛋白ATP结合盒亚家族G成员2的内吞作用和溶酶体降解，从而抑制肾UA排泄并促进HUA的发生。 hRINL (P139S) 突变抑制肾小管上皮细胞中蛋白酶体介导的 hRINL 降解，导致其积累，同源小鼠 RINL ( mRINL ) Pro 140 →Ser (P140S) 突变上调小鼠肾脏中的 mRINL，表明功能获得性突变。我们筛选了 1500 种天然产物库中的 RINL 抑制剂，经过实验验证，发现四氢姜黄素与 RINL 结合并促进其降解，从而改善小鼠因氧酸钾治疗、尿酸酶敲除或继发于严重疟疾和慢性肾病而引起的 HUA。这些发现表明 RINL 是人类和小鼠中 UA 排泄的抑制因子，并表明 RINL 的靶向降解代表了 HUA 治疗的一种有前途的策略。",
+      "translationSource": "8030b997f2ce1726"
+    },
+    {
+      "pmid": "42772279",
+      "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
+      "titleZh": "地热阿米巴原虫为真核生物设定了新的温度上限。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-09-22",
+      "doi": "10.1016/j.cell.2026.08.043",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.043",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772279/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The study of temperature limits has transformed our understanding of life's boundaries but has focused on bacteria and archaea. For decades after their discovery, no eukaryote was shown to replicate above 60°C. We isolated a geothermal amoeba, Incendiamoeba cascadensis, that divides at 63°C and is motile up to 64°C. We identified an enrichment of genes related to proteostasis and environmental sensing relative to mesophilic amoebae. Comparative RNA sequencing of I. cascadensis revealed upregulation of pathways related to proteostasis, DNA repair, and membrane trafficking at high temperatures. Predicted proteins of I. cascadensis have distinct biophysical properties, including enrichment of positively charged surface residues similar to bacterial and archaeal hyperthermophiles, which suggests a convergent mechanism for protein stability under temperature stress. Together, our findings expand our understanding of where and how life can persist.",
+      "summaryZh": "对温度极限的研究改变了我们对生命边界的理解，但重点关注细菌和古细菌。在他们发现之后的几十年里，没有任何真核生物被证明可以在 60°C 以上的温度下进行复制。我们分离出了一种地热变形虫 Incendiamoebacascadensis，它在 63°C 时分裂，并在高达 64°C 的温度下活动。我们鉴定出与嗜温变形虫相关的蛋白质稳态和环境感知相关基因的富集。 I.cascadensis 的比较 RNA 测序揭示了高温下与蛋白质稳态、DNA 修复和膜运输相关途径的上调。预测的 I.cascadensis 蛋白质具有独特的生物物理特性，包括与细菌和古细菌超嗜热菌类似的带正电表面残基的富集，这表明温度应激下蛋白质稳定性的收敛机制。总之，我们的发现扩展了我们对生命可以在何处以及如何持续存在的理解。",
+      "translationSource": "7d0bf344fb13c65d"
+    },
     {
       "pmid": "42476144",
       "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
@@ -827,6 +872,27 @@
       "translationSource": "4434e4f437b40da3"
     },
     {
+      "pmid": "42624901",
+      "title": "The hallmarks of skeletal muscle health.",
+      "titleZh": "骨骼肌健康的标志。",
+      "journal": "Nature Metabolism",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s42255-026-01595-9",
+      "doiUrl": "https://doi.org/10.1038/s42255-026-01595-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624901/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Skeletal muscle is a central determinant of organismal health. Preserving muscle quality is therefore critical for preventing disease and sustaining quality of life across the lifespan. Despite its central role, the field lacks a unifying framework that defines the core properties of skeletal muscle health. Here, we propose a conceptual framework for muscle homeostasis built around seven interconnected hallmarks-metabolism and bioenergetics, proteostasis, genomics, excitability, structure, regeneration and cross-talk-that collectively govern muscle integrity, adaptability and resilience. Each hallmark is mechanistically grounded, quantifiable and potentially modifiable. This framework provides a unifying blueprint for the next generation of precision diagnostics and targeted therapies for preserving skeletal muscle health.",
+      "summaryZh": "骨骼肌是机体健康的核心决定因素。因此，保持肌肉质量对于预防疾病和维持整个生命周期的生活质量至关重要。尽管发挥着核心作用，但该领域缺乏一个统一的框架来定义骨骼肌健康的核心特性。在这里，我们提出了一个肌肉稳态的概念框架，围绕七个相互关联的特征——代谢和生物能量学、蛋白质稳态、基因组学、兴奋性、结构、再生和串扰——共同控制肌肉的完整性、适应性和恢复力。每个标志都有机械依据、可量化且可能可修改。该框架为下一代精确诊断和维持骨骼肌健康的靶向治疗提供了统一的蓝图。",
+      "translationSource": "ccb37c1e1703a373"
+    },
+    {
       "pmid": "42642514",
       "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo.",
       "titleZh": "在小鼠胚胎中发挥作用的组织特异性哺乳动物增强子的预测设计。",
@@ -1457,6 +1523,27 @@
       "translationSource": "d748eac24c50f68f"
     },
     {
+      "pmid": "42773122",
+      "title": "TOR-NOT4 signalling couples translation to co-translational quality control in plants.",
+      "titleZh": "TOR-NOT4 信号传导将翻译与植物中的共翻译质量控制结合起来。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-24",
+      "doi": "10.1038/s41467-026-77200-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77200-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42773122/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Protein synthesis must be tightly coordinated with quality control to prevent proteotoxic stress, yet the mechanisms underlying co-translational surveillance in plants, and how these are aligned with translational output, remain poorly understood. Here, we identify three NOT4-like E3 ubiquitin ligases in Arabidopsis thaliana as regulators of co-translational protein quality control and uncover a functional link between NOT4 and TARGET OF RAPAMYCIN (TOR) signalling that coordinates quality-control capacity with translational output. Loss of NOT4 function increases basal TOR activity and global translation rates, resulting in the accumulation of polyubiquitylated proteins and heightened sensitivity to proteasome inhibition, TOR inhibition, and protein misfolding stress. Consistent with prior evidence that NOT4 proteins are TOR-regulated phosphotargets, not4 mutants also phenocopy TOR-inhibited wild-type plants for a subset of transcriptional and growth-related processes. Furthermore, elevated translation in NOT4-deficient plants enhances resistance to Pseudomonas syringae pv. tomato. Collectively, our findings reveal a functional coupling between TOR signalling and NOT4 activity that may scale quality control with translational demand to safeguard proteome homoeostasis across eukaryotes.",
+      "summaryZh": "蛋白质合成必须与质量控制紧密协调，以防止蛋白毒性应激，但植物中共翻译监视的机制以及这些机制如何与翻译输出保持一致，仍然知之甚少。在这里，我们在拟南芥中鉴定出三种类似 NOT4 的 E3 泛素连接酶作为共翻译蛋白质量控制的调节剂，并揭示了 NOT4 和雷帕霉素靶标 (TOR) 信号之间的功能联系，该联系协调质量控制能力与翻译输出。 NOT4 功能的丧失会增加基础 TOR 活性和整体翻译率，导致多泛素化蛋白的积累，并提高对蛋白酶体抑制、TOR 抑制和蛋白质错误折叠应激的敏感性。与先前的证据一致，即 NOT4 蛋白是 TOR 调节的磷酸靶标，not4 突变体也对 TOR 抑制的野生型植物的转录和生长相关过程的子集进行表型复制。此外，NOT4 缺陷植物中翻译水平的升高增强了对丁香假单胞菌 pv. 的抗性。番茄。总的来说，我们的研究结果揭示了 TOR 信号传导和 NOT4 活性之间的功能耦合，可以根据翻译需求扩展质量控制，以保障真核生物中蛋白质组的稳态。",
+      "translationSource": "aa9fed987bbf377b"
+    },
+    {
       "pmid": "42680774",
       "title": "YTHDC1 functions as a molecular chaperone to suppress ALS-linked hnRNPA1 mutants from aggregation.",
       "titleZh": "YTHDC1 作为分子伴侣抑制 ALS 连接的 hnRNPA1 突变体聚集。",
@@ -1520,27 +1607,6 @@
       "abstractEn": "Viruses are intracellular parasites that reprogram the host proteome to promote replication and evade immune recognition. We applied a virome-wide library of ~10,000 open reading frames to discover viral ubiquitin ligases, mapping their mechanisms of degradation and host substrates using targeted CRISPR screens and proteomics. These viral effectors could be classified as canonical ligases that mimic host E3s, hijackers that redirect host E3s, and noncanonical ligases that rewire cullin-RING ligase machinery. These diverse strategies of virus-mediated degradation converged on immune-related substrates, including JAK1 and CUL1 β-TrCP , underscoring immune evasion as a major driver of viral ubiquitin ligase evolution. Our findings elucidate viral strategies for exploiting the ubiquitin-proteasome system with potential for therapeutic targeting.",
       "summaryZh": "病毒是细胞内寄生虫，可以重新编程宿主蛋白质组以促进复制并逃避免疫识别。我们应用约 10,000 个开放阅读框的病毒组文库来发现病毒泛素连接酶，并使用靶向 CRISPR 筛选和蛋白质组学绘制其降解机制和宿主底物。这些病毒效应子可分为模仿宿主 E3 的规范连接酶、重定向宿主 E3 的劫持者以及重新连接 cullin-RING 连接酶机制的非规范连接酶。这些病毒介导的降解的不同策略集中在免疫相关底物上，包括 JAK1 和 CUL1 β-TrCP ，强调了免疫逃避是病毒泛素连接酶进化的主要驱动力。我们的研究结果阐明了病毒利用泛素-蛋白酶体系统的策略，具有潜在的治疗靶向作用。",
       "translationSource": "bb4d8fb954ed98e7"
-    },
-    {
-      "pmid": "42624901",
-      "title": "The hallmarks of skeletal muscle health.",
-      "titleZh": "骨骼肌健康的标志。",
-      "journal": "Nature Metabolism",
-      "year": 2026,
-      "published": "2026-08-20",
-      "doi": "10.1038/s42255-026-01595-9",
-      "doiUrl": "https://doi.org/10.1038/s42255-026-01595-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624901/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Skeletal muscle is a central determinant of organismal health. Preserving muscle quality is therefore critical for preventing disease and sustaining quality of life across the lifespan. Despite its central role, the field lacks a unifying framework that defines the core properties of skeletal muscle health. Here, we propose a conceptual framework for muscle homeostasis built around seven interconnected hallmarks-metabolism and bioenergetics, proteostasis, genomics, excitability, structure, regeneration and cross-talk-that collectively govern muscle integrity, adaptability and resilience. Each hallmark is mechanistically grounded, quantifiable and potentially modifiable. This framework provides a unifying blueprint for the next generation of precision diagnostics and targeted therapies for preserving skeletal muscle health.",
-      "summaryZh": "骨骼肌是机体健康的核心决定因素。因此，保持肌肉质量对于预防疾病和维持整个生命周期的生活质量至关重要。尽管发挥着核心作用，但该领域缺乏一个统一的框架来定义骨骼肌健康的核心特性。在这里，我们提出了一个肌肉稳态的概念框架，围绕七个相互关联的特征——代谢和生物能量学、蛋白质稳态、基因组学、兴奋性、结构、再生和串扰——共同控制肌肉的完整性、适应性和恢复力。每个标志都有机械依据、可量化且可能可修改。该框架为下一代精确诊断和维持骨骼肌健康的靶向治疗提供了统一的蓝图。",
-      "translationSource": "ccb37c1e1703a373"
     },
     {
       "pmid": "42764280",
