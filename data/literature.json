@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T01:47:35+00:00",
+  "updatedAt": "2026-09-25T02:04:15+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -26,6 +26,96 @@
       "abstractEn": "The prevalence of hyperuricemia (HUA) is increasing annually and now affects ∼14% of the population. Uric acid (UA) is the end product of purine metabolism in humans. Either increased production or reduced excretion of UA can induce HUA. Here, we identified RAS and RAB interactor-like (RINL) as a regulator of renal UA excretion and conducted a screen for compounds capable of lowering serum UA concentrations. We found that the human RINL ( hRINL ) Pro 139 →Ser (P139S) mutation was pathogenic for HUA in a familial pedigree. As a guanine nucleotide exchange factor, RINL activated RAB5C in renal tubular epithelial cells. Activated RAB5C promoted the endocytosis and lysosomal degradation of the UA transporter ATP-binding cassette subfamily G member 2, thereby inhibiting renal UA excretion and contributing to the development of HUA. The hRINL (P139S) mutation inhibited proteasome-mediated degradation of hRINL in renal tubular epithelial cells, causing its accumulation, and the homologous mouse RINL ( mRINL ) Pro 140 →Ser (P140S) mutation up-regulated mRINL in mouse kidneys, indicating a gain-of-function mutation. We screened a library of 1500 natural products for RINL inhibitors and, after experimental validation, found that tetrahydrocurcumin bound to RINL and promoted its degradation, thereby ameliorating HUA induced by potassium oxonate treatment, uricase knockout, or secondary to severe malaria and chronic kidney disease in mice. These findings establish RINL as a repressor of UA excretion in both humans and mice and suggest that targeted degradation of RINL represents a promising strategy for HUA treatment.",
       "summaryZh": "高尿酸血症 (HUA) 的患病率逐年增加，目前影响约 14% 的人口。尿酸（UA）是人体嘌呤代谢的最终产物。 UA 产生增加或排泄减少均可诱发 HUA。在这里，我们确定了 RAS 和 RAB 类相互作用子 (RINL) 作为肾脏 UA 排泄的调节剂，并筛选了能够降低血清 UA 浓度的化合物。我们发现人类 RINL ( hRINL ) Pro 139 →Ser (P139S) 突变对家族谱系中的 HUA 具有致病性。作为鸟嘌呤核苷酸交换因子，RINL 激活肾小管上皮细胞中的 RAB5C。激活的RAB5C促进UA转运蛋白ATP结合盒亚家族G成员2的内吞作用和溶酶体降解，从而抑制肾UA排泄并促进HUA的发生。 hRINL (P139S) 突变抑制肾小管上皮细胞中蛋白酶体介导的 hRINL 降解，导致其积累，同源小鼠 RINL ( mRINL ) Pro 140 →Ser (P140S) 突变上调小鼠肾脏中的 mRINL，表明功能获得性突变。我们筛选了 1500 种天然产物库中的 RINL 抑制剂，经过实验验证，发现四氢姜黄素与 RINL 结合并促进其降解，从而改善小鼠因氧酸钾治疗、尿酸酶敲除或继发于严重疟疾和慢性肾病而引起的 HUA。这些发现表明 RINL 是人类和小鼠中 UA 排泄的抑制因子，并表明 RINL 的靶向降解代表了 HUA 治疗的一种有前途的策略。",
       "translationSource": "8030b997f2ce1726"
+    },
+    {
+      "pmid": "42743056",
+      "title": "Engineered bacterial outer membrane vesicle vaccine prevents T cell exhaustion for antibacterial immunotherapy.",
+      "titleZh": "工程细菌外膜囊泡疫苗可防止抗菌免疫治疗中 T 细胞耗竭。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-22",
+      "doi": "10.1016/j.celrep.2026.117954",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117954",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743056/",
+      "categories": [
+        "合成生物学",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "engineered bacteria",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria, lysosomal。",
+      "abstractEn": "Gram-negative pathogens evade immune clearance and promote chronic infections by residing intracellularly. While outer membrane vesicles (OMVs) hold promise as antibacterial vaccine platforms, their clinical potential is limited by lysosomal entrapment of antigens and endotoxin-induced toxicity. Herein, we present an innovative nano-encapsulation strategy to engineer OMVs and overcome these two obstacles. We engineered Porphyromonas gingivalis (P. gingivalis) OMVs by incorporating metal ion adjuvants, coordinated with phenolic ligands, to form a rigid, acid-responsive nanoshell. This shell enhances dendritic cell uptake and promotes lysosomal escape, redirecting antigens to cytosolic cross-presentation and reprogramming CD8 + T cell responses through STING signaling. Nano-encapsulation also attenuates endotoxin-induced systemic cytokine storms, reducing lethality. In murine periodontitis, the engineered OMV vaccine lowers P. gingivalis burden, prevents T cell exhaustion, and mitigates inflammatory tissue damage. These findings provide a safe and effective strategy to counteract immune evasion by intracellular pathogens, with promising potential for immunotherapy against chronic bacterial infections.",
+      "summaryZh": "革兰氏阴性病原体通过驻留在细胞内逃避免疫清除并促进慢性感染。虽然外膜囊泡（OMV）有望作为抗菌疫苗平台，但其临床潜力受到抗原溶酶体截留和内毒素诱导的毒性的限制。在此，我们提出了一种创新的纳米封装策略来设计 OMV 并克服这两个障碍。我们通过掺入金属离子佐剂与酚类配体配合来设计牙龈卟啉单胞菌（P.gingivalis）OMV，形成刚性的酸响应性纳米壳。该外壳增强树突状细胞的摄取并促进溶酶体逃逸，将抗原重定向至胞质交叉呈递，并通过 STING 信号传导重新编程 CD8 + T 细胞反应。纳米封装还可以减弱内毒素引起的全身细胞因子风暴，从而降低致死率。在小鼠牙周炎中，工程化 OMV 疫苗可降低牙龈卟啉单胞菌负担，防止 T 细胞耗竭，并减轻炎症组织损伤。这些发现提供了一种安全有效的策略来对抗细胞内病原体的免疫逃避，在针对慢性细菌感染的免疫治疗方面具有广阔的前景。",
+      "translationSource": "bf8cb9584d4f2369"
+    },
+    {
+      "pmid": "42715104",
+      "title": "Mitochondrial Fis1 tunes Rab7A activity via TBC1D15 modulating STING degradation.",
+      "titleZh": "线粒体 Fis1 通过 TBC1D15 调节 STING 降解来调节 Rab7A 活性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-22",
+      "doi": "10.1016/j.celrep.2026.117994",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117994",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42715104/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal。",
+      "abstractEn": "The mechanisms governing the final trafficking steps of the cyclic dinucleotide innate immune receptor stimulator of interferon genes (STING) are not fully understood. Here, we identify the mitochondrial protein Fis1 as a regulator of STING endolysosomal degradation. The absence of Fis1 in HeLa cells stabilizes STING, boosting downstream signaling without affecting its initial endoplasmic reticulum (ER)-to-Golgi traffic. Instead, Fis1 loss impairs STING delivery to endolysosomes. Fis1 recruits the Rab7A-GAP TBC1D15 to mitochondria and upon STING activation, TBC1D15 localization shifts to the Golgi. In the absence of Fis1, the interaction between TBC1D15 and Rab7A is disrupted, leading to decreased Rab7A GTPase activity and impaired STING degradation. Our findings reveal a mitochondria-controlled axis where Fis1 tunes Rab7A activity via TBC1D15, which is required to ensure proper STING degradation, directly linking mitochondria to lysosomal trafficking and the termination of innate immune signaling. Published by Elsevier Inc.",
+      "summaryZh": "干扰素基因环状二核苷酸先天免疫受体刺激剂 (STING) 的最终运输步骤的机制尚不完全清楚。在这里，我们将线粒体蛋白 Fis1 确定为 STING 内溶酶体降解的调节因子。 HeLa 细胞中 Fis1 的缺失可以稳定 STING，增强下游信号传导，而不影响其最初的内质网 (ER) 到高尔基体的运输。相反，Fis1 丢失会损害 STING 向内溶酶体的传递。 Fis1 将 Rab7A-GAP TBC1D15 招募到线粒体，并且在 STING 激活后，TBC1D15 定位转移到高尔基体。在 Fis1 缺失的情况下，TBC1D15 和 Rab7A 之间的相互作用被破坏，导致 Rab7A GTPase 活性降低和 STING 降解受损。我们的研究结果揭示了一个线粒体控制轴，Fis1 通过 TBC1D15 调节 Rab7A 活性，这是确保 STING 正确降解、直接将线粒体与溶酶体运输和先天免疫信号终止联系起来所必需的。由爱思唯尔公司出版",
+      "translationSource": "0950bf0f87584452"
+    },
+    {
+      "pmid": "42709544",
+      "title": "Berberine, a natural molecular glue degrader, overcomes CML resistance via TRIM28-mediated HIF1α ubiquitination and subsequent ferroptosis.",
+      "titleZh": "小檗碱是一种天然分子胶降解剂，通过 TRIM28 介导的 HIF1α 泛素化和随后的铁死亡来克服 CML 耐药性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-22",
+      "doi": "10.1016/j.celrep.2026.117889",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117889",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42709544/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "BCR-ABL1-independent resistance remains a major challenge in chronic myeloid leukemia (CML). These resistant cells exhibit elevated basal reactive oxygen species (ROS), which creates a therapeutic vulnerability. We show that berberine (BBR) acts as a natural molecular glue degrader of Hypoxia-Inducible Factor 1 Alpha (HIF1α) to exploit this vulnerability. BBR directly binds HIF1α at E816, stabilizing its interaction with the E3 ubiquitin ligase TRIM28, which subsequently promotes K48-linked ubiquitination of HIF1α. HIF1α degradation transcriptionally suppresses PDE4D, leading to cyclic AMP (cAMP) accumulation and activation of the xCT axis, depleting glutathione. BBR also induces metallothionein-mediated metal ion dyshomeostasis by upregulating MT1X, MT2A, and SLC30A8 mRNA levels, sequestering Cu 2+ /Zn 2+ and inhibiting SOD1. These effects synergistically upregulate ROS to trigger ferroptosis, overcoming BCR-ABL1-independent resistance in vivo and in vitro. Thus, our findings identify an oxidative stress vulnerability in BCR-ABL1-independent resistant cells and show that BBR, a natural molecular glue degrader, exploits this vulnerability through HIF1α ubiquitination and degradation. This leads to elevated ROS that subsequently triggers ferroptosis, thereby offering a new therapeutic strategy against BCR-ABL1-independent resistance.",
+      "summaryZh": "BCR-ABL1 独立耐药性仍然是慢性粒细胞白血病 (CML) 的主要挑战。这些耐药细胞表现出基础活性氧（ROS）升高，从而造成治疗脆弱性。我们证明小檗碱 (BBR) 可以作为缺氧诱导因子 1 Alpha (HIF1α) 的天然分子胶降解剂来利用此漏洞。 BBR 在 E816 处直接结合 HIF1α，稳定其与 E3 泛素连接酶 TRIM28 的相互作用，随后促进 K48 连接的 HIF1α 泛素化。 HIF1α 降解会在转录上抑制 PDE4D，导致环 AMP (cAMP) 积累并激活 xCT 轴，从而耗尽谷胱甘肽。 BBR 还通过上调 MT1X、MT2A 和 SLC30A8 mRNA 水平、隔离 Cu 2+ /Zn 2+ 和抑制 SOD1 来诱导金属硫蛋白介导的金属离子稳态失调。这些效应协同上调 ROS，引发铁死亡，克服体内和体外不依赖于 BCR-ABL1 的耐药性。因此，我们的研究结果确定了 BCR-ABL1 独立耐药细胞中的氧化应激脆弱性，并表明 BBR（一种天然分子胶降解剂）通过 HIF1α 泛素化和降解利用了这种脆弱性。这导致 ROS 升高，随后引发铁死亡，从而提供了一种针对 BCR-ABL1 独立耐药性的新治疗策略。",
+      "translationSource": "abb27e9c64c94943"
+    },
+    {
+      "pmid": "42684890",
+      "title": "TBK1 phosphorylates HDAC3 to promote NDP52 deacetylation and accelerate intracellular bacterial clearance.",
+      "titleZh": "TBK1 磷酸化 HDAC3，促进 NDP52 脱乙酰化，加速细胞内细菌清除。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-09-22",
+      "doi": "10.1016/j.celrep.2026.117927",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117927",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42684890/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Xenophagy is a selective autophagy process crucial for eliminating intracellular pathogens, yet its regulatory mechanisms remain poorly defined. In this study, acetylome profiling identifies dynamic acetylation of the xenophagy receptor NDP52 at K202, and its deacetylation enhances during Salmonella Typhimurium infection. Acetyltransferase CREBBP/KAT3A and deacetylase HDAC3 reciprocally regulate NDP52 K202 acetylation. Deacetylated NDP52 binds more strongly to ATG8 family proteins (MAP1LC3A/B and GABARAPL2), promotes autophagosome-lysosome fusion and pathogen degradation. Innate immune kinase TBK1 phosphorylates HDAC3 at S424, stabilizes it by inhibiting ubiquitination-dependent degradation, and this regulatory cascade links innate immunity to xenophagy. Liver-specific overexpression of deacetylation-mimetic NDP52 K202R in mice reduces hepatic Salmonella Typhimurium burden, attenuates liver necrosis, and suppresses proinflammatory cytokines. This study uncovers a post-translational modification paradigm in xenophagy, where NDP52 acetylation dynamics fine-tune receptor function in antibacterial responses, highlighting the HDAC3-NDP52 axis as a potential therapeutic target for infectious diseases.",
+      "summaryZh": "异体吞噬是一种选择性自噬过程，对于消除细胞内病原体至关重要，但其调节机制仍不清楚。在这项研究中，乙酰组分析鉴定了异噬受体 NDP52 在 K202 处的动态乙酰化，并且其脱乙酰化在鼠伤寒沙门氏菌感染期间增强。乙酰转移酶 CREBBP/KAT3A 和脱乙酰酶 HDAC3 相互调节 NDP52 K202 乙酰化。去乙酰化的 NDP52 与 ATG8 家族蛋白（MAP1LC3A/B 和 GABARAPL2）结合更牢固，促进自噬体-溶酶体融合和病原体降解。先天免疫激酶 TBK1 在 S424 位点磷酸化 HDAC3，通过抑制泛素化依赖性降解来稳定 HDAC3，这种级联调节将先天免疫与异体吞噬联系起来。小鼠中脱乙酰化模拟 NDP52 K202R 的肝脏特异性过度表达可减少肝脏鼠伤寒沙门氏菌负荷，减轻肝坏死并抑制促炎细胞因子。这项研究揭示了异体吞噬中的翻译后修饰范例，其中 NDP52 乙酰化动态微调抗菌反应中的受体功能，强调 HDAC3-NDP52 轴作为传染病的潜在治疗靶点。",
+      "translationSource": "c387a83c24496f3c"
     },
     {
       "pmid": "42772279",
@@ -441,29 +531,6 @@
       "translationSource": "102647aeb14bb133"
     },
     {
-      "pmid": "42743056",
-      "title": "Engineered bacterial outer membrane vesicle vaccine prevents T cell exhaustion for antibacterial immunotherapy.",
-      "titleZh": "工程细菌外膜囊泡疫苗可防止抗菌免疫治疗中 T 细胞耗竭。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-09-15",
-      "doi": "10.1016/j.celrep.2026.117954",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117954",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42743056/",
-      "categories": [
-        "合成生物学",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "engineered bacteria",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria, lysosomal。",
-      "abstractEn": "Gram-negative pathogens evade immune clearance and promote chronic infections by residing intracellularly. While outer membrane vesicles (OMVs) hold promise as antibacterial vaccine platforms, their clinical potential is limited by lysosomal entrapment of antigens and endotoxin-induced toxicity. Herein, we present an innovative nano-encapsulation strategy to engineer OMVs and overcome these two obstacles. We engineered Porphyromonas gingivalis (P. gingivalis) OMVs by incorporating metal ion adjuvants, coordinated with phenolic ligands, to form a rigid, acid-responsive nanoshell. This shell enhances dendritic cell uptake and promotes lysosomal escape, redirecting antigens to cytosolic cross-presentation and reprogramming CD8 + T cell responses through STING signaling. Nano-encapsulation also attenuates endotoxin-induced systemic cytokine storms, reducing lethality. In murine periodontitis, the engineered OMV vaccine lowers P. gingivalis burden, prevents T cell exhaustion, and mitigates inflammatory tissue damage. These findings provide a safe and effective strategy to counteract immune evasion by intracellular pathogens, with promising potential for immunotherapy against chronic bacterial infections.",
-      "summaryZh": "革兰氏阴性病原体通过驻留在细胞内逃避免疫清除并促进慢性感染。虽然外膜囊泡（OMV）有望作为抗菌疫苗平台，但其临床潜力受到抗原溶酶体截留和内毒素诱导的毒性的限制。在此，我们提出了一种创新的纳米封装策略来设计 OMV 并克服这两个障碍。我们通过掺入金属离子佐剂与酚类配体配合来设计牙龈卟啉单胞菌（P.gingivalis）OMV，形成刚性的酸响应性纳米壳。该外壳增强树突状细胞的摄取并促进溶酶体逃逸，将抗原重定向至胞质交叉呈递，并通过 STING 信号传导重新编程 CD8 + T 细胞反应。纳米封装还可以减弱内毒素引起的全身细胞因子风暴，从而降低致死率。在小鼠牙周炎中，工程化 OMV 疫苗可降低牙龈卟啉单胞菌负担，防止 T 细胞耗竭，并减轻炎症组织损伤。这些发现提供了一种安全有效的策略来对抗细胞内病原体的免疫逃避，在针对慢性细菌感染的免疫治疗方面具有广阔的前景。",
-      "translationSource": "bf8cb9584d4f2369"
-    },
-    {
       "pmid": "42546705",
       "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer.",
       "titleZh": "压力适应性脂质激酶轴定义了神经内分泌前列腺癌的代谢脆弱性。",
@@ -590,51 +657,6 @@
       "abstractEn": "Gene regulatory networks (GRNs) govern many cell processes. While multistability and oscillations are common GRN dynamics, they are typically studied and engineered in isolation. Here, we challenge this separation using the AC-DC circuit, a minimal three-gene network that merges the classical toggle switch and repressilator. Using a thermodynamic formalism and Bayesian inference, we show that a single-inducer version of the circuit displays diverse multifunctional dynamics, including coexistence of oscillations and multistability. We explore robustness, classify emergent behaviors, and analyze critical slowing down. Remarkably, the AC-DC circuit can produce more than thirty topologically distinct bifurcation diagrams, results that challenge the classical view that network topology rigidly constrains dynamical outcomes. This flexibility enables synthetic capabilities coupling hysteresis with oscillations, criticality, and reversibility. By uncovering the potential of minimal genetic circuits and outlining design principles for their implementation, this work opens directions for harnessing emergent complexity using the basic building blocks of life. A record of this paper's transparent peer review process is included in the supplemental information.",
       "summaryZh": "基因调控网络（GRN）控制许多细胞过程。虽然多稳定性和振荡是常见的 GRN 动力学，但它们通常是单独研究和设计的。在这里，我们使用 AC-DC 电路来挑战这种分离，这是一个融合了经典拨动开关和抑制器的最小三基因网络。使用热力学形式和贝叶斯推理，我们证明了电路的单感应器版本显示出多种多功能动力学，包括振荡和多稳定性的共存。我们探索稳健性，对紧急行为进行分类，并分析关键的放缓。值得注意的是，AC-DC 电路可以产生三十多个拓扑不同的分叉图，这些结果挑战了网络拓扑严格限制动态结果的经典观点。这种灵活性使得合成能力能够将滞后与振荡、临界性和可逆性耦合起来。通过揭示最小遗传电路的潜力并概述其实施的设计原则，这项工作为利用生命的基本构建模块驾驭突发的复杂性开辟了方向。补充信息中包含了本文透明同行评审过程的记录。",
       "translationSource": "b07d35d06dd7becc"
-    },
-    {
-      "pmid": "42715104",
-      "title": "Mitochondrial Fis1 tunes Rab7A activity via TBC1D15 modulating STING degradation.",
-      "titleZh": "线粒体 Fis1 通过 TBC1D15 调节 STING 降解来调节 Rab7A 活性。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-09-09",
-      "doi": "10.1016/j.celrep.2026.117994",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117994",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42715104/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "endolysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal。",
-      "abstractEn": "The mechanisms governing the final trafficking steps of the cyclic dinucleotide innate immune receptor stimulator of interferon genes (STING) are not fully understood. Here, we identify the mitochondrial protein Fis1 as a regulator of STING endolysosomal degradation. The absence of Fis1 in HeLa cells stabilizes STING, boosting downstream signaling without affecting its initial endoplasmic reticulum (ER)-to-Golgi traffic. Instead, Fis1 loss impairs STING delivery to endolysosomes. Fis1 recruits the Rab7A-GAP TBC1D15 to mitochondria and upon STING activation, TBC1D15 localization shifts to the Golgi. In the absence of Fis1, the interaction between TBC1D15 and Rab7A is disrupted, leading to decreased Rab7A GTPase activity and impaired STING degradation. Our findings reveal a mitochondria-controlled axis where Fis1 tunes Rab7A activity via TBC1D15, which is required to ensure proper STING degradation, directly linking mitochondria to lysosomal trafficking and the termination of innate immune signaling. Published by Elsevier Inc.",
-      "summaryZh": "干扰素基因环状二核苷酸先天免疫受体刺激剂 (STING) 的最终运输步骤的机制尚不完全清楚。在这里，我们将线粒体蛋白 Fis1 确定为 STING 内溶酶体降解的调节因子。 HeLa 细胞中 Fis1 的缺失可以稳定 STING，增强下游信号传导，而不影响其最初的内质网 (ER) 到高尔基体的运输。相反，Fis1 丢失会损害 STING 向内溶酶体的传递。 Fis1 将 Rab7A-GAP TBC1D15 招募到线粒体，并且在 STING 激活后，TBC1D15 定位转移到高尔基体。在 Fis1 缺失的情况下，TBC1D15 和 Rab7A 之间的相互作用被破坏，导致 Rab7A GTPase 活性降低和 STING 降解受损。我们的研究结果揭示了一个线粒体控制轴，Fis1 通过 TBC1D15 调节 Rab7A 活性，这是确保 STING 正确降解、直接将线粒体与溶酶体运输和先天免疫信号终止联系起来所必需的。由爱思唯尔公司出版",
-      "translationSource": "0950bf0f87584452"
-    },
-    {
-      "pmid": "42709544",
-      "title": "Berberine, a natural molecular glue degrader, overcomes CML resistance via TRIM28-mediated HIF1α ubiquitination and subsequent ferroptosis.",
-      "titleZh": "小檗碱是一种天然分子胶降解剂，通过 TRIM28 介导的 HIF1α 泛素化和随后的铁死亡来克服 CML 耐药性。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-09-08",
-      "doi": "10.1016/j.celrep.2026.117889",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117889",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42709544/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue degrader",
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
-      "abstractEn": "BCR-ABL1-independent resistance remains a major challenge in chronic myeloid leukemia (CML). These resistant cells exhibit elevated basal reactive oxygen species (ROS), which creates a therapeutic vulnerability. We show that berberine (BBR) acts as a natural molecular glue degrader of Hypoxia-Inducible Factor 1 Alpha (HIF1α) to exploit this vulnerability. BBR directly binds HIF1α at E816, stabilizing its interaction with the E3 ubiquitin ligase TRIM28, which subsequently promotes K48-linked ubiquitination of HIF1α. HIF1α degradation transcriptionally suppresses PDE4D, leading to cyclic AMP (cAMP) accumulation and activation of the xCT axis, depleting glutathione. BBR also induces metallothionein-mediated metal ion dyshomeostasis by upregulating MT1X, MT2A, and SLC30A8 mRNA levels, sequestering Cu 2+ /Zn 2+ and inhibiting SOD1. These effects synergistically upregulate ROS to trigger ferroptosis, overcoming BCR-ABL1-independent resistance in vivo and in vitro. Thus, our findings identify an oxidative stress vulnerability in BCR-ABL1-independent resistant cells and show that BBR, a natural molecular glue degrader, exploits this vulnerability through HIF1α ubiquitination and degradation. This leads to elevated ROS that subsequently triggers ferroptosis, thereby offering a new therapeutic strategy against BCR-ABL1-independent resistance.",
-      "summaryZh": "BCR-ABL1 独立耐药性仍然是慢性粒细胞白血病 (CML) 的主要挑战。这些耐药细胞表现出基础活性氧（ROS）升高，从而造成治疗脆弱性。我们证明小檗碱 (BBR) 可以作为缺氧诱导因子 1 Alpha (HIF1α) 的天然分子胶降解剂来利用此漏洞。 BBR 在 E816 处直接结合 HIF1α，稳定其与 E3 泛素连接酶 TRIM28 的相互作用，随后促进 K48 连接的 HIF1α 泛素化。 HIF1α 降解会在转录上抑制 PDE4D，导致环 AMP (cAMP) 积累并激活 xCT 轴，从而耗尽谷胱甘肽。 BBR 还通过上调 MT1X、MT2A 和 SLC30A8 mRNA 水平、隔离 Cu 2+ /Zn 2+ 和抑制 SOD1 来诱导金属硫蛋白介导的金属离子稳态失调。这些效应协同上调 ROS，引发铁死亡，克服体内和体外不依赖于 BCR-ABL1 的耐药性。因此，我们的研究结果确定了 BCR-ABL1 独立耐药细胞中的氧化应激脆弱性，并表明 BBR（一种天然分子胶降解剂）通过 HIF1α 泛素化和降解利用了这种脆弱性。这导致 ROS 升高，随后引发铁死亡，从而提供了一种针对 BCR-ABL1 独立耐药性的新治疗策略。",
-      "translationSource": "abb27e9c64c94943"
     },
     {
       "pmid": "42696591",
@@ -827,28 +849,6 @@
       "abstractEn": "Endosymbiosis has spurred the evolution of new organelles across life. Corals and other cnidarians have repeatedly evolved an organelle, called the symbiosome, which houses intracellular algal symbionts. However, the molecular mechanisms enabling this repeated evolution remain unclear. Using the sea anemone Aiptasia, we generated a high-quality proteome of the symbiosome, revealing protein trafficking mechanisms and the types of biomolecules exchanged during symbiosis. Symbiosomal enrichment of lysosomal proteins, visualization of lysosomal fusion, and reduced symbiosis following knockdown of lysosomal genes indicate that the symbiosome functions through extensive co-option of lysosomal proteins. We identified a symbiosomal bicarbonate/sulfate transporter, SLC26A11, and showed through CRISPR/Cas9 mutagenesis that this lysosomal transporter is required for symbiosis in Aiptasia and a reef-building coral. Together, these findings reveal that corals and anemones have repeatedly co-opted lysosomal proteins to concentrate carbon and shuttle metabolites to support photosymbiosis, providing a relatively simple path for the repeated evolution of new photosymbioses.",
       "summaryZh": "内共生刺激了生命中新细胞器的进化。珊瑚和其他刺胞动物不断进化出一种称为共生体的细胞器，其中含有细胞内藻类共生体。然而，实现这种重复进化的分子机制仍不清楚。利用海葵 Aiptasia，我们生成了高质量的共生体蛋白质组，揭示了蛋白质运输机制和共生过程中交换的生物分子类型。溶酶体蛋白的共生体富集、溶酶体融合的可视化以及溶酶体基因敲低后共生的减少表明，共生体通过溶酶体蛋白的广泛共同选择而发挥作用。我们鉴定了一种共生体碳酸氢盐/硫酸盐转运蛋白 SLC26A11，并通过 CRISPR/Cas9 诱变表明，这种溶酶体转运蛋白是 Aiptasia 和造礁珊瑚共生所必需的。总之，这些发现表明，珊瑚和海葵反复选择溶酶体蛋白来浓缩碳和穿梭代谢物以支持光共生，为新光共生的重复进化提供了相对简单的途径。",
       "translationSource": "30d8d2e625181149"
-    },
-    {
-      "pmid": "42684890",
-      "title": "TBK1 phosphorylates HDAC3 to promote NDP52 deacetylation and accelerate intracellular bacterial clearance.",
-      "titleZh": "TBK1 磷酸化 HDAC3，促进 NDP52 脱乙酰化，加速细胞内细菌清除。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-09-02",
-      "doi": "10.1016/j.celrep.2026.117927",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.117927",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42684890/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
-      "abstractEn": "Xenophagy is a selective autophagy process crucial for eliminating intracellular pathogens, yet its regulatory mechanisms remain poorly defined. In this study, acetylome profiling identifies dynamic acetylation of the xenophagy receptor NDP52 at K202, and its deacetylation enhances during Salmonella Typhimurium infection. Acetyltransferase CREBBP/KAT3A and deacetylase HDAC3 reciprocally regulate NDP52 K202 acetylation. Deacetylated NDP52 binds more strongly to ATG8 family proteins (MAP1LC3A/B and GABARAPL2), promotes autophagosome-lysosome fusion and pathogen degradation. Innate immune kinase TBK1 phosphorylates HDAC3 at S424, stabilizes it by inhibiting ubiquitination-dependent degradation, and this regulatory cascade links innate immunity to xenophagy. Liver-specific overexpression of deacetylation-mimetic NDP52 K202R in mice reduces hepatic Salmonella Typhimurium burden, attenuates liver necrosis, and suppresses proinflammatory cytokines. This study uncovers a post-translational modification paradigm in xenophagy, where NDP52 acetylation dynamics fine-tune receptor function in antibacterial responses, highlighting the HDAC3-NDP52 axis as a potential therapeutic target for infectious diseases.",
-      "summaryZh": "异体吞噬是一种选择性自噬过程，对于消除细胞内病原体至关重要，但其调节机制仍不清楚。在这项研究中，乙酰组分析鉴定了异噬受体 NDP52 在 K202 处的动态乙酰化，并且其脱乙酰化在鼠伤寒沙门氏菌感染期间增强。乙酰转移酶 CREBBP/KAT3A 和脱乙酰酶 HDAC3 相互调节 NDP52 K202 乙酰化。去乙酰化的 NDP52 与 ATG8 家族蛋白（MAP1LC3A/B 和 GABARAPL2）结合更牢固，促进自噬体-溶酶体融合和病原体降解。先天免疫激酶 TBK1 在 S424 位点磷酸化 HDAC3，通过抑制泛素化依赖性降解来稳定 HDAC3，这种级联调节将先天免疫与异体吞噬联系起来。小鼠中脱乙酰化模拟 NDP52 K202R 的肝脏特异性过度表达可减少肝脏鼠伤寒沙门氏菌负荷，减轻肝坏死并抑制促炎细胞因子。这项研究揭示了异体吞噬中的翻译后修饰范例，其中 NDP52 乙酰化动态微调抗菌反应中的受体功能，强调 HDAC3-NDP52 轴作为传染病的潜在治疗靶点。",
-      "translationSource": "c387a83c24496f3c"
     },
     {
       "pmid": "42685690",
@@ -1193,6 +1193,33 @@
       "translationSource": "2805b4a7bbf217b4"
     },
     {
+      "pmid": "42557329",
+      "title": "DCAF11-dependent molecular glue degrader activated by glutathionylation.",
+      "titleZh": "由谷胱甘肽激活的 DCAF11 依赖性分子胶降解剂。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41586-026-10873-1",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10873-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557329/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "targeted degradation",
+        "molecular glue degrader",
+        "molecular glue",
+        "proteasome",
+        "ubiquitin proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, targeted degradation, molecular glue degrader, molecular glue, proteasome, ubiquitin proteasome。",
+      "abstractEn": "Targeted protein degradation is a powerful pharmacological strategy that harnesses the ubiquitin proteasome system to eliminate disease-relevant proteins, including otherwise undruggable proteins 1 . Here we report an unbiased and broadly applicable platform for the systematic discovery of molecular glues across diverse E3 ligases. Using multiplexed mass spectrometry-based chemical screening, we identified M12, a molecular glue that reprogrammes the E3 ligase DCAF11 to degrade DDX18. Mechanistically, M12 functions as a prodrug that is activated through glutathione S-transferase-mediated glutathionylation. The glutathione moiety binds to an evolutionary conserved glutathione-binding site on DCAF11, and the exposed M12 moiety facilitates neo-substrate recruitment. We demonstrate that this glutathione-dependent mechanism readily enables targeted degradation of a range of proteins. Collectively, these findings establish that metabolically activated compounds can redirect E3 ligase function, thereby expanding the scope of targeted protein degradation and chemically induced proximity.",
+      "summaryZh": "靶向蛋白质降解是一种强大的药理学策略，它利用泛素蛋白酶体系统来消除与疾病相关的蛋白质，包括其他不可成药的蛋白质 1 。在这里，我们报告了一个公正且广泛适用的平台，用于系统地发现跨不同 E3 连接酶的分子胶。使用基于多重质谱的化学筛选，我们鉴定了 M12，一种分子胶，可对 E3 连接酶 DCAF11 进行重编程以降解 DDX18。从机制上讲，M12 作为前药发挥作用，通过谷胱甘肽 S-转移酶介导的谷胱甘肽酰化被激活。谷胱甘肽部分与 DCAF11 上进化保守的谷胱甘肽结合位点结合，暴露的 M12 部分有利于新底物的招募。我们证明这种谷胱甘肽依赖性机制很容易实现一系列蛋白质的定向降解。总的来说，这些发现证实代谢激活的化合物可以重新定向 E3 连接酶的功能，从而扩大目标蛋白质降解和化学诱导接近的范围。",
+      "translationSource": "1bfedb09cc0a77b6"
+    },
+    {
       "pmid": "42557317",
       "title": "FNIP1 variants are associated with favourable metabolism in 1 million humans.",
       "titleZh": "FNIP1 变异与 100 万人的良好新陈代谢有关。",
@@ -1521,6 +1548,50 @@
       "abstractEn": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
       "summaryZh": "在额颞叶痴呆和肌萎缩侧索硬化症等神经退行性疾病中，Tau 和 TDP-43 等病理形式的蛋白质在细胞内大量异质包涵体中积累。目前消除患者体内此类异常蛋白质种类的策略面临三个主要挑战：穿过血脑屏障和质膜，专门识别蛋白质的病理形式，以及消除大实体的机制。在这里，我们将 LC3A（一种将底物招募到自噬体中的中心蛋白）与细胞质稳定的抗体融合。这些针对 Tau 或 TDP-43 的工程化自噬受体通过小细胞外囊泡进行递送，并减少模型中的病理学，包括 Tau P301S 成年原代小鼠神经元、TDP-43 G298S iPSC 衍生的运动神经元以及 Tau P301S 小鼠静脉注射后的病理。同样，TDP-43 ΔNLS 小鼠中腺相关病毒介导的递送增强了病理性 TDP-43 的清除。这种有针对性的降解策略允许将其输送到大脑中，同时利用抗体的特异性和自噬降解大型细胞内实体的能力。",
       "translationSource": "d748eac24c50f68f"
+    },
+    {
+      "pmid": "42778578",
+      "title": "SPOP-mediated ZMYND8 ubiquitination and phase separation exclusion drives mTOR inhibitor resistance in kidney cancer.",
+      "titleZh": "SPOP 介导的 ZMYND8 泛素化和相分离排除导致肾癌中 mTOR 抑制剂耐药。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-25",
+      "doi": "10.1038/s41467-026-77043-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77043-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42778578/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac",
+        "proteolysis-targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac, proteolysis-targeting chimera。",
+      "abstractEn": "mTOR inhibitors including everolimus and temsirolimus have been approved by US FDA for treatment of clear cell renal cell carcinoma (ccRCC) in clinic. However, resistance to these drugs has been inevitable and the underlying mechanism remains poorly understood. Histone modifier ZMYND8 paradoxically acts as a transcription coactivator or corepressor. Here we show that SPOP, a CULLIN3-RING E3 ubiquitin ligase (CRL) substrate-binding protein that is often overexpressed in ccRCC in patients, promotes K63-linked polyubiquitination of ZMYND8 at lysine 398, which inhibits ZMYND8 to form phase separation compartments and drives the formation of ZMYND8-ZHX2 transactivation complex, resulting in aberrant NEK7 kinase gene transcription, alternative activation of p70S6K, and mTOR inhibitor-resistant cell growth. Inhibition of either SPOP or NEK7 increases ccRCC cell sensitivity to mTOR inhibitor. Treatment with a NEK7 proteolysis-targeting chimera (PROTAC) effectively inhibits aberrant p70S6K activation and overcame everolimus resistance in ccRCC cells in vitro and in mice. Our findings uncover a function switch of ZMYND8 driven by overexpressed SPOP as a key mechanism that causes mTOR inhibitor resistance and nominate NEK7 as a potential target of thwarting mTOR inhibitor resistance in ccRCC.",
+      "summaryZh": "mTOR抑制剂包括依维莫司和替西罗莫司已被美国FDA批准用于临床治疗透明细胞肾细胞癌（ccRCC）。然而，对这些药物的耐药性是不可避免的，并且其潜在机制仍知之甚少。组蛋白修饰剂 ZMYND8 矛盾地充当转录共激活子或辅阻遏物。在这里，我们发现 SPOP 是一种 CULLIN3-RING E3 泛素连接酶 (CRL) 底物结合蛋白，通常在 ccRCC 患者中过表达，可促进 ZMYND8 在赖氨酸 398 处的 K63 连接多泛素化，从而抑制 ZMYND8 形成相分离区室并驱动 ZMYND8-ZHX2 反式激活复合物的形成，从而导致 NEK7 激酶基因转录异常。 p70S6K 的激活和 mTOR 抑制剂抗性细胞生长。抑制 SPOP 或 NEK7 会增加 ccRCC 细胞对 mTOR 抑制剂的敏感性。使用 NEK7 蛋白水解靶向嵌合体 (PROTAC) 进行治疗可有效抑制体外和小鼠体内 ccRCC 细胞的异常 p70S6K 激活并克服依维莫司耐药性。我们的研究结果揭示了由过度表达的 SPOP 驱动的 ZMYND8 功能开关是导致 mTOR 抑制剂耐药性的关键机制，并提名 NEK7 作为阻止 ccRCC 中 mTOR 抑制剂耐药性的潜在靶点。",
+      "translationSource": "352f167115c09003"
+    },
+    {
+      "pmid": "42778564",
+      "title": "Unc-51 like kinase 3 (ULK3) contributes to autophagy and cell survival in multiple myeloma.",
+      "titleZh": "Unc-51 样激酶 3 (ULK3) 有助于多发性骨髓瘤中的自噬和细胞存活。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-25",
+      "doi": "10.1038/s41467-026-76711-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-76711-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42778564/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, autophagy。",
+      "abstractEn": "Despite effective therapies such as proteasome inhibitors, multiple myeloma (MM) patients relapse with refractory disease. Analysis of RNA sequencing data from CD138 + MM patient cells (n = 813) across disease stages identifies an autophagy gene signature. Particularly elevated ULK3 expression is strongly associated with disease progression. Functional studies reveal that ULK3 supports MM cell survival via the ULK-ATG13-FIP200 complex. We generate small-molecule kinase inhibitors (SG3-014/MA9-060) exhibiting nanomolar potency against ULK3, with binding confirmed by co-crystallization. While exhibiting multikinase activity, pharmacologic targeting reduces MM burden in vivo, improves survival, and mitigates MM-associated bone disease. Here, we also show that MA9-060 enhances sensitivity to proteasome inhibitors in resistant MM cells, with effects confirmed ex vivo in primary patient samples, particularly those with high ULK3 expression. These findings implicate ULK3-associated autophagy in MM progression and support further evaluation of ULK3-directed kinase inhibition as a therapeutic strategy in newly diagnosed and refractory MM.",
+      "summaryZh": "尽管有蛋白酶体抑制剂等有效疗法，多发性骨髓瘤 (MM) 患者仍会出现难治性疾病复发。对不同疾病阶段的 CD138 + MM 患者细胞 (n = 813) 的 RNA 测序数据进行分析，确定了自噬基因特征。特别是 ULK3 表达升高与疾病进展密切相关。功能研究表明，ULK3 通过 ULK-ATG13-FIP200 复合物支持 MM 细胞存活。我们生成了小分子激酶抑制剂 (SG3-014/MA9-060)，对 ULK3 表现出纳摩尔级效力，并通过共结晶证实了结合。在表现出多激酶活性的同时，药物靶向可减少体内 MM 负担、提高生存率并减轻 MM 相关骨病。在这里，我们还表明 MA9-060 增强了耐药 MM 细胞对蛋白酶体抑制剂的敏感性，其效果在主要患者样本（尤其是 ULK3 高表达的样本）中得到了离体证实。这些发现表明 ULK3 相关的自噬与 MM 进展有关，并支持进一步评估 ULK3 导向的激酶抑制作为新诊断和难治性 MM 的治疗策略。",
+      "translationSource": "e890981a1d666d33"
     },
     {
       "pmid": "42773122",
@@ -2462,33 +2533,6 @@
       "abstractEn": "Tumor-initiating cells (TICs) promote tumor initiation and therapy resistance, yet the kinase regulators that sustain TICs remain incompletely defined. Here, we identify the stress kinase p38β (MAPK11) supports TIC maintenance and drug resistance in hepatocellular carcinoma (HCC). Integrated analysis of chemotherapy-enriched HCC spheroids, and DepMap data prioritized p38β as a kinase linked to stemness and chemoresistance. High p38β expression correlates with poor prognosis and aggressive clinicopathological features in HCC patients. Mechanistically, p38β phosphorylates the endoplasmic reticulum (ER) chaperone BiP at threonine 648, enhancing its association with the unfolded protein response (UPR) sensors PERK and IRE1-α. This modification suppresses UPR activation and reduces unfolded protein accumulation, thereby preserving ER proteostasis under chemotherapeutic stress. Functionally, p38β-driven BiP phosphorylation sustains TIC phenotypes and cisplatin resistance in vitro and in vivo. BiP inhibition with HA15 restores UPR signaling and sensitizes patient-derived xenograft and organoid models to cisplatin, revealing a targetable p38β-BiP axis in HCC.",
       "summaryZh": "肿瘤起始细胞 (TIC) 促进肿瘤发生和治疗耐药，但维持 TIC 的激酶调节因子仍未完全确定。在这里，我们确定了应激激酶 p38β (MAPK11) 支持肝细胞癌 (HCC) 中的 TIC 维持和耐药性。对富含化疗的 HCC 球体的综合分析和 DepMap 数据优先考虑 p38β 作为与干细胞性和化疗耐药性相关的激酶。 p38β 高表达与 HCC 患者的不良预后和侵袭性临床病理特征相关。从机制上讲，p38β 在苏氨酸 648 处磷酸化内质网 (ER) 伴侣 BiP，增强其与未折叠蛋白反应 (UPR) 传感器 PERK 和 IRE1-α 的关联。这种修饰抑制 UPR 激活并减少未折叠蛋白的积累，从而在化疗应激下保持 ER 蛋白质稳态。从功能上来说，p38β 驱动的 BiP 磷酸化在体外和体内维持 TIC 表型和顺铂耐药性。 HA15 抑制 BiP 可恢复 UPR 信号传导并使患者来源的异种移植物和类器官模型对顺铂敏感，揭示 HCC 中的可靶向 p38β-BiP 轴。",
       "translationSource": "6c75d5577adb49c7"
-    },
-    {
-      "pmid": "42557329",
-      "title": "DCAF11-dependent molecular glue degrader activated by glutathionylation.",
-      "titleZh": "由谷胱甘肽激活的 DCAF11 依赖性分子胶降解剂。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-08-05",
-      "doi": "10.1038/s41586-026-10873-1",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10873-1",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557329/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "targeted degradation",
-        "molecular glue degrader",
-        "molecular glue",
-        "proteasome",
-        "ubiquitin proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, targeted degradation, molecular glue degrader, molecular glue, proteasome, ubiquitin proteasome。",
-      "abstractEn": "Targeted protein degradation is a powerful pharmacological strategy that harnesses the ubiquitin proteasome system to eliminate disease-relevant proteins, including otherwise undruggable proteins 1 . Here we report an unbiased and broadly applicable platform for the systematic discovery of molecular glues across diverse E3 ligases. Using multiplexed mass spectrometry-based chemical screening, we identified M12, a molecular glue that reprogrammes the E3 ligase DCAF11 to degrade DDX18. Mechanistically, M12 functions as a prodrug that is activated through glutathione S-transferase-mediated glutathionylation. The glutathione moiety binds to an evolutionary conserved glutathione-binding site on DCAF11, and the exposed M12 moiety facilitates neo-substrate recruitment. We demonstrate that this glutathione-dependent mechanism readily enables targeted degradation of a range of proteins. Collectively, these findings establish that metabolically activated compounds can redirect E3 ligase function, thereby expanding the scope of targeted protein degradation and chemically induced proximity.",
-      "summaryZh": "靶向蛋白质降解是一种强大的药理学策略，它利用泛素蛋白酶体系统来消除与疾病相关的蛋白质，包括其他不可成药的蛋白质 1 。在这里，我们报告了一个公正且广泛适用的平台，用于系统地发现跨不同 E3 连接酶的分子胶。使用基于多重质谱的化学筛选，我们鉴定了 M12，一种分子胶，可对 E3 连接酶 DCAF11 进行重编程以降解 DDX18。从机制上讲，M12 作为前药发挥作用，通过谷胱甘肽 S-转移酶介导的谷胱甘肽酰化被激活。谷胱甘肽部分与 DCAF11 上进化保守的谷胱甘肽结合位点结合，暴露的 M12 部分有利于新底物的招募。我们证明这种谷胱甘肽依赖性机制很容易实现一系列蛋白质的定向降解。总的来说，这些发现证实代谢激活的化合物可以重新定向 E3 连接酶的功能，从而扩大目标蛋白质降解和化学诱导接近的范围。",
-      "translationSource": "1bfedb09cc0a77b6"
     },
     {
       "pmid": "42557318",
@@ -4348,6 +4392,29 @@
       "translationSource": "5cddf4ea93bcfb6e"
     },
     {
+      "pmid": "42271059",
+      "title": "Molecular glue degraders of HuR suppress BRAF-mutant colorectal cancer.",
+      "titleZh": "HuR 的分子胶降解剂可抑制 BRAF 突变型结直肠癌。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-07-01",
+      "doi": "10.1038/s41586-026-10613-5",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10613-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42271059/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, degron。",
+      "abstractEn": "BRAF gain-of-function mutations, particularly BRAF(V600E), affect roughly 10% of all patients with colorectal cancer (CRC), and portend poor prognosis with limited therapeutic interventions. BRAF inhibitors such as encorafenib are ineffective due to MAPK pathway reactivation driven by BRAF dimerization. Combined inhibition of BRAF and EGFR, although approved therapies, results in short survival benefits and frequent treatment resistance and relapse 1-3 . Here, through rational chemical library design coupled with parallel proteomic screening, we identified dHuR as a molecular glue degrader of human antigen R (HuR), an RNA-binding protein that drives tumour growth, invasion and therapy resistance. dHuR binds to the CRBN ubiquitin ligase to create a unique benzofuran-tethered composite surface to recruit HuR as a neosubstrate by engaging its β-hairpin G-loop degron, as revealed by the cryo-electron microscopy structure of the ternary complex. dHuR abrogated BRAF expression by inducing its exon 18 skipping, and demonstrated superior suppression of BRAF-mutant CRC tumours including those gaining resistance to BRAF inhibitors. Finally, we performed kinome library CRISPR screening and revealed that inactivation of EGFR or MEK enhanced dHuR cytotoxicity, thus establishing a combinatorial strategy to treat patients with refractory BRAF-mutant CRC.",
+      "summaryZh": "BRAF 功能获得性突变，尤其是 BRAF(V600E)，影响大约 10% 的结直肠癌 (CRC) 患者，并且预示着治疗干预措施有限的预后不良。由于 BRAF 二聚化驱动的 MAPK 通路重新激活，BRAF 抑制剂（例如 encorafenib）无效。 BRAF 和 EGFR 的联合抑制虽然已获得批准，但会导致短期生存获益以及频繁的治疗耐药和复发 1-3 。在这里，通过合理的化学文库设计结合平行蛋白质组学筛选，我们确定 dHuR 是人类抗原 R (HuR) 的分子胶降解剂，HuR 是一种驱动肿瘤生长、侵袭和治疗抵抗的 RNA 结合蛋白。 dHuR 与 CRBN 泛素连接酶结合，形成独特的苯并呋喃系留复合表面，通过结合其 β-发夹 G 环降解决定子来招募 HuR 作为新底物，如三元复合物的冷冻电子显微镜结构所示。 dHuR 通过诱导其外显子 18 跳跃来消除 BRAF 表达，并表现出对 BRAF 突变的 CRC 肿瘤（包括对 BRAF 抑制剂产生耐药性的肿瘤）的卓越抑制作用。最后，我们进行了激酶组文库 CRISPR 筛选，发现 EGFR 或 MEK 失活增强了 dHuR 细胞毒性，从而建立了治疗难治性 BRAF 突变 CRC 患者的组合策略。",
+      "translationSource": "99f33e53efcf7e97"
+    },
+    {
       "pmid": "42387167",
       "title": "Towards the construction of a virtual yeast.",
       "titleZh": "致力于构建虚拟酵母。",
@@ -4388,29 +4455,6 @@
       "abstractEn": "Stimulator of interferon genes (STING) is an evolutionary conserved immune signalling protein with key roles in host defence, cancer, senescence and inflammation 1-3 . Downstream of STING, type I interferon, inflammatory cytokine signalling and non-canonical autophagy are governed by a multilayered mechanism integrating ligand-induced structural transitions, protein-protein interactions and coordinated intracellular trafficking 4-13 . Despite its central role in immunity and relevance as therapeutic target 14 , the sequence elements that govern STING (in)activation in cells remain incompletely understood. Here we developed a massively parallel assay to systematically chart the sequence-function landscape of STING. Profiling thousands of single amino-acid variants, we identified structural and functional determinants that shape the immunostimulatory capacity of STING and its ability to translate ligand recognition into distinct signalling outputs. Cryogenic-electron microscopy structures of select STING hyperactive variants revealed new regulatory principles dictating conformational transition from inactive to signalling-competent states of STING. Mutational effects are widespread across the functional landscape and can sensitize STING towards the natural ligand 2'3'-cGAMP 15-18 or decouple interferon induction from non-canonical autophagy, demonstrating a diversity of possible responses that can be accessed through single point substitutions. Finally, our data showed the clinical and evolutionary relevance of naturally occurring STING protein variants. Collectively, these findings define molecular principles that tune STING activity and chart the landscape of its functional potential across immune contexts.",
       "summaryZh": "干扰素基因刺激物 (STING) 是一种进化保守的免疫信号蛋白，在宿主防御、癌症、衰老和炎症中发挥关键作用 1-3 。 STING 下游、I 型干扰素、炎性细胞因子信号传导和非典型自噬受多层机制的控制，该机制整合了配体诱导的结构转变、蛋白质-蛋白质相互作用和协调的细胞内运输 4-13 。尽管其在免疫中发挥核心作用并作为治疗靶标 14 ，但控制细胞中 STING (in) 激活的序列元件仍不完全清楚。在这里，我们开发了一种大规模并行分析来系统地绘制 STING 的序列功能图谱。通过分析数千个单一氨基酸变体，我们确定了影响 STING 免疫刺激能力及其将配体识别转化为不同信号输出的能力的结构和功能决定因素。选择 STING 高度活跃变体的低温电子显微镜结构揭示了新的调控原则，决定了 STING 从非活性状态到信号传导状态的构象转变。突变效应在整个功能领域广泛存在，可以使 STING 对天然配体 2'3'-cGAMP 15-18 敏感，或将干扰素诱导与非典型自噬解耦，从而证明可以通过单点替换获得多种可能的反应。最后，我们的数据显示了自然发生的 STING 蛋白变体的临床和进化相关性。总的来说，这些发现定义了调节 STING 活性的分子原理，并绘制了其在免疫环境中的功能潜力图谱。",
       "translationSource": "c6a8a481f3f69fa6"
-    },
-    {
-      "pmid": "42271059",
-      "title": "Molecular glue degraders of HuR suppress BRAF-mutant colorectal cancer.",
-      "titleZh": "HuR 的分子胶降解剂可抑制 BRAF 突变型结直肠癌。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-07-01",
-      "doi": "10.1038/s41586-026-10613-5",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10613-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42271059/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue degrader",
-        "molecular glue",
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, degron。",
-      "abstractEn": "BRAF gain-of-function mutations, particularly BRAF(V600E), affect roughly 10% of all patients with colorectal cancer (CRC), and portend poor prognosis with limited therapeutic interventions. BRAF inhibitors such as encorafenib are ineffective due to MAPK pathway reactivation driven by BRAF dimerization. Combined inhibition of BRAF and EGFR, although approved therapies, results in short survival benefits and frequent treatment resistance and relapse 1-3 . Here, through rational chemical library design coupled with parallel proteomic screening, we identified dHuR as a molecular glue degrader of human antigen R (HuR), an RNA-binding protein that drives tumour growth, invasion and therapy resistance. dHuR binds to the CRBN ubiquitin ligase to create a unique benzofuran-tethered composite surface to recruit HuR as a neosubstrate by engaging its β-hairpin G-loop degron, as revealed by the cryo-electron microscopy structure of the ternary complex. dHuR abrogated BRAF expression by inducing its exon 18 skipping, and demonstrated superior suppression of BRAF-mutant CRC tumours including those gaining resistance to BRAF inhibitors. Finally, we performed kinome library CRISPR screening and revealed that inactivation of EGFR or MEK enhanced dHuR cytotoxicity, thus establishing a combinatorial strategy to treat patients with refractory BRAF-mutant CRC.",
-      "summaryZh": "BRAF 功能获得性突变，尤其是 BRAF(V600E)，影响大约 10% 的结直肠癌 (CRC) 患者，并且预示着治疗干预措施有限的预后不良。由于 BRAF 二聚化驱动的 MAPK 通路重新激活，BRAF 抑制剂（例如 encorafenib）无效。 BRAF 和 EGFR 的联合抑制虽然已获得批准，但会导致短期生存获益以及频繁的治疗耐药和复发 1-3 。在这里，通过合理的化学文库设计结合平行蛋白质组学筛选，我们确定 dHuR 是人类抗原 R (HuR) 的分子胶降解剂，HuR 是一种驱动肿瘤生长、侵袭和治疗抵抗的 RNA 结合蛋白。 dHuR 与 CRBN 泛素连接酶结合，形成独特的苯并呋喃系留复合表面，通过结合其 β-发夹 G 环降解决定子来招募 HuR 作为新底物，如三元复合物的冷冻电子显微镜结构所示。 dHuR 通过诱导其外显子 18 跳跃来消除 BRAF 表达，并表现出对 BRAF 突变的 CRC 肿瘤（包括对 BRAF 抑制剂产生耐药性的肿瘤）的卓越抑制作用。最后，我们进行了激酶组文库 CRISPR 筛选，发现 EGFR 或 MEK 失活增强了 dHuR 细胞毒性，从而建立了治疗难治性 BRAF 突变 CRC 患者的组合策略。",
-      "translationSource": "99f33e53efcf7e97"
     },
     {
       "pmid": "42378330",
