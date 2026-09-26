@@ -1,8 +1,181 @@
 {
-  "updatedAt": "2026-09-25T02:04:15+00:00",
+  "updatedAt": "2026-09-26T02:09:47+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42469449",
+      "title": "Restoring intracellular homeostasis disrupted by synthetic nanoassemblies.",
+      "titleZh": "恢复被合成纳米组件破坏的细胞内稳态。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41589-026-02279-x",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02279-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42469449/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Cells have evolved to defend against perturbations by maintaining their intrinsic homeostasis to survive. However, no intrinsic pathway exists for them to expel new-to-biology synthetic nanostructures. Here we establish crosstalk between supramolecular transformations and genetic responses, achieving programmable influx-efflux cycles of nanoassemblies in living bacterial cells to restore redox and energy homeostasis. Specifically, a model photosensitizer-peptide conjugate undergoes multiple redox cycles between methionine and methionine sulfoxide (MetO), resulting in reversible morphological transformations between nanofibers (NFs) and nanoparticles (NPs). Upon irradiation, the oxidized peptide NPs are internalized into bacteria. To counteract the perturbations caused by internalized NPs, engineered bacteria activate the expression of MetO reductases in response to photo-oxidative stress. The internalized NPs are intracellularly enzymatically reduced such that they are expelled as reduced NFs, setting the stage for subsequent cycles. The concept presented here paves the way for the interlinked network between dynamic supramolecular assemblies and cellular regulatory behaviors.",
+      "summaryZh": "细胞已经进化到通过维持其内在的稳态来抵御扰动以求生存。然而，它们不存在驱逐新生物学合成纳米结构的内在途径。在这里，我们建立了超分子转化和遗传反应之间的串扰，在活细菌细胞中实现纳米组件的可编程流入-流出循环，以恢复氧化还原和能量稳态。具体来说，模型光敏剂-肽缀合物在甲硫氨酸和甲硫氨酸亚砜（MetO）之间经历多个氧化还原循环，导致纳米纤维（NF）和纳米粒子（NP）之间的可逆形态转变。照射后，氧化肽纳米粒子被内化到细菌中。为了抵消内化纳米粒子引起的扰动，工程细菌会激活 MetO 还原酶的表达以响应光氧化应激。内化的 NP 在细胞内被酶促还原，从而以还原的 NF 形式排出，为后续循环奠定基础。这里提出的概念为动态超分子组装和细胞调节行为之间的互连网络铺平了道路。",
+      "translationSource": "d801104e5c94d688"
+    },
+    {
+      "pmid": "42120501",
+      "title": "Dual E3 ligase recruitment by monovalent degraders for tunable SMARCA 2/4 degradation.",
+      "titleZh": "单价降解剂招募双 E3 连接酶以实现可调节的 SMARCA 2/4 降解。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41589-026-02224-y",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02224-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42120501/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue",
+        "protac",
+        "proteolysis-targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, protac, proteolysis-targeting chimera。",
+      "abstractEn": "Proteolysis-targeting chimeras (PROTACs) and molecular glue degraders (MGDs) target proteins for degradation by co-opting an E3 ligase. While heterotrivalent PROTACs that can recruit multiple E3 ligases have been described, all MGDs reported to date depend on a single E3. Using orthogonal genetic screening, biophysical and structural analyses, we show that a monovalent MGD can recruit CUL4 DCAF16 and CRL1 FBXO22 in parallel to degrade SMARCA2/4. Deep mutational scanning identifies C173 in DCAF16 as essential for degrader activity and intact protein mass spectrometry confirms covalent modification at this site. Elucidating the ternary complex structure reveals a unique binding mode and a distinct interface of neointeractions that underlie degrader specificity. We demonstrate that ligase dependency is chemically and genetically tunable. Minimal compound modifications shift preference from DCAF16 to FBXO22, while a single substitution boosts degrader dependency on DCAF16. These results establish a framework for designing tunable dual E3 ligase degraders to mitigate potential resistance mechanisms.",
+      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 和分子胶降解剂 (MGD) 通过选择 E3 连接酶来靶向降解蛋白质。虽然已经描述了可以招募多个 E3 连接酶的异三价 PROTAC，但迄今为止报道的所有 MGD 都依赖于单个 E3。通过正交遗传筛选、生物物理和结构分析，我们发现单价 MGD 可以同时招募 CUL4 DCAF16 和 CRL1 FBXO22 来降解 SMARCA2/4。深度突变扫描确定 DCAF16 中的 C173 对于降解剂活性至关重要，完整的蛋白质质谱分析证实了该位点的共价修饰。阐明三元复合结构揭示了一种独特的结合模式和一个独特的新相互作用界面，这是降解剂特异性的基础。我们证明连接酶依赖性是化学和遗传可调的。最小的化合物修饰将偏好从 DCAF16 转移到 FBXO22，而单一替换则增强了降解剂对 DCAF16 的依赖性。这些结果建立了一个设计可调谐双 E3 连接酶降解剂的框架，以减轻潜在的耐药机制。",
+      "translationSource": "eb43af3fa7bca907"
+    },
+    {
+      "pmid": "41957281",
+      "title": "The molecular glue CLEO4-88 inhibits the ACAA1 thiolase by induced binding to GID4.",
+      "titleZh": "分子胶 CLEO4-88 通过诱导与 GID4 的结合来抑制 ACAA1 硫解酶。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41589-026-02183-4",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02183-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41957281/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue。",
+      "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
+      "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
+      "translationSource": "df6ebbd678754909"
+    },
+    {
+      "pmid": "42789730",
+      "title": "TRAF7 mutations stabilize K/NRAS and hyperactivate MAPK signaling to cause CAFDADD neurodevelopmental defects.",
+      "titleZh": "TRAF7 突变稳定 K/NRAS 并过度激活 MAPK 信号传导，导致 CAFDADD 神经发育缺陷。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-25",
+      "doi": "10.1126/sciadv.adw8672",
+      "doiUrl": "https://doi.org/10.1126/sciadv.adw8672",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789730/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The MAPK-ERK1/2 pathway plays a crucial role in neurodevelopment during embryogenesis, and the hyperactivation of this signaling cascade serves as a pathological hallmark for various neurodevelopmental disorders. Germline variants in TRAF7 , encoding a RING-type E3 ubiquitin ligase, are genetically associated with cardiac, facial, and digital anomalies with developmental delay (CAFDADD) syndrome; however, the downstream substrates of TRAF7 and the precise mechanism driving neurodevelopmental defects remain enigmatic. Here, we established a Traf7 R654Q/+ knock-in mouse model and patient-specific induced pluripotent stem cell (iPSC)-derived human cortical organoids (hCOs) carrying the recurrent TRAF7 R655Q mutation. Heterozygous Traf7 R654Q/+ mice exhibited remarkable growth retardation, skeletal abnormalities, and neurobehavioral deficits, whereas mutant hCOs displayed early cortical neurogenesis defects, characterized by premature neural differentiation and a depleted progenitor pool. Mechanistically, biochemical analyses revealed that TRAF7 interacts with KRAS and NRAS to promote their polyubiquitination and subsequent proteasomal degradation, maintaining physiological homeostatic control over the downstream MAPK cascade. CAFDADD-associated TRAF7 variants exert a dominant-negative effect, disrupting WT protein function and causing the posttranslational accumulation of KRAS and NRAS, which fundamentally drives constitutive MAPK-ERK1/2 pathway hyperactivation. Notably, pharmacological inhibition of MEK1/2 with selumetinib suppressed ERK1/2 hyperactivation, partially mitigated aberrant neuroepithelial morphology and neural differentiation in TRAF7 R655Q/+ hCOs, and improved brain-to-body weight ratios in Traf7 R654Q/+ mice. Together, our findings identify TRAF7 as a critical posttranslational regulator of RAS proteostasis during development and uncover a pivotal mechanistic link between impaired RAS ubiquitination and CAFDADD pathogenesis, providing preliminary clinical-front evidence for targeting the MAPK pathway to manage ongoing developmental deficits in TRAF7-associated disorders.",
+      "summaryZh": "MAPK-ERK1/2 通路在胚胎发生过程中的神经发育中起着至关重要的作用，该信号级联的过度激活是各种神经发育障碍的病理标志。 TRAF7 中的种系变异（编码 RING 型 E3 泛素连接酶）与心脏、面部和数字异常发育迟缓 (CAFDADD) 综合征有遗传相关性；然而，TRAF7 的下游底物和驱动神经发育缺陷的精确机制仍然是个谜。在这里，我们建立了 Traf7 R654Q/+ 敲入小鼠模型和携带复发性 TRAF7 R655Q 突变的患者特异性诱导多能干细胞 (iPSC) 衍生的人皮质类器官 (hCO)。杂合 Traf7 R654Q/+ 小鼠表现出显着的生长迟缓、骨骼异常和神经行为缺陷，而突变 hCO 则表现出早期皮质神经发生缺陷，其特征是过早的神经分化和祖细胞库耗尽。从机制上来说，生化分析表明 TRAF7 与 KRAS 和 NRAS 相互作用，促进它们的多泛素化和随后的蛋白酶体降解，维持对下游 MAPK 级联的生理稳态控制。 CAFDADD 相关的 TRAF7 变体发挥显性负效应，破坏 WT 蛋白功能并导致 KRAS 和 NRAS 翻译后积累，从根本上驱动组成型 MAPK-ERK1/2 通路过度激活。值得注意的是，用司美替尼对 MEK1/2 进行药理学抑制可抑制 ERK1/2 过度激活，部分减轻 TRAF7 R655Q/+ hCO 中的异常神经上皮形态和神经分化，并改善 Traf7 R654Q/+ 小鼠的脑体重比。 总之，我们的研究结果确定 TRAF7 是发育过程中 RAS 蛋白质稳态的关键翻译后调节因子，并揭示了 RAS 泛素化受损和 CAFDADD 发病机制之间的关键机制联系，为靶向 MAPK 通路以管理 TRAF7 相关疾病的持续发育缺陷提供了初步的临床前沿证据。",
+      "translationSource": "18c3b6c288591561"
+    },
+    {
+      "pmid": "42789729",
+      "title": "TANGO6 coordinates transcription and translation through nucleocytoplasmic partitioning.",
+      "titleZh": "TANGO6 通过核质分配协调转录和翻译。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-25",
+      "doi": "10.1126/sciadv.aef0902",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aef0902",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789729/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Coordinated RNA and protein synthesis is fundamental to cell function and survival. Here, we show that TANGO6, a nucleocytoplasmic RNA binding protein, is an integral component of the proteostasis control axis, regulating both transcription and translation. In the nucleus, TANGO6 is recruited to gene promoters alongside RNA polymerase II, where it controls the transcriptional activation of essential genes, including those required for G 1 -S cell cycle progression and cell differentiation. Cytoplasmic TANGO6 associates with polysomes to promote protein synthesis. Under stress conditions, the organization of TANGO6 changes; notably, heat stress triggers its translocation to the nucleus, thereby depleting its cytoplasmic pool. Thus, TANGO6 assists in both transcriptional and translation reprogramming to support cell survival. Overall, the nucleocytoplasmic shuttling of TANGO6 is a central mechanism for controlling the cellular proteome, establishing its essential role in cell viability from homeostasis to stress adaptation.",
+      "summaryZh": "RNA 和蛋白质合成的协调是细胞功能和生存的基础。在这里，我们证明 TANGO6（一种核质 RNA 结合蛋白）是蛋白质稳态控制轴的一个组成部分，调节转录和翻译。在细胞核中，TANGO6 与 RNA 聚合酶 II 一起被招募到基因启动子中，控制必需基因的转录激活，包括 G 1 -S 细胞周期进程和细胞分化所需的基因。细胞质 TANGO6 与多核糖体结合促进蛋白质合成。在压力条件下，TANGO6的组织发生变化；值得注意的是，热应激会触发其易位至细胞核，从而耗尽其细胞质池。因此，TANGO6 协助转录和翻译重编程以支持细胞存活。总体而言，TANGO6 的核质穿梭是控制细胞蛋白质组的核心机制，确立了其在细胞活力（从稳态到应激适应）中的重要作用。",
+      "translationSource": "478e86ac9414f9f4"
+    },
+    {
+      "pmid": "42789725",
+      "title": "Converting lysosomes into photothermal organelles enables nanoparticle-free tumor ablation via intracellular vapor bubbles.",
+      "titleZh": "将溶酶体转化为光热细胞器，可以通过细胞内蒸气泡实现无纳米颗粒的肿瘤消融。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-25",
+      "doi": "10.1126/sciadv.aeh0675",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh0675",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789725/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Photothermal nanomaterials enable precise tumor ablation but face limitations in biodistribution, tissue penetration, toxicity, and biodegradability. Here, we present a unique concept for nanoparticle-free photothermal therapy based on the lysosomal entrapment of cationic amphiphilic small molecular dyes for spatially controlled vapor bubble (VB)-mediated tumor cell ablation. This strategy, which exploits a universal biological and physical effect, uses intracellular pH gradients for extensive local dye enrichment in acidified organelles, transforming them into transient endogenous nanosized photothermal reactors for subsequent light activation. Using sunitinib, a clinically approved lysosomotropic anticancer drug, and the commercially available dye LysoTracker Deep Red, lacking intrinsic anticancer activity, we demonstrate pulsed laser-induced VB formation from dye-enriched lysosomal compartments, leading to selective photomechanical disruption of various ex vivo cancer cell models across two-dimensional (2D) cultures, 3D spheroids, patient-derived neuroblastoma tumoroids, and tumor fragments from a patient with ovarian carcinoma. This approach allows precise, low-fluence, and wavelength-tunable cancer tissue ablation without the need for synthetic photoresponsive nanoparticles.",
+      "summaryZh": "光热纳米材料能够实现精确的肿瘤消融，但在生物分布、组织渗透、毒性和生物降解性方面面临限制。在这里，我们提出了一种基于阳离子两亲性小分子染料的溶酶体包埋的无纳米粒子光热疗法的独特概念，用于空间控制的蒸气泡（VB）介导的肿瘤细胞消融。该策略利用了普遍的生物和物理效应，利用细胞内 pH 梯度在酸化细胞器中进行广泛的局部染料富集，将它们转化为瞬态内源性纳米级光热反应器，用于随后的光激活。使用临床批准的溶酶体抗癌药物舒尼替尼和缺乏内在抗癌活性的市售染料LysoTracker Deep Red，我们证明了脉冲激光诱导富含染料的溶酶体区室形成VB，导致跨二维（2D）培养物、3D球体、患者来源的神经母细胞瘤肿瘤和来自卵巢癌患者的肿瘤碎片的各种离体癌细胞模型的选择性光机械破坏。这种方法可以实现精确、低通量和波长可调的癌症组织消融，而不需要合成光响应纳米颗粒。",
+      "translationSource": "293d939d0a6294e1"
+    },
+    {
+      "pmid": "42789724",
+      "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin.",
+      "titleZh": "设计的泛素结合蛋白选择性地富集和可视化未锚定的泛素。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-25",
+      "doi": "10.1126/sciadv.aec0818",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec0818",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789724/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "While protein ubiquitination has been extensively studied, the roles of unanchored ubiquitin and its chains remain less understood, largely due to a lack of specific, high-affinity tools for their enrichment and visualization. To address this, we used high-throughput affinity maturation and computational protein design to engineer novel proteins that selectively bind unanchored ubiquitin. We first enhanced the binding affinity of the zinc finger domain of histone deacetylase 6, a natural unanchored ubiquitin binder, by including its unstructured amino-terminal loop and introducing the V1091L mutation. Using RFdiffusion, we then designed 11 novel ubiquitin-binding proteins (UBiPs), among which UBiP10 showed specificity for unanchored ubiquitin. This protein enriched unanchored ubiquitin from cells and influenza A virions and served as a probe to determine its cellular levels, supporting a relative decrease upon proteasome inhibition. Imaging studies with UBiP10 further revealed a novel unanchored ubiquitin coat around aggresomes, illustrating the potential of UBiP10 as a unique tool to study unanchored ubiquitin in cellular regulation.",
+      "summaryZh": "尽管蛋白质泛素化已被广泛研究，但对非锚定泛素及其链的作用仍知之甚少，这主要是由于缺乏对其富集和可视化的特异性、高亲和力工具。为了解决这个问题，我们使用高通量亲和力成熟和计算蛋白质设计来设计选择性结合非锚定泛素的新型蛋白质。我们首先通过包含其非结构化氨基末端环并引入 V1091L 突变来增强组蛋白脱乙酰酶 6（一种天然非锚定泛素结合物）的锌指结构域的结合亲和力。然后，我们利用 RFdiffusion 设计了 ​​11 种新型泛素结合蛋白 (UBiP)，其中 UBiP10 对非锚定泛素表现出特异性。这种蛋白质富集了细胞和甲型流感病毒颗粒中的未锚定泛素，并作为探针测定其细胞水平，支持蛋白酶体抑制后相对减少。 UBiP10 的成像研究进一步揭示了聚集体周围的新型非锚定泛素涂层，说明了 UBiP10 作为研究细胞调节中非锚定泛素的独特工具的潜力。",
+      "translationSource": "b8551435aac96865"
+    },
+    {
+      "pmid": "42789689",
+      "title": "Cell-intrinsic functions of PD-L1 activate autophagy and prevent cytokine-induced apoptosis.",
+      "titleZh": "PD-L1 的细胞内在功能可激活自噬并防止细胞因子诱导的细胞凋亡。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-09-25",
+      "doi": "10.1126/sciadv.aec7037",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec7037",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789689/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Immune checkpoint inhibitor (ICI) therapy triggers complications that are currently attributed solely to immune activation. We hypothesized that target tissue-specific mechanisms also play a role and studied these mechanisms in thyrocytes. We found that thyroidal PD-L1 acts as a cytoprotective regulator, promoting cell survival during cytokine-induced stress. PD-L1 suppression in thyrocytes amplified interferon-γ-driven stress by aberrantly activating AKT-ERK-mTORC1, inhibiting autophagy, augmenting cellular stress, and triggering apoptosis. In a mouse model of ICI-thyroiditis, anti-PD-L1 treatment triggered immune activation while promoting thyrocyte apoptosis. Mechanistically, in mice, both pharmacologic and genetic down-regulation of thyroidal PD-L1 caused autophagic defects. Our findings reveal a role for PD-L1 in protecting thyroid tissue from cytokine-mediated stress and suggest that anti-PD-L1 tissue toxicity may reflect both an immune-mediated attack and intrinsic cellular vulnerability. Our data provide a broader framework for understanding ICI adverse events and for guiding the development of treatment strategies.",
+      "summaryZh": "免疫检查点抑制剂（ICI）治疗会引发目前仅归因于免疫激活的并发症。我们假设靶组织特异性机制也发挥作用，并研究了甲状腺细胞中的这些机制。我们发现甲状腺 PD-L1 作为细胞保护调节剂，在细胞因子诱导的应激期间促进细胞存活。甲状腺细胞中的 PD-L1 抑制通过异常激活 AKT-ERK-mTORC1、抑制自噬、增加细胞应激并引发细胞凋亡，从而放大干扰素 γ 驱动的应激。在 ICI 甲状腺炎小鼠模型中，抗 PD-L1 治疗触发免疫激活，同时促进甲状腺细胞凋亡。从机制上讲，在小鼠中，甲状腺 PD-L1 的药理和遗传下调会导致自噬缺陷。我们的研究结果揭示了 PD-L1 在保护甲状腺组织免受细胞因子介导的应激中的作用，并表明抗 PD-L1 组织毒性可能反映了免疫介导的攻击和内在的细胞脆弱性。我们的数据为了解 ICI 不良事件和指导治疗策略的制定提供了更广泛的框架。",
+      "translationSource": "d6d81c81a7a15f6f"
+    },
     {
       "pmid": "42777087",
       "title": "The guanine nucleotide exchange factor Rin-like is a repressor for renal uric acid excretion in human and mouse.",
@@ -1548,6 +1721,28 @@
       "abstractEn": "In neurodegenerative diseases such as frontotemporal dementia and amyotrophic lateral sclerosis, pathological forms of proteins such as Tau and TDP-43 accumulate within large heterogeneous inclusions inside cells. Current strategies to eliminate such aberrant protein species in patients encounter three main challenges: crossing the blood-brain barrier and plasma membrane, specifically recognizing pathological forms of proteins, and engaging mechanisms to eliminate large entities. Here we fuse LC3A, a central protein in the recruitment of substrates into autophagosomes, to cytoplasm-stable antibodies. These engineered autophagy receptors, targeting Tau or TDP-43, are delivered using small extracellular vesicles and reduce pathology in models, including Tau P301S adult primary mouse neurons, TDP-43 G298S iPSC-derived motor neurons and after intravenous injection in Tau P301S mice. Similarly, adeno-associated-virus-mediated delivery in TDP-43 ΔNLS mice enhances clearance of pathological TDP-43. This targeted degradation strategy allows delivery into the brain while capitalizing on the specificity of antibodies and the ability of autophagy to degrade large intracellular entities.",
       "summaryZh": "在额颞叶痴呆和肌萎缩侧索硬化症等神经退行性疾病中，Tau 和 TDP-43 等病理形式的蛋白质在细胞内大量异质包涵体中积累。目前消除患者体内此类异常蛋白质种类的策略面临三个主要挑战：穿过血脑屏障和质膜，专门识别蛋白质的病理形式，以及消除大实体的机制。在这里，我们将 LC3A（一种将底物招募到自噬体中的中心蛋白）与细胞质稳定的抗体融合。这些针对 Tau 或 TDP-43 的工程化自噬受体通过小细胞外囊泡进行递送，并减少模型中的病理学，包括 Tau P301S 成年原代小鼠神经元、TDP-43 G298S iPSC 衍生的运动神经元以及 Tau P301S 小鼠静脉注射后的病理。同样，TDP-43 ΔNLS 小鼠中腺相关病毒介导的递送增强了病理性 TDP-43 的清除。这种有针对性的降解策略允许将其输送到大脑中，同时利用抗体的特异性和自噬降解大型细胞内实体的能力。",
       "translationSource": "d748eac24c50f68f"
+    },
+    {
+      "pmid": "42786177",
+      "title": "Exosomal export of activated CASPASE-8 is linked to the prevention of TNF-induced cytotoxicity.",
+      "titleZh": "活化的 CASPASE-8 的外泌体输出与预防 TNF 诱导的细胞毒性有关。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-25",
+      "doi": "10.1038/s41467-026-75544-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-75544-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42786177/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Tumor Necrosis Factor (TNF) is a key pro-inflammatory cytokine whose sensing by TNFR1 triggers gene activation or cell death induction. While TNF cytotoxicity can be beneficial during infections by supporting effective immune responses, its chronic or excessive induction is harmful and promotes inflammatory pathologies. Protective brakes, known as cell death checkpoints, normally repress TNF cytotoxicity and therefore constitute crucial safeguards against these diseases. Death by TNF mainly proceeds upon inactivation of a checkpoint by microbial effector proteins or pathological mutations. We previously identified lysosomal turnover of TNFR1 Complex II by TAX1BP1-mediated selective macro-autophagy as a brake on TNF cytotoxicity. Here, we propose an alternative mechanism that prevents TNF-induced RIPK1 kinase-independent apoptosis. We found that inhibiting the ESCRT machinery, HSC70 or TAX1BP1 interferes with the TNF-dependent targeting of activated CASPASE-8 into endosomal intralumenal vesicles (ILVs) and is associated with apoptosis induction. Furthermore, we identified TAX1BP1 and TNFR1 Complex II components as TNF-induced cargoes of extracellular vesicles, suggesting that exosomal release of TNFR1 Complex II serves as a parallel detoxification pathway to lysosomal turnover. Finally, we show that Salmonella Typhimurium and Mycobacterium tuberculosis effector proteins activate TNF cytotoxicity by inhibiting components of the ESCRT machinery involved in this detoxification process.",
+      "summaryZh": "肿瘤坏死因子 (TNF) 是一种关键的促炎细胞因子，TNFR1 感知它会触发基因激活或诱导细胞死亡。虽然 TNF 细胞毒性在感染过程中通过支持有效的免疫反应而有益，但其慢性或过度诱导是有害的并会促进炎症病理。保护性刹车，称为细胞死亡检查点，通常会抑制 TNF 细胞毒性，因此构成了预防这些疾病的重要保障。 TNF引起的死亡主要是由于微生物效应蛋白或病理突变导致检查点失活而发生。我们之前发现 TAX1BP1 介导的选择性大自噬导致 TNFR1 复合物 II 的溶酶体周转，从而抑制 TNF 细胞毒性。在这里，我们提出了一种替代机制来防止 TNF 诱导的 RIPK1 激酶依赖性细胞凋亡。我们发现抑制 ESCRT 机制、HSC70 或 TAX1BP1 会干扰激活的 CASPASE-8 依赖 TNF 的靶向进入内体腔内囊泡 (ILV)，并与细胞凋亡诱导相关。此外，我们确定了 TAX1BP1 和 TNFR1 复合物 II 成分是 TNF 诱导的细胞外囊泡货物，表明 TNFR1 复合物 II 的外泌体释放可作为溶酶体周转的平行解毒途径。最后，我们发现鼠伤寒沙门氏菌和结核分枝杆菌效应蛋白通过抑制参与解毒过程的 ESCRT 机制的成分来激活 TNF 细胞毒性。",
+      "translationSource": "fa9c644cb638080a"
     },
     {
       "pmid": "42778578",
@@ -3658,27 +3853,6 @@
       "abstractEn": "Immune effects of membrane attack complexes (MAC) have been widely attributed to their abilities to cause cell death. Here, we show that the MAC component, C9, forms non-cytolytic aggregates with pro-inflammatory effects. Intracellular aggregates of C9 are detected within inflamed tissues of patients in association with endothelial cell (EC) activation but not increased cell death. We identify NUMBL as a Rab35 effector that directly binds surface-bound C9 to promote C9 internalization and entry into the endolysosomal pathway. Within acidified endolysosomes, C9 forms insoluble aggregates that are targeted for degradative aggrephagy in a process that activates NF-κB. For C9 aggrephagy to occur, ZFYVE21, a Rab5 effector, complexes with RNF34 to bridge C9 aggregates to LC3B+ aggresome membranes. We detect C9 aggregates in vivo, and we show that a ZFYVE21-RNF34 signaling axis is required for C9 aggrephagy and NF-κB -dependent EC activation in three separate mouse models. Mice with conditional loss of ZFYVE21 in ECs show reduced aggregraphy, resulting in attenuated systemic inflammation and reduced tissue injury following skin transplantation. Our data show that the C9 component of MACs forms intracellular aggregates with alarmin-like properties.",
       "summaryZh": "膜攻击复合物（MAC）的免疫作用被广泛归因于其导致细胞死亡的能力。在这里，我们证明 MAC 成分 C9 形成具有促炎作用的非溶细胞聚集体。在患者发炎组织内检测到 C9 的细胞内聚集物，与内皮细胞 (EC) 激活相关，但与细胞死亡增加无关。我们将 NUMBL 确定为 Rab35 效应子，直接结合表面结合的 C9，促进 C9 内化并进入内溶酶体途径。在酸化的内溶酶体中，C9 形成不溶性聚集体，在激活 NF-κB 的过程中以降解性聚集吞噬为目标。为了发生 C9 聚集吞噬，Rab5 效应子 ZFYVE21 与 RNF34 复合，将 C9 聚集体桥接到 LC3B+ 聚集体膜上。我们在体内检测了 C9 聚集体，并表明在三个不同的小鼠模型中，ZFYVE21-RNF34 信号轴是 C9 聚集吞噬和 NF-κB 依赖性 EC 激活所必需的。 EC 中 ZFYVE21 有条件缺失的小鼠表现出聚集减少，从而减轻了皮肤移植后的全身炎症并减少了组织损伤。我们的数据表明，MAC 的 C9 成分形成具有类似警报素特性的细胞内聚集体。",
       "translationSource": "8cd08a157f0cac14"
-    },
-    {
-      "pmid": "42469449",
-      "title": "Restoring intracellular homeostasis disrupted by synthetic nanoassemblies.",
-      "titleZh": "恢复被合成纳米组件破坏的细胞内稳态。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-07-17",
-      "doi": "10.1038/s41589-026-02279-x",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02279-x",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42469449/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "engineered bacteria"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
-      "abstractEn": "Cells have evolved to defend against perturbations by maintaining their intrinsic homeostasis to survive. However, no intrinsic pathway exists for them to expel new-to-biology synthetic nanostructures. Here we establish crosstalk between supramolecular transformations and genetic responses, achieving programmable influx-efflux cycles of nanoassemblies in living bacterial cells to restore redox and energy homeostasis. Specifically, a model photosensitizer-peptide conjugate undergoes multiple redox cycles between methionine and methionine sulfoxide (MetO), resulting in reversible morphological transformations between nanofibers (NFs) and nanoparticles (NPs). Upon irradiation, the oxidized peptide NPs are internalized into bacteria. To counteract the perturbations caused by internalized NPs, engineered bacteria activate the expression of MetO reductases in response to photo-oxidative stress. The internalized NPs are intracellularly enzymatically reduced such that they are expelled as reduced NFs, setting the stage for subsequent cycles. The concept presented here paves the way for the interlinked network between dynamic supramolecular assemblies and cellular regulatory behaviors.",
-      "summaryZh": "细胞已经进化到通过维持其内在的稳态来抵御扰动以求生存。然而，它们不存在驱逐新生物学合成纳米结构的内在途径。在这里，我们建立了超分子转化和遗传反应之间的串扰，在活细菌细胞中实现纳米组件的可编程流入-流出循环，以恢复氧化还原和能量稳态。具体来说，模型光敏剂-肽缀合物在甲硫氨酸和甲硫氨酸亚砜（MetO）之间经历多个氧化还原循环，导致纳米纤维（NF）和纳米粒子（NP）之间的可逆形态转变。照射后，氧化肽纳米粒子被内化到细菌中。为了抵消内化纳米粒子引起的扰动，工程细菌会激活 MetO 还原酶的表达以响应光氧化应激。内化的 NP 在细胞内被酶促还原，从而以还原的 NF 形式排出，为后续循环奠定基础。这里提出的概念为动态超分子组装和细胞调节行为之间的互连网络铺平了道路。",
-      "translationSource": "d801104e5c94d688"
     },
     {
       "pmid": "42462700",
@@ -7152,30 +7326,6 @@
       "translationSource": "06d9019bdb01911d"
     },
     {
-      "pmid": "42120501",
-      "title": "Dual E3 ligase recruitment by monovalent degraders for tunable SMARCA 2/4 degradation.",
-      "titleZh": "单价降解剂招募双 E3 连接酶以实现可调节的 SMARCA 2/4 降解。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-05-12",
-      "doi": "10.1038/s41589-026-02224-y",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02224-y",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42120501/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue degrader",
-        "molecular glue",
-        "protac",
-        "proteolysis-targeting chimera"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, protac, proteolysis-targeting chimera。",
-      "abstractEn": "Proteolysis-targeting chimeras (PROTACs) and molecular glue degraders (MGDs) target proteins for degradation by co-opting an E3 ligase. While heterotrivalent PROTACs that can recruit multiple E3 ligases have been described, all MGDs reported to date depend on a single E3. Using orthogonal genetic screening, biophysical and structural analyses, we show that a monovalent MGD can recruit CUL4 DCAF16 and CRL1 FBXO22 in parallel to degrade SMARCA2/4. Deep mutational scanning identifies C173 in DCAF16 as essential for degrader activity and intact protein mass spectrometry confirms covalent modification at this site. Elucidating the ternary complex structure reveals a unique binding mode and a distinct interface of neointeractions that underlie degrader specificity. We demonstrate that ligase dependency is chemically and genetically tunable. Minimal compound modifications shift preference from DCAF16 to FBXO22, while a single substitution boosts degrader dependency on DCAF16. These results establish a framework for designing tunable dual E3 ligase degraders to mitigate potential resistance mechanisms.",
-      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 和分子胶降解剂 (MGD) 通过选择 E3 连接酶来靶向降解蛋白质。虽然已经描述了可以招募多个 E3 连接酶的异三价 PROTAC，但迄今为止报道的所有 MGD 都依赖于单个 E3。通过正交遗传筛选、生物物理和结构分析，我们发现单价 MGD 可以同时招募 CUL4 DCAF16 和 CRL1 FBXO22 来降解 SMARCA2/4。深度突变扫描确定 DCAF16 中的 C173 对于降解剂活性至关重要，完整的蛋白质质谱分析证实了该位点的共价修饰。阐明三元复合结构揭示了一种独特的结合模式和一个独特的新相互作用界面，这是降解剂特异性的基础。我们证明连接酶依赖性是化学和遗传可调的。最小的化合物修饰将偏好从 DCAF16 转移到 FBXO22，而单一替换则增强了降解剂对 DCAF16 的依赖性。这些结果建立了一个设计可调谐双 E3 连接酶降解剂的框架，以减轻潜在的耐药机制。",
-      "translationSource": "eb43af3fa7bca907"
-    },
-    {
       "pmid": "42115621",
       "title": "Inhibition of host N-myristoylation compromises the infectivity of SARS-CoV-2 due to Golgi-bypassing egress.",
       "titleZh": "由于绕过高尔基体出口，抑制宿主 N-肉豆蔻酰化会损害 SARS-CoV-2 的感染性。",
@@ -8055,28 +8205,6 @@
       "abstractEn": "The non-coding RNA Xist mediates X chromosome inactivation (XCI) in mammals, functioning in cis to direct heterochromatin formation over a single X chromosome in cells of early female embryos. Prior studies have determined that Xist transcription and turnover are modulated to maintain the correct level of Xist RNA to inactivate a single X chromosome. The underlying molecular mechanisms are poorly understood. In this study we demonstrate that RNA-dependent recruitment of the H3K9me3 methyltransferase SETDB1 and the HUSH complex across the transcribed Xist locus functions to suppress Xist transcription during establishment of XCI. Thus, degron-mediated acute depletion of SETDB1 or core HUSH subunits abrogates allelic H3K9me3 deposition, increasing Xist transcription, accumulation of Xist RNA, and the rate of X-linked gene silencing. Our findings support a model in which the SETDB1/HUSH pathway coordinates Xist transcription rates to maintain optimal Xist RNA levels, ensuring the silencing of a single X chromosome.",
       "summaryZh": "非编码 RNA Xist 介导哺乳动物中的 X 染色体失活 (XCI)，以顺式方式发挥作用，指导早期雌性胚胎细胞中单个 X 染色体上异染色质的形成。先前的研究已经确定，Xist 转录和更新受到调节，以维持 Xist RNA 的正确水平，从而使单个 X 染色体失活。人们对潜在的分子机制知之甚少。在这项研究中，我们证明了 H3K9me3 甲基转移酶 SETDB1 和 HUSH 复合物在转录的 Xist 位点上的 RNA 依赖性募集功能在 XCI 建立过程中抑制 Xist 转录。因此，降解决定子介导的 SETDB1 或核心 HUSH 亚基的急性耗竭消除了等位基因 H3K9me3 沉积，增加了 Xist 转录、Xist RNA 的积累以及 X 连锁基因沉默的速率。我们的研究结果支持一个模型，其中 SETDB1/HUSH 通路协调 Xist 转录速率以维持最佳的 Xist RNA 水平，确保单个 X 染色体的沉默。",
       "translationSource": "a0c936efad4dd54d"
-    },
-    {
-      "pmid": "41957281",
-      "title": "The molecular glue CLEO4-88 inhibits the ACAA1 thiolase by induced binding to GID4.",
-      "titleZh": "分子胶 CLEO4-88 通过诱导与 GID4 的结合来抑制 ACAA1 硫解酶。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-04-09",
-      "doi": "10.1038/s41589-026-02183-4",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02183-4",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41957281/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation",
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue。",
-      "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
-      "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
-      "translationSource": "df6ebbd678754909"
     },
     {
       "pmid": "41734762",
