@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T02:09:02+00:00",
+  "updatedAt": "2026-09-29T02:53:55+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1679,6 +1679,29 @@
       "translationSource": "c7930875bf9b5aaa"
     },
     {
+      "pmid": "42802159",
+      "title": "The endo-lysosomal system drives lumen formation in a human epiblast model.",
+      "titleZh": "在人类外胚层模型中，内溶酶体系统驱动管腔形成。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-27",
+      "doi": "10.1038/s41467-026-77140-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77140-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42802159/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endosome。",
+      "abstractEn": "Epiblast lumen formation is a critical step that occurs during human embryo implantation. It begins with the apicosome, an apical compartment partly derived from endocytosed material. However, how the endo-lysosomal system contributes to apicosome formation and later lumen development remains unclear. Using a human pluripotent stem cell-derived model of epiblast formation, we show that apicosome formation is accompanied by transient expansion of early endosomes, late endosomes, and lysosomes, as well as the formation of hybrid compartments with features of both early and late endo-lysosomal stages. These changes depend on the RAB GTPases RAB35 and RAB7, which are required for proper apicosome formation and lumen morphology of the human epiblast model. Our findings identify RAB35- and RAB7-dependent endo-lysosomal remodeling as a key mechanism driving apical membrane morphogenesis during human epiblast development.",
+      "summaryZh": "外胚层腔形成是人类胚胎植入过程中发生的关键步骤。它从顶端体开始，顶端区室部分源自内吞物质。然而，内溶酶体系统如何促进顶端体的形成和后来的管腔发育仍不清楚。使用人类多能干细胞衍生的外胚层形成模型，我们表明顶小体的形成伴随着早期内体、晚期内体和溶酶体的短暂扩张，以及具有早期和晚期内溶酶体阶段特征的混合区室的形成。这些变化取决于 RAB GTPases RAB35 和 RAB7，它们是人类外胚层模型的适当的顶端体形成和管腔形态所必需的。我们的研究结果表明，RAB35 和 RAB7 依赖性内溶酶体重塑是人类外胚层发育过程中驱动顶膜形态发生的关键机制。",
+      "translationSource": "1de6b0e8fbb9dc86"
+    },
+    {
       "pmid": "42647598",
       "title": "A 3D human retina model reveals a non-cell-autonomous and non-neuronal mechanism of photoreceptor loss in a lysosomal storage disorder.",
       "titleZh": "3D 人类视网膜模型揭示了溶酶体储存障碍中光感受器损失的非细胞自主和非神经元机制。",
@@ -1698,6 +1721,28 @@
       "abstractEn": "Disruption of the photoreceptor-retinal pigment epithelium (RPE) interface, with loss of photoreceptor outer segments (POSs) in the retina, is a pathological hallmark of several neurodegenerative and retinal diseases, including lysosomal storage disorders like juvenile neuronal ceroid lipofuscinosis (CLN3) disease. However, in vitro stem cell models that enable investigation of the photoreceptor-RPE interface are lacking. Here, we developed a 3D human pluripotent stem cell-derived retina organoid-RPE (hPSC-RO-RPE) model to investigate the photoreceptor-RPE interface in healthy and diseased tissues. Using this 3D hPSC-RO-RPE retina model, we showed that the most common disease-causing CLN3 mutation ( CLN3 Δ ex7-8 ) leads to reduced levels of acid ceramidase (AC), sphingosine 1 phosphate, and POS loss. Furthermore, by analyzing control versus CLN3 mutant ( CLN3 Δ ex7-8 ) hPSC-derived RPE monoculture and hPSC-RO-RPE model, (i) we identified a pathogenic role of AC-mediated lysosomal sphingolipid metabolism in promoting CLN3 disease pathobiology, and (ii) we showed a cell autonomous role of the RPE dysfunction in promoting POS loss/retina degeneration in CLN3 disease. We validated the molecular and structural changes observed in the CLN3 Δ ex7-8 hPSC-RO-RPE model in the CLN3 miniswine model ( CLN3 Δ ex7-8 ) and donor eyes from two patients with CLN3 disease. High-resolution retinal imaging of the living eye in two patients with CLN3 disease suggested decreased RPE autofluorescence in early-stage CLN3 disease. Treatment with recombinant human acid ceramidase (rhAC) ameliorated photoreceptor degeneration in both the CLN3 disease RO-RPE model and CLN3 miniswine eyes. These findings suggest that rhAC could be a therapeutic approach for retinal degeneration in CLN3 disease.",
       "summaryZh": "光感受器-视网膜色素上皮 (RPE) 界面的破坏，以及视网膜光感受器外节 (POS) 的丧失，是多种神经退行性和视网膜疾病的病理标志，包括溶酶体贮积症，如幼年神经元蜡质脂褐质沉着症 (CLN3) 病。然而，缺乏能够研究光感受器-RPE 界面的体外干细胞模型。在这里，我们开发了 3D 人类多能干细胞来源的视网膜类器官 -RPE (hPSC-RO-RPE) 模型，以研究健康和患病组织中的光感受器 -RPE 界面。使用这种 3D hPSC-RO-RPE 视网膜模型，我们发现最常见的致病 CLN3 突变 (CLN3 Δ ex7-8 ) 会导致酸性神经酰胺酶 (AC)、1 磷酸鞘氨醇水平降低和 POS 丢失。此外，通过分析对照与 CLN3 突变体 ( CLN3 Δ ex7-8 ) hPSC 衍生的 RPE 单一培养物和 hPSC-RO-RPE 模型，(i) 我们确定了 AC 介导的溶酶体鞘脂代谢在促进 CLN3 疾病病理学中的致病作用，(ii) 我们展示了 RPE 功能障碍在促进 CLN3 疾病中 POS 丢失/视网膜变性中的细胞自主作用。我们验证了在 CLN3 小型猪模型 ( CLN3 Δ ex7-8 ) 和两名 CLN3 疾病患者的供体眼睛中观察到的 CLN3 Δ ex7-8 hPSC-RO-RPE 模型中观察到的分子和结构变化。对两名 CLN3 疾病患者活体眼睛的高分辨率视网膜成像表明，早期 CLN3 疾病患者的 RPE 自发荧光减少。重组人酸性神经酰胺酶 (rhAC) 治疗可改善 CLN3 疾病 RO-RPE 模型和 CLN3 小型猪眼中的光感受器变性。这些发现表明 rhAC 可能是治疗 CLN3 疾病视网膜变性的方法。",
       "translationSource": "172a1a7967b9cf3b"
+    },
+    {
+      "pmid": "42802282",
+      "title": "A redox switch on CDC48 regulates peroxisomal function via controlling peroxisome-associated protein degradation.",
+      "titleZh": "CDC48 上的氧化还原开关通过控制过氧化物酶体相关蛋白降解来调节过氧化物酶体功能。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-26",
+      "doi": "10.1038/s41467-026-77146-3",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77146-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42802282/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Peroxisomes are single-membrane-bound organelles essential for diverse metabolic reactions and cellular redox homeostasis, yet the contribution of ubiquitin-proteasome system to peroxisomal biology remains unclear. Here, we demonstrate that the AAA-ATPase complex comprising Cell Division Cycle48 (CDC48), Nuclear Protein Localization4 (NPL4) and Ubiquitin Fusion Degradation1 (UFD1) is indispensable for peroxisomal biogenesis and physiological function in Arabidopsis. We identify the peroxisomal membrane peroxin PEX22 as a direct substrate of the CDC48 complex and show that this complex promotes ubiquitin-dependent PEX22 turnover. Genetic analyses place CDC48 complex upstream of PEX22 in controlling peroxisomal biogenesis and activity. Moreover, H₂O₂‑triggered Cys271 oxidation represses CDC48 ATPase activity, stabilizing PEX22 via slowed degradation; nucleoredoxin NRX1 reduces oxidized CDC48 to recover its function. Consistently, transgenic plants harboring the redox-insensitive CDC48-C271S variant display accelerated PEX22 turnover and enhanced susceptibility to oxidative stress. Collectively, our findings establish the CDC48 complex as a putative H₂O₂ sensor that governs ubiquitin-mediated peroxisome-associated protein degradation (PexAD), enabling fine-tuning of peroxisomal performance in plant development and upon environmental stress.",
+      "summaryZh": "过氧化物酶体是单膜结合的细胞器，对于多种代谢反应和细胞氧化还原稳态至关重要，但泛素蛋白酶体系统对过氧化物酶体生物学的贡献仍不清楚。在这里，我们证明了由细胞分裂周期48（CDC48）、核蛋白定位4（NPL4）和泛素融合降解1（UFD1）组成的AAA-ATP酶复合物对于拟南芥中的过氧化物酶体生物发生和生理功能是不可或缺的。我们将过氧化物酶体膜过氧化物蛋白 PEX22 确定为 CDC48 复合物的直接底物，并表明该复合物促进泛素依赖性 PEX22 周转。遗传分析将 CDC48 复合物置于 PEX22 的上游，控制过氧化物酶体的生物发生和活性。此外，H2O2 触发的 Cys271 氧化可抑制 CDC48 ATPase 活性，通过减缓降解来稳定 PEX22；核氧还蛋白 NRX1 还原氧化的 CDC48 以恢复其功能。一致地，含有氧化还原不敏感的CDC48-C271S变体的转基因植物表现出加速的PEX22周转和增强的对氧化应激的敏感性。总的来说，我们的研究结果将 CDC48 复合物确立为一种假定的 H2O2 传感器，可控制泛素介导的过氧化物酶体相关蛋白降解 (PexAD)，从而能够在植物发育和环境胁迫下微调过氧化物酶体的性能。",
+      "translationSource": "c9157a6065958784"
     },
     {
       "pmid": "42649384",
