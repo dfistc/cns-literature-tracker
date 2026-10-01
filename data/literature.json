@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:35:12+00:00",
+  "updatedAt": "2026-10-01T02:38:02+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -69,6 +69,28 @@
       "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
       "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
       "translationSource": "df6ebbd678754909"
+    },
+    {
+      "pmid": "42811103",
+      "title": "Oncogenic viral infection triggers LAMP2A SUMOylation and chaperone-mediated autophagy to promote tumorigenesis.",
+      "titleZh": "致癌病毒感染触发 LAMP2A SUMO 化和分子伴侣介导的自噬，促进肿瘤发生。",
+      "journal": "Nature Microbiology",
+      "year": 2026,
+      "published": "2026-09-29",
+      "doi": "10.1038/s41564-026-02476-3",
+      "doiUrl": "https://doi.org/10.1038/s41564-026-02476-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42811103/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Chaperone-mediated autophagy (CMA) is a critical regulator of cancer progression and antiviral responses, often modulated by post-translational modifications. SUMOylation, a reversible post-translational modification, is implicated in viral infection and tumorigenesis, yet its role in CMA regulation remains unclear. Here we demonstrate that oncogenic viruses hijack CMA by inducing nuclear localization and SUMOylation of lysosomal-associated membrane protein 2A (LAMP2A), a central lysosomal receptor. Specifically, tripartite motif containing 32 (TRIM32) mediates SUMO2/3 conjugation to LAMP2A at lysine residues K104, K132 and K289. Using Kaposi's sarcoma-associated herpesvirus as a model, we found that TRIM32-induced LAMP2A SUMOylation activates CMA, thereby promoting viral persistence, tumour growth and angiogenesis in vivo. Importantly, TRIM32 expression positively correlates with LAMP2A in tumour tissues from patients with Kaposi's sarcoma-associated herpesvirus-, Epstein-Barr virus- and human papillomavirus-associated cancers, and peptide inhibitors targeting SUMOylated LAMP2A demonstrate potent antitumour and antiviral efficacy in vitro and in mice. Together, our findings position LAMP2A as a promising druggable target for treating virus-associated cancers.",
+      "summaryZh": "伴侣介导的自噬 (CMA) 是癌症进展和抗病毒反应的关键调节因子，通常通过翻译后修饰进行调节。 SUMOylation 是一种可逆的翻译后修饰，与病毒感染和肿瘤发生有关，但其在 CMA 调节中的作用仍不清楚。在此，我们证明致癌病毒通过诱导中央溶酶体受体溶酶体相关膜蛋白 2A (LAMP2A) 的核定位和 SUMO 化来劫持 CMA。具体而言，含有 32 (TRIM32) 的三联基序介导 SUMO2/3 在赖氨酸残基 K104、K132 和 K289 处与 LAMP2A 缀合。使用卡波西肉瘤相关疱疹病毒作为模型，我们发现 TRIM32 诱导的 LAMP2A SUMO 化可激活 CMA，从而促进体内病毒持久性、肿瘤生长和血管生成。重要的是，在卡波西肉瘤相关疱疹病毒、EB 病毒和人乳头瘤病毒相关癌症患者的肿瘤组织中，TRIM32 表达与 LAMP2A 呈正相关，针对 SUMO 化 LAMP2A 的肽抑制剂在体外和小鼠体内表现出有效的抗肿瘤和抗病毒功效。总之，我们的研究结果将 LAMP2A 定位为治疗病毒相关癌症的有前景的药物靶点。",
+      "translationSource": "4d836f26dc6e53fe"
     },
     {
       "pmid": "42789730",
