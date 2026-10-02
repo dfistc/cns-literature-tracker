@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T02:38:02+00:00",
+  "updatedAt": "2026-10-02T02:42:59+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -69,6 +69,115 @@
       "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
       "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
       "translationSource": "df6ebbd678754909"
+    },
+    {
+      "pmid": "42717093",
+      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK.",
+      "titleZh": "TRI-611，一种选择性脑渗透性 ALK 分子胶降解剂。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41586-026-10998-3",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10998-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717093/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, degron。",
+      "abstractEn": "Tyrosine kinase inhibitors (TKIs) targeting anaplastic lymphoma kinase (ALK) have transformed the treatment landscape of ALK fusion-positive non-small-cell lung carcinoma (ALK-positive NSCLC), but the limited options for patients who progress on approved TKIs highlight a continued need for an orthogonal therapeutic approach 1,2 . TRI-611 is a potent, brain-penetrant molecular glue degrader of ALK fusion proteins with the potential to address this need. TRI-611 promotes the proximity of the ALK kinase domain and CRL4 substrate adaptor CRBN through a unique degron interface distal from the kinase active site. The unique binding interface of TRI-611 leads to selectivity across the proteome including known CRBN neosubstrates and other kinases. TRI-611 treatment induces degradation of all forms of ALK fusion proteins, including wild-type and ALK TKI-resistant versions, leading to regression of cell line and patient-derived subcutaneous and intracranial tumour models of ALK-positive NSCLC. TRI-611 can be combined with orthosteric ALK TKIs, achieving synergistic and durable tumour regressions. TRI-611 represents to our knowledge the first clinical-stage molecular glue degrader targeting an oncogenic gene fusion and has the potential to expand the arsenal of therapeutic options for patients with ALK-positive NSCLC .",
+      "summaryZh": "靶向间变性淋巴瘤激酶 (ALK) 的酪氨酸激酶抑制剂 (TKI) 已经改变了 ALK 融合阳性非小细胞肺癌（ALK 阳性 NSCLC）的治疗格局，但对于使用已批准 TKI 取得进展的患者来说，选择有限，凸显了对正交治疗方法的持续需求 1,2 。 TRI-611 是一种有效的脑渗透性 ALK 融合蛋白分子胶降解剂，有可能满足这一需求。 TRI-611 通过远离激酶活性位点的独特降解决定子界面促进 ALK 激酶结构域和 CRL4 底物接头 CRBN 的接近。 TRI-611 独特的结合界面导致对蛋白质组的选择性，包​​括已知的 CRBN 新底物和其他激酶。 TRI-611 治疗可诱导所有形式的 ALK 融合蛋白（包括野生型和 ALK TKI 耐药版本）降解，导致细胞系和患者来源的 ALK 阳性 NSCLC 皮下和颅内肿瘤模型消退。 TRI-611 可与正位 ALK TKI 联合使用，实现协同且持久的肿瘤消退。据我们所知，TRI-611 代表了第一个针对致癌基因融合的临床阶段分子胶降解剂，并有可能扩大 ALK 阳性 NSCLC 患者的治疗选择。",
+      "translationSource": "42cbe04ecc59a3fb"
+    },
+    {
+      "pmid": "42557318",
+      "title": "Membranolytic peptide programs immunogenic cell death for cancer therapy.",
+      "titleZh": "溶膜肽可用于癌症治疗的免疫原性细胞死亡。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41586-026-10899-5",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10899-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557318/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "A rational design for facilitating innovative cell death modes can substantially aid advances in antitumour therapy 1,2 . Here we design and implement a unique mode of immunogenic membranolytic cell death (mLCD) in tumour cells, characterized by time-lagged rupture from the lysosomal to plasma membranes; this approach was found to robustly potentiate immune checkpoint blockade therapy. This mode of mLCD was induced by the synthetic-acid-responsive membranolytic peptide (aMP) aMP C16 -CA 50 , which exhibits hierarchical responsiveness to the decreasing pH associated with the tumour extracellular environment and lysosomes. aMP C16 -CA 50 activated an inflammatory transcriptional program in tumour cells, potentiating their ability to induce antigen presentation on class I major histocompatibility complex molecules on dendritic cells and the subsequent activation of T cells. The pH-responsive kinetics and membranolytic activity of the membranolytic peptides had a critical role in enhancing the immunogenicity of lytic tumour cells through the spatiotemporal regulation of the membrane-rupture processes. Furthermore, aMP C16 -CA 50 exhibited a considerable advantage in enhancing the antitumour efficacy of immune checkpoint blockade therapy through the promotion of antitumour immune response. Moreover, its systemic administration was well tolerated in mice. Overall, we successfully programmed a unique mode of immunogenic mLCD in tumour cells through the spatiotemporal regulation of membrane-rupture processes using a synthetic pH-responsive membranolytic peptide amenable to manipulation.",
+      "summaryZh": "促进创新细胞死亡模式的合理设计可以极大地促进抗肿瘤治疗的进展 1,2 。在这里，我们设计并实现了肿瘤细胞中免疫原性溶膜细胞死亡（mLCD）的独特模式，其特征是从溶酶体到质膜的时滞破裂；人们发现这种方法可以强有力地增强免疫检查点阻断疗法。这种 mLCD 模式是由合成酸响应性溶膜肽 (aMP) aMP C16 -CA 50 诱导的，它对与肿瘤细胞外环境和溶酶体相关的 pH 值降低表现出分级响应性。 aMP C16 -CA 50 激活肿瘤细胞中的炎症转录程序，增强其诱导树突状细胞上 I 类主要组织相容性复合物分子抗原呈递以及随后激活 T 细胞的能力。溶膜肽的 pH 响应动力学和溶膜活性在通过膜破裂过程的时空调节增强裂解肿瘤细胞的免疫原性方面发挥着关键作用。此外，aMP C16 -CA 50 通过促进抗肿瘤免疫反应，在增强免疫检查点阻断疗法的抗肿瘤功效方面表现出相当大的优势。此外，其全身给药在小鼠中具有良好的耐受性。总体而言，我们使用易于操作的合成 pH 响应膜溶解肽，通过膜破裂过程的时空调节，成功地在肿瘤细胞中编程了一种独特的免疫原性 mLCD 模式。",
+      "translationSource": "1b2ecdd313edc971"
+    },
+    {
+      "pmid": "42816512",
+      "title": "Cell-autonomous restoration of splicing homeostasis and RP11 phenotype in patient-derived RPE and retinal organoids by PRPF31.AAV gene therapy.",
+      "titleZh": "通过 PRPF31.AAV 基因治疗，细胞自主恢复患者来源的 RPE 和视网膜类器官中的剪接稳态和 RP11 表型。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-30",
+      "doi": "10.1038/s41467-026-78065-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78065-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816512/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Mutations in the PRPF31 gene cause retinitis pigmentosa type 11 (RP11), a progressive blinding disease triggered by defects in the spliceosome, the cellular machinery responsible for RNA processing. Although gene replacement holds therapeutic promise, it remains unclear whether it can effectively rescue both primary target cell types across different disease stages. Here we show that viral-mediated delivery of PRPF31 to patient-derived retinal pigment epithelium (RPE) cells and 3D retinal organoids restores RNA splicing activity and reverses core cellular pathology. Gene delivery cleared toxic protein aggregates, restored essential RPE functions, including structural polarity, cilia integrity, and cellular waste clearance, and boosted light-evoked activity in photoreceptors. Notably, robust rescue was achievable even in mature cells, whereas combining gene therapy with autophagy-activating drugs offered no added benefit. These findings demonstrate that restoring splicing homeostasis alone drives functional recovery, supporting a broad clinical window for PRPF31 gene therapy in RP11.",
+      "summaryZh": "PRPF31 基因突变会导致 11 型视网膜色素变性 (RP11)，这是一种由剪接体缺陷引发的进行性致盲疾病，剪接体是负责 RNA 加工的细胞机制。尽管基因替代具有治疗前景，但目前尚不清楚它是否可以有效地拯救不同疾病阶段的两种主要靶细胞类型。在这里，我们展示了病毒介导的 PRPF31 递送至患者来源的视网膜色素上皮 (RPE) 细胞和 3D 视网膜类器官，恢复了 RNA 剪接活性并逆转了核心细胞病理学。基因传递清除了有毒蛋白质聚集体，恢复了基本的 RPE 功能，包括结构极性、纤毛完整性和细胞废物清除，并增强了光感受器的光诱发活性。值得注意的是，即使在成熟细胞中也可以实现强有力的拯救，而将基因疗法与自噬激活药物相结合并没有带来额外的好处。这些发现表明，仅恢复剪接稳态即可促进功能恢复，为 RP11 中的 PRPF31 基因治疗提供广阔的临床窗口。",
+      "translationSource": "24b1e03ea2b3c228"
+    },
+    {
+      "pmid": "42816627",
+      "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation.",
+      "titleZh": "TBK1/ULK1 信号轴将溶酶体应激与 TFEB 激活结合起来。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-30",
+      "doi": "10.1038/s41586-026-11093-3",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11093-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816627/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal adaptation to environmental changes is critical for cellular and metabolic homeostasis and requires coordination by the mTORC1 kinase, which conveys nutritional and stress signals into distinct, substrate-specific outputs 1,2 . The FLCN-FNIP complex (FLCN:FNIP) serves as a crucial regulator of lysosomal function by selectively controlling the ability of mTORC1 to inhibit transcription factor EB (TFEB), a master regulator of catabolic programs and a known oncogene 3 . Yet how FLCN:FNIP activity is regulated has remained unclear. Here we identify a nutrient-independent lysosomal signalling pathway that regulates FLCN through v-ATPase-driven recruitment of TBK1 or ULK1 (TBK1/ULK1) to lysosomes, via the TAX1BP1 adaptor. This enables TBK1/ULK1-mediated FNIP1 phosphorylation at S296, resulting in inhibition of FLCN and nuclear translocation of TFEB. Recurrent ATP6V1B2 v-ATPase mutations, found in patients with follicular lymphoma, constitutively activate this pathway, leading to hyperactivation of TFEB and follicular lymphoma proliferation. Our work uncovers a lysosomal signalling pathway that is critical for lysosomal adaptation and tumorigenesis.",
+      "summaryZh": "溶酶体对环境变化的适应对于细胞和代谢稳态至关重要，并且需要 mTORC1 激酶的协调，该激酶将营养和应激信号传递到不同的底物特异性输出 1,2 。 FLCN-FNIP 复合物 (FLCN:FNIP) 通过选择性控制 mTORC1 抑制转录因子 EB (TFEB) 的能力，作为溶酶体功能的关键调节因子，转录因子 EB (TFEB) 是分解代谢程序的主要调节因子和已知的癌基因 3 。然而 FLCN:FNIP 活动如何受到监管仍不清楚。在这里，我们确定了一种不依赖营养的溶酶体信号通路，该通路通过 TAX1BP1 接头，通过 v-ATPase 驱动的 TBK1 或 ULK1 (TBK1/ULK1) 募集到溶酶体来调节 FLCN。这使得 TBK1/ULK1 介导的 FNIP1 在 S296 处磷酸化，从而抑制 FLCN 和 TFEB 的核转位。在滤泡性淋巴瘤患者中发现的复发性 ATP6V1B2 v-ATPase 突变会持续激活该通路，导致 TFEB 过度激活和滤泡性淋巴瘤增殖。我们的工作揭示了对溶酶体适应和肿瘤发生至关重要的溶酶体信号通路。",
+      "translationSource": "44bbbfab74681155"
+    },
+    {
+      "pmid": "42816619",
+      "title": "GPCR antagonism via rewiring of receptor trafficking and degradation.",
+      "titleZh": "通过受体运输和降解的重新布线发挥 GPCR 拮抗作用。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-09-30",
+      "doi": "10.1038/s41586-026-11088-0",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11088-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816619/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "G-protein-coupled receptors (GPCRs) represent one of the most important yet incompletely addressed classes of therapeutic targets 1 . Here we report a strategy for functional GPCR antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation. GPCR-TfR1 targeting chimeras (GTACs) achieve potent and selective downregulation of multiple GPCRs, including BILF1, RXFP1 and CCR6-viral, cancer and immune targets that have been difficult to drug 2-4 . GTACs lead to complete inhibition of receptor signalling, including constitutive signalling, with more than one to two orders of magnitude greater potency than conventional antibody antagonists. Using protein engineering and multicolour live-cell imaging, we establish a context-dependent degrader design and explain the cellular mechanisms, with broad relevance for degrader technology. The GTAC platform establishes induced endocytosis and rewiring protein trafficking as a model for therapeutic GPCR modulation.",
+      "summaryZh": "G 蛋白偶联受体 (GPCR) 是最重要但尚未完全解决的治疗靶点之一 1 。在这里，我们报告了一种通过双特异性抗体介导的内吞作用和溶酶体降解来实现功能性 GPCR 拮抗的策略。 GPCR-TfR1 靶向嵌合体 (GTAC) 可实现多种 GPCR 的有效选择性下调，包括 BILF1、RXFP1 和 CCR6 病毒、癌症和免疫靶点，这些靶点一直难以药物治疗 2-4 。 GTAC 可完全抑制受体信号传导，包括组成型信号传导，其效力比传统抗体拮抗剂高一到两个数量级以上。利用蛋白质工程和多色活细胞成像，我们建立了上下文相关的降解剂设计并解释了细胞机制，与降解剂技术具有广泛的相关性。 GTAC 平台建立了诱导内吞作用和重新布线蛋白质运输作为治疗性 GPCR 调节的模型。",
+      "translationSource": "3daa0938a97c6713"
     },
     {
       "pmid": "42811103",
@@ -789,29 +898,6 @@
       "translationSource": "3882a1d2d2d41520"
     },
     {
-      "pmid": "42717093",
-      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK.",
-      "titleZh": "TRI-611，一种选择性脑渗透性 ALK 分子胶降解剂。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-09-09",
-      "doi": "10.1038/s41586-026-10998-3",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10998-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717093/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue degrader",
-        "molecular glue",
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue, degron。",
-      "abstractEn": "Tyrosine kinase inhibitors (TKIs) targeting anaplastic lymphoma kinase (ALK) have transformed the treatment landscape of ALK fusion-positive non-small-cell lung carcinoma (ALK-positive NSCLC), but the limited options for patients who progress on approved TKIs highlight a continued need for an orthogonal therapeutic approach 1,2 . TRI-611 is a potent, brain-penetrant molecular glue degrader of ALK fusion proteins with the potential to address this need. TRI-611 promotes the proximity of the ALK kinase domain and CRL4 substrate adaptor CRBN through a unique degron interface distal from the kinase active site. The unique binding interface of TRI-611 leads to selectivity across the proteome including known CRBN neosubstrates and other kinases. TRI-611 treatment induces degradation of all forms of ALK fusion proteins, including wild-type and ALK TKI-resistant versions, leading to regression of cell line and patient-derived subcutaneous and intracranial tumour models of ALK-positive NSCLC. TRI-611 can be combined with orthosteric ALK TKIs, achieving synergistic and durable tumour regressions. TRI-611 represents to our knowledge the first clinical-stage molecular glue degrader targeting an oncogenic gene fusion and has the potential to expand the arsenal of therapeutic options for patients with ALK-positive NSCLC .",
-      "summaryZh": "靶向间变性淋巴瘤激酶 (ALK) 的酪氨酸激酶抑制剂 (TKI) 已经改变了 ALK 融合阳性非小细胞肺癌（ALK 阳性 NSCLC）的治疗格局，但对于使用已批准 TKI 取得进展的患者来说，选择有限，凸显了对正交治疗方法的持续需求 1,2 。 TRI-611 是一种有效的脑渗透性 ALK 融合蛋白分子胶降解剂，有可能满足这一需求。 TRI-611 通过远离激酶活性位点的独特降解决定子界面促进 ALK 激酶结构域和 CRL4 底物接头 CRBN 的接近。 TRI-611 独特的结合界面导致对蛋白质组的选择性，包​​括已知的 CRBN 新底物和其他激酶。 TRI-611 治疗可诱导所有形式的 ALK 融合蛋白（包括野生型和 ALK TKI 耐药版本）降解，导致细胞系和患者来源的 ALK 阳性 NSCLC 皮下和颅内肿瘤模型消退。 TRI-611 可与正位 ALK TKI 联合使用，实现协同且持久的肿瘤消退。据我们所知，TRI-611 代表了第一个针对致癌基因融合的临床阶段分子胶降解剂，并有可能扩大 ALK 阳性 NSCLC 患者的治疗选择。",
-      "translationSource": "42cbe04ecc59a3fb"
-    },
-    {
       "pmid": "42594861",
       "title": "Proteasome-dependent protein degradation shapes developmental tempo in mouse and human neural progenitors.",
       "titleZh": "蛋白酶体依赖性蛋白质降解影响小鼠和人类神经祖细胞的发育节奏。",
@@ -1477,6 +1563,27 @@
       "abstractEn": "Mitochondrial proteostasis depends on precise N-terminal processing of imported precursor proteins. Defects in this maturation step are implicated in disease, yet the functional impact in humans remains unclear. Here we show that the intermediate cleaving peptidase ICP55, which removes a single amino acid, acts as a key stabilizer of multimeric mitochondrial protein complexes. Using proteomics and complexome profiling, we identify over 100 human ICP55 substrates and demonstrate that loss of ICP55 triggers widespread destabilization of protein assemblies, with a global shift toward smaller subcomplexes. Thus, we uncover a conserved, post-translational mechanism that safeguards mitochondrial proteostasis by regulating complex integrity through a single amino-acid cleavage, and we reveal N-terminal proteoform control as an unexpected layer of organellar homeostasis.",
       "summaryZh": "线粒体蛋白质稳态依赖于输入前体蛋白的精确 N 末端加工。这一成熟步骤的缺陷与疾病有关，但对人类功能的影响仍不清楚。在这里，我们证明中间裂解肽酶 ICP55 可去除单个氨基酸，充当多聚体线粒体蛋白复合物的关键稳定剂。利用蛋白质组学和复合体分析，我们鉴定了 100 多种人类 ICP55 底物，并证明 ICP55 的缺失会引发蛋白质组装体的广泛不稳定，并导致全球向更小的子复合物转变。因此，我们发现了一种保守的翻译后机制，通过单个氨基酸裂解调节复杂的完整性来保护线粒体蛋白质稳态，并且我们揭示了 N 末端蛋白质形式控制作为细胞器稳态的一个意想不到的层。",
       "translationSource": "3c795da4c2a08918"
+    },
+    {
+      "pmid": "42816491",
+      "title": "A lipid transfer-dependent feedback loop activates ATG9A compartments in autophagy initiation.",
+      "titleZh": "脂质转移依赖性反馈环路在自噬启动过程中激活 ATG9A 区室。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-08-31",
+      "doi": "10.1038/s41467-026-77368-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77368-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816491/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Autophagy degrades cellular material by sequestering it within autophagosomes, which form de novo from precursors called phagophores. Phagophore assembly and expansion require ATG9A-positive seed compartments, the lipid transfer protein ATG2A, and the class III phosphatidylinositol 3-phosphate kinase complex I (PI3KC3-C1). PI3KC3-C1 synthesizes phosphatidylinositol 3-phosphate (PI3P), a key lipid that drives downstream processes for phagophore expansion, including ATG8 lipidation. We find that ATG9A compartments contain only traces of phosphatidylinositol (PI), likely insufficient for efficient PI3P production or recruitment of PI3P-binding effectors. Nevertheless, ATG2A is recruited to these compartments and mediates lipid transfer, including PI, into them. Remarkably, even without detectable PI3P, ATG9A compartments are direct substrates for ATG8 lipidation, and ATG8 proteins themselves enhance ATG2A-mediated lipid transfer. In cells, ATG2A is essential for the appearance of PI3P on ATG9A compartments. Our findings support a model in which a lipid transfer-driven feedback loop activates ATG9A compartments for phagophore expansion.",
+      "summaryZh": "自噬通过将细胞物质隔离在自噬体中来降解细胞物质，自噬体是由称为吞噬泡的前体从头形成的。吞噬细胞的组装和扩增需要 ATG9A 阳性种子区室、脂质转移蛋白 ATG2A 和 III 类磷脂酰肌醇 3-磷酸激酶复合物 I (PI3KC3-C1)。 PI3KC3-C1 合成磷脂酰肌醇 3-磷酸 (PI3P)，这是一种驱动吞噬细胞扩张下游过程（包括 ATG8 脂化）的关键脂质。我们发现 ATG9A 区室仅含有微量的磷脂酰肌醇 (PI)，可能不足以有效产生 PI3P 或招募 PI3P 结合效应子。然而，ATG2A 被招募到这些区室中并介导脂质（包括 PI）转移到其中。值得注意的是，即使没有可检测到的 PI3P，ATG9A 区室也是 ATG8 脂化的直接底物，并且 ATG8 蛋白本身增强 ATG2A 介导的脂质转移。在细胞中，ATG2A 对于 ATG9A 区室上 PI3P 的出现至关重要。我们的研究结果支持一个模型，其中脂质转移驱动的反馈环路激活 ATG9A 区室以进行吞噬细胞扩张。",
+      "translationSource": "3a4df3397afd6df0"
     },
     {
       "pmid": "42675166",
@@ -2795,28 +2902,6 @@
       "abstractEn": "Tumor-initiating cells (TICs) promote tumor initiation and therapy resistance, yet the kinase regulators that sustain TICs remain incompletely defined. Here, we identify the stress kinase p38β (MAPK11) supports TIC maintenance and drug resistance in hepatocellular carcinoma (HCC). Integrated analysis of chemotherapy-enriched HCC spheroids, and DepMap data prioritized p38β as a kinase linked to stemness and chemoresistance. High p38β expression correlates with poor prognosis and aggressive clinicopathological features in HCC patients. Mechanistically, p38β phosphorylates the endoplasmic reticulum (ER) chaperone BiP at threonine 648, enhancing its association with the unfolded protein response (UPR) sensors PERK and IRE1-α. This modification suppresses UPR activation and reduces unfolded protein accumulation, thereby preserving ER proteostasis under chemotherapeutic stress. Functionally, p38β-driven BiP phosphorylation sustains TIC phenotypes and cisplatin resistance in vitro and in vivo. BiP inhibition with HA15 restores UPR signaling and sensitizes patient-derived xenograft and organoid models to cisplatin, revealing a targetable p38β-BiP axis in HCC.",
       "summaryZh": "肿瘤起始细胞 (TIC) 促进肿瘤发生和治疗耐药，但维持 TIC 的激酶调节因子仍未完全确定。在这里，我们确定了应激激酶 p38β (MAPK11) 支持肝细胞癌 (HCC) 中的 TIC 维持和耐药性。对富含化疗的 HCC 球体的综合分析和 DepMap 数据优先考虑 p38β 作为与干细胞性和化疗耐药性相关的激酶。 p38β 高表达与 HCC 患者的不良预后和侵袭性临床病理特征相关。从机制上讲，p38β 在苏氨酸 648 处磷酸化内质网 (ER) 伴侣 BiP，增强其与未折叠蛋白反应 (UPR) 传感器 PERK 和 IRE1-α 的关联。这种修饰抑制 UPR 激活并减少未折叠蛋白的积累，从而在化疗应激下保持 ER 蛋白质稳态。从功能上来说，p38β 驱动的 BiP 磷酸化在体外和体内维持 TIC 表型和顺铂耐药性。 HA15 抑制 BiP 可恢复 UPR 信号传导并使患者来源的异种移植物和类器官模型对顺铂敏感，揭示 HCC 中的可靶向 p38β-BiP 轴。",
       "translationSource": "6c75d5577adb49c7"
-    },
-    {
-      "pmid": "42557318",
-      "title": "Membranolytic peptide programs immunogenic cell death for cancer therapy.",
-      "titleZh": "溶膜肽可用于癌症治疗的免疫原性细胞死亡。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-08-05",
-      "doi": "10.1038/s41586-026-10899-5",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10899-5",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557318/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "A rational design for facilitating innovative cell death modes can substantially aid advances in antitumour therapy 1,2 . Here we design and implement a unique mode of immunogenic membranolytic cell death (mLCD) in tumour cells, characterized by time-lagged rupture from the lysosomal to plasma membranes; this approach was found to robustly potentiate immune checkpoint blockade therapy. This mode of mLCD was induced by the synthetic-acid-responsive membranolytic peptide (aMP) aMP C16 -CA 50 , which exhibits hierarchical responsiveness to the decreasing pH associated with the tumour extracellular environment and lysosomes. aMP C16 -CA 50 activated an inflammatory transcriptional program in tumour cells, potentiating their ability to induce antigen presentation on class I major histocompatibility complex molecules on dendritic cells and the subsequent activation of T cells. The pH-responsive kinetics and membranolytic activity of the membranolytic peptides had a critical role in enhancing the immunogenicity of lytic tumour cells through the spatiotemporal regulation of the membrane-rupture processes. Furthermore, aMP C16 -CA 50 exhibited a considerable advantage in enhancing the antitumour efficacy of immune checkpoint blockade therapy through the promotion of antitumour immune response. Moreover, its systemic administration was well tolerated in mice. Overall, we successfully programmed a unique mode of immunogenic mLCD in tumour cells through the spatiotemporal regulation of membrane-rupture processes using a synthetic pH-responsive membranolytic peptide amenable to manipulation.",
-      "summaryZh": "促进创新细胞死亡模式的合理设计可以极大地促进抗肿瘤治疗的进展 1,2 。在这里，我们设计并实现了肿瘤细胞中免疫原性溶膜细胞死亡（mLCD）的独特模式，其特征是从溶酶体到质膜的时滞破裂；人们发现这种方法可以强有力地增强免疫检查点阻断疗法。这种 mLCD 模式是由合成酸响应性溶膜肽 (aMP) aMP C16 -CA 50 诱导的，它对与肿瘤细胞外环境和溶酶体相关的 pH 值降低表现出分级响应性。 aMP C16 -CA 50 激活肿瘤细胞中的炎症转录程序，增强其诱导树突状细胞上 I 类主要组织相容性复合物分子抗原呈递以及随后激活 T 细胞的能力。溶膜肽的 pH 响应动力学和溶膜活性在通过膜破裂过程的时空调节增强裂解肿瘤细胞的免疫原性方面发挥着关键作用。此外，aMP C16 -CA 50 通过促进抗肿瘤免疫反应，在增强免疫检查点阻断疗法的抗肿瘤功效方面表现出相当大的优势。此外，其全身给药在小鼠中具有良好的耐受性。总体而言，我们使用易于操作的合成 pH 响应膜溶解肽，通过膜破裂过程的时空调节，成功地在肿瘤细胞中编程了一种独特的免疫原性 mLCD 模式。",
-      "translationSource": "1b2ecdd313edc971"
     },
     {
       "pmid": "42547503",
