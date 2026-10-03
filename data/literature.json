@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-10-02T02:42:59+00:00",
+  "updatedAt": "2026-10-03T02:29:23+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42826197",
+      "title": "In situ evidence of tiered adaptations buffering a chemosynthetic clam holobiont against environmental sulfide fluctuations.",
+      "titleZh": "分层适应的原位证据可以缓冲化学合成的蛤全生物免受环境硫化物波动的影响。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-02",
+      "doi": "10.1126/sciadv.aed8728",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aed8728",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826197/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Deep-sea holobionts adapt to extreme environmental fluctuations, but the molecular mechanisms underlying resilience remain poorly understood. We investigated the vesicomyid clam Archivesica marissinica and its sulfur-oxidizing symbionts during sulfide shortage via in situ transplant experiments at the Haima cold seep. Transplanting clams to sulfide-depleted conditions (moderate at HM-3 and severe at HM-2) revealed distinct response patterns of host-symbiont interaction. Symbionts may mitigate sulfide loss by shifting from sulfide oxidation to thiosulfate oxidation, supported by thiosulfate generated through host sulfide detoxification pathways. Notably, symbiont abundance remained stable under moderate sulfide shortage (HM-3), accompanied by down-regulation of host endosomal maturation and fusion with lysosomes, potentially limiting symbiont turnover. Conversely, severe sulfide shortage (HM-2) was associated with up-regulation of lysosomal pathways and lower symbiont abundance. These results demonstrate tiered molecular adaptations-metabolic flexibility and shifts in symbiont dynamics-enabling holobiont resilience to spatially heterogeneous sulfide availability in deep-sea seeps, supporting ecosystem stability.",
+      "summaryZh": "深海全生物适应极端的环境波动，但其恢复能力的分子机制仍然知之甚少。我们通过海马冷泉的原位移植实验，研究了硫化物短缺期间的囊蛤Archivesica marissinica 及其硫氧化共生体。将蛤移植到硫化物耗尽的条件（HM-3 为中度，HM-2 为重度）揭示了宿主-共生体相互作用的不同反应模式。在宿主硫化物解毒途径产生的硫代硫酸盐的支持下，共生体可以通过从硫化物氧化转变为硫代硫酸盐氧化来减轻硫化物损失。值得注意的是，在中度硫化物短缺（HM-3）下，共生体丰度保持稳定，伴随着宿主内体成熟和与溶酶体融合的下调，可能限制共生体周转。相反，严重的硫化物短缺（HM-2）与溶酶体途径的上调和共生体丰度降低有关。这些结果证明了分层的分子适应——代谢灵活性和共生体动力学的变化——使全生物对深海渗漏中的空间异质硫化物可用性具有恢复能力，支持生态系统的稳定性。",
+      "translationSource": "0b83bae87dd9a37c"
+    },
     {
       "pmid": "42469449",
       "title": "Restoring intracellular homeostasis disrupted by synthetic nanoassemblies.",
@@ -114,6 +136,69 @@
       "abstractEn": "A rational design for facilitating innovative cell death modes can substantially aid advances in antitumour therapy 1,2 . Here we design and implement a unique mode of immunogenic membranolytic cell death (mLCD) in tumour cells, characterized by time-lagged rupture from the lysosomal to plasma membranes; this approach was found to robustly potentiate immune checkpoint blockade therapy. This mode of mLCD was induced by the synthetic-acid-responsive membranolytic peptide (aMP) aMP C16 -CA 50 , which exhibits hierarchical responsiveness to the decreasing pH associated with the tumour extracellular environment and lysosomes. aMP C16 -CA 50 activated an inflammatory transcriptional program in tumour cells, potentiating their ability to induce antigen presentation on class I major histocompatibility complex molecules on dendritic cells and the subsequent activation of T cells. The pH-responsive kinetics and membranolytic activity of the membranolytic peptides had a critical role in enhancing the immunogenicity of lytic tumour cells through the spatiotemporal regulation of the membrane-rupture processes. Furthermore, aMP C16 -CA 50 exhibited a considerable advantage in enhancing the antitumour efficacy of immune checkpoint blockade therapy through the promotion of antitumour immune response. Moreover, its systemic administration was well tolerated in mice. Overall, we successfully programmed a unique mode of immunogenic mLCD in tumour cells through the spatiotemporal regulation of membrane-rupture processes using a synthetic pH-responsive membranolytic peptide amenable to manipulation.",
       "summaryZh": "促进创新细胞死亡模式的合理设计可以极大地促进抗肿瘤治疗的进展 1,2 。在这里，我们设计并实现了肿瘤细胞中免疫原性溶膜细胞死亡（mLCD）的独特模式，其特征是从溶酶体到质膜的时滞破裂；人们发现这种方法可以强有力地增强免疫检查点阻断疗法。这种 mLCD 模式是由合成酸响应性溶膜肽 (aMP) aMP C16 -CA 50 诱导的，它对与肿瘤细胞外环境和溶酶体相关的 pH 值降低表现出分级响应性。 aMP C16 -CA 50 激活肿瘤细胞中的炎症转录程序，增强其诱导树突状细胞上 I 类主要组织相容性复合物分子抗原呈递以及随后激活 T 细胞的能力。溶膜肽的 pH 响应动力学和溶膜活性在通过膜破裂过程的时空调节增强裂解肿瘤细胞的免疫原性方面发挥着关键作用。此外，aMP C16 -CA 50 通过促进抗肿瘤免疫反应，在增强免疫检查点阻断疗法的抗肿瘤功效方面表现出相当大的优势。此外，其全身给药在小鼠中具有良好的耐受性。总体而言，我们使用易于操作的合成 pH 响应膜溶解肽，通过膜破裂过程的时空调节，成功地在肿瘤细胞中编程了一种独特的免疫原性 mLCD 模式。",
       "translationSource": "1b2ecdd313edc971"
+    },
+    {
+      "pmid": "42822415",
+      "title": "Molecular glue everywhere: Metabolites join the party.",
+      "titleZh": "分子胶无处不在：代谢物加入其中。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1016/j.molcel.2026.08.024",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.08.024",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42822415/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "In a recent Nature paper, Witus et al. 1 show that endogenous purine nucleotides and thiopurine drugs act as molecular glues to block purine synthesis by tethering PPAT to its inhibitor NUDT5 via a pocket highlighted by plasticity and cooperative interactions.",
+      "summaryZh": "在最近的一篇《自然》论文中，Witus 等人。图1显示内源性嘌呤核苷酸和硫代嘌呤药物通过可塑性和协同相互作用突出的口袋将PPAT与其抑制剂NUDT5连接起来，充当分子胶来阻断嘌呤合成。",
+      "translationSource": "347372ab1a50bcf3"
+    },
+    {
+      "pmid": "42826099",
+      "title": "Lysosomal multi-omics reveals altered sphingolipid catabolism associated with lysosomal dysfunction in the aging brain.",
+      "titleZh": "溶酶体多组学揭示了与衰老大脑中溶酶体功能障碍相关的鞘脂分解代谢的改变。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1016/j.celrep.2026.118065",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118065",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826099/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Lipids dynamically reside in multiple intracellular locations, and their organellar distribution is important for function. During brain aging, lysosomal lipid changes have been noted, but lipid identity, interactions, and functional relevance have not been characterized. We used mass spectrometry to assess longitudinal changes in the lipidome and proteome of lysosomal fractions from the murine cortex, from 3 to 24 months, followed by multi-omics factor analysis (MOFA) to identify factors underlying lysosomal aging. Our data uncover an age-dependent increase in lysosomal abundance of lipid and protein myelin components and suggest altered sphingolipid catabolism favoring degradation of sphingomyelins over glycosphingolipids. We experimentally corroborate MOFA predictions to demonstrate that age-dependent accumulation of myelin-derived glycosphingolipids is associated with lysosomal enlargement and dysfunction and is most pronounced in microglia. Our findings suggest that age-related lysosomal lipidome changes resemble those observed in lysosomal storage diseases and underscore the importance of organelle-specific analyses for elucidating lipid function.",
+      "summaryZh": "脂质动态地驻留在细胞内的多个位置，它们的细胞器分布对于功能很重要。在大脑衰老过程中，溶酶体脂质的变化已被注意到，但脂质的特性、相互作用和功能相关性尚未得到表征。我们使用质谱法评估 3 至 24 个月内小鼠皮质溶酶体组分的脂质组和蛋白质组的纵向变化，然后通过多组学因子分析 (MOFA) 来识别溶酶体衰老的潜在因素。我们的数据揭示了溶酶体中脂质和蛋白质髓磷脂成分的丰度随年龄的增加而增加，并表明鞘脂分解代谢的改变有利于鞘磷脂而不是糖鞘脂的降解。我们通过实验证实了 MOFA 的预测，证明髓磷脂衍生的鞘糖脂的年龄依赖性积累与溶酶体增大和功能障碍相关，并且在小胶质细胞中最为明显。我们的研究结果表明，与年龄相关的溶酶体脂质组变化类似于在溶酶体贮积病中观察到的变化，并强调了细胞器特异性分析对于阐明脂质功能的重要性。",
+      "translationSource": "e9c5c8c689f459a5"
+    },
+    {
+      "pmid": "42772279",
+      "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
+      "titleZh": "地热阿米巴原虫为真核生物设定了新的温度上限。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1016/j.cell.2026.08.043",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.043",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772279/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The study of temperature limits has transformed our understanding of life's boundaries but has focused on bacteria and archaea. For decades after their discovery, no eukaryote was shown to replicate above 60°C. We isolated a geothermal amoeba, Incendiamoeba cascadensis, that divides at 63°C and is motile up to 64°C. We identified an enrichment of genes related to proteostasis and environmental sensing relative to mesophilic amoebae. Comparative RNA sequencing of I. cascadensis revealed upregulation of pathways related to proteostasis, DNA repair, and membrane trafficking at high temperatures. Predicted proteins of I. cascadensis have distinct biophysical properties, including enrichment of positively charged surface residues similar to bacterial and archaeal hyperthermophiles, which suggests a convergent mechanism for protein stability under temperature stress. Together, our findings expand our understanding of where and how life can persist.",
+      "summaryZh": "对温度极限的研究改变了我们对生命边界的理解，但重点关注细菌和古细菌。在他们发现之后的几十年里，没有任何真核生物被证明可以在 60°C 以上的温度下进行复制。我们分离出了一种地热变形虫 Incendiamoebacascadensis，它在 63°C 时分裂，并在高达 64°C 的温度下活动。我们鉴定出与嗜温变形虫相关的蛋白质稳态和环境感知相关基因的富集。 I.cascadensis 的比较 RNA 测序揭示了高温下与蛋白质稳态、DNA 修复和膜运输相关途径的上调。预测的 I.cascadensis 蛋白质具有独特的生物物理特性，包括与细菌和古细菌超嗜热菌类似的带正电表面残基的富集，这表明温度应激下蛋白质稳定性的收敛机制。总之，我们的发现扩展了我们对生命可以在何处以及如何持续存在的理解。",
+      "translationSource": "7d0bf344fb13c65d"
     },
     {
       "pmid": "42816512",
@@ -420,27 +505,6 @@
       "abstractEn": "Xenophagy is a selective autophagy process crucial for eliminating intracellular pathogens, yet its regulatory mechanisms remain poorly defined. In this study, acetylome profiling identifies dynamic acetylation of the xenophagy receptor NDP52 at K202, and its deacetylation enhances during Salmonella Typhimurium infection. Acetyltransferase CREBBP/KAT3A and deacetylase HDAC3 reciprocally regulate NDP52 K202 acetylation. Deacetylated NDP52 binds more strongly to ATG8 family proteins (MAP1LC3A/B and GABARAPL2), promotes autophagosome-lysosome fusion and pathogen degradation. Innate immune kinase TBK1 phosphorylates HDAC3 at S424, stabilizes it by inhibiting ubiquitination-dependent degradation, and this regulatory cascade links innate immunity to xenophagy. Liver-specific overexpression of deacetylation-mimetic NDP52 K202R in mice reduces hepatic Salmonella Typhimurium burden, attenuates liver necrosis, and suppresses proinflammatory cytokines. This study uncovers a post-translational modification paradigm in xenophagy, where NDP52 acetylation dynamics fine-tune receptor function in antibacterial responses, highlighting the HDAC3-NDP52 axis as a potential therapeutic target for infectious diseases.",
       "summaryZh": "异体吞噬是一种选择性自噬过程，对于消除细胞内病原体至关重要，但其调节机制仍不清楚。在这项研究中，乙酰组分析鉴定了异噬受体 NDP52 在 K202 处的动态乙酰化，并且其脱乙酰化在鼠伤寒沙门氏菌感染期间增强。乙酰转移酶 CREBBP/KAT3A 和脱乙酰酶 HDAC3 相互调节 NDP52 K202 乙酰化。去乙酰化的 NDP52 与 ATG8 家族蛋白（MAP1LC3A/B 和 GABARAPL2）结合更牢固，促进自噬体-溶酶体融合和病原体降解。先天免疫激酶 TBK1 在 S424 位点磷酸化 HDAC3，通过抑制泛素化依赖性降解来稳定 HDAC3，这种级联调节将先天免疫与异体吞噬联系起来。小鼠中脱乙酰化模拟 NDP52 K202R 的肝脏特异性过度表达可减少肝脏鼠伤寒沙门氏菌负荷，减轻肝坏死并抑制促炎细胞因子。这项研究揭示了异体吞噬中的翻译后修饰范例，其中 NDP52 乙酰化动态微调抗菌反应中的受体功能，强调 HDAC3-NDP52 轴作为传染病的潜在治疗靶点。",
       "translationSource": "c387a83c24496f3c"
-    },
-    {
-      "pmid": "42772279",
-      "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
-      "titleZh": "地热阿米巴原虫为真核生物设定了新的温度上限。",
-      "journal": "Cell",
-      "year": 2026,
-      "published": "2026-09-22",
-      "doi": "10.1016/j.cell.2026.08.043",
-      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.043",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772279/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "The study of temperature limits has transformed our understanding of life's boundaries but has focused on bacteria and archaea. For decades after their discovery, no eukaryote was shown to replicate above 60°C. We isolated a geothermal amoeba, Incendiamoeba cascadensis, that divides at 63°C and is motile up to 64°C. We identified an enrichment of genes related to proteostasis and environmental sensing relative to mesophilic amoebae. Comparative RNA sequencing of I. cascadensis revealed upregulation of pathways related to proteostasis, DNA repair, and membrane trafficking at high temperatures. Predicted proteins of I. cascadensis have distinct biophysical properties, including enrichment of positively charged surface residues similar to bacterial and archaeal hyperthermophiles, which suggests a convergent mechanism for protein stability under temperature stress. Together, our findings expand our understanding of where and how life can persist.",
-      "summaryZh": "对温度极限的研究改变了我们对生命边界的理解，但重点关注细菌和古细菌。在他们发现之后的几十年里，没有任何真核生物被证明可以在 60°C 以上的温度下进行复制。我们分离出了一种地热变形虫 Incendiamoebacascadensis，它在 63°C 时分裂，并在高达 64°C 的温度下活动。我们鉴定出与嗜温变形虫相关的蛋白质稳态和环境感知相关基因的富集。 I.cascadensis 的比较 RNA 测序揭示了高温下与蛋白质稳态、DNA 修复和膜运输相关途径的上调。预测的 I.cascadensis 蛋白质具有独特的生物物理特性，包括与细菌和古细菌超嗜热菌类似的带正电表面残基的富集，这表明温度应激下蛋白质稳定性的收敛机制。总之，我们的发现扩展了我们对生命可以在何处以及如何持续存在的理解。",
-      "translationSource": "7d0bf344fb13c65d"
     },
     {
       "pmid": "42476144",
@@ -877,6 +941,27 @@
       "translationSource": "c3d48e80f2f2415b"
     },
     {
+      "pmid": "42823451",
+      "title": "SLC4A7/NBCn1 maintains intracellular pH to support mTORC1 activity and antibody-secreting cell differentiation.",
+      "titleZh": "SLC4A7/NBCn1 维持细胞内 pH 值以支持 mTORC1 活性和抗体分泌细胞分化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-11",
+      "doi": "10.1038/s41467-026-77588-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77588-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42823451/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Antibody-producing plasmablasts (PB) and plasma cells (PC) are critical for humoral immunity, autoimmunity and vaccine responses. Despite the importance of environmental stressors in regulating humoral immune responses, the influence of pH on PB and PC differentiation remains elusive. Here, we identify SLC4A7/NBCn1, a Na + /HCO 3 - cotransporter, as a selective regulator of PB differentiation in vitro. SLC4A7 deletion also impairs the formation of antibody secreting cells (ASCs) and antibody responses in mice in vivo following immunization and influenza A virus infection. Mechanistically, SLC4A7 deletion results in intracellular acidification and lysosomal alkalinization, and is associated with impaired function of the mechanistic target of rapamycin complex 1 (mTORC1). Enforcing mTORC1 activation in SLC4A7-deficient B cells or B cells in which intracellular pH is acidified by blocking Na + /H + exchanger (NHE) function restores PB differentiation in vitro. Moreover, ASC differentiation and antibody responses are impaired under conditions of extracellular acidosis in vitro and in a mouse model of metabolic acidosis. Altogether, we identify a critical relationship between intracellular pH regulation through SLC4A7 and mTORC1-dependent ASC differentiation and humoral immunity.",
+      "summaryZh": "产生抗体的浆母细胞 (PB) 和浆细胞 (PC) 对于体液免疫、自身免疫和疫苗反应至关重要。尽管环境应激源在调节体液免疫反应中很重要，但 pH 对 PB 和 PC 分化的影响仍然难以捉摸。在这里，我们鉴定出 SLC4A7/NBCn1（一种 Na + /HCO 3 - 协同转运蛋白）作为体外 PB 分化的选择性调节剂。 SLC4A7 缺失还会损害免疫和甲型流感病毒感染后小鼠体内抗体分泌细胞 (ASC) 的形成和抗体反应。从机制上讲，SLC4A7 缺失会导致细胞内酸化和溶酶体碱化，并与雷帕霉素复合物 1 (mTORC1) 机制靶标的功能受损相关。在 SLC4A7 缺陷的 B 细胞或通过阻断 Na + /H + 交换器 (NHE) 功能酸化细胞内 pH 的 B 细胞中强制 mTORC1 激活可恢复体外 PB 分化。此外，在体外细胞外酸中毒条件下和代谢性酸中毒小鼠模型中，ASC 分化和抗体反应受到损害。总而言之，我们确定了通过 SLC4A7 进行的细胞内 pH 调节和 mTORC1 依赖性 ASC 分化与体液免疫之间的关键关系。",
+      "translationSource": "dad21f17a0c33204"
+    },
+    {
       "pmid": "42722687",
       "title": "Proteasome inhibition alleviates proteinuria in Lmx1b knock-in mice with dysfunctional LIM domains.",
       "titleZh": "蛋白酶体抑制可减轻 LIM 结构域功能失调的 Lmx1b 敲入小鼠的蛋白尿。",
@@ -1193,6 +1278,27 @@
       "abstractEn": "Enhancers control tissue-specific gene expression across animals 1 . Although deep learning 2,3 has enabled enhancer prediction and design in mammalian cell lines and non-mammalian model organisms 4-10 (reviewed in a previous publication 11 ), it remains unclear whether such approaches can operate within the regulatory complexity of mammalian genomes and tissues in vivo. Here we present a general strategy for designing tissue-specific enhancers that function reliably in mice. We use deep learning to train compact convolutional neural networks on curated chromatin accessibility data and fine-tune them by transfer learning on validated human and mouse enhancers. Guided by these models, we design 15 synthetic enhancers for the heart, limb and central nervous system in mouse embryos, all of which are active in their intended target tissue. These results demonstrate that mammalian enhancer function can be reliably inferred from DNA sequence alone, enabling the predictive de novo design of tissue-specific synthetic enhancers from modest training sets. This work establishes a generalizable framework for programmable control of mammalian gene expression in vivo, opening new avenues in functional genomics, synthetic biology and gene therapy.",
       "summaryZh": "增强子控制动物组织特异性基因表达 1 。尽管深度学习 2,3 已经能够在哺乳动物细胞系和非哺乳动物模型生物体 4-10 中实现增强子预测和设计（在之前的出版物中进行了综述 11 ），但目前尚不清楚这些方法是否可以在哺乳动物基因组和体内组织的监管复杂性范围内发挥作用。在这里，我们提出了设计在小鼠中可靠发挥作用的组织特异性增强剂的一般策略。我们使用深度学习在精选的染色质可及性数据上训练紧凑的卷积神经网络，并通过对经过验证的人类和小鼠增强器进行迁移学习来对其进行微调。在这些模型的指导下，我们为小鼠胚胎的心脏、四肢和中枢神经系统设计了 15 种合成增强剂，所有这些增强剂在其预期目标组织中都有活性。这些结果表明，哺乳动物增强子功能可以仅从 DNA 序列可靠地推断出来，从而能够从适度的训练集中预测性地从头​​设计组织特异性合成增强子。这项工作为哺乳动物体内基因表达的可编程控制建立了一个通用框架，为功能基因组学、合成生物学和基因治疗开辟了新途径。",
       "translationSource": "74403936a5015561"
+    },
+    {
+      "pmid": "42823442",
+      "title": "Pharmacological targeting of bunyavirus-induced synaptic impairment prevents neuronal hyperexcitability.",
+      "titleZh": "布尼亚病毒引起的突触损伤的药理学靶向可防止神经元过度兴奋。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41467-026-77284-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77284-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42823442/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Orthobunyaviruses are linked to a broad spectrum of neurological disorders. However, the molecular determinants governing bunyavirus neuropathogenesis remain poorly understood, precluding the identification of drugs able to alleviate virus-induced neuronal dysfunctions. Here, we show that the prevalent, yet neglected, orthobunyavirus Ťahyňa virus (TAHV) disrupts neuronal integrity and proteostasis in human cerebral organoids (hCO), significantly decreasing synaptic protein expression and density. Moreover, TAHV-induced synaptic remodeling is associated with perturbed local field potential in organotypic cultures of human post-mortem adult brain explants (OPAB) and higher expression of the metabotropic Glutamate receptor 1 (mGluR1) in mice in the absence of overt neurological disease or neuroinflammation. Using proteome-based network medicine, we identified gabapentin as a therapeutic candidate that restores neurotransmitter receptor levels back to baseline in mice, and prevents TAHV-induced hyperexcitability in OPAB. Together, our data highlights the underappreciated neuropathological potential of a neglected orthobunyavirus, that interferes with neural integrity and neurotransmission, while neuromodulatory interventions may help to preserve cerebral functions.",
+      "summaryZh": "正布尼亚病毒与多种神经系统疾病有关。然而，控制布尼亚病毒神经发病机制的分子决定因素仍然知之甚少，这妨碍了鉴定能够缓解病毒引起的神经元功能障碍的药物。在这里，我们发现普遍存在但被忽视的正布尼亚病毒 Ťahyňa 病毒 (TAHV) 会破坏人脑类器官 (hCO) 中的神经元完整性和蛋白质稳态，显着降低突触蛋白表达和密度。此外，TAHV 诱导的突触重塑与人类死后成人脑外植体 (OPAB) 器官型培养物中局部场电位的扰动以及在没有明显神经系统疾病或神经炎症的小鼠中代谢型谷氨酸受体 1 (mGluR1) 的较高表达有关。使用基于蛋白质组的网络医学，我们确定加巴喷丁作为一种候选治疗药物，可将小鼠神经递质受体水平恢复至基线，并防止 TAHV 诱导的 OPAB 过度兴奋。总之，我们的数据强调了被忽视的正布尼亚病毒的神经病理学潜力，它会干扰神经完整性和神经传递，而神经调节干预措施可能有助于保护大脑功能。",
+      "translationSource": "548891f28d5e372d"
     },
     {
       "pmid": "41942734",
