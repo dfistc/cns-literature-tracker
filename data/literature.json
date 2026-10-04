@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T02:29:23+00:00",
+  "updatedAt": "2026-10-04T02:59:50+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -24,6 +24,27 @@
       "abstractEn": "Deep-sea holobionts adapt to extreme environmental fluctuations, but the molecular mechanisms underlying resilience remain poorly understood. We investigated the vesicomyid clam Archivesica marissinica and its sulfur-oxidizing symbionts during sulfide shortage via in situ transplant experiments at the Haima cold seep. Transplanting clams to sulfide-depleted conditions (moderate at HM-3 and severe at HM-2) revealed distinct response patterns of host-symbiont interaction. Symbionts may mitigate sulfide loss by shifting from sulfide oxidation to thiosulfate oxidation, supported by thiosulfate generated through host sulfide detoxification pathways. Notably, symbiont abundance remained stable under moderate sulfide shortage (HM-3), accompanied by down-regulation of host endosomal maturation and fusion with lysosomes, potentially limiting symbiont turnover. Conversely, severe sulfide shortage (HM-2) was associated with up-regulation of lysosomal pathways and lower symbiont abundance. These results demonstrate tiered molecular adaptations-metabolic flexibility and shifts in symbiont dynamics-enabling holobiont resilience to spatially heterogeneous sulfide availability in deep-sea seeps, supporting ecosystem stability.",
       "summaryZh": "深海全生物适应极端的环境波动，但其恢复能力的分子机制仍然知之甚少。我们通过海马冷泉的原位移植实验，研究了硫化物短缺期间的囊蛤Archivesica marissinica 及其硫氧化共生体。将蛤移植到硫化物耗尽的条件（HM-3 为中度，HM-2 为重度）揭示了宿主-共生体相互作用的不同反应模式。在宿主硫化物解毒途径产生的硫代硫酸盐的支持下，共生体可以通过从硫化物氧化转变为硫代硫酸盐氧化来减轻硫化物损失。值得注意的是，在中度硫化物短缺（HM-3）下，共生体丰度保持稳定，伴随着宿主内体成熟和与溶酶体融合的下调，可能限制共生体周转。相反，严重的硫化物短缺（HM-2）与溶酶体途径的上调和共生体丰度降低有关。这些结果证明了分层的分子适应——代谢灵活性和共生体动力学的变化——使全生物对深海渗漏中的空间异质硫化物可用性具有恢复能力，支持生态系统的稳定性。",
       "translationSource": "0b83bae87dd9a37c"
+    },
+    {
+      "pmid": "42826720",
+      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
+      "titleZh": "硝酸盐反应性Sialin2 结合应激颗粒组装和清除以维持神经元稳态。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-10-02",
+      "doi": "10.1016/j.devcel.2026.09.001",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.09.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826720/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
+      "summaryZh": "应激颗粒（SG）是相分离的核糖核蛋白凝聚物，支持细胞对急性应激的适应，但细胞外信号如何协调其组装和恢复期清除仍不清楚。在这里，我们展示了硝酸盐响应性 Sialin2 在整个应激周期中协调 SG 稳态。在急性应激期间，Sialin2 经历液-液相分离，并与 Ras GTP 酶激活蛋白 SH3 结构域结合蛋白 (G3BP) 中心的支架共组装，以促进 SG 形成。在恢复过程中，Sialin2 保留液体样 SG 动力学并促进自噬相关的清除。 Sialin2 缺失会延迟 SG 分辨率，促进肉瘤 (FUS) 和 TAR DNA 结合蛋白 43 (TDP-43) 变异体中肌萎缩侧索硬化症 (ALS) 相关融合的保留，并增强淀粉样前体蛋白 (APP) 相关的淀粉样蛋白生成输出。在 ALS 小鼠模型中，硝酸盐治疗可减少 SG 样病理和神经炎症，保留神经元完整性，并延缓功能衰退。总之，这些发现定义了硝酸盐-Sialin2 信号传导模块，该模块将 SG 组装与恢复期清除结合起来，并将无机阴离子传感与防止神经变性联系起来。",
+      "translationSource": "0f2ac3a049d47a65"
     },
     {
       "pmid": "42469449",
