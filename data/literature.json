@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T03:27:39+00:00",
+  "updatedAt": "2026-10-07T02:51:45+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1108,6 +1108,30 @@
       "abstractEn": "Almost all membrane proteins are inserted or translocated across membranes by the universally conserved Sec translocon. Despite its central role, experimental access to Sec function has remained limited. Here, we present ProSecCO (Protein Secretion in Cell-free via synthetic Operons), which is a cell-free protein synthesis platform that inserts SecYEG into synthetic vesicles, enabling direct testing of Sec in real-time and high-throughput, circumventing longstanding viability constraints. Screening 300 Sec variants in a single experiment, we consolidate three decades of Sec research, while vastly expanding mutant diversity for structure-function insights. Mapping over 30 functionally critical regions that modulate Sec activity across three orders of magnitude, we uncover dozens of super-active translocation variants and one variant of improved insertion activity. We further leverage ProSecCO to increase membrane protein quality and nanobody export, highlighting the potential of our system for advancing applications in synthetic biology and biotechnology.",
       "summaryZh": "几乎所有的膜蛋白都是通过普遍保守的 Sec 易位子插入或跨膜易位的。尽管发挥着核心作用，但对 Sec 功能的实验性访问仍然有限。在这里，我们推出了 ProSecCO（通过合成操纵子进行无细胞蛋白质分泌），这是一个无细胞蛋白质合成平台，可将 SecYEG 插入合成囊泡中，从而能够实时、高通量地直接测试 Sec，从而规避了长期存在的可行性限制。我们在一次实验中筛选了 300 个 Sec 变体，巩固了三十年的 Sec 研究，同时极大地扩展了突变体多样性以获取结构功能见解。通过绘制 30 多个调节 Sec 活性三个数量级的功能关键区域，我们发现了数十种超活跃易位变体和一种改进插入活性的变体。我们进一步利用 ProSecCO 来提高膜蛋白质量和纳米抗体输出，突显我们的系统在推进合成生物学和生物技术应用方面的潜力。",
       "translationSource": "8fb2ae7e0ae0a6b6"
+    },
+    {
+      "pmid": "42834050",
+      "title": "Multiple overlapping SNARE complexes drive endosome maturation in Drosophila nephrocytes.",
+      "titleZh": "多个重叠的 SNARE 复合物驱动果蝇肾细胞内体的成熟。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-03",
+      "doi": "10.1038/s41467-026-77479-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77479-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42834050/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal, endosome。",
+      "abstractEn": "Endosomal maturation determines whether internalized cargo is recycled or degraded, yet the logic governing early endosomal fusion remains incompletely defined. Although commonly depicted as a linear Rab5-to-Rab7 transition mediated by a single SNARE pathway, we show that early endosome maturation is driven by multiple parallel, non-interchangeable SNARE complexes. Using Drosophila nephrocytes as a tractable in vivo model, we define a Syx12L-Snap29-Ykt6 complex that mediates homotypic early endosomal fusion and identify two related assemblies-Syx7L-Snap29-Ykt6 and Syx7L-Snap29-Vamp7-that promote later endosomal and lysosomal fusion with distinct Rab requirements. When the canonical Syx12L pathway is disrupted, alternative complexes remain active and generate aberrant endolysosomal swirls which also form in the absence of Rab5 or early endosomal tethers. Thus, Rab5-independent membrane progression toward lysosomes persists but is insufficient to produce fully functional degradative organelles. Together, our findings reveal a network of parallel fusion pathways underlying endosome maturation.",
+      "summaryZh": "内体成熟决定了内化货物是否被回收或降解，但控制早期内体融合的逻辑仍未完全确定。尽管通常被描述为由单个 SNARE 途径介导的线性 Rab5 到 Rab7 转变，但我们表明早期内体成熟是由多个平行的、不可互换的 SNARE 复合物驱动的。使用果蝇肾细胞作为易处理的体内模型，我们定义了介导同型早期内体融合的 Syx12L-Snap29-Ykt6 复合物，并确定了两个相关的组件 - Syx7L-Snap29-Ykt6 和 Syx7L-Snap29-Vamp7 - 促进后期内体和溶酶体融合，具有不同的 Rab 要求。当规范的 Syx12L 途径被破坏时，替代复合物仍然活跃并产生异常的内溶酶体漩涡，这些漩涡也在 Rab5 或早期内体系链缺失的情况下形成。因此，不依赖 Rab5 的膜向溶酶体的进展持续存在，但不足以产生功能齐全的降解细胞器。总之，我们的研究结果揭示了内体成熟背后的平行融合途径网络。",
+      "translationSource": "2bd9dd339431858c"
     },
     {
       "pmid": "42607684",
