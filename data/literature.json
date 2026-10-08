@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-07T02:51:45+00:00",
+  "updatedAt": "2026-10-08T03:09:05+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42842369",
+      "title": "Acute degron-mediated RUNX1 loss reprograms enhancer activity associated with epithelial destabilization and initiation of cancer hallmarks.",
+      "titleZh": "急性降解决定子介导的 RUNX1 丢失会重新编程与上皮不稳定和癌症标志起始相关的增强子活性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-07",
+      "doi": "10.1016/j.celrep.2026.118101",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118101",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842369/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "RUNX1 coordinates phenotypic gene expression, and its suppression or perturbations are associated with breast tumor initiation and progression. Mechanisms governing the dual roles of RUNX1 in sustaining the mammary epithelial phenotype while suppressing initiation of cancer-compromised gene expression are unclear. Degron-mediated acute, selective, and complete RUNX1 ablation in human mammary epithelial cells reveals promoter and distal enhancer-driven expression of a gene cohort. RUNX1 ablation rapidly and selectively decreases chromatin accessibility and H3K27ac at RUNX1-bound enhancers but not promoters. While differentially initiated and expressed genes contacted by RUNX1-bound enhancers are enriched in epithelial maintenance and stemness pathways, genes with RUNX1-promoter occupancy support DNA damage responsiveness. Modified cell morphology, metabolic control, breast cancer stemness, plasticity, anchorage-independent survival, chemoresistance, and perturbed DNA damage reactivity are observed upon RUNX1 ablation. These findings define RUNX1 as a tumor suppressor maintaining epithelial cell state, preserving enhancer activity to prevent gene expression associated with cancer hallmarks.",
+      "summaryZh": "RUNX1 协调表型基因表达，其抑制或扰动与乳腺肿瘤的发生和进展相关。 RUNX1 在维持乳腺上皮表型和抑制癌症受损基因表达起始方面的双重作用的机制尚不清楚。人乳腺上皮细胞中降解决定子介导的急性、选择性和完全的 RUNX1 消融揭示了启动子和远端增强子驱动的基因组表达。 RUNX1 消融快速、选择性地降低染色质可及性和 RUNX1 结合增强子处的 H3K27ac，但不降低启动子处。虽然 RUNX1 结合增强子接触的差异启动和表达基因在上皮维持和干性途径中富集，但具有 RUNX1 启动子占据的基因支持 DNA 损伤反应。 RUNX1 消融后观察到细胞形态改变、代谢控制、乳腺癌干性、可塑性、不依赖贴壁的存活、化疗耐药性和扰乱的 DNA 损伤反应性。这些发现将 RUNX1 定义为一种肿瘤抑制因子，可维持上皮细胞状态，保留增强子活性以防止与癌症标志相关的基因表达。",
+      "translationSource": "36cb261796ffb7cb"
+    },
+    {
+      "pmid": "42838047",
+      "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening.",
+      "titleZh": "SPARCS 能够对基于图像的复杂表型进行可扩展恢复，以进行基因筛查。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-10-06",
+      "doi": "10.1016/j.cell.2026.09.021",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.09.021",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42838047/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Forward genetic screening links genotype to phenotype by introducing random genetic perturbations and identifying phenotype-altering mutations. Although genome-scale screens are routine for simple phenotypes in cultured cells, extending them to complex image-based phenotypes remains challenging. Here, we present spatially resolved CRISPR screening (SPARCS), a microscopy-based platform for forward genetic screening on single-cell images. SPARCS physically isolates mutants in situ by automated laser microdissection, enabling image-based screening at unprecedented scale with multimodal hit phenotyping. We demonstrate SPARCS in genome-wide CRISPR knockout screens of autophagosome formation and activation of the immune sensor STING across 70 million cells. Via machine learning-based image analysis, SPARCS recovered most macroautophagy genes and identified GPHR as a pH-dependent regulator of STING. Mass spectrometry-based proteomics of isolated hit cells revealed endoplasmic reticulum (ER)/Golgi disruption and nominated additional STING regulators via in silico perturbation modeling. These results establish SPARCS as a scalable platform for genome-wide genetic screening of complex cellular phenotypes with a proteome-level readout.",
+      "summaryZh": "正向遗传筛选通过引入随机遗传扰动并识别改变表型的突变，将基因型与表型联系起来。尽管基因组规模的筛选是培养细胞中简单表型的常规方法，但将其扩展到基于图像的复杂表型仍然具有挑战性。在这里，我们提出了空间分辨 CRISPR 筛选 (SPARCS)，这是一种基于显微镜的平台，用于对单细胞图像进行正向遗传筛选。 SPARCS 通过自动激光显微切割在原位物理分离突变体，通过多模式命中表型分析实现前所未有的规模的基于图像的筛选。我们在 7000 万个细胞的自噬体形成和免疫传感器 STING 激活的全基因组 CRISPR 敲除筛选中展示了 SPARCS。通过基于机器学习的图像分析，SPARCS 恢复了大部分巨自噬基因，并确定 GPHR 是 STING 的 pH 依赖性调节剂。基于质谱的分离命中细胞蛋白质组学揭示了内质网 (ER)/高尔基体破坏，并通过计算机微扰模型指定了额外的 STING 调节剂。这些结果使 SPARCS 成为一个可扩展的平台，用于通过蛋白质组水平读数对复杂细胞表型进行全基因组遗传筛查。",
+      "translationSource": "dda9703ff370d1dd"
+    },
     {
       "pmid": "42826197",
       "title": "In situ evidence of tiered adaptations buffering a chemosynthetic clam holobiont against environmental sulfide fluctuations.",
@@ -1044,6 +1086,48 @@
       "abstractEn": "Gene regulatory networks (GRNs) govern many cell processes. While multistability and oscillations are common GRN dynamics, they are typically studied and engineered in isolation. Here, we challenge this separation using the AC-DC circuit, a minimal three-gene network that merges the classical toggle switch and repressilator. Using a thermodynamic formalism and Bayesian inference, we show that a single-inducer version of the circuit displays diverse multifunctional dynamics, including coexistence of oscillations and multistability. We explore robustness, classify emergent behaviors, and analyze critical slowing down. Remarkably, the AC-DC circuit can produce more than thirty topologically distinct bifurcation diagrams, results that challenge the classical view that network topology rigidly constrains dynamical outcomes. This flexibility enables synthetic capabilities coupling hysteresis with oscillations, criticality, and reversibility. By uncovering the potential of minimal genetic circuits and outlining design principles for their implementation, this work opens directions for harnessing emergent complexity using the basic building blocks of life. A record of this paper's transparent peer review process is included in the supplemental information.",
       "summaryZh": "基因调控网络（GRN）控制许多细胞过程。虽然多稳定性和振荡是常见的 GRN 动力学，但它们通常是单独研究和设计的。在这里，我们使用 AC-DC 电路来挑战这种分离，这是一个融合了经典拨动开关和抑制器的最小三基因网络。使用热力学形式和贝叶斯推理，我们证明了电路的单感应器版本显示出多种多功能动力学，包括振荡和多稳定性的共存。我们探索稳健性，对紧急行为进行分类，并分析关键的放缓。值得注意的是，AC-DC 电路可以产生三十多个拓扑不同的分叉图，这些结果挑战了网络拓扑严格限制动态结果的经典观点。这种灵活性使得合成能力能够将滞后与振荡、临界性和可逆性耦合起来。通过揭示最小遗传电路的潜力并概述其实施的设计原则，这项工作为利用生命的基本构建模块驾驭突发的复杂性开辟了方向。补充信息中包含了本文透明同行评审过程的记录。",
       "translationSource": "b07d35d06dd7becc"
+    },
+    {
+      "pmid": "42838957",
+      "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway.",
+      "titleZh": "PRMT7 通过 NF-κB 途径限制 CD8+ T 细胞扩增。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-06",
+      "doi": "10.1038/s41467-026-77155-2",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77155-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42838957/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "Successful cellular immunotherapy for cancer utilising cytotoxic T lymphocytes (CTL) requires efficient expansion while maintaining effector function. Understanding how CTL expansion and function are regulated during the cell preparation process is thus important. Here, we show that T cell-specific deletion of Prmt7 using CD4-Cre increases CD8 + T cell effector differentiation, cytokine secretion, cytolytic activity and anti-tumor responses. Prmt7 deficiency transcriptionally reprograms CD8 + T cells by activating the NF-κB pathway, boosting proliferation, and facilitating the production of effector molecules such as CD25, CD69 and IFNγ. Mechanistically, PRMT7 associates with RelA and restricts RelA nuclear translocation. In vitro, a self-developed PRMT7-targeting PROTAC degrader, MS54, similarly activates the NF-κB pathway as in Prmt7-deficient CTL. In vivo, adoptive cell transfer of MS54-treated OT-I CTLs improves tumor control in a mouse syngeneic melanoma model. In human CTL, MS54 enhances proliferation, activation markers (CD69, CD137) expression, IFNγ production and cytotoxicity toward melanoma. Our findings thus identify PRMT7 as a negative regulator of CD8 + T cell immunity and highlight MS54 as a potential strategy to improve adoptive T cell therapy.",
+      "summaryZh": "利用细胞毒性 T 淋巴细胞 (CTL) 成功治疗癌症的细胞免疫疗法需要有效扩增，同时保持效应器功能。因此，了解细胞制备过程中如何调节 CTL 扩增和功能非常重要。在这里，我们证明使用 CD4-Cre 的 T 细胞特异性删除 Prmt7 可增加 CD8 + T 细胞效应分化、细胞因子分泌、细胞溶解活性和抗肿瘤反应。 Prmt7 缺陷通过激活 NF-κB 通路、促进增殖并促进 CD25、CD69 和 IFNγ 等效应分子的产生，对 CD8 + T 细胞进行转录重编程。从机制上讲，PRMT7 与 RelA 结合并限制 RelA 核易位。在体外，自主开发的 PRMT7 靶向 PROTAC 降解剂 MS54 与 Prmt7 缺陷的 CTL 中类似地激活 NF-κB 通路。在体内，MS54处理的OT-I CTL的过继细胞转移改善了小鼠同基因黑色素瘤模型中的肿瘤控制。在人 CTL 中，MS54 增强增殖、激活标记物（CD69、CD137）表达、IFNγ 产生和对黑色素瘤的细胞毒性。因此，我们的研究结果将 PRMT7 确定为 CD8 + T 细胞免疫的负调节因子，并强调 MS54 作为改善过继性 T 细胞治疗的潜在策略。",
+      "translationSource": "d744cdad73d01116"
+    },
+    {
+      "pmid": "42838956",
+      "title": "OXR1 is a dual redox-mitochondrial checkpoint governing osteoclast differentiation and bone loss in an osteoporosis mouse model.",
+      "titleZh": "OXR1 是一种双重氧化还原线粒体检查点，在骨质疏松症小鼠模型中控制破骨细胞分化和骨丢失。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-05",
+      "doi": "10.1038/s41467-026-77379-2",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77379-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42838956/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Osteoclasts are mitochondria-rich cells that rely on oxidative phosphorylation to fuel differentiation and bone resorption. Oxidative phosphorylation generates reactive oxygen species (ROS), which support signaling but can also threaten mitochondrial integrity. Oxidation Resistance 1 (OXR1) is a redox-responsive regulator involved in antioxidant defense, but its role in osteoclasts remains unclear. Here, we show that OXR1 is upregulated during mouse osteoclastogenesis and OXR1 mRNA is enriched in human osteoclasts. Knockdown of Oxr1 in mouse osteoclast precursors causes excessive ROS accumulation, mitochondrial damage, and impaired autophagic flux. Accordingly, myeloid-specific loss of Oxr1 results in defective osteoclast formation and increased bone mass in mice. Mechanistically, OXR1 binds the antioxidant response regulator KEAP1 and promotes KEAP1 association with the autophagy adaptor P62/SQSTM1, thereby supporting mitochondrial ubiquitination and mitophagic clearance. In an ovariectomy-induced osteoporosis mouse model, intraosseous AAV9-shRNA-mediated Oxr1 silencing or pharmacological OXR1 inhibition suppresses osteoclast activity and attenuates bone loss. Thus, our findings suggest OXR1 to be a dual-function regulator that buffers ROS and simultaneously orchestrates the autophagic clearance of damaged mitochondria during osteoclastogenesis, hinting at OXR1 as a potential target for preventing osteoclast‑driven bone loss.",
+      "summaryZh": "破骨细胞是富含线粒体的细胞，依靠氧化磷酸化来促进分化和骨吸收。氧化磷酸化会产生活性氧 (ROS)，它支持信号传导，但也会威胁线粒体的完整性。氧化抵抗 1 (OXR1) 是一种参与抗氧化防御的氧化还原反应调节因子，但其在破骨细胞中的作用仍不清楚。在这里，我们发现 OXR1 在小鼠破骨细胞生成过程中上调，并且 OXR1 mRNA 在人破骨细胞中富集。小鼠破骨细胞前体中 Oxr1 的敲低会导致 ROS 过度积累、线粒体损伤和自噬通量受损。因此，Oxr1 的骨髓特异性缺失会导致小鼠破骨细胞形成缺陷和骨量增加。从机制上讲，OXR1 结合抗氧化反应调节剂 KEAP1，并促进 KEAP1 与自噬接头 P62/SQSTM1 结合，从而支持线粒体泛素化​​和线粒体自噬清除。在卵巢切除诱导的骨质疏松小鼠模型中，骨内 AAV9-shRNA 介导的 Oxr1 沉默或药理学 OXR1 抑制可抑制破骨细胞活性并减轻骨质流失。因此，我们的研究结果表明，OXR1 是一种双功能调节剂，可缓冲 ROS，同时协调破骨细胞生成过程中受损线粒体的自噬清除，暗示 OXR1 是预防破骨细胞驱动的骨质流失的潜在靶点。",
+      "translationSource": "df46eb80b72ac51e"
     },
     {
       "pmid": "42696591",
@@ -4158,27 +4242,6 @@
       "translationSource": "8cd08a157f0cac14"
     },
     {
-      "pmid": "42462700",
-      "title": "Programmable cell killer: CRISPR-Cas12a2 eliminates cells via RNA identity.",
-      "titleZh": "可编程细胞杀手：CRISPR-Cas12a2 通过 RNA 识别消除细胞。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-07-16",
-      "doi": "10.1016/j.molcel.2026.06.029",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.029",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42462700/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "programmable cell"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
-      "abstractEn": "In a recent issue of Nature, Scholz et al. 1 apply the RNA-triggered DNA shredding activity of CRISPR-Cas12a2 in eukaryotic cells to enable programmable elimination of yeast and human cells expressing target transcripts with single-nucleotide resolution specificity and non-detectable off-target activity.",
-      "summaryZh": "在最近一期《自然》杂志上，Scholz 等人。 1 在真核细胞中应用 CRISPR-Cas12a2 的 RNA 触发 DNA 粉碎活性，以实现可编程消除表达具有单核苷酸分辨率特异性和不可检测的脱靶活性的靶转录物的酵母和人类细胞。",
-      "translationSource": "6035bf26581c3fdd"
-    },
-    {
       "pmid": "42379163",
       "title": "Biomolecular condensates for proteostasis and potential therapeutic applications.",
       "titleZh": "用于蛋白质稳态和潜在治疗应用的生物分子缩合物。",
@@ -4200,6 +4263,27 @@
       "abstractEn": "Proteostasis is essential for cellular function, and its dysregulation underlies a wide spectrum of diseases. Growing evidence underscores liquid-liquid phase separation (LLPS) as a central mechanism governing protein degradation through the formation of condensates for proteostasis. These membraneless biomolecular condensates concentrate or sequester key degradation factors, substrates, and enzymes, enabling spatiotemporally regulated protein clearance. Condensates for proteostasis represent a mechanism for degrading pathogenic proteins that remain refractory to conventional therapeutics. In this perspective, we explore how LLPS drives the assembly of condensates for proteostasis, outline their physiological functions, and highlight their emerging utility as a versatile platform for targeted protein degradation. Harnessing these condensates offers a promising route to eliminate \"undruggable\" targets and reestablish proteostasis, opening new avenues for precision medicine across a range of major diseases.",
       "summaryZh": "蛋白质稳态对于细胞功能至关重要，其失调是多种疾病的基础。越来越多的证据强调液-液相分离（LLPS）是通过形成冷凝物实现蛋白质稳态来控制蛋白质降解的核心机制。这些无膜生物分子缩合物浓缩或隔离关键的降解因子、底物和酶，从而实现时空调节的蛋白质清除。用于蛋白质稳态的冷凝物代表了一种降解传统疗法仍难以治愈的致病蛋白的机制。从这个角度来看，我们探讨了 LLPS 如何驱动凝结物的组装以实现蛋白质稳态，概述其生理功能，并强调其作为目标蛋白质降解的多功能平台的新兴实用性。利用这些凝聚物提供了一条消除“不可成药”目标并重建蛋白质稳态的有前途的途径，为一系列主要疾病的精准医学开辟了新途径。",
       "translationSource": "a4f04ca6faca1d12"
+    },
+    {
+      "pmid": "42462700",
+      "title": "Programmable cell killer: CRISPR-Cas12a2 eliminates cells via RNA identity.",
+      "titleZh": "可编程细胞杀手：CRISPR-Cas12a2 通过 RNA 识别消除细胞。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-07-16",
+      "doi": "10.1016/j.molcel.2026.06.029",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.06.029",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42462700/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "programmable cell"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：programmable cell。",
+      "abstractEn": "In a recent issue of Nature, Scholz et al. 1 apply the RNA-triggered DNA shredding activity of CRISPR-Cas12a2 in eukaryotic cells to enable programmable elimination of yeast and human cells expressing target transcripts with single-nucleotide resolution specificity and non-detectable off-target activity.",
+      "summaryZh": "在最近一期《自然》杂志上，Scholz 等人。 1 在真核细胞中应用 CRISPR-Cas12a2 的 RNA 触发 DNA 粉碎活性，以实现可编程消除表达具有单核苷酸分辨率特异性和不可检测的脱靶活性的靶转录物的酵母和人类细胞。",
+      "translationSource": "6035bf26581c3fdd"
     },
     {
       "pmid": "42155444",
