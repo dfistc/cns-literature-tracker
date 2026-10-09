@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:09:05+00:00",
+  "updatedAt": "2026-10-09T03:15:22+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -23,6 +23,28 @@
       "abstractEn": "RUNX1 coordinates phenotypic gene expression, and its suppression or perturbations are associated with breast tumor initiation and progression. Mechanisms governing the dual roles of RUNX1 in sustaining the mammary epithelial phenotype while suppressing initiation of cancer-compromised gene expression are unclear. Degron-mediated acute, selective, and complete RUNX1 ablation in human mammary epithelial cells reveals promoter and distal enhancer-driven expression of a gene cohort. RUNX1 ablation rapidly and selectively decreases chromatin accessibility and H3K27ac at RUNX1-bound enhancers but not promoters. While differentially initiated and expressed genes contacted by RUNX1-bound enhancers are enriched in epithelial maintenance and stemness pathways, genes with RUNX1-promoter occupancy support DNA damage responsiveness. Modified cell morphology, metabolic control, breast cancer stemness, plasticity, anchorage-independent survival, chemoresistance, and perturbed DNA damage reactivity are observed upon RUNX1 ablation. These findings define RUNX1 as a tumor suppressor maintaining epithelial cell state, preserving enhancer activity to prevent gene expression associated with cancer hallmarks.",
       "summaryZh": "RUNX1 协调表型基因表达，其抑制或扰动与乳腺肿瘤的发生和进展相关。 RUNX1 在维持乳腺上皮表型和抑制癌症受损基因表达起始方面的双重作用的机制尚不清楚。人乳腺上皮细胞中降解决定子介导的急性、选择性和完全的 RUNX1 消融揭示了启动子和远端增强子驱动的基因组表达。 RUNX1 消融快速、选择性地降低染色质可及性和 RUNX1 结合增强子处的 H3K27ac，但不降低启动子处。虽然 RUNX1 结合增强子接触的差异启动和表达基因在上皮维持和干性途径中富集，但具有 RUNX1 启动子占据的基因支持 DNA 损伤反应。 RUNX1 消融后观察到细胞形态改变、代谢控制、乳腺癌干性、可塑性、不依赖贴壁的存活、化疗耐药性和扰乱的 DNA 损伤反应性。这些发现将 RUNX1 定义为一种肿瘤抑制因子，可维持上皮细胞状态，保留增强子活性以防止与癌症标志相关的基因表达。",
       "translationSource": "36cb261796ffb7cb"
+    },
+    {
+      "pmid": "42843329",
+      "title": "Targeting ZDHHC15-mediated S-acylation of CD155 reactivates anti-tumor immunity.",
+      "titleZh": "靶向 ZDHHC15 介导的 CD155 S 酰化可重新激活抗肿瘤免疫。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-07",
+      "doi": "10.1016/j.chembiol.2026.09.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.09.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42843329/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "The immune checkpoint CD155 is frequently upregulated across multiple malignancies and drives tumor progression and immune evasion, yet the posttranslational mechanisms regulating its stability and activity remain unclear. Here, we identify S-acylation as a key regulator of CD155 stability and immunosuppressive function. Using chemical reporters, we demonstrate that CD155 is S-acylated at three cytoplasmic cysteines by the acyltransferase ZDHHC15 and deacylated by the thioesterases PPT1/APT1. S-acylation protects CD155 from lysosomal degradation and promotes its interaction with Sprouty2 to sustain oncogenic ERK signaling. Genetic inhibition of ZDHHC15 disrupts CD155 S-acylation, triggering CD155 degradation, enhancing CD8 + T cell infiltration, and suppressing tumor growth in syngeneic models. We further show that the FDA-approved CDK4/6 inhibitor abemaciclib promotes CD155 degradation by upregulating PPT1 and enhancing lysosome biogenesis. Our work identifies reversible CD155 S-acylation as a druggable regulatory mechanism that links protein lipidation to immune checkpoint stability and reveals an unexpected immune-potentiating mechanism of abemaciclib.",
+      "summaryZh": "免疫检查点 CD155 在多种恶性肿瘤中经常上调，并驱动肿瘤进展和免疫逃避，但调节其稳定性和活性的翻译后机制仍不清楚。在这里，我们确定 S-酰化是 CD155 稳定性和免疫抑制功能的关键调节因子。使用化学报告基因，我们证明 CD155 在三个细胞质半胱氨酸处被酰基转移酶 ZDHHC15 进行 S 酰化，并被硫酯酶 PPT1/APT1 脱酰化。 S-酰化可保护 CD155 免遭溶酶体降解，并促进其与 Sprouty2 相互作用以维持致癌 ERK 信号传导。 ZDHHC15 的基因抑制会破坏 CD155 S-酰化，引发 CD155 降解，增强 CD8 + T 细胞浸润，并抑制同基因模型中的肿瘤生长。我们进一步表明，FDA 批准的 CDK4/6 抑制剂 abemaciclib 通过上调 PPT1 和增强溶酶体生物发生来促进 CD155 降解。我们的工作将可逆 CD155 S-酰化确定为一种可药物调节机制，将蛋白质脂化与免疫检查点稳定性联系起来，并揭示了 abemaciclib 意想不到的免疫增强机制。",
+      "translationSource": "90871d7e1792d8ee"
     },
     {
       "pmid": "42838047",
@@ -177,6 +199,27 @@
       "abstractEn": "Tyrosine kinase inhibitors (TKIs) targeting anaplastic lymphoma kinase (ALK) have transformed the treatment landscape of ALK fusion-positive non-small-cell lung carcinoma (ALK-positive NSCLC), but the limited options for patients who progress on approved TKIs highlight a continued need for an orthogonal therapeutic approach 1,2 . TRI-611 is a potent, brain-penetrant molecular glue degrader of ALK fusion proteins with the potential to address this need. TRI-611 promotes the proximity of the ALK kinase domain and CRL4 substrate adaptor CRBN through a unique degron interface distal from the kinase active site. The unique binding interface of TRI-611 leads to selectivity across the proteome including known CRBN neosubstrates and other kinases. TRI-611 treatment induces degradation of all forms of ALK fusion proteins, including wild-type and ALK TKI-resistant versions, leading to regression of cell line and patient-derived subcutaneous and intracranial tumour models of ALK-positive NSCLC. TRI-611 can be combined with orthosteric ALK TKIs, achieving synergistic and durable tumour regressions. TRI-611 represents to our knowledge the first clinical-stage molecular glue degrader targeting an oncogenic gene fusion and has the potential to expand the arsenal of therapeutic options for patients with ALK-positive NSCLC .",
       "summaryZh": "靶向间变性淋巴瘤激酶 (ALK) 的酪氨酸激酶抑制剂 (TKI) 已经改变了 ALK 融合阳性非小细胞肺癌（ALK 阳性 NSCLC）的治疗格局，但对于使用已批准 TKI 取得进展的患者来说，选择有限，凸显了对正交治疗方法的持续需求 1,2 。 TRI-611 是一种有效的脑渗透性 ALK 融合蛋白分子胶降解剂，有可能满足这一需求。 TRI-611 通过远离激酶活性位点的独特降解决定子界面促进 ALK 激酶结构域和 CRL4 底物接头 CRBN 的接近。 TRI-611 独特的结合界面导致对蛋白质组的选择性，包​​括已知的 CRBN 新底物和其他激酶。 TRI-611 治疗可诱导所有形式的 ALK 融合蛋白（包括野生型和 ALK TKI 耐药版本）降解，导致细胞系和患者来源的 ALK 阳性 NSCLC 皮下和颅内肿瘤模型消退。 TRI-611 可与正位 ALK TKI 联合使用，实现协同且持久的肿瘤消退。据我们所知，TRI-611 代表了第一个针对致癌基因融合的临床阶段分子胶降解剂，并有可能扩大 ALK 阳性 NSCLC 患者的治疗选择。",
       "translationSource": "42cbe04ecc59a3fb"
+    },
+    {
+      "pmid": "42618785",
+      "title": "A biased allosteric modulator is a molecular glue for β 2 AR dimerization.",
+      "titleZh": "偏向变构调节剂是 β2 AR 二聚化的分子胶。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41586-026-10892-y",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-10892-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42618785/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Family A G-protein-coupled receptors (GPCRs) are typically described as monomers, yet growing evidence suggests that they can form dimers with distinct signalling properties 1-3 . However, the mechanisms and therapeutic potential of such dimerization remain poorly understood. Here we show that AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β 2 -adrenergic receptor (β 2 AR) that sustains bronchorelaxation in cell and tissue models 4 , functions as a molecular glue to stabilize β 2 AR homodimerization. Cryogenic electron microscopy structures reveal a unique binding mode in which two AP-7-168 molecules pack within a pocket formed by transmembrane helices 3, 4 and 5 of two protomers, stabilizing a dimeric conformation that selectively prevents β-arrestin coupling. In cells, AP-7-168 robustly stabilizes β 2 AR dimerization and drives enlarged nanocluster formation. Combined with extensive functional studies, our findings identify an allosteric mechanism by which a small molecule biases β 2 AR signalling through dimerization, highlighting ligand-stabilized dimerization as a strategy for GPCR modulation.",
+      "summaryZh": "A 族 G 蛋白偶联受体 (GPCR) 通常被描述为单体，但越来越多的证据表明它们可以形成具有不同信号传导特性的二聚体 1-3 。然而，这种二聚化的机制和治疗潜力仍然知之甚少。在这里，我们展示了 AP-7-168 是 β2 肾上腺素受体 (β2 AR) 的 β-arrestin 偏向负变构调节剂的优化衍生物，可维持细胞和组织模型中的支气管松弛 4 ，作为分子胶来稳定 β2 AR 同二聚化。低温电子显微镜结构揭示了一种独特的结合模式，其中两个 AP-7-168 分子堆积在由两个原聚体的跨膜螺旋 3、4 和 5 形成的口袋内，稳定二聚体构象，选择性地防止 β-抑制蛋白偶联。在细胞中，AP-7-168 能够稳定 β2 AR 二聚化并促进扩大的纳米簇形成。结合广泛的功能研究，我们的研究结果确定了小分子通过二聚化偏向 β2 AR 信号传导的变构机制，强调配体稳定的二聚化作为 GPCR 调节的策略。",
+      "translationSource": "8ce6bf1f6fa80ab3"
     },
     {
       "pmid": "42557318",
@@ -2387,27 +2430,6 @@
       "abstractEn": "The limitations of DNA synthesis technologies are a fundamental bottleneck in synthetic biology. Here we present a high-throughput gene synthesis method driven by hybridization, called Molecular Self-Assembly Induced Cloning. Molecular Self-Assembly Induced Cloning overcomes molecular crosstalk and oligo misalignment across genes by coupling orthogonal self-assembly of overlapping DNA segments in vitro with the DNA repair machineries of host cells in vivo. Cellular uptake of the assembled target fragments serves as templates for recovery and cloning. We adopt microchip-based oligonucleotide synthesis, enabling the production of over 1,000 distinct gene fragments in a simple one-pot reaction. Near-zero misalignment is an indispensable feature of the parallel synthesis, with oligo synthesis errors remaining at a constant but controllable level. We also construct massive variant libraries of the industrial enzyme PETase and discover higher-potency variants than the gold standard enzyme.",
       "summaryZh": "DNA 合成技术的局限性是合成生物学的一个基本瓶颈。在这里，我们提出了一种由杂交驱动的高通量基因合成方法，称为分子自组装诱导克隆。分子自组装诱导克隆通过将体外重叠 DNA 片段的正交自组装与体内宿主细胞的 DNA 修复机制相结合，克服了基因间的分子串扰和寡核苷酸错位。细胞摄取组装的靶片段作为恢复和克隆的模板。我们采用基于微芯片的寡核苷酸合成，能够在简单的一锅反应中产生 1,000 多个不同的基因片段。近零错位是并行合成不可或缺的特征，寡核苷酸合成误差保持在恒定但可控的水平。我们还构建了工业酶 PETase 的大量变体库，并发现了比金标准酶更高效的变体。",
       "translationSource": "e409ea760cc9fb4f"
-    },
-    {
-      "pmid": "42618785",
-      "title": "A biased allosteric modulator is a molecular glue for β 2 AR dimerization.",
-      "titleZh": "偏向变构调节剂是 β2 AR 二聚化的分子胶。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-08-19",
-      "doi": "10.1038/s41586-026-10892-y",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-10892-y",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42618785/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
-      "abstractEn": "Family A G-protein-coupled receptors (GPCRs) are typically described as monomers, yet growing evidence suggests that they can form dimers with distinct signalling properties 1-3 . However, the mechanisms and therapeutic potential of such dimerization remain poorly understood. Here we show that AP-7-168, an optimized derivative of a β-arrestin-biased negative allosteric modulator of the β 2 -adrenergic receptor (β 2 AR) that sustains bronchorelaxation in cell and tissue models 4 , functions as a molecular glue to stabilize β 2 AR homodimerization. Cryogenic electron microscopy structures reveal a unique binding mode in which two AP-7-168 molecules pack within a pocket formed by transmembrane helices 3, 4 and 5 of two protomers, stabilizing a dimeric conformation that selectively prevents β-arrestin coupling. In cells, AP-7-168 robustly stabilizes β 2 AR dimerization and drives enlarged nanocluster formation. Combined with extensive functional studies, our findings identify an allosteric mechanism by which a small molecule biases β 2 AR signalling through dimerization, highlighting ligand-stabilized dimerization as a strategy for GPCR modulation.",
-      "summaryZh": "A 族 G 蛋白偶联受体 (GPCR) 通常被描述为单体，但越来越多的证据表明它们可以形成具有不同信号传导特性的二聚体 1-3 。然而，这种二聚化的机制和治疗潜力仍然知之甚少。在这里，我们展示了 AP-7-168 是 β2 肾上腺素受体 (β2 AR) 的 β-arrestin 偏向负变构调节剂的优化衍生物，可维持细胞和组织模型中的支气管松弛 4 ，作为分子胶来稳定 β2 AR 同二聚化。低温电子显微镜结构揭示了一种独特的结合模式，其中两个 AP-7-168 分子堆积在由两个原聚体的跨膜螺旋 3、4 和 5 形成的口袋内，稳定二聚体构象，选择性地防止 β-抑制蛋白偶联。在细胞中，AP-7-168 能够稳定 β2 AR 二聚化并促进扩大的纳米簇形成。结合广泛的功能研究，我们的研究结果确定了小分子通过二聚化偏向 β2 AR 信号传导的变构机制，强调配体稳定的二聚化作为 GPCR 调节的策略。",
-      "translationSource": "8ce6bf1f6fa80ab3"
     },
     {
       "pmid": "42242210",
