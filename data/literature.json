@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-09T03:15:22+00:00",
+  "updatedAt": "2026-10-10T02:54:58+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42853952",
+      "title": "A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues.",
+      "titleZh": "神经元 GPCR 修改神经肽信号传导以抑制远端组织中的蛋白质稳态。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-09",
+      "doi": "10.1126/sciadv.ady6048",
+      "doiUrl": "https://doi.org/10.1126/sciadv.ady6048",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42853952/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The proteostasis network (PN) safeguards the integrity of proteins by promoting various cellular activities. However, with aging, the PN's competence declines and aggregated proteins accrue within cells. This process underlies the development of neurodegenerative disorders such as Alzheimer's and Huntington's diseases. While the PN functions within cells, proteostasis is regulated across the organism by intertissue communication, which is partially governed by neurons. We previously found that reducing the expression of gtr-1 , which encodes a neuronal heterotrimeric guanine nucleotide-binding protein-coupled receptor, mitigates the toxicity of the Alzheimer's disease cause, Aβ peptide. Here, we investigated the mechanism that is acted upon the knockdown of gtr-1 and found that it differentially modulates gene expression profiles, including of neuropeptide-coding genes, and dissimilarly modifies protein aggregation in worms that express distinct proteotoxic proteins. The knockdown of gtr-1 also enhances protein degradation. These findings highlight the roles of neuropeptides as organismal coordinators of proteostasis in the face of distinct proteotoxic challenges.",
+      "summaryZh": "蛋白质稳态网络（PN）通过促进各种细胞活动来保护蛋白质的完整性。然而，随着年龄的增长，PN 的能力会下降，细胞内会出现聚集的蛋白质。这一过程是阿尔茨海默病和亨廷顿病等神经退行性疾病发生的基础。虽然 PN 在细胞内发挥作用，但整个生物体的蛋白质稳态通过组织间通讯进行调节，而组织间通讯部分由神经元控制。我们之前发现，减少编码神经元异三聚鸟嘌呤核苷酸结合蛋白偶联受体的 gtr-1 的表达，可以减轻阿尔茨海默氏病病因 Aβ 肽的毒性。在这里，我们研究了 gtr-1 敲低的机制，发现它差异性地调节基因表达谱，包括神经肽编码基因，并以不同的方式改变表达不同蛋白毒性蛋白的蠕虫中的蛋白质聚集。 gtr-1 的敲除也会增强蛋白质降解。这些发现强调了神经肽在面对不同的蛋白质毒性挑战时作为蛋白质稳态的有机协调者的作用。",
+      "translationSource": "f4edb958d5222e74"
+    },
+    {
+      "pmid": "42849434",
+      "title": "Disrupting BRD4-BD1-p62 engagement restores protective autophagy.",
+      "titleZh": "破坏 BRD4-BD1-p62 结合可恢复保护性自噬。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-08",
+      "doi": "10.1016/j.chembiol.2026.09.007",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.09.007",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849434/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Impaired protective autophagy contributes to idiopathic pulmonary fibrosis (IPF), yet therapeutic strategies that restore this process remain limited. Here, we identify SKLB-39b, a BRD4-BD1-selective inhibitor that restores protective autophagy and attenuates pulmonary fibrosis. SKLB-39b exhibits over 100-fold selectivity for BRD4-BD1 relative to BRD4-BD2 and nearly 10-fold greater affinity for BRD4-BD1 than for BRD2/3-BD1. Mechanistically, we identify a BRD4-BD1-p62 interaction that links BET bromodomain function to autophagy regulation. By engaging Leu92 and Ile146 through a hydrophobic binding mode, SKLB-39b disrupts this interaction, restores ULK1-dependent autophagy, and provides a structural framework for BD1-selective inhibitor design. SKLB-39b outperformed JQ-1 in suppressing fibroblast activation, epithelial-mesenchymal transition, and collagen deposition in experimental fibrosis while showing favorable pharmacokinetic exposure and no overt toxicity in the mouse studies performed. These findings establish the BRD4-BD1-p62 interface as a druggable target for restoring protective autophagy in IPF.",
+      "summaryZh": "保护性自噬受损会导致特发性肺纤维化（IPF），但恢复这一过程的治疗策略仍然有限。在这里，我们鉴定出 SKLB-39b，一种 BRD4-BD1 选择性抑制剂，可恢复保护性自噬并减轻肺纤维化。相对于 BRD4-BD2，SKLB-39b 对 BRD4-BD1 的选择性高出 100 倍以上，对 BRD4-BD1 的亲和力比对 BRD2/3-BD1 的亲和力高出近 10 倍。从机制上讲，我们确定了 BRD4-BD1-p62 相互作用，将 BET 溴结构域功能与自噬调节联系起来。通过疏水结合模式接合 Leu92 和 Ile146，SKLB-39b 破坏了这种相互作用，恢复了 ULK1 依赖性自噬，并为 BD1 选择性抑制剂设计提供了结构框架。 SKLB-39b 在抑制实验性纤维化中的成纤维细胞活化、上皮间质转化和胶原沉积方面优于 JQ-1，同时在小鼠研究中显示出良好的药代动力学暴露且没有明显的毒性。这些发现确立了 BRD4-BD1-p62 界面作为恢复 IPF 保护性自噬的药物靶点。",
+      "translationSource": "e79f25eaf13cd062"
+    },
     {
       "pmid": "42842369",
       "title": "Acute degron-mediated RUNX1 loss reprograms enhancer activity associated with epithelial destabilization and initiation of cancer hallmarks.",
