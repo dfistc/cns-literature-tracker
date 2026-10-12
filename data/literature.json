@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-10-10T02:54:58+00:00",
+  "updatedAt": "2026-10-12T02:48:35+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42858251",
+      "title": "The ENL-USP7 complex regulates HIV latency through BRD4 protein stabilization.",
+      "titleZh": "ENL-USP7 复合物通过 BRD4 蛋白稳定来调节 HIV 潜伏期。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-10",
+      "doi": "10.1016/j.celrep.2026.118120",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118120",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42858251/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "HIV persistence in CD4 + T cells and brain microglia is maintained by host mechanisms that enforce viral latency. We identify ENL and the deubiquitinase USP7 as a host complex that sustains HIV latency. Pharmacologic inhibition or genetic loss of ENL reactivated latent HIV. Proteomic analyses revealed an ENL-USP7-BRD4 regulatory axis associated with latency maintenance, where USP7 maintained BRD4 protein stability. Targeted USP7 degradation using PROTAC induced latency reversal and destabilized BRD4. Chromatin immunoprecipitation studies showed that ENL was required for USP7 and BRD4 occupancy at the HIV nuc-1 region but not at the 5' long terminal repeat. Single-nucleus RNA sequencing further implicated this pathway in HIV persistence within the central nervous system. Importantly, degradation of either ENL or USP7 reactivated latent HIV in resting CD4 + T cells and brain microglia from individuals receiving antiretroviral therapy. These findings identify the ENL-USP7-BRD4 axis as a therapeutically actionable mechanism sustaining HIV latency and viral reservoirs.",
+      "summaryZh": "HIV 在 CD4 + T 细胞和脑小胶质细胞中的持续存在是通过强化病毒潜伏期的宿主机制来维持的。我们将 ENL 和去泛素酶 USP7 确定为维持 HIV 潜伏期的宿主复合物。 ENL 的药物抑制或遗传损失重新激活了潜伏的 HIV。蛋白质组学分析揭示了 ENL-USP7-BRD4 调控轴与潜伏期维持相关，其中 USP7 维持了 BRD4 蛋白的稳定性。使用 PROTAC 诱导潜伏期逆转并破坏 BRD4 的稳定性来靶向 USP7 降解。染色质免疫沉淀研究表明，USP7 和 BRD4 在 HIV nuc-1 区域的占据需要 ENL，但在 5' 长末端重复区域则不需要。单核 RNA 测序进一步表明该途径与 HIV 在中枢神经系统内的持续存在有关。重要的是，ENL 或 USP7 的降解重新激活了接受抗逆转录病毒治疗的个体静息 CD4 + T 细胞和脑小胶质细胞中的潜伏 HIV。这些发现将 ENL-USP7-BRD4 轴确定为维持 HIV 潜伏期和病毒库的治疗可行机制。",
+      "translationSource": "11199fe7a13f4041"
+    },
     {
       "pmid": "42853952",
       "title": "A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues.",
@@ -23,6 +44,27 @@
       "abstractEn": "The proteostasis network (PN) safeguards the integrity of proteins by promoting various cellular activities. However, with aging, the PN's competence declines and aggregated proteins accrue within cells. This process underlies the development of neurodegenerative disorders such as Alzheimer's and Huntington's diseases. While the PN functions within cells, proteostasis is regulated across the organism by intertissue communication, which is partially governed by neurons. We previously found that reducing the expression of gtr-1 , which encodes a neuronal heterotrimeric guanine nucleotide-binding protein-coupled receptor, mitigates the toxicity of the Alzheimer's disease cause, Aβ peptide. Here, we investigated the mechanism that is acted upon the knockdown of gtr-1 and found that it differentially modulates gene expression profiles, including of neuropeptide-coding genes, and dissimilarly modifies protein aggregation in worms that express distinct proteotoxic proteins. The knockdown of gtr-1 also enhances protein degradation. These findings highlight the roles of neuropeptides as organismal coordinators of proteostasis in the face of distinct proteotoxic challenges.",
       "summaryZh": "蛋白质稳态网络（PN）通过促进各种细胞活动来保护蛋白质的完整性。然而，随着年龄的增长，PN 的能力会下降，细胞内会出现聚集的蛋白质。这一过程是阿尔茨海默病和亨廷顿病等神经退行性疾病发生的基础。虽然 PN 在细胞内发挥作用，但整个生物体的蛋白质稳态通过组织间通讯进行调节，而组织间通讯部分由神经元控制。我们之前发现，减少编码神经元异三聚鸟嘌呤核苷酸结合蛋白偶联受体的 gtr-1 的表达，可以减轻阿尔茨海默氏病病因 Aβ 肽的毒性。在这里，我们研究了 gtr-1 敲低的机制，发现它差异性地调节基因表达谱，包括神经肽编码基因，并以不同的方式改变表达不同蛋白毒性蛋白的蠕虫中的蛋白质聚集。 gtr-1 的敲除也会增强蛋白质降解。这些发现强调了神经肽在面对不同的蛋白质毒性挑战时作为蛋白质稳态的有机协调者的作用。",
       "translationSource": "f4edb958d5222e74"
+    },
+    {
+      "pmid": "42854685",
+      "title": "A modular platform for in cellulo target engagement profiling of chromatin reader inhibitors.",
+      "titleZh": "用于染色质阅读器抑制剂的细胞内目标接合分析的模块化平台。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-09",
+      "doi": "10.1016/j.chembiol.2026.09.009",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.09.009",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42854685/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "The dysregulation of acylation-reading bromodomain proteins is implicated in many diseases, making them important therapeutic targets. However, drug development is hindered by a lack of high-throughput cellular assays to measure target engagement and off-target binding in living cells. To address this gap, we developed a panel of cell lines that express synthetic bromodomain constructs, termed Acyl-eCRs. We demonstrate that Acyl-eCRs recapitulate the same response to bromodomain inhibitors and PROTACs as endogenous proteins, allowing for quantitative assessment of drug effects. We introduce two complementary flow cytometry-based assays to evaluate inhibitor-target engagement: a competitive binding assay leveraging PROTAC-induced degradation, and a nuclear retention assay measuring displacement of bromodomains from chromatin. Our approach circumvents laborious protein purification and in vitro characterization, providing a scalable, physiologically relevant method for assessing inhibitor potency and specificity. This platform provides a scalable strategy for quantitative target-engagement profiling of chromatin reader inhibitors in living cells.",
+      "summaryZh": "酰化读取溴结构域蛋白的失调与许多疾病有关，使其成为重要的治疗靶点。然而，由于缺乏高通量细胞测定来测量活细胞中的靶标结合和脱靶结合，药物开发受到阻碍。为了解决这一差距，我们开发了一组表达合成溴结构域构建体的细胞系，称为 Acyl-eCR。我们证明 Acyl-eCR 概括了与内源性蛋白质对溴结构域抑制剂和 PROTAC 相同的反应，从而可以定量评估药物效果。我们引入了两种基于流式细胞术的互补测定来评估抑制剂与靶标的结合：利用 PROTAC 诱导的降解的竞争性结合测定，以及测量染色质中溴结构域位移的核保留测定。我们的方法避免了费力的蛋白质纯化和体外表征，提供了一种可扩展的、生理相关的方法来评估抑制剂的效力和特异性。该平台为活细胞中染色质阅读器抑制剂的定量目标接合分析提供了可扩展的策略。",
+      "translationSource": "6eed9f711dae1ed5"
     },
     {
       "pmid": "42849434",
