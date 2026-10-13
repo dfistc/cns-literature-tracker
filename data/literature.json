@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-10-12T02:48:35+00:00",
+  "updatedAt": "2026-10-13T04:04:50+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42628524",
+      "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.",
+      "titleZh": "蛋白质基因组学指导的癌症基因组体细胞突变的解释。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-10-12",
+      "doi": "10.1016/j.ccell.2026.07.017",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.017",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42628524/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Cancer genomes harbor hundreds of mutated genes, but their exact roles in tumorigenesis often remain incompletely understood. Here, by integrating protein structures with mutation data from 139,818 patients, we generate detailed, functional maps of mutations for 173 cancer genes in 18+ tumor types. In most cancer genes, oncogenic mutations accumulate in \"significantly mutated regions\" aligned with key functions, including DNA-binding domains in transcription factors (e.g., FOXA1), ligand-binding sites in receptors (e.g., ERBB2), catalytic domains in chromatin remodelers (e.g., EP300), substrate-recognition sites in ubiquitin-proteasome regulators (e.g., SPOP), and degradation signals in cell-cycle proteins (e.g., CCND1). In other cancer genes, mutations align more closely with constraints in three-dimensional protein structures, such as targeting the interior core (e.g., TP53) or a specific secondary structure (e.g., PTEN). Broadly, our study provides a proteo-genomic framework to characterize the effects of mutations in tumorigenesis and integrate them into workflows for clinical interpretation in precision medicine.",
+      "summaryZh": "癌症基因组包含数百个突变基因，但它们在肿瘤发生中的确切作用通常仍不完全清楚。在这里，通过将蛋白质结构与 139,818 名患者的突变数据整合，我们生成了 18 种以上肿瘤类型中 173 个癌症基因的详细突变功能图。在大多数癌症基因中，致癌突变积累在与关键功能相关的“显着突变区域”，包括转录因子中的DNA结合域（例如FOXA1）、受体中的配体结合位点（例如ERBB2）、染色质重塑因子中的催化域（例如EP300）、泛素蛋白酶体调节因子中的底物识别位点（例如SPOP）和细胞周期蛋白（例如 CCND1）中的降解信号。在其他癌症基因中，突变与三维蛋白质结构的限制更加紧密地结合在一起，例如针对内部核心（例如 TP53）或特定二级结构（例如 PTEN）。总的来说，我们的研究提供了一个蛋白质基因组框架来表征突变对肿瘤发生的影响，并将其整合到精准医学临床解释的工作流程中。",
+      "translationSource": "971c5018ff200eeb"
+    },
     {
       "pmid": "42858251",
       "title": "The ENL-USP7 complex regulates HIV latency through BRD4 protein stabilization.",
@@ -2365,28 +2387,6 @@
       "abstractEn": "Proteostasis failure drives multiple neurodegenerative disorders (NDs), and ATP-independent chaperone pathways that support neuronal proteostasis remain poorly defined. Here, we identify the N6-methyladenosine (m 6 A)-binding protein YTHDC1 as an ATP-independent molecular chaperone, whose activity is mediated by a highly acidic polyaspartate/glutamate (polyD/E) segment. YTHDC1 prevents protein misfolding and aggregation, unfolds kinetically trapped substrates, and resolubilizes pre-formed aggregates. Deletion of the polyD/E segment abolishes these activities, whereas aromatic-cage mutants retain chaperone activity, demonstrating independence from m 6 A recognition. We identify the amyotrophic lateral sclerosis (ALS)-associated RNA-binding protein hnRNPA1 as a YTHDC1 client. YTHDC1 maintains liquid-like hnRNPA1 condensates, delays fibrillization of disease-associated mutants, and limits stress-granule sequestration, while mitigating mutant hnRNPA1-induced neurite growth defects in primary neurons. These findings define a proteostatic function of YTHDC1 and highlight its chaperone activity as a potential target for mitigating protein aggregation in ALS-related NDs.",
       "summaryZh": "蛋白质稳态失败会导致多种神经退行性疾病 (ND)，而支持神经元蛋白质稳态的不依赖于 ATP 的伴侣通路仍不清楚。在这里，我们将 N6-甲基腺苷 (m 6 A) 结合蛋白 YTHDC1 鉴定为不依赖于 ATP 的分子伴侣，其活性由高酸性聚天冬氨酸/谷氨酸 (polyD/E) 片段介导。 YTHDC1 防止蛋白质错误折叠和聚集，展开动力学捕获的底物，并重新溶解预先形成的聚集体。 PolyD/E 片段的删除消除了这些活性，而芳香笼突变体保留了分子伴侣活性，证明了与 m 6 A 识别的独立性。我们将肌萎缩侧索硬化症 (ALS) 相关 RNA 结合蛋白 hnRNPA1 确定为 YTHDC1 客户端。 YTHDC1 维持液体状 hnRNPA1 凝聚物，延迟疾病相关突变体的原纤维化，并限制应激颗粒隔离，同时减轻突变体 hnRNPA1 诱导的原代神经元神经突生长缺陷。这些发现定义了 YTHDC1 的蛋白抑制功能，并强调其伴侣活性是减轻 ALS 相关 ND 中蛋白质聚集的潜在靶标。",
       "translationSource": "f17a1269930aaa1f"
-    },
-    {
-      "pmid": "42628524",
-      "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.",
-      "titleZh": "蛋白质基因组学指导的癌症基因组体细胞突变的解释。",
-      "journal": "Cancer Cell",
-      "year": 2026,
-      "published": "2026-08-21",
-      "doi": "10.1016/j.ccell.2026.07.017",
-      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.07.017",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42628524/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome",
-        "ubiquitin-proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
-      "abstractEn": "Cancer genomes harbor hundreds of mutated genes, but their exact roles in tumorigenesis often remain incompletely understood. Here, by integrating protein structures with mutation data from 139,818 patients, we generate detailed, functional maps of mutations for 173 cancer genes in 18+ tumor types. In most cancer genes, oncogenic mutations accumulate in \"significantly mutated regions\" aligned with key functions, including DNA-binding domains in transcription factors (e.g., FOXA1), ligand-binding sites in receptors (e.g., ERBB2), catalytic domains in chromatin remodelers (e.g., EP300), substrate-recognition sites in ubiquitin-proteasome regulators (e.g., SPOP), and degradation signals in cell-cycle proteins (e.g., CCND1). In other cancer genes, mutations align more closely with constraints in three-dimensional protein structures, such as targeting the interior core (e.g., TP53) or a specific secondary structure (e.g., PTEN). Broadly, our study provides a proteo-genomic framework to characterize the effects of mutations in tumorigenesis and integrate them into workflows for clinical interpretation in precision medicine.",
-      "summaryZh": "癌症基因组包含数百个突变基因，但它们在肿瘤发生中的确切作用通常仍不完全清楚。在这里，通过将蛋白质结构与 139,818 名患者的突变数据整合，我们生成了 18 种以上肿瘤类型中 173 个癌症基因的详细突变功能图。在大多数癌症基因中，致癌突变积累在与关键功能相关的“显着突变区域”，包括转录因子中的DNA结合域（例如FOXA1）、受体中的配体结合位点（例如ERBB2）、染色质重塑因子中的催化域（例如EP300）、泛素蛋白酶体调节因子中的底物识别位点（例如SPOP）和细胞周期蛋白（例如 CCND1）中的降解信号。在其他癌症基因中，突变与三维蛋白质结构的限制更加紧密地结合在一起，例如针对内部核心（例如 TP53）或特定二级结构（例如 PTEN）。总的来说，我们的研究提供了一个蛋白质基因组框架来表征突变对肿瘤发生的影响，并将其整合到精准医学临床解释的工作流程中。",
-      "translationSource": "971c5018ff200eeb"
     },
     {
       "pmid": "42424437",
