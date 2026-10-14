@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-10-13T04:04:50+00:00",
+  "updatedAt": "2026-10-14T02:18:40+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42863465",
+      "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability.",
+      "titleZh": "CK2-β-TrCP 激酶-E3 泛素连接酶级联是调节色氨酸 2,3-双加氧酶稳定性的代谢传感器。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-12",
+      "doi": "10.1016/j.molcel.2026.09.023",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.023",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42863465/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "degron",
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron, proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Small molecules toggling the ubiquitin-proteasome system (UPS) are powerful regulators of protein degradation, yet how endogenous ligands gate UPS decisions remains poorly understood. Here, we define control of UPS access to human tryptophan 2,3-dioxygenase (TDO2), which converts the amino acid tryptophan (Trp) to N-formylkynurenine. When Trp concentrations are limiting, TDO2 is degraded to avert hypotryptophanemia. We discovered that a CK2-β-TrCP kinase-E3 ligase cascade generates and recognizes phosphodegrons in TDO2 unless they are shielded by Trp binding at an exosite distal from the catalytic site. Effects of Trp analogs on CK2-β-TrCP-dependent ubiquitylation indicated that the indole, amino, and carboxylate groups collectively protect TDO2. Cryo-EM reveals that these moieties organize a Trp-ordered flap that covers the exosite and thereby restricts generation of adjacent phosphodegrons. In the absence of Trp, the flap is flexible, enabling phosphorylation-coupled ubiquitylation. Overall, our data uncovered an endogenous small molecule conformationally stabilizing its own metabolizing enzyme through protection from a phosphorylation-ubiquitylation cascade.",
+      "summaryZh": "切换泛素蛋白酶体系统 (UPS) 的小分子是蛋白质降解的强大调节剂，但内源配体如何控制 UPS 决策仍知之甚少。在这里，我们定义了 UPS 对人色氨酸 2,3-双加氧酶 (TDO2) 的访问控制，该酶将氨基酸色氨酸 (Trp) 转化为 N-甲酰犬尿氨酸。当色氨酸浓度受到限制时，TDO2 会被降解以避免低色氨酸血症。我们发现，CK2-β-TrCP 激酶-E3 连接酶级联会生成并识别 TDO2 中的磷酸化降解子，除非它们被远离催化位点的外部位点上的 Trp 结合所屏蔽。 Trp 类似物对 CK2-β-TrCP 依赖性泛素化的影响表明吲哚、氨基和羧酸基团共同保护 TDO2。冷冻电镜显示这些部分组织了一个色氨酸有序瓣，覆盖了外部位点，从而限制了相邻磷酸降解子的产生。在没有色氨酸的情况下，瓣是柔性的，能够实现磷酸化偶联的泛素化。总体而言，我们的数据揭示了一种内源性小分子通过免受磷酸化-泛素化级联的影响，在构象上稳定其自身的代谢酶。",
+      "translationSource": "78cdcbefcd4881aa"
+    },
     {
       "pmid": "42628524",
       "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.",
@@ -282,6 +306,27 @@
       "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
       "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
       "translationSource": "df6ebbd678754909"
+    },
+    {
+      "pmid": "42864486",
+      "title": "Expanding global access to synthetic biology.",
+      "titleZh": "扩大合成生物学的全球范围。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41587-026-03338-3",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03338-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42864486/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "be2281eaab58d41e"
     },
     {
       "pmid": "42717093",
