@@ -1,8 +1,113 @@
 {
-  "updatedAt": "2026-10-14T02:18:40+00:00",
+  "updatedAt": "2026-10-15T01:59:47+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42873880",
+      "title": "Vitamin D binding protein in ventral CA3 of the hippocampus drives stress-induced depression.",
+      "titleZh": "海马体 CA3 腹侧的维生素 D 结合蛋白会导致压力诱发的抑郁症。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-16",
+      "doi": "10.1126/sciadv.aeh9563",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh9563",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873880/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "The ventral hippocampus plays a crucial role in regulating emotional and motivated behaviors. However, the molecular mechanisms underlying its dysfunction in major depressive disorder (MDD) remain poorly understood. Here, we identified elevated expression of vitamin D binding protein (VDBP) in the hippocampi of chronic unpredictable mild stress (CUMS)-susceptible mice, which correlated with the severity of depression-like behaviors. Notably, VDBP up-regulation was specifically in ventral CA3 excitatory (vCA3 CaMKIIα ) neurons. CA3 CaMKIIα VDBP overexpression led to inhibited neuronal activity, synaptic and dendritic impairments, and, ultimately, depression-like behaviors. Conversely, vCA3 CaMKIIα -specific VDBP knockdown enhanced resilience to chronic stress. Mechanistically, VDBP directly interacted with PIK3R3 to inhibit the PI3K-Akt-mTOR pathway in a cell-autonomous manner, leading to excessive autophagy and subsequent neuronal dysfunction. Chemogenetic activation, intervention using the Akt-specific activator SC79, and site-specific mutation disrupting the VDBP-PIK3R3 interaction ameliorated vCA3 CaMKIIα VDBP-induced depression-like phenotypes. Collectively, these findings underscore the critical involvement of vCA3 CaMKIIα neuron-derived VDBP in stress-induced depressive pathology and highlight its potential as a therapeutic target for MDD.",
+      "summaryZh": "腹侧海马在调节情绪和动机行为中起着至关重要的作用。然而，其在重度抑郁症（MDD）中功能障碍的分子机制仍然知之甚少。在这里，我们发现慢性不可预测轻度应激 (CUMS) 易感小鼠的海马体中维生素 D 结合蛋白 (VDBP) 表达升高，这与抑郁样行为的严重程度相关。值得注意的是，VDBP 上调特别是在腹侧 CA3 兴奋性 (vCA3 CaMKIIα) 神经元中。 CA3 CaMKIIα VDBP 过度表达导致神经元活动受到抑制、突触和树突损伤，并最终导致抑郁样行为。相反，vCA3 CaMKIIα 特异性 VDBP 敲低增强了对慢性压力的恢复能力。从机制上讲，VDBP直接与PIK3R3相互作用，以细胞自主的方式抑制PI3K-Akt-mTOR通路，导致过度自噬和随后的神经元功能障碍。化学遗传学激活、使用 Akt 特异性激活剂 SC79 进行干预以及破坏 VDBP-PIK3R3 相互作用的位点特异性突变可改善 vCA3 CaMKIIα VDBP 诱导的抑郁样表型。总的来说，这些发现强调了 vCA3 CaMKIIα 神经元衍生的 VDBP 在应激诱发的抑郁病理学中的关键参与，并强调了其作为 MDD 治疗靶点的潜力。",
+      "translationSource": "b4700934920514f9"
+    },
+    {
+      "pmid": "42873895",
+      "title": "Restoration of PP2A AαB56αC trimer formation by RPT04402 molecular glue in high-grade uterine cancer.",
+      "titleZh": "RPT04402分子胶在高级别子宫癌中恢复PP2A AαB56αC三聚体形成。",
+      "journal": "Science Translational Medicine",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1126/scitranslmed.ady4852",
+      "doiUrl": "https://doi.org/10.1126/scitranslmed.ady4852",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873895/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "The incidence and mortality of high-grade endometrial cancers are increasing, and heterozygous hotspot mutations in PPP2R1A are drivers of the most aggressive forms of uterine cancer. PPP2R1A encodes the Aα scaffolding subunit of the heterotrimeric phosphatase PP2A. These recurrent mutations, specifically at the Pro 179 and Ser 256 residues, disrupt the binding of tumor-suppressive substrate-directing B56 and B55 subunits to the PP2A scaffolding subunit while maintaining binding to other regulatory subunits. Here, we identified a series of molecular glues that correct PP2A trimer formation in the context of the P179R (Pro 179 →Arg) and S256F (Ser 256 →Phe) mutants. A small-molecule library was designed to fit into the pocket at the binding interface of the Aα/B56α/C heterotrimer. The lead molecule, RPT04402, promoted B56α heterotrimerization to the Aα P179R and Aα S256F mutant scaffolds. In mice, RPT04402 treatment drove tumor regressions and extended median survival in multiple independent mutant cell lines and patient-derived xenografts, proving a robust single-agent activity. This activity was abrogated upon knockout of B56α. Combined, these data demonstrate that PP2A molecular glues are a promising first-in-class therapy that might benefit patients with PPP2R1A mutant uterine cancer by targeting a driver of this aggressive disease.",
+      "summaryZh": "高级别子宫内膜癌的发病率和死亡率正在增加，PPP2R1A 的杂合热点突变是最具侵袭性的子宫癌的驱动因素。 PPP2R1A 编码异源三聚体磷酸酶 PP2A 的 Aα 支架亚基。这些反复发生的突变，特别是 Pro 179 和 Ser 256 残基处的突变，破坏了肿瘤抑制底物导向的 B56 和 B55 亚基与 PP2A 支架亚基的结合，同时保持与其他调节亚基的结合。在这里，我们鉴定了一系列在 P179R (Pro 179 →Arg) 和 S256F (Ser 256 →Phe) 突变体背景下纠正 PP2A 三聚体形成的分子胶。小分子文库被设计成适合 Aα/B56α/C 异三聚体结合界面处的口袋。先导分子 RPT04402 促进 B56α 异三聚化为 Aα P179R 和 Aα S256F 突变支架。在小鼠中，RPT04402 治疗可促进肿瘤消退，并延长多个独立突变细胞系和患者来源的异种移植物的中位生存期，证明了其强大的单药活性。 B56α 敲除后该活性被消除。综合起来，这些数据表明 PP2A 分子胶是一种有前途的一流疗法，可能通过针对这种侵袭性疾病的驱动因素使患有 PPP2R1A 突变子宫癌的患者受益。",
+      "translationSource": "7e31290a4566c402"
+    },
+    {
+      "pmid": "42873639",
+      "title": "Mitochondrial stress induces transcription of cytosolic and mitochondrial protein synthesis components via NHR-180.",
+      "titleZh": "线粒体应激通过 NHR-180 诱导细胞质和线粒体蛋白质合成成分的转录。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1016/j.celrep.2026.118161",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118161",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873639/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The mitochondrial unfolded protein response (UPR mt ), which promotes mitochondrial biogenesis and proteostasis, is regulated by the transcription factor ATFS-1. In C. elegans, impaired atfs-1 expression perturbs mitochondrial function and slows development. Here, using an RNAi suppressor screen, we find that inhibition of the nuclear hormone receptor NHR-180 increases mitochondrial function and developmental rate in atfs-1(null) worms. NHR-180 levels increase and become more nuclear-localized during mitochondrial dysfunction, inducing transcription of genes required for protein synthesis on cytosolic and mitochondrial ribosomes. The NHR-180 ligand-binding domain interacts with AMP, suggesting that NHR-180 may link cellular energy status to protein synthesis during mitochondrial stress. However, NHR-180-dependent activity is associated with exacerbated mitochondrial dysfunction. Consistent with these findings, inhibition of the S6 kinase homolog RSKS-1 increases mitochondrial function in atfs-1(null) worms. S6 kinase inhibition also increases respiration and mitochondrial DNA (mtDNA) content in mammalian ATF5-knockout cells and oxidative phosphorylation (OXPHOS)-deficient models.",
+      "summaryZh": "线粒体未折叠蛋白反应 (UPR mt ) 可促进线粒体生物发生和蛋白质稳态，受转录因子 ATFS-1 调节。在秀丽隐杆线虫中，atfs-1 表达受损会扰乱线粒体功能并减缓发育。在这里，使用 RNAi 抑制子筛选，我们发现核激素受体 NHR-180 的抑制会增加 atfs-1(null) 线虫的线粒体功能和发育速度。在线粒体功能障碍期间，NHR-180 水平增加并更加集中于核，诱导细胞质和线粒体核糖体上蛋白质合成所需的基因转录。 NHR-180 配体结合结构域与 AMP 相互作用，表明 NHR-180 可能将线粒体应激期间的细胞能量状态与蛋白质合成联系起来。然而，NHR-180 依赖性活性与线粒体功能障碍加剧有关。与这些发现一致，抑制 S6 激酶同源物 RSKS-1 会增加 atfs-1(null) 线虫的线粒体功能。 S6 激酶抑制还会增加哺乳动物 ATF5 敲除细胞和氧化磷酸化 (OXPHOS) 缺陷模型中的呼吸和线粒体 DNA (mtDNA) 含量。",
+      "translationSource": "1400d15c2a170b8b"
+    },
+    {
+      "pmid": "42870022",
+      "title": "Structural basis of an endoplasmic reticulum EMC:Spf1 insertase-dislocase complex.",
+      "titleZh": "内质网 EMC:Spf1 插入酶-脱位酶复合物的结构基础。",
+      "journal": "Nature Structural & Molecular Biology",
+      "year": 2026,
+      "published": "2026-10-13",
+      "doi": "10.1038/s41594-026-01883-8",
+      "doiUrl": "https://doi.org/10.1038/s41594-026-01883-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42870022/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Most eukaryotic membrane proteins are inserted into the membrane at the endoplasmic reticulum (ER). This essential process relies on molecular quality control machineries to prevent mistargeting and incorrect structure formation. Here, we show that the ER membrane protein complex (EMC) forms an evolutionarily conserved supercomplex with the P5A-ATPase Spf1/ATP13A1. Biochemical, structural and cellular analyses demonstrate that the EMC and Spf1 associate in a stoichiometric manner and retain their individual catalytic activities, the transmembrane domain (TMD) insertase function of the EMC and the TMD dislocase activity of Spf1. Our cryo-electron microscopy structures show that the EMC insertase cavity and the Spf1 dislocase cleft are positioned in close proximity within the membrane and reveal that the ATPase cycle of Spf1 remodels the interface between the two machineries and alters cytoplasmic accessibility of both substrate-binding cavities. Together, our study provides structural insights into how membrane protein insertion and extraction machineries can be spatially coordinated at the ER membrane, suggesting that functionally distinct proteostasis factors can assemble into hubs to support membrane protein biogenesis and quality control.",
+      "summaryZh": "大多数真核细胞膜蛋白在内质网 (ER) 处插入膜中。这一重要过程依赖于分子质量控制机制来防止误定位和不正确的结构形成。在这里，我们证明 ER 膜蛋白复合物 (EMC) 与 P5A-ATPase Spf1/ATP13A1 形成进化上保守的超级复合物。生化、结构和细胞分析表明，EMC 和 Spf1 以化学计量方式结合，并保留各自的催化活性、EMC 的跨膜结构域 (TMD) 插入酶功能和 Spf1 的 TMD 脱位酶活性。我们的冷冻电子显微镜结构显示，EMC 插入酶腔和 Spf1 脱位酶裂口位于膜内非常接近，并揭示 Spf1 的 ATP 酶循环重塑了两种机器之间的界面，并改变了两个底物结合腔的细胞质可及性。总之，我们的研究提供了关于膜蛋白插入和提取机器如何在 ER 膜上进行空间协调的结构见解，表明功能不同的蛋白质稳态因子可以组装成中枢以支持膜蛋白生物发生和质量控制。",
+      "translationSource": "bf2da9e44d4c0ee5"
+    },
+    {
+      "pmid": "42867988",
+      "title": "A systemic circadian nicotinic acid riboside (NaR) signal engages the unfolded protein response and adipogenesis via the prefoldin complex.",
+      "titleZh": "全身昼夜节律烟酸核苷 (NaR) 信号通过前折叠蛋白复合物参与未折叠蛋白反应和脂肪生成。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-13",
+      "doi": "10.1016/j.celrep.2026.118136",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118136",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42867988/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Daily light-dark cycles impose environmental fluctuations that require coordinated regulation of physiology. This coordination is mediated by the circadian clock, which operates as a network of tissue oscillators; however, the signals that convey circadian information between organs remain incompletely defined. We identify nicotinic acid riboside (NaR) as a circulating metabolite whose rhythmicity depends on the liver clock. In adipocytes and neuronal cells, NaR engages the unfolded protein response (UPR). Proteome-wide stability profiling implicates the prefoldin complex as a target of NaR, linking NaR exposure to altered proteostasis. In adipocytes, NaR-induced UPR signaling converges on the transcription factor CCAAT/enhancer-binding protein alpha (CEBPA). Sustained NaR exposure suppresses adipocyte lipid deposition, whereas temporally restricted NaR stimulation enhances adipogenesis. Together, these findings identify NaR as a liver clock-controlled circulating metabolite that couples systemic circadian metabolism to proteostasis and tissue remodeling, revealing a mechanism by which temporal metabolic signals shape tissue-specific physiological outcomes.",
+      "summaryZh": "每日的明暗循环会造成环境波动，需要生理学的协调调节。这种协调是由生物钟介导的，生物钟作为组织振荡器的网络运行。然而，在器官之间传递昼夜节律信息的信号仍未完全确定。我们将烟酸核苷（NaR）确定为一种循环代谢物，其节律取决于肝脏时钟。在脂肪细胞和神经元细胞中，NaR 参与未折叠蛋白反应 (UPR)。全蛋白质组稳定性分析表明前折叠蛋白复合物是 NaR 的靶点，将 NaR 暴露与蛋白质稳态改变联系起来。在脂肪细胞中，NaR 诱导的 UPR 信号汇聚于转录因子 CCAAT/增强子结合蛋白 α (CEBPA)。持续的 NaR 暴露抑制脂肪细胞脂质沉积，而暂时限制的 NaR 刺激则增强脂肪生成。总之，这些发现确定 NaR 是一种肝脏时钟控制的循环代谢物，它将全身昼夜节律代谢与蛋白质稳态和组织重塑结合起来，揭示了时间代谢信号塑造组织特异性生理结果的机制。",
+      "translationSource": "730dd53bccb9e788"
+    },
     {
       "pmid": "42863465",
       "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability.",
@@ -306,6 +411,71 @@
       "abstractEn": "Molecular glues promote protein-protein interactions by enhancing the surface complementarity between proteins. Those that recruit an E3 ubiquitin ligase to a target can elicit ubiquitination and subsequent destruction of the target protein-a mechanism that underpins the field of targeted protein degradation (TPD). Here we explored whether small-molecule binders to the CTLH E3 ligase subunit GID4 could act as molecular glues. We discovered that CLEO4-88 functions as a molecular glue (EC 50 = 12.5 nM) to promote the interaction of GID4 with the peroxisomal thiolase ACAA1 in vitro and in cellulo. An atomic structure of the ternary complex revealed an allosteric mechanism whereby CLEO4-88 binds solely to GID4 and induces a conformational change conducive to binding ACAA1. Biochemical analysis demonstrated that, while ACAA1 cannot be recruited by GID4 to a CTLH holoenzyme for ubiquitination, ternary complex formation inhibits ACAA1 thiolase activity, thus demonstrating potential utility beyond TPD.",
       "summaryZh": "分子胶通过增强蛋白质之间的表面互补性来促进蛋白质-蛋白质相互作用。那些将 E3 泛素连接酶招募到靶标上的酶可以引起靶蛋白泛素化并随后被破坏，这是一种支撑靶向蛋白降解 (TPD) 领域的机制。在这里，我们探讨了 CTLH E3 连接酶亚基 GID4 的小分子结合物是否可以充当分子粘合剂。我们发现 CLEO4-88 作为分子胶 (EC 50 = 12.5 nM) 发挥作用，在体外和纤维素中促进 GID4 与过氧化物酶体硫解酶 ACAA1 的相互作用。三元复合物的原子结构揭示了一种变构机制，即 CLEO4-88 仅与 GID4 结合，并诱导有利于结合 ACAA1 的构象变化。生化分析表明，虽然 ACAA1 不能被 GID4 招募到 CTLH 全酶进行泛素化，但三元复合物的形成会抑制 ACAA1 硫解酶活性，从而证明了除 TPD 之外的潜在用途。",
       "translationSource": "df6ebbd678754909"
+    },
+    {
+      "pmid": "42744861",
+      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis.",
+      "titleZh": "巴顿病蛋白 CLN8 是双（单酰基甘油）磷酸生物合成中的立体特异性酰基转移酶。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41556-026-02061-0",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02061-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744861/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Loss-of-function mutations in the endoplasmic reticulum membrane protein CLN8 cause Batten disease, a neurodegenerative lysosomal storage disorder. CLN8 acts with the lysosomal enzyme CLN5 to produce bis(monoacylglycero)phosphate (BMP), a signature lysosomal phospholipid with unique S,S stereochemistry. However, the role of CLN8 in this pathway has remained unclear. Here we establish that CLN8 is a glycerophosphoglycerol acyltransferase that catalyses the stereospecific acylation of S,S-glycerophosphoglycerol to generate S,S-lysophosphatidylglycerol, the CLN5 substrate in BMP synthesis. Cryo-electron microscopy structures define the CLN8 active site and support a ping-pong acyl transfer mechanism. Batten disease mutations impair CLN8 enzymatic activity and abolish BMP production in mice. Exogenous S,S-lysophosphatidylglycerol, but not the R,S stereoisomer, restores BMP synthesis in CLN8-deficient cells and mice and improves neurological phenotypes in cln8 mutant zebrafish. These findings define the function of CLN8, explain the biochemical basis of CLN8 Batten disease and establish BMP precursor supplementation as a proof-of-concept therapeutic strategy.",
+      "summaryZh": "内质网膜蛋白 CLN8 的功能丧失突变会导致巴顿病，一种神经退行性溶酶体贮积症。 CLN8 与溶酶体酶 CLN5 作用，产生双（单酰基甘油）磷酸盐 (BMP)，这是一种具有独特 S,S 立体化学的标志性溶酶体磷脂。然而，CLN8 在该途径中的作用仍不清楚。在此，我们确定 CLN8 是一种甘油磷酸甘油酰基转移酶，可催化 S,S-磷酸甘油的立体特异性酰化生成 S,S-溶血磷脂酰甘油，即 BMP 合成中的 CLN5 底物。冷冻电子显微镜结构定义了 CLN8 活性位点并支持乒乓酰基转移机制。 Batten 病突变会损害小鼠体内的 CLN8 酶活性并消除 BMP 的产生。外源性 S,S-溶血磷脂酰甘油（而非 R,S 立体异构体）可恢复 CLN8 缺陷细胞和小鼠中的 BMP 合成，并改善 cln8 突变斑马鱼的神经表型。这些发现定义了 CLN8 的功能，解释了 CLN8 Batten 病的生化基础，并将 BMP 前体补充剂确立为一种概念验证治疗策略。",
+      "translationSource": "4cc77592c4c96c93"
+    },
+    {
+      "pmid": "42744859",
+      "title": "Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway.",
+      "titleZh": "Batten 病蛋白 CLN8 启用非经典磷脂合成途径。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41556-026-02059-8",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02059-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744859/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "According to text book knowledge, de novo glycerophospholipid (GPL) synthesis begins with the acylation of glycerol-3-phosphate to form phosphatidic acid, the precursor of all other GPLs. Here we describe an alternative GPL synthesis pathway that starts with the acyl-CoA-dependent acylation of glycerophosphoglycerol, resulting in the formation of lysophosphatidylglycerol. The acyltransferase reaction is catalysed by the Batten disease-associated protein ceroid lipofuscinosis neuronal 8 (CLN8). Tracer studies revealed that CLN8-derived lysophosphatidylglycerol is selectively converted into bis(monoacylglycero)phosphate (BMP), a GPL essential for lysosomal lipid homeostasis but not into phosphatidylglycerol or cardiolipin. CLN8-knockout cells and mice cannot utilize glycerophosphoglycerol for BMP synthesis, resulting in BMP deficiency and excess accumulation of phospholipids in lysosomes. The lipid synthesis pathway described herein is relevant for understanding lysosomal lipid metabolism and the pathogenesis of neurodegenerative diseases. BMP deficiency may contribute to or even underlie lysosomal cargo accumulation in certain forms of Batten disease and other lysosomal storage disorders.",
+      "summaryZh": "根据教科书知识，甘油磷脂 (GPL) 的从头合成始于 3-磷酸甘油酰化形成磷脂酸，磷脂酸是所有其他 GPL 的前体。在这里，我们描述了另一种 GPL 合成途径，该途径从甘油磷酸甘油的酰基辅酶 A 依赖性酰化开始，导致溶血磷脂酰甘油的形成。酰基转移酶反应由巴顿病相关蛋白蜡质脂褐素沉着症神经元 8 (CLN8) 催化。示踪剂研究表明，CLN8 衍生的溶血磷脂酰甘油选择性转化为双（单酰基甘油）磷酸酯 (BMP)（一种对溶酶体脂质稳态至关重要的 GPL），但不转化为磷脂酰甘油或心磷脂。 CLN8敲除细胞和小鼠不能利用甘油磷酸甘油合成BMP，导致BMP缺乏和溶酶体中磷脂过量积累。本文描述的脂质合成途径与理解溶酶体脂质代谢和神经退行性疾病的发病机制相关。 BMP 缺乏可能导致某些形式的巴顿病和其他溶酶体贮积症中溶酶体物质积累，甚至是其基础。",
+      "translationSource": "ba9e7a1a21e1418c"
+    },
+    {
+      "pmid": "42744858",
+      "title": "DFCP1-containing ER microdomains mediate lysosomal membrane repair.",
+      "titleZh": "含有 DFCP1 的 ER 微结构域介导溶酶体膜修复。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41556-026-02062-z",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02062-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744858/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal membrane integrity is essential for preserving cellular homeostasis in response to different stressors. Upon lysosomal membrane permeabilization, cells activate several mechanisms for lysosomal membrane repair, including ESCRT proteins, phosphatidylinositol 4-phosphate (PI4P)-dependent lipid transfer from the endoplasmic reticulum (ER) and conjugation of ATG8 family proteins to single membranes (CASM). The interplay between these pathways and the regulation of the lipid transfer machinery remain incompletely understood. Here we show that phosphatidylinositol 3-phosphate (PI3P)-containing ER domains play a major role in lysosomal membrane repair. PI3P is formed on lysosome-proximal ER domains by the phosphatidylinositol 3-kinase PIK3C3/VPS34 in response to membrane damage, and inhibition or depletion of PIK3C3 inhibits lysosome repair. Mechanistically, the ATPase DFCP1/ZFYVE1 accumulates on lysosome-proximal ER domains by its PI3P binding, triggered by Ca 2+ efflux from lysosomes and requiring the ULK1 kinase complex and ER proteins of the VAP family. Downstream of CASM, PI4P, ESCRTs and PI3P, DFCP1 promotes focal accumulation of the lipid channel VPS13C on ER domains proximal to damaged lysosomes to promote their repair. The function and dynamics of DFCP1 depend on its ability to bind and hydrolyse ATP, and absence of DFCP1 compromises cellular resistance to vacuolar damage induced by Listeria monocytogenes. We conclude that DFCP1 mediates concentration of the ER-associated lipid transport machinery at damaged lysosomes to promote their sealing in response to Ca 2+ flux and PIK3C3 activation.",
+      "summaryZh": "溶酶体膜的完整性对于保持细胞稳态以应对不同的应激源至关重要。溶酶体膜透化后，细胞激活多种溶酶体膜修复机制，包括 ESCRT 蛋白、磷脂酰肌醇 4-磷酸 (PI4P) 依赖性从内质网 (ER) 的脂质转移以及 ATG8 家族蛋白与单膜 (CASM) 的缀合。这些途径与脂质转移机制之间的相互作用仍不完全清楚。在这里，我们发现含有 3-磷酸磷脂酰肌醇 (PI3P) 的 ER 结构域在溶酶体膜修复中发挥着重要作用。 PI3P 是由磷脂酰肌醇 3-激酶 PIK3C3/VPS34 响应膜损伤而在溶酶体近端 ER 结构域上形成的，抑制或耗尽 PIK3C3 会抑制溶酶体修复。从机制上讲，ATP 酶 DFCP1/ZFYVE1 通过其 PI3P 结合在溶酶体近端 ER 结构域上积累，由溶酶体中的 Ca 2+ 流出触发，并需要 ULK1 激酶复合物和 VAP 家族的 ER 蛋白。 CASM、PI4P、ESCRT 和 PI3P 的下游，DFCP1 促进脂质通道 VPS13C 在靠近受损溶酶体的 ER 结构域上的局部积累，从而促进其修复。 DFCP1 的功能和动力学取决于其结合和水解 ATP 的能力，DFCP1 的缺失会损害细胞对单核细胞增生李斯特氏菌诱导的空泡损伤的抵抗力。我们得出的结论是，DFCP1 介导受损溶酶体中 ER 相关脂质转运机制的浓度，以促进其响应 Ca 2+ 通量和 PIK3C3 激活而封闭。",
+      "translationSource": "c4c68da4425a1346"
     },
     {
       "pmid": "42864486",
@@ -1070,71 +1240,6 @@
       "translationSource": "a0b6479f5f394569"
     },
     {
-      "pmid": "42744861",
-      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis.",
-      "titleZh": "巴顿病蛋白 CLN8 是双（单酰基甘油）磷酸生物合成中的立体特异性酰基转移酶。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-09-15",
-      "doi": "10.1038/s41556-026-02061-0",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02061-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744861/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Loss-of-function mutations in the endoplasmic reticulum membrane protein CLN8 cause Batten disease, a neurodegenerative lysosomal storage disorder. CLN8 acts with the lysosomal enzyme CLN5 to produce bis(monoacylglycero)phosphate (BMP), a signature lysosomal phospholipid with unique S,S stereochemistry. However, the role of CLN8 in this pathway has remained unclear. Here we establish that CLN8 is a glycerophosphoglycerol acyltransferase that catalyses the stereospecific acylation of S,S-glycerophosphoglycerol to generate S,S-lysophosphatidylglycerol, the CLN5 substrate in BMP synthesis. Cryo-electron microscopy structures define the CLN8 active site and support a ping-pong acyl transfer mechanism. Batten disease mutations impair CLN8 enzymatic activity and abolish BMP production in mice. Exogenous S,S-lysophosphatidylglycerol, but not the R,S stereoisomer, restores BMP synthesis in CLN8-deficient cells and mice and improves neurological phenotypes in cln8 mutant zebrafish. These findings define the function of CLN8, explain the biochemical basis of CLN8 Batten disease and establish BMP precursor supplementation as a proof-of-concept therapeutic strategy.",
-      "summaryZh": "内质网膜蛋白 CLN8 的功能丧失突变会导致巴顿病，一种神经退行性溶酶体贮积症。 CLN8 与溶酶体酶 CLN5 作用，产生双（单酰基甘油）磷酸盐 (BMP)，这是一种具有独特 S,S 立体化学的标志性溶酶体磷脂。然而，CLN8 在该途径中的作用仍不清楚。在此，我们确定 CLN8 是一种甘油磷酸甘油酰基转移酶，可催化 S,S-磷酸甘油的立体特异性酰化生成 S,S-溶血磷脂酰甘油，即 BMP 合成中的 CLN5 底物。冷冻电子显微镜结构定义了 CLN8 活性位点并支持乒乓酰基转移机制。 Batten 病突变会损害小鼠体内的 CLN8 酶活性并消除 BMP 的产生。外源性 S,S-溶血磷脂酰甘油（而非 R,S 立体异构体）可恢复 CLN8 缺陷细胞和小鼠中的 BMP 合成，并改善 cln8 突变斑马鱼的神经表型。这些发现定义了 CLN8 的功能，解释了 CLN8 Batten 病的生化基础，并将 BMP 前体补充剂确立为一种概念验证治疗策略。",
-      "translationSource": "4cc77592c4c96c93"
-    },
-    {
-      "pmid": "42744859",
-      "title": "Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway.",
-      "titleZh": "Batten 病蛋白 CLN8 启用非经典磷脂合成途径。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-09-15",
-      "doi": "10.1038/s41556-026-02059-8",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02059-8",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744859/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "According to text book knowledge, de novo glycerophospholipid (GPL) synthesis begins with the acylation of glycerol-3-phosphate to form phosphatidic acid, the precursor of all other GPLs. Here we describe an alternative GPL synthesis pathway that starts with the acyl-CoA-dependent acylation of glycerophosphoglycerol, resulting in the formation of lysophosphatidylglycerol. The acyltransferase reaction is catalysed by the Batten disease-associated protein ceroid lipofuscinosis neuronal 8 (CLN8). Tracer studies revealed that CLN8-derived lysophosphatidylglycerol is selectively converted into bis(monoacylglycero)phosphate (BMP), a GPL essential for lysosomal lipid homeostasis but not into phosphatidylglycerol or cardiolipin. CLN8-knockout cells and mice cannot utilize glycerophosphoglycerol for BMP synthesis, resulting in BMP deficiency and excess accumulation of phospholipids in lysosomes. The lipid synthesis pathway described herein is relevant for understanding lysosomal lipid metabolism and the pathogenesis of neurodegenerative diseases. BMP deficiency may contribute to or even underlie lysosomal cargo accumulation in certain forms of Batten disease and other lysosomal storage disorders.",
-      "summaryZh": "根据教科书知识，甘油磷脂 (GPL) 的从头合成始于 3-磷酸甘油酰化形成磷脂酸，磷脂酸是所有其他 GPL 的前体。在这里，我们描述了另一种 GPL 合成途径，该途径从甘油磷酸甘油的酰基辅酶 A 依赖性酰化开始，导致溶血磷脂酰甘油的形成。酰基转移酶反应由巴顿病相关蛋白蜡质脂褐素沉着症神经元 8 (CLN8) 催化。示踪剂研究表明，CLN8 衍生的溶血磷脂酰甘油选择性转化为双（单酰基甘油）磷酸酯 (BMP)（一种对溶酶体脂质稳态至关重要的 GPL），但不转化为磷脂酰甘油或心磷脂。 CLN8敲除细胞和小鼠不能利用甘油磷酸甘油合成BMP，导致BMP缺乏和溶酶体中磷脂过量积累。本文描述的脂质合成途径与理解溶酶体脂质代谢和神经退行性疾病的发病机制相关。 BMP 缺乏可能导致某些形式的巴顿病和其他溶酶体贮积症中溶酶体物质积累，甚至是其基础。",
-      "translationSource": "ba9e7a1a21e1418c"
-    },
-    {
-      "pmid": "42744858",
-      "title": "DFCP1-containing ER microdomains mediate lysosomal membrane repair.",
-      "titleZh": "含有 DFCP1 的 ER 微结构域介导溶酶体膜修复。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-09-15",
-      "doi": "10.1038/s41556-026-02062-z",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02062-z",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744858/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Lysosomal membrane integrity is essential for preserving cellular homeostasis in response to different stressors. Upon lysosomal membrane permeabilization, cells activate several mechanisms for lysosomal membrane repair, including ESCRT proteins, phosphatidylinositol 4-phosphate (PI4P)-dependent lipid transfer from the endoplasmic reticulum (ER) and conjugation of ATG8 family proteins to single membranes (CASM). The interplay between these pathways and the regulation of the lipid transfer machinery remain incompletely understood. Here we show that phosphatidylinositol 3-phosphate (PI3P)-containing ER domains play a major role in lysosomal membrane repair. PI3P is formed on lysosome-proximal ER domains by the phosphatidylinositol 3-kinase PIK3C3/VPS34 in response to membrane damage, and inhibition or depletion of PIK3C3 inhibits lysosome repair. Mechanistically, the ATPase DFCP1/ZFYVE1 accumulates on lysosome-proximal ER domains by its PI3P binding, triggered by Ca 2+ efflux from lysosomes and requiring the ULK1 kinase complex and ER proteins of the VAP family. Downstream of CASM, PI4P, ESCRTs and PI3P, DFCP1 promotes focal accumulation of the lipid channel VPS13C on ER domains proximal to damaged lysosomes to promote their repair. The function and dynamics of DFCP1 depend on its ability to bind and hydrolyse ATP, and absence of DFCP1 compromises cellular resistance to vacuolar damage induced by Listeria monocytogenes. We conclude that DFCP1 mediates concentration of the ER-associated lipid transport machinery at damaged lysosomes to promote their sealing in response to Ca 2+ flux and PIK3C3 activation.",
-      "summaryZh": "溶酶体膜的完整性对于保持细胞稳态以应对不同的应激源至关重要。溶酶体膜透化后，细胞激活多种溶酶体膜修复机制，包括 ESCRT 蛋白、磷脂酰肌醇 4-磷酸 (PI4P) 依赖性从内质网 (ER) 的脂质转移以及 ATG8 家族蛋白与单膜 (CASM) 的缀合。这些途径与脂质转移机制之间的相互作用仍不完全清楚。在这里，我们发现含有 3-磷酸磷脂酰肌醇 (PI3P) 的 ER 结构域在溶酶体膜修复中发挥着重要作用。 PI3P 是由磷脂酰肌醇 3-激酶 PIK3C3/VPS34 响应膜损伤而在溶酶体近端 ER 结构域上形成的，抑制或耗尽 PIK3C3 会抑制溶酶体修复。从机制上讲，ATP 酶 DFCP1/ZFYVE1 通过其 PI3P 结合在溶酶体近端 ER 结构域上积累，由溶酶体中的 Ca 2+ 流出触发，并需要 ULK1 激酶复合物和 VAP 家族的 ER 蛋白。 CASM、PI4P、ESCRT 和 PI3P 的下游，DFCP1 促进脂质通道 VPS13C 在靠近受损溶酶体的 ER 结构域上的局部积累，从而促进其修复。 DFCP1 的功能和动力学取决于其结合和水解 ATP 的能力，DFCP1 的缺失会损害细胞对单核细胞增生李斯特氏菌诱导的空泡损伤的抵抗力。我们得出的结论是，DFCP1 介导受损溶酶体中 ER 相关脂质转运机制的浓度，以促进其响应 Ca 2+ 通量和 PIK3C3 激活而封闭。",
-      "translationSource": "c4c68da4425a1346"
-    },
-    {
       "pmid": "42744304",
       "title": "Quality control of glycogen through direct ubiquitylation by RNF213.",
       "titleZh": "通过 RNF213 直接泛素化来控制糖原的质量。",
@@ -1175,6 +1280,49 @@
       "abstractEn": "Neuroendocrine prostate cancer (NEPC) persists in a profoundly hypoxic microenvironment, yet the mechanisms enabling tumor adaptation to this metabolically challenging niche remain undefined. Here, we identify the lipid kinase PIKfyve as overexpressed in NEPC, functioning as a central node in a stress-adaptive lipid kinase axis that supports adaptation to persistent endoplasmic reticulum (ER) stress. Mechanistically, NEPC requires PIKfyve-mediated lysosomal degradation and lipid recycling to maintain metabolic homeostasis under hypoxia. PIKfyve inhibition disrupts lysosomal function, exacerbates ER stress, and activates a compensatory sterol regulatory element-binding protein (SREBP)-dependent de novo lipogenesis program essential for NEPC survival. This stress-lipid axis creates a synthetic vulnerability between PIKfyve and fatty acid synthase (FASN), where dual inhibition synergistically amplifies ER stress, triggers the terminal unfolded protein response, and induces tumor cell death. These findings reveal a metabolic adaptation in NEPC and provide preclinical evidence that co-targeting PIKfyve and FASN can overcome hypoxia-associated stress adaptation.",
       "summaryZh": "神经内分泌前列腺癌（NEPC）持续存在于极度缺氧的微环境中，但使肿瘤适应这种具有代谢挑战性的生态位的机制仍不清楚。在这里，我们确定脂质激酶 PIKfyve 在 NEPC 中过度表达，作为应激适应性脂质激酶轴的中心节点，支持对持续内质网 (ER) 应激的适应。从机制上讲，NEPC 需要 PIKfyve 介导的溶酶体降解和脂质回收来维持缺氧下的代谢稳态。 PIKfyve 抑制会破坏溶酶体功能，加剧 ER 应激，并激活补偿性甾醇调节元件结合蛋白 (SREBP) 依赖性从头脂肪生成程序，这对 NEPC 生存至关重要。这种应激-脂质轴在 PIKfyve 和脂肪酸合酶 (FASN) 之间产生了合成脆弱性，其中双重抑制协同放大 ER 应激，触发末端未折叠蛋白反应，并诱导肿瘤细胞死亡。这些发现揭示了 NEPC 的代谢适应，并提供了临床前证据，证明共同靶向 PIKfyve 和 FASN 可以克服缺氧相关的应激适应。",
       "translationSource": "3ae21e5bd8d5238b"
+    },
+    {
+      "pmid": "42869914",
+      "title": "Leveraging high-throughput proteomics and AI-based protein folding to accelerate VAV1 molecular glue discovery.",
+      "titleZh": "利用高通量蛋白质组学和基于人工智能的蛋白质折叠加速 VAV1 分子胶的发现。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-12",
+      "doi": "10.1038/s41467-026-77657-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77657-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42869914/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue, degron。",
+      "abstractEn": "This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796-799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs-even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LIMD1, bearing a canonical G-loop, as an off-target, showing that one glue can engage disparate degrons. These findings expand the landscape of CRBN neosubstrate recognition and offer a therapeutic strategy for targeting VAV1.",
+      "summaryZh": "这项研究报告了一系列 CRBN 分子胶，它们选择性诱导 VAV1 的蛋白酶体降解，VAV1 是一种造血特异性信号蛋白，也是血液恶性肿瘤和自身免疫性疾病的关键靶标。使用公正的全局蛋白质组学，我们确定苯基戊二酰亚胺衍生物（例如NGT-201-12）是有效的VAV1降解剂，可与其C端SH3结构域（SH3-2）结合。我们在物理和人工智能驱动的 GluePlex 工作流程和定点诱变的支持下，阐明了 SH3-2 中的非典型 RT 环降解决定子（RDxS 基序，残基 796-799），与之前表征的 G 环降解决定子不同。将自由能扰动 (FEP) 应用于预测的三元结构可产生与降解效力相关的协同性指标，克服标准对接的局限性，并实现类似物的前瞻性排序——即使是来自较弱的初始结合物。我们进一步表明，通过卤素取代（例如 NGT-201-18）的构象限制会增强降解，这是通过 DFT 计算合理化的原理，而综合 SAR 研究则为下一代降解剂制定了路线图。剂量反应蛋白质组学证实 VAV1 是主要靶标，并揭示带有典型 G 环的 LIMD1 是脱靶，这表明一种胶水可以与不同的降解决定子结合。这些发现扩大了 CRBN 新底物识别的范围，并提供了针对 VAV1 的治疗策略。",
+      "translationSource": "84730721912b5b9a"
+    },
+    {
+      "pmid": "42869906",
+      "title": "PKM2 AP: a micropeptide inhibits vascular calcification via molecular glue-mediated ubiquitination of PKM2.",
+      "titleZh": "PKM2 AP：一种微肽通过分子胶介导的 PKM2 泛素化来抑制血管钙化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-12",
+      "doi": "10.1038/s41467-026-77693-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77693-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42869906/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Chronic kidney disease (CKD) is a major global public health challenge, and cardiovascular complications such as vascular calcification (VC) are crucial in CKD-related mortality. Emerging evidence shows that open reading frames (ORFs) within non-coding genomic regions can encode micropeptides, but their roles in VC progression remain largely unexplored. In this study, we identify a 40-amino acid micropeptide, termed PKM2 AP, encoded by an ORF2-containing intron-retaining transcript derived from the LINC01139 locus. PKM2 AP localizes to both mitochondrial and cytoplasmic compartments and interacts with pyruvate kinase M2 (PKM2), thereby promoting its ubiquitination-dependent degradation. Mechanistically, PKM2 AP functions as a molecular glue that facilitates the recruitment of the E3 ubiquitin ligase STUB1 to PKM2, leading to stabilization of the PKM2-PKM2 AP-STUB1 ternary complex and enhanced PKM2 degradation. Functionally, PKM2 AP-mediated PKM2 degradation suppresses aerobic glycolysis and lactate production, thereby attenuating osteogenic transition and VC progression. In vivo administration of PKM2 AP and genetic knock-in of ORF2 both alleviate vascular calcification phenotypes in mouse models. Collectively, our findings identify a VC-associated micropeptide functioning through a molecular glue-like mechanism and provide a potential therapeutic strategy for vascular calcification.",
+      "summaryZh": "慢性肾脏病 (CKD) 是一项重大的全球公共卫生挑战，血管钙化 (VC) 等心血管并发症对于 CKD 相关死亡率至关重要。新的证据表明，非编码基因组区域内的开放阅读框（ORF）可以编码微肽，但它们在 VC 进展中的作用在很大程度上仍未被探索。在这项研究中，我们鉴定了一种 40 个氨基酸的微肽，称为 PKM2 AP，由源自 LINC01139 位点的包含 ORF2 的内含子保留转录物编码。 PKM2 AP 定位于线粒体和细胞质区室，并与丙酮酸激酶 M2 (PKM2) 相互作用，从而促进其泛素化依赖性降解。从机制上讲，PKM2 AP 作为分子胶，促进 E3 泛素连接酶 STUB1 招募到 PKM2，从而稳定 PKM2-PKM2 AP-STUB1 三元复合物并增强 PKM2 降解。从功能上讲，PKM2 AP 介导的 PKM2 降解抑制有氧糖酵解和乳酸产生，从而减弱成骨转变和 VC 进展。体内施用 PKM2 AP 和基因敲入 ORF2 均可减轻小鼠模型中的血管钙化表型。总的来说，我们的研究结果确定了一种通过分子胶样机制发挥作用的 VC 相关微肽，并为血管钙化提供了潜在的治疗策略。",
+      "translationSource": "373e03fceba239ed"
     },
     {
       "pmid": "42715333",
