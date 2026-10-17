@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-10-15T01:59:47+00:00",
+  "updatedAt": "2026-10-17T01:44:34+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42886777",
+      "title": "Chemogenetic ubiquitin E1 inhibitor TAK-243 CRISPR screen uncovers HAPSTR1/HUWE1 axis in chromatin proteostasis and cell cycle control.",
+      "titleZh": "化学遗传学泛素 E1 抑制剂 TAK-243 CRISPR 筛选揭示了染色质蛋白质稳态和细胞周期控制中的 HAPSTR1/HUWE1 轴。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-16",
+      "doi": "10.1126/sciadv.aea3388",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aea3388",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42886777/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "In this study, we sought to comprehensively map ubiquitin signaling networks at the crossroads of cellular proliferation and proteostasis, both crucial in cancer. Genome-wide CRISPR knockout screening in the presence of the ubiquitin E1 inhibitor TAK-243 identified 239 genes whose ablation sensitizes cells to ubiquitination blockade. Follow-up studies reveal a role for the nuclear protein, C16orf72/HECT, UBA, and WWE domain containing E3 ubiquitin protein ligase 1 (HUWE1)-Associated Protein modifying Stress Responses (HAPSTR1), in chromatin proteostasis and DNA replication. We show that HAPSTR1 recruits the E3 ligase HUWE1 to the chromatin, keeping the chromatin-associated proteome in check, and is itself turned over by HUWE1 during cell cycle progression. Structural modeling of the HAPSTR1/HUWE1 complex, supported by mutational analysis, demonstrates that loss of HUWE1 binding renders HAPSTR1 unable to support cellular proliferation when ubiquitin signaling is suppressed. Consequently, HAPSTR1 ablation impairs clearance of chromatin-associated proteins, triggering global transcriptional and proteostatic adaptations. Under diminished ubiquitin signaling, these adaptive mechanisms give way to replication stress and premature S phase entry, culminating in cell cycle collapse and DNA damage. Our findings uncover protein networks exhibiting synthetic lethality with ubiquitin signaling blockade and highlight vulnerabilities of actively proliferating cells to proteostatic imbalance at the chromatin.",
+      "summaryZh": "在这项研究中，我们试图全面绘制细胞增殖和蛋白质稳态十字路口的泛素信号网络图谱，这两者在癌症中都至关重要。在泛素 E1 抑制剂 TAK-243 存在的情况下进行全基因组 CRISPR 敲除筛选，鉴定出 239 个基因，这些基因的消除使细胞对泛素化阻断变得敏感。后续研究揭示了含有 E3 泛素蛋白连接酶 1 (HUWE1) 相关蛋白修饰应激反应 (HAPSTR1) 的核蛋白、C16orf72/HECT、UBA 和 WWE 结构域在染色质蛋白质稳态和 DNA 复制中的作用。我们发现，HAPSTR1 将 E3 连接酶 HUWE1 募集到染色质，从而保持染色质相关蛋白质组的控制，并且在细胞周期进展过程中，HAPSTR1 本身被 HUWE1 翻转。由突变分析支持的 HAPSTR1/HUWE1 复合物的结构模型表明，当泛素信号传导受到抑制时，HUWE1 结合的丧失导致 HAPSTR1 无法支持细胞增殖。因此，HAPSTR1 的去除会损害染色质相关蛋白的清除，引发整体转录和蛋白质抑制适应。在泛素信号减弱的情况下，这些适应性机制让位于复制应激和过早进入 S 期，最终导致细胞周期崩溃和 DNA 损伤。我们的研究结果揭示了蛋白质网络通过泛素信号阻断表现出合成致死性，并强调了活跃增殖细胞对染色质蛋白质稳态失衡的脆弱性。",
+      "translationSource": "98425f615ab9df76"
+    },
     {
       "pmid": "42873880",
       "title": "Vitamin D binding protein in ventral CA3 of the hippocampus drives stress-induced depression.",
@@ -23,6 +44,201 @@
       "abstractEn": "The ventral hippocampus plays a crucial role in regulating emotional and motivated behaviors. However, the molecular mechanisms underlying its dysfunction in major depressive disorder (MDD) remain poorly understood. Here, we identified elevated expression of vitamin D binding protein (VDBP) in the hippocampi of chronic unpredictable mild stress (CUMS)-susceptible mice, which correlated with the severity of depression-like behaviors. Notably, VDBP up-regulation was specifically in ventral CA3 excitatory (vCA3 CaMKIIα ) neurons. CA3 CaMKIIα VDBP overexpression led to inhibited neuronal activity, synaptic and dendritic impairments, and, ultimately, depression-like behaviors. Conversely, vCA3 CaMKIIα -specific VDBP knockdown enhanced resilience to chronic stress. Mechanistically, VDBP directly interacted with PIK3R3 to inhibit the PI3K-Akt-mTOR pathway in a cell-autonomous manner, leading to excessive autophagy and subsequent neuronal dysfunction. Chemogenetic activation, intervention using the Akt-specific activator SC79, and site-specific mutation disrupting the VDBP-PIK3R3 interaction ameliorated vCA3 CaMKIIα VDBP-induced depression-like phenotypes. Collectively, these findings underscore the critical involvement of vCA3 CaMKIIα neuron-derived VDBP in stress-induced depressive pathology and highlight its potential as a therapeutic target for MDD.",
       "summaryZh": "腹侧海马在调节情绪和动机行为中起着至关重要的作用。然而，其在重度抑郁症（MDD）中功能障碍的分子机制仍然知之甚少。在这里，我们发现慢性不可预测轻度应激 (CUMS) 易感小鼠的海马体中维生素 D 结合蛋白 (VDBP) 表达升高，这与抑郁样行为的严重程度相关。值得注意的是，VDBP 上调特别是在腹侧 CA3 兴奋性 (vCA3 CaMKIIα) 神经元中。 CA3 CaMKIIα VDBP 过度表达导致神经元活动受到抑制、突触和树突损伤，并最终导致抑郁样行为。相反，vCA3 CaMKIIα 特异性 VDBP 敲低增强了对慢性压力的恢复能力。从机制上讲，VDBP直接与PIK3R3相互作用，以细胞自主的方式抑制PI3K-Akt-mTOR通路，导致过度自噬和随后的神经元功能障碍。化学遗传学激活、使用 Akt 特异性激活剂 SC79 进行干预以及破坏 VDBP-PIK3R3 相互作用的位点特异性突变可改善 vCA3 CaMKIIα VDBP 诱导的抑郁样表型。总的来说，这些发现强调了 vCA3 CaMKIIα 神经元衍生的 VDBP 在应激诱发的抑郁病理学中的关键参与，并强调了其作为 MDD 治疗靶点的潜力。",
       "translationSource": "b4700934920514f9"
+    },
+    {
+      "pmid": "42880220",
+      "title": "Programming biological behavior with AI-guided de novo protein design.",
+      "titleZh": "使用人工智能引导的从头蛋白质设计对生物行为进行编程。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.molcel.2026.08.027",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.08.027",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880220/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Driven by advances in artificial intelligence, de novo protein design can now generate diverse molecular functions from the ground up, achieving remarkable success in engineering binders against many macromolecular targets. Here, we provide a perspective on how de novo design can progress beyond bimolecular interactions toward the bottom-up construction of protein reaction networks. We highlight how programmable, modular, and controllable de novo components can drive complex, emergent biological behaviors. Overcoming current challenges-including designable protein dynamics, multi-step functionalities, and non-equilibrium systems-is essential for this transition. With continued foundational method improvements, the field is poised to pioneer precise protein perturbations for systems-level insight and to engineer emergent cellular behaviors like signal amplification, decision-making, and error correction de novo to fundamentally advance synthetic biology, biotechnology, and medicine.",
+      "summaryZh": "在人工智能进步的推动下，从头蛋白质设计现在可以从头开始生成多种分子功能，在针对许多大分子靶标的工程结合剂方面取得了显着的成功。在这里，我们提供了一个关于从头设计如何超越双分子相互作用，走向自下而上构建蛋白质反应网络的视角。我们强调可编程、模块化和可控的从头组件如何驱动复杂的、突发的生物行为。克服当前的挑战——包括可设计的蛋白质动力学、多步骤功能和非平衡系统——对于这一转变至关重要。随着基础方法的不断改进，该领域有望开创精确的蛋白质扰动以实现系统级洞察，并从头设计信号放大、决策和纠错等新兴细胞行为，从而从根本上推动合成生物学、生物技术和医学的发展。",
+      "translationSource": "a298ee1e51dcdda1"
+    },
+    {
+      "pmid": "42880219",
+      "title": "Integration by parts: The multi-layered mechanisms of cis-regulatory control.",
+      "titleZh": "部分整合：顺式监管控制的多层机制。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.molcel.2026.09.016",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.016",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880219/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Cis-regulatory elements (CREs) integrate signals from transcription factors (TFs) to control gene expression, yet mechanisms underlying this information processing remain poorly understood. Deep learning demonstrates expression is predictable from CRE sequence, suggesting that unifying principles of regulation are within reach. Here, we propose a framework dividing CRE regulatory logic into two layers: binding-level integration, where cooperative TF interactions modulate DNA occupancy; and transcriptional-level integration, where TF effector domains and cofactors convert binding configurations into expression. At the binding level, we classify TF cooperativity along orthogonal axes-specific versus general, and symmetric versus asymmetric-encompassing protein-protein interactions, nucleosome competition, pioneer activity, and assisted loading. At the transcriptional level, cofactor interactions generate additive, synergistic, or antagonistic logic. Emerging from this complexity is a recurring quantitative pattern: \"multiplication plus saturation,\" reconciling binding specificity with flexibility, explaining how short DNA motifs generate precise expression while maintaining evolvability, and informing synthetic biology and therapeutic applications.",
+      "summaryZh": "顺式调控元件（CRE）整合来自转录因子（TF）的信号来控制基因表达，但这种信息处理背后的机制仍然知之甚少。深度学习证明表达是可以根据 CRE 序列预测的，这表明统一的调控原则是可以实现的。在这里，我们提出了一个框架，将 CRE 调控逻辑分为两层：结合级整合，其中协同 TF 相互作用调节 DNA 占用；转录水平整合，其中 TF 效应子结构域和辅因子将结合构型转化为表达。在结合水平上，我们沿着正交轴对 TF 协同性进行分类：特异性与一般性、对称性与不对称性，包括蛋白质-蛋白质相互作用、核小体竞争、先锋活性和辅助加载。在转录水平，辅因子相互作用产生加性、协同或拮抗逻辑。从这种复杂性中出现的是一种反复出现的定量模式：“倍增加饱和”，将结合特异性与灵活性相协调，解释短 DNA 基序如何在保持进化性的同时产生精确表达，并为合成生物学和治疗应用提供信息。",
+      "translationSource": "153d9e254b1cd052"
+    },
+    {
+      "pmid": "42880215",
+      "title": "AI empowers scalable and programmable RNA design.",
+      "titleZh": "人工智能支持可扩展和可编程的 RNA 设计。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.molcel.2026.09.025",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.025",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880215/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Functional RNA design is central to synthetic biology and RNA therapeutics. Recent AI advances leverage tertiary structure to interpret function and guide sequence generation, replacing traditional trial-and-error workflows. Experimental methods assisted by AI models continuously expand the structural data foundation and ultimately enable scalable and programmable RNA design.",
+      "summaryZh": "功能性 RNA 设计是合成生物学和 RNA 疗法的核心。最近的人工智能进步利用三级结构来解释功能并指导序列生成，取代了传统的试错工作流程。 AI模型辅助的实验方法不断扩展结构数据基础，最终实现可扩展和可编程的RNA设计。",
+      "translationSource": "dc9940120f4931a6"
+    },
+    {
+      "pmid": "42879277",
+      "title": "TM6SF2 acts at ER membrane contact sites to enable RAB7-dependent endolysosomal VLDL secretion and maintain Golgi structure.",
+      "titleZh": "TM6SF2 作用于 ER 膜接触位点，使 RAB7 依赖性溶酶体 VLDL 分泌并维持高尔基体结构。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.celrep.2026.118116",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118116",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42879277/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal, endosome。",
+      "abstractEn": "Although a loss-of-function variant of TM6SF2 is a highly penetrant risk factor for steatotic liver disease, including progression to cirrhosis and cancer, its normal function is largely unknown. Here we show that endoplasmic reticulum (ER)-localized TM6SF2 forms membrane contact sites (MCSs) with late endosomes/lysosomes, where it activates the small GTPase RAB7 to enable an endolysosomal route for selective secretion of lipid-rich very low-density lipoprotein (VLDL) particles. In accord, TM6SF2 and RAB7 deficiency similarly cause endolysosomal VLDL retention and accumulation of enlarged late endosomes/lysosomes. TM6SF2 further binds to VAMP-associated protein (VAP) ER-anchor proteins to maintain MCSs between the ER, endosomes, and the trans-Golgi network, with TM6SF2 deficiency causing Golgi fragmentation and disruption of cGAS-STING signaling known to prevent cirrhosis and cancer by clearing senescent hepatocytes. Our findings establish TM6SF2 as an ER-MCS component that enables endolysosomal VLDL secretion and maintains Golgi structure, which suggests that TM6SF2 loss of function causes liver disease through steatosis-dependent and independent mechanisms.",
+      "summaryZh": "尽管 TM6SF2 的功能丧失变体是脂肪变性肝病（包括进展为肝硬化和癌症）的高度渗透性危险因素，但其正常功能很大程度上未知。在这里，我们发现内质网（ER）定位的TM6SF2与晚期内体/溶酶体形成膜接触位点（MCS），在那里它激活小GTP酶RAB7，以实现选择性分泌富含脂质的极低密度脂蛋白（VLDL）颗粒的内溶酶体途径。因此，TM6SF2 和 RAB7 缺陷同样会导致内溶酶体 VLDL 滞留和扩大的晚期内体/溶酶体的积累。 TM6SF2 进一步与 VAMP 相关蛋白 (VAP) ER 锚定蛋白结合，以维持 ER、内涵体和反式高尔基体网络之间的 MCS，TM6SF2 缺陷会导致高尔基体断裂和 cGAS-STING 信号破坏，已知该信号可通过清除衰老的肝细胞来预防肝硬化和癌症。我们的研究结果表明，TM6SF2 是一种 ER-MCS 成分，能够实现内溶酶体 VLDL 分泌并维持高尔基体结构，这表明 TM6SF2 功能丧失会通过脂肪变性依赖性和独立机制导致肝脏疾病。",
+      "translationSource": "cbeae8e73927e135"
+    },
+    {
+      "pmid": "42880255",
+      "title": "Akkermansia muciniphila protects against endometritis through a tyrosol-mediated gut-uterus axis.",
+      "titleZh": "Akkermansia muciniphila 通过酪醇介导的肠-子宫轴预防子宫内膜炎。",
+      "journal": "Cell Host & Microbe",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.chom.2026.09.012",
+      "doiUrl": "https://doi.org/10.1016/j.chom.2026.09.012",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880255/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Endometritis is a common reproductive disorder in humans and domestic animals that causes infertility and livestock losses. However, few specific bacteria and related metabolites involved in its pathogenesis have been identified. Here, we find that endometritis cows (EC) exhibit gut dysbiosis, with depletion of Akkermansia muciniphila (AKK). Gut microbiota transplantation from EC (E-GMT) induces endometritis in mice, whereas gut microbiota transplantation from healthy cows (H-GMT) does not. Supplementation with live AKK or its culture supernatant, but not heat-inactivated AKK, alleviates Escherichia coli-induced endometritis and protects E-GMT mice. Metabolomic profiling shows that live AKK increases tyrosol levels. Genomic and functional analyses support a role for AKK-derived alcohol dehydrogenase (ADH)1/ADH2 in tyrosol production. Engineered bacteria overexpressing this enzyme reproduce the anti-endometritis effects, whereas enzyme inhibition abolishes AKK-mediated protection. Mechanistically, tyrosol exerts protective effects by activating the phosphatidylinositol 3-kinase (PI3K)/AKT signaling pathway via upregulation of SIRT1 expression, highlighting the gut-uterine axis as a target for endometritis and uterine diseases.",
+      "summaryZh": "子宫内膜炎是人类和家畜的常见生殖疾病，导致不孕和牲畜损失。然而，目前尚未发现参与其发病机制的特定细菌和相关代谢物。在这里，我们发现患有子宫内膜炎的奶牛 (EC) 表现出肠道菌群失调，并伴有阿克曼氏菌 (AKK) 的消耗。 EC 肠道微生物群移植 (E-GMT) 会诱发小鼠子宫内膜炎，而健康奶牛肠道微生物群移植 (H-GMT) 则不会。补充活 AKK 或其培养上清液（而非热灭活的 AKK）可减轻大肠杆菌诱导的子宫内膜炎并保护 E-GMT 小鼠。代谢组学分析表明，活 AKK 会增加酪醇水平。基因组和功能分析支持 AKK 衍生的乙醇脱氢酶 (ADH)1/ADH2 在酪醇生产中的作用。过度表达这种酶的工程细菌可重现抗子宫内膜炎作用，而酶抑制则消除了 AKK 介导的保护作用。从机制上讲，酪醇通过上调 SIRT1 表达激活磷脂酰肌醇 3 激酶 (PI3K)/AKT 信号通路来发挥保护作用，凸显肠-子宫轴作为子宫内膜炎和子宫疾病的靶点。",
+      "translationSource": "77b88fa79d3824c7"
+    },
+    {
+      "pmid": "42880225",
+      "title": "Location, location, deUFMylation: Coordinating ribosome quality control at the ER.",
+      "titleZh": "位置、位置、去UFMylation：协调急诊室的核糖体质量控制。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.chembiol.2026.08.015",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880225/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Endoplasmic-reticulum-associated ribosome quality control (ER-RQC) requires ubiquitin-fold modifier 1 (UFM1) for UFMylation of the ribosomal protein RPL26. In the August 6 issue of Molecular Cell, Mao et al. 1 identify an ER-associated complex (UFSP2/ODR4) as critical for deUFMylation of RPL26 and uncover a critical physiologic role for UFSP2 in neuronal proteostasis.",
+      "summaryZh": "内质网相关核糖体质量控制 (ER-RQC) 需要泛素折叠修饰符 1 (UFM1) 来对核糖体蛋白 RPL26 进行 UFMy 化。在 8 月 6 日出版的《分子细胞》杂志上，Mao 等人。图 1 确定了 ER 相关复合物 (UFSP2/ODR4) 对于 RPL26 去UFMylation 至关重要，并揭示了 UFSP2 在神经元蛋白质稳态中的关键生理作用。",
+      "translationSource": "4cb99fe7eca0b79d"
+    },
+    {
+      "pmid": "42442365",
+      "title": "Understanding protein ISGylation, a multifaceted posttranslational modification.",
+      "titleZh": "了解蛋白质 ISGylation，一种多方面的翻译后修饰。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.chembiol.2026.06.006",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.06.006",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42442365/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "ISG15 represents a key ubiquitin-like modifier induced primarily by interferon signaling. ISG15 is synthesized as a precursor, processed to a mature form, and covalently conjugated to substrates through a dedicated E1-E2-E3 enzymatic cascade involving UBE1L, UBE2L6, and E3 ligases such as HERC5, TRIM25, and ARIH1. This modification is reversed by deISGylases, particularly the highly specific protease USP18, which also negatively regulates interferon signaling. ISGylation impacts diverse molecular and cellular processes, including protein stability and function, protein-protein interaction, autophagy, transcription/translation, DNA damage response, and innate immunity. Advances in chemical biology and mass spectrometry-based proteomics have enabled the characterization of enzymes involved in (de)ISGylation and mapping of ISGylated proteins and sites. Dysregulated ISGylation is implicated in cancer, infection, neurodegenerative disorders, and inflammatory diseases, underscoring its broad pathophysiological relevance. Published by Elsevier Ltd.",
+      "summaryZh": "ISG15 代表主要由干扰素信号传导诱导的关键泛素样修饰剂。 ISG15 作为前体合成，加工成成熟形式，并通过涉及 UBE1L、UBE2L6 和 E3 连接酶（例如 HERC5、TRIM25 和 ARIH1）的专用 E1-E2-E3 酶级联与底物共价缀合。这种修饰可以被去ISG化酶逆转，尤其是高度特异性的蛋白酶USP18，它也会负向调节干扰素信号传导。 ISGylation 影响多种分子和细胞过程，包括蛋白质稳定性和功能、蛋白质-蛋白质相互作用、自噬、转录/翻译、DNA 损伤反应和先天免疫。化学生物学和基于质谱的蛋白质组学的进步使得能够对参与（去）ISGylation 的酶进行表征，并绘制 ISGylated 蛋白质和位点的图谱。 ISGylation 失调与癌症、感染、神经退行性疾病和炎症性疾病有关，强调了其广泛的病理生理学相关性。由爱思唯尔有限公司出版",
+      "translationSource": "920843c9e88be502"
+    },
+    {
+      "pmid": "42341763",
+      "title": "Lysine methylation as a bidirectional switch.",
+      "titleZh": "赖氨酸甲基化作为双向开关。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.chembiol.2026.05.013",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.05.013",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42341763/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "degron",
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron, proteasome。",
+      "abstractEn": "Lysine methylation is classically linked to chromatin, yet an expanding literature shows that methylation on non-histone proteins can directly program protein lifetime through the Ub-proteasome system (UPS). We define a lysine methylation bidirectional switch in which methyl marks can be wired to opposite outcomes, degradation (methyl-degrons) or stabilization (methyl-stabilizers) depending on interpreter availability, competitive occupancy, and post-translational modification (PTM) neighborhood context. We organize the field into two symmetric frameworks and, within each, distinguish direct mechanisms from reader-mediated mechanisms. Across curated examples, both Kme1 and Kme2 are bidirectional, enabling either fate depending on the wiring. However, Kme1 dominates the degron pathways, while Kme3 only supports stabilization. We highlight recurring modular architectures and extract hypothesis-generating features that bias methyl sites toward degron versus stabilizer functions. Finally, we outline chemical biology opportunities to read and program this bidirectional switch, including antibody-independent chemoproteomics, proximity approaches for targeted methyl-editing for degradation and/or stabilization.",
+      "summaryZh": "赖氨酸甲基化通常与染色质相关，但越来越多的文献表明，非组蛋白上的甲基化可以通过 Ub 蛋白酶体系统 (UPS) 直接编程蛋白质寿命。我们定义了赖氨酸甲基化双向开关，其中甲基标记可以连接到相反的结果、降解（甲基降解决定子）或稳定化（甲基稳定剂），具体取决于解释器的可用性、竞争性占用和翻译后修饰（PTM）邻域环境。我们将该领域组织成两个对称框架，并在每个框架内区分直接机制和读者介导的机制。在精选的示例中，Kme1 和 Kme2 都是双向的，可以根据接线实现任一命运。然而，Kme1 主导降解决定子途径，而 Kme3 仅支持稳定性。我们强调重复出现的模块化架构，并提取假设生成特征，这些特征使甲基位点偏向降解决定子而不是稳定剂功能。最后，我们概述了读取和编程这种双向开关的化学生物学机会，包括独立于抗体的化学蛋白质组学、用于降解和/或稳定的靶向甲基编辑的邻近方法。",
+      "translationSource": "94b710924b57ed6c"
+    },
+    {
+      "pmid": "42679820",
+      "title": "Ratiometric transcriptional activation by protein degradation.",
+      "titleZh": "通过蛋白质降解进行比例转录激活。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-10-15",
+      "doi": "10.1016/j.cell.2026.08.009",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.009",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679820/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "Cells can respond to alterations in the abundances of specific proteins through transcriptional outputs. Synthetic approaches inspired by native post-transcriptional circuits that convert protein abundance changes into programmable gene expression would be transformative. Here, we discover and describe design principles that effectively convert protein degradation into transcriptional outputs in live cells. We define ratiometric transcriptional activation, where control over the ratio between a transcription factor and a protein of interest fused to its inhibitor enables detection of abundance changes with high sensitivity at scale. We show that ratiometric transcriptional activation can be implemented in single cells using triply orthogonal circuits or in multicellular pools, operating independently of the mechanism of protein downregulation and enabling simultaneous detection of multiple protein downregulation events through outputs such as cell survival, fluorescent protein expression, or barcode sequencing. These circuits can be applied to oncogenic targets and enable discovery of new molecular glue degraders.",
+      "summaryZh": "细胞可以通过转录输出对特定蛋白质丰度的变化做出反应。受天然转录后电路启发的合成方法将蛋白质丰度变化转化为可编程基因表达，这将是变革性的。在这里，我们发现并描述了有效地将蛋白质降解转化为活细胞转录输出的设计原理。我们定义了比率转录激活，其中控制转录因子和与其抑制剂融合的感兴趣蛋白质之间的比率能够以高灵敏度大规模检测丰度变化。我们表明，比率转录激活可以使用三重正交电路或多细胞池在单细胞中实现，独立于蛋白质下调机制运行，并能够通过细胞存活、荧光蛋白表达或条形码测序等输出同时检测多个蛋白质下调事件。这些电路可应用于致癌靶标，并能够发现新的分子胶降解剂。",
+      "translationSource": "eb2f23a905cb61aa"
     },
     {
       "pmid": "42873895",
@@ -46,6 +262,90 @@
       "translationSource": "7e31290a4566c402"
     },
     {
+      "pmid": "42875493",
+      "title": "Modelling mouse embryogenesis from chemically induced totipotent stem cells.",
+      "titleZh": "化学诱导全能干细胞模拟小鼠胚胎发生。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1038/s41586-026-11164-5",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11164-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42875493/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The ability to faithfully initiate embryogenesis from a single, induced non-germline cell type, akin to the totipotent blastomeres, remains a considerable challenge in developmental and synthetic biology 1-14 . Here we established conditions that enable the continuous ex utero development of mouse embryo models (EMs), starting solely from the chemically induced totipotent-like stem cells (ciTotiSCs) 15 and spanning the pre-implantation morula, blastocysts and post-gastrulation stages with both embryonic and extraembryonic compartments. These ciTotiSCs self-organized into blastocyst-like structures that closely resembled natural blastocysts in both morphology and lineage segregation. The resulting ciTotiSC-derived EMs (ciToti-EMs) successfully progressed through key developmental milestones, including gastrulation, embryonic axis formation, haematopoiesis and early organogenesis, closely resembling embryonic day 8.5 (E8.5) natural embryos (NEs). Furthermore, extended culture led to the development of functional cardiac tissues in ciToti-EMs, highly comparable to those of E10.5 NEs. These findings demonstrate an extraordinary ability of a single induced cell type, ciTotiSCs, to autonomously recapitulate the complete spectrum of early mouse embryogenesis. Our ciToti-EM system provides a powerful model for investigating mammalian embryonic development and opens new avenues for creating multicellular organisms from non-germline cells.",
+      "summaryZh": "从单一的诱导非种系细胞类型（类似于全能卵裂球）忠实地启动胚胎发生的能力，仍然是发育和合成生物学中的一个相当大的挑战 1-14 。在这里，我们建立了小鼠胚胎模型 (EM) 持续体外发育的条件，仅从化学诱导的全能样干细胞 (ciTotiSC) 15 开始，跨越胚胎和胚胎外区室的植入前桑葚胚、囊胚和原肠胚形成后阶段。这些细胞自组织成囊胚样结构，在形态和谱系分离方面与天然囊胚非常相似。由此产生的 ciTotiSC 衍生的 EM (ciToti-EM) 成功地完成了关键的发育里程碑，包括原肠胚形成、胚胎轴形成、造血和早期器官发生，与胚胎 8.5 天 (E8.5) 自然胚胎 (NE) 非常相似。此外，扩展培养导致 ciToti-EM 中功能性心脏组织的发育，与 E10.5 NE 的功能性心脏组织高度相似。这些发现证明了单一诱导细胞类型 ciTotiSCs 具有自主重现早期小鼠胚胎发生的完整谱系的非凡能力。我们的 ciToti-EM 系统为研究哺乳动物胚胎发育提供了强大的模型，并为从非种系细胞创建多细胞生物体开辟了新途径。",
+      "translationSource": "b6f3b59a497e923a"
+    },
+    {
+      "pmid": "42875488",
+      "title": "De novo design of cysteine proteases.",
+      "titleZh": "半胱氨酸蛋白酶的从头设计。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1038/s41586-026-11143-w",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11143-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42875488/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Despite advances in de novo enzyme design, success has been largely limited to low-energy-barrier model reactions. Amide bonds such as those linking amino acids along the peptide backbone are stable for hundreds of years in neutral aqueous solution because of the high energy barrier to hydrolysis 1 . Here we describe the de novo design of enzymes that use an activated cysteine nucleophile to hydrolyse the polypeptide backbone in a sequence-dependent manner, with a success rate of 13/69 = 19% and rate enhancements over the background reaction (k cat /k uncat ) of up to 3 × 10 7 . The designed proteases have folds that are very different from proteases in nature (TM score < 0.50), and six crystal structures are very close to the design models (Cα root mean squared deviation of <1.2 Å), highlighting the capacity for generalization and the accuracy of the design methodology. Experimental and computational analyses suggest that the remaining gap in activity to the most active native cysteine proteases arises from imperfections in active-site preorganization and substrate positioning. The designed proteases efficiently cleave their targets in mammalian cells, opening the door to a wide range of synthetic biology applications.",
+      "summaryZh": "尽管从头酶设计取得了进展，但成功很大程度上仅限于低能垒模型反应。由于水解能垒较高，酰胺键（例如沿肽主链连接氨基酸的酰胺键）在中性水溶液中可稳定数百年 1 。在这里，我们描述了酶的从头设计，该酶使用活化的半胱氨酸亲核试剂以序列依赖性方式水解多肽主链，成功率为 13/69 = 19%，并且比背景反应 (k cat /k uncat ) 的速率增强高达 3 × 10 7 。设计的蛋白酶具有与自然界蛋白酶非常不同的折叠（TM分数<0.50），六种晶体结构与设计模型非常接近（Cα均方根偏差<1.2 Å），凸显了设计方法的泛化能力和准确性。实验和计算分析表明，与最活跃的天然半胱氨酸蛋白酶的活性剩余差距源于活性位点预组织和底物定位的缺陷。设计的蛋白酶可有效切割哺乳动物细胞中的靶标，为广泛的合成生物学应用打开了大门。",
+      "translationSource": "1bf306977a40e663"
+    },
+    {
+      "pmid": "42874584",
+      "title": "STING engages PKR to drive lysosomal cell death in lung ischemia-reperfusion injury.",
+      "titleZh": "STING 参与 PKR 驱动肺缺血再灌注损伤中的溶酶体细胞死亡。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1016/j.molcel.2026.09.024",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.024",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42874584/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Stimulator of interferon genes (STING) has been implicated in multiple forms of cell death. However, the effector kinases that couple STING to these death programs remain poorly defined. Here, we show that during lung ischemia-reperfusion injury, mitochondrial DNA release engages the cyclic GMP-AMP synthase (cGAS)-STING pathway to trigger lysosomal cell death (LCD) in mouse and rat models. In human lung epithelial cells, STING oligomerization at the endoplasmic reticulum drives autophosphorylation of double-stranded RNA-dependent protein kinase (PKR) at serine 33. This phosphorylation of PKR activates IκB kinase-NF-κB signaling independently of the canonical STING-TBK1 and PKR-eIF2α pathways. In turn, NF-κB induces LAMP3 transcription, promoting lysosomal membrane permeabilization and LCD. STING-PKR signaling is also observed in patient-derived lung epithelial cells and alveolar organoids. These findings identify PKR as a non-canonical STING effector and show that blockade of STING-PKR signaling attenuates epithelial LCD and lung injury.",
+      "summaryZh": "干扰素基因刺激物 (STING) 与多种形式的细胞死亡有关。然而，将 STING 与这些死亡程序结合的效应激酶仍不清楚。在这里，我们发现，在小鼠和大鼠模型中，在肺缺血再灌注损伤期间，线粒体 DNA 释放参与环 GMP-AMP 合酶 (cGAS)-STING 途径，触发溶酶体细胞死亡 (LCD)。在人肺上皮细胞中，内质网的 STING 寡聚化驱动丝氨酸 33 处双链 RNA 依赖性蛋白激酶 (PKR) 的自磷酸化。 PKR 的这种磷酸化独立于经典的 STING-TBK1 和 PKR-eIF2α 途径激活 IκB 激酶-NF-κB 信号传导。反过来，NF-κB 诱导 LAMP3 转录，促进溶酶体膜透化和 LCD。在患者来源的肺上皮细胞和肺泡类器官中也观察到 STING-PKR 信号传导。这些发现将 PKR 确定为一种非典型的 STING 效应子，并表明阻断 STING-PKR 信号可减轻上皮 LCD 和肺损伤。",
+      "translationSource": "0cc57f5c947a9710"
+    },
+    {
+      "pmid": "42826720",
+      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
+      "titleZh": "硝酸盐反应性Sialin2 结合应激颗粒组装和清除以维持神经元稳态。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-10-14",
+      "doi": "10.1016/j.devcel.2026.09.001",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.09.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826720/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
+      "summaryZh": "应激颗粒（SG）是相分离的核糖核蛋白凝聚物，支持细胞对急性应激的适应，但细胞外信号如何协调其组装和恢复期清除仍不清楚。在这里，我们展示了硝酸盐响应性 Sialin2 在整个应激周期中协调 SG 稳态。在急性应激期间，Sialin2 经历液-液相分离，并与 Ras GTP 酶激活蛋白 SH3 结构域结合蛋白 (G3BP) 中心的支架共组装，以促进 SG 形成。在恢复过程中，Sialin2 保留液体样 SG 动力学并促进自噬相关的清除。 Sialin2 缺失会延迟 SG 分辨率，促进肉瘤 (FUS) 和 TAR DNA 结合蛋白 43 (TDP-43) 变异体中肌萎缩侧索硬化症 (ALS) 相关融合的保留，并增强淀粉样前体蛋白 (APP) 相关的淀粉样蛋白生成输出。在 ALS 小鼠模型中，硝酸盐治疗可减少 SG 样病理和神经炎症，保留神经元完整性，并延缓功能衰退。总之，这些发现定义了硝酸盐-Sialin2 信号传导模块，该模块将 SG 组装与恢复期清除结合起来，并将无机阴离子传感与防止神经变性联系起来。",
+      "translationSource": "0f2ac3a049d47a65"
+    },
+    {
       "pmid": "42873639",
       "title": "Mitochondrial stress induces transcription of cytosolic and mitochondrial protein synthesis components via NHR-180.",
       "titleZh": "线粒体应激通过 NHR-180 诱导细胞质和线粒体蛋白质合成成分的转录。",
@@ -65,27 +365,6 @@
       "abstractEn": "The mitochondrial unfolded protein response (UPR mt ), which promotes mitochondrial biogenesis and proteostasis, is regulated by the transcription factor ATFS-1. In C. elegans, impaired atfs-1 expression perturbs mitochondrial function and slows development. Here, using an RNAi suppressor screen, we find that inhibition of the nuclear hormone receptor NHR-180 increases mitochondrial function and developmental rate in atfs-1(null) worms. NHR-180 levels increase and become more nuclear-localized during mitochondrial dysfunction, inducing transcription of genes required for protein synthesis on cytosolic and mitochondrial ribosomes. The NHR-180 ligand-binding domain interacts with AMP, suggesting that NHR-180 may link cellular energy status to protein synthesis during mitochondrial stress. However, NHR-180-dependent activity is associated with exacerbated mitochondrial dysfunction. Consistent with these findings, inhibition of the S6 kinase homolog RSKS-1 increases mitochondrial function in atfs-1(null) worms. S6 kinase inhibition also increases respiration and mitochondrial DNA (mtDNA) content in mammalian ATF5-knockout cells and oxidative phosphorylation (OXPHOS)-deficient models.",
       "summaryZh": "线粒体未折叠蛋白反应 (UPR mt ) 可促进线粒体生物发生和蛋白质稳态，受转录因子 ATFS-1 调节。在秀丽隐杆线虫中，atfs-1 表达受损会扰乱线粒体功能并减缓发育。在这里，使用 RNAi 抑制子筛选，我们发现核激素受体 NHR-180 的抑制会增加 atfs-1(null) 线虫的线粒体功能和发育速度。在线粒体功能障碍期间，NHR-180 水平增加并更加集中于核，诱导细胞质和线粒体核糖体上蛋白质合成所需的基因转录。 NHR-180 配体结合结构域与 AMP 相互作用，表明 NHR-180 可能将线粒体应激期间的细胞能量状态与蛋白质合成联系起来。然而，NHR-180 依赖性活性与线粒体功能障碍加剧有关。与这些发现一致，抑制 S6 激酶同源物 RSKS-1 会增加 atfs-1(null) 线虫的线粒体功能。 S6 激酶抑制还会增加哺乳动物 ATF5 敲除细胞和氧化磷酸化 (OXPHOS) 缺陷模型中的呼吸和线粒体 DNA (mtDNA) 含量。",
       "translationSource": "1400d15c2a170b8b"
-    },
-    {
-      "pmid": "42870022",
-      "title": "Structural basis of an endoplasmic reticulum EMC:Spf1 insertase-dislocase complex.",
-      "titleZh": "内质网 EMC:Spf1 插入酶-脱位酶复合物的结构基础。",
-      "journal": "Nature Structural & Molecular Biology",
-      "year": 2026,
-      "published": "2026-10-13",
-      "doi": "10.1038/s41594-026-01883-8",
-      "doiUrl": "https://doi.org/10.1038/s41594-026-01883-8",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42870022/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Most eukaryotic membrane proteins are inserted into the membrane at the endoplasmic reticulum (ER). This essential process relies on molecular quality control machineries to prevent mistargeting and incorrect structure formation. Here, we show that the ER membrane protein complex (EMC) forms an evolutionarily conserved supercomplex with the P5A-ATPase Spf1/ATP13A1. Biochemical, structural and cellular analyses demonstrate that the EMC and Spf1 associate in a stoichiometric manner and retain their individual catalytic activities, the transmembrane domain (TMD) insertase function of the EMC and the TMD dislocase activity of Spf1. Our cryo-electron microscopy structures show that the EMC insertase cavity and the Spf1 dislocase cleft are positioned in close proximity within the membrane and reveal that the ATPase cycle of Spf1 remodels the interface between the two machineries and alters cytoplasmic accessibility of both substrate-binding cavities. Together, our study provides structural insights into how membrane protein insertion and extraction machineries can be spatially coordinated at the ER membrane, suggesting that functionally distinct proteostasis factors can assemble into hubs to support membrane protein biogenesis and quality control.",
-      "summaryZh": "大多数真核细胞膜蛋白在内质网 (ER) 处插入膜中。这一重要过程依赖于分子质量控制机制来防止误定位和不正确的结构形成。在这里，我们证明 ER 膜蛋白复合物 (EMC) 与 P5A-ATPase Spf1/ATP13A1 形成进化上保守的超级复合物。生化、结构和细胞分析表明，EMC 和 Spf1 以化学计量方式结合，并保留各自的催化活性、EMC 的跨膜结构域 (TMD) 插入酶功能和 Spf1 的 TMD 脱位酶活性。我们的冷冻电子显微镜结构显示，EMC 插入酶腔和 Spf1 脱位酶裂口位于膜内非常接近，并揭示 Spf1 的 ATP 酶循环重塑了两种机器之间的界面，并改变了两个底物结合腔的细胞质可及性。总之，我们的研究提供了关于膜蛋白插入和提取机器如何在 ER 膜上进行空间协调的结构见解，表明功能不同的蛋白质稳态因子可以组装成中枢以支持膜蛋白生物发生和质量控制。",
-      "translationSource": "bf2da9e44d4c0ee5"
     },
     {
       "pmid": "42867988",
@@ -325,25 +604,46 @@
       "translationSource": "0b83bae87dd9a37c"
     },
     {
-      "pmid": "42826720",
-      "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
-      "titleZh": "硝酸盐反应性Sialin2 结合应激颗粒组装和清除以维持神经元稳态。",
-      "journal": "Developmental Cell",
+      "pmid": "42870022",
+      "title": "Structural basis of an endoplasmic reticulum EMC:Spf1 insertase-dislocase complex.",
+      "titleZh": "内质网 EMC:Spf1 插入酶-脱位酶复合物的结构基础。",
+      "journal": "Nature Structural & Molecular Biology",
       "year": 2026,
-      "published": "2026-10-02",
-      "doi": "10.1016/j.devcel.2026.09.001",
-      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.09.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826720/",
+      "published": "2026-10-01",
+      "doi": "10.1038/s41594-026-01883-8",
+      "doiUrl": "https://doi.org/10.1038/s41594-026-01883-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42870022/",
       "categories": [
         "溶酶体/蛋白酶体"
       ],
       "matchedTerms": [
-        "autophagy"
+        "proteostasis"
       ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
-      "summaryZh": "应激颗粒（SG）是相分离的核糖核蛋白凝聚物，支持细胞对急性应激的适应，但细胞外信号如何协调其组装和恢复期清除仍不清楚。在这里，我们展示了硝酸盐响应性 Sialin2 在整个应激周期中协调 SG 稳态。在急性应激期间，Sialin2 经历液-液相分离，并与 Ras GTP 酶激活蛋白 SH3 结构域结合蛋白 (G3BP) 中心的支架共组装，以促进 SG 形成。在恢复过程中，Sialin2 保留液体样 SG 动力学并促进自噬相关的清除。 Sialin2 缺失会延迟 SG 分辨率，促进肉瘤 (FUS) 和 TAR DNA 结合蛋白 43 (TDP-43) 变异体中肌萎缩侧索硬化症 (ALS) 相关融合的保留，并增强淀粉样前体蛋白 (APP) 相关的淀粉样蛋白生成输出。在 ALS 小鼠模型中，硝酸盐治疗可减少 SG 样病理和神经炎症，保留神经元完整性，并延缓功能衰退。总之，这些发现定义了硝酸盐-Sialin2 信号传导模块，该模块将 SG 组装与恢复期清除结合起来，并将无机阴离子传感与防止神经变性联系起来。",
-      "translationSource": "0f2ac3a049d47a65"
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Most eukaryotic membrane proteins are inserted into the membrane at the endoplasmic reticulum (ER). This essential process relies on molecular quality control machineries to prevent mistargeting and incorrect structure formation. Here, we show that the ER membrane protein complex (EMC) forms an evolutionarily conserved supercomplex with the P5A-ATPase Spf1/ATP13A1. Biochemical, structural and cellular analyses demonstrate that the EMC and Spf1 associate in a stoichiometric manner and retain their individual catalytic activities, the transmembrane domain (TMD) insertase function of the EMC and the TMD dislocase activity of Spf1. Our cryo-electron microscopy structures show that the EMC insertase cavity and the Spf1 dislocase cleft are positioned in close proximity within the membrane and reveal that the ATPase cycle of Spf1 remodels the interface between the two machineries and alters cytoplasmic accessibility of both substrate-binding cavities. Together, our study provides structural insights into how membrane protein insertion and extraction machineries can be spatially coordinated at the ER membrane, suggesting that functionally distinct proteostasis factors can assemble into hubs to support membrane protein biogenesis and quality control.",
+      "summaryZh": "大多数真核细胞膜蛋白在内质网 (ER) 处插入膜中。这一重要过程依赖于分子质量控制机制来防止误定位和不正确的结构形成。在这里，我们证明 ER 膜蛋白复合物 (EMC) 与 P5A-ATPase Spf1/ATP13A1 形成进化上保守的超级复合物。生化、结构和细胞分析表明，EMC 和 Spf1 以化学计量方式结合，并保留各自的催化活性、EMC 的跨膜结构域 (TMD) 插入酶功能和 Spf1 的 TMD 脱位酶活性。我们的冷冻电子显微镜结构显示，EMC 插入酶腔和 Spf1 脱位酶裂口位于膜内非常接近，并揭示 Spf1 的 ATP 酶循环重塑了两种机器之间的界面，并改变了两个底物结合腔的细胞质可及性。总之，我们的研究提供了关于膜蛋白插入和提取机器如何在 ER 膜上进行空间协调的结构见解，表明功能不同的蛋白质稳态因子可以组装成中枢以支持膜蛋白生物发生和质量控制。",
+      "translationSource": "bf2da9e44d4c0ee5"
+    },
+    {
+      "pmid": "42675210",
+      "title": "A single-amino-acid cleavage controls global mitochondrial complex integrity.",
+      "titleZh": "单个氨基酸的裂解控制着线粒体复合物的完整性。",
+      "journal": "Nature Structural & Molecular Biology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41594-026-01876-7",
+      "doiUrl": "https://doi.org/10.1038/s41594-026-01876-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42675210/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Mitochondrial proteostasis depends on precise N-terminal processing of imported precursor proteins. Defects in this maturation step are implicated in disease, yet the functional impact in humans remains unclear. Here we show that the intermediate cleaving peptidase ICP55, which removes a single amino acid, acts as a key stabilizer of multimeric mitochondrial protein complexes. Using proteomics and complexome profiling, we identify over 100 human ICP55 substrates and demonstrate that loss of ICP55 triggers widespread destabilization of protein assemblies, with a global shift toward smaller subcomplexes. Thus, we uncover a conserved, post-translational mechanism that safeguards mitochondrial proteostasis by regulating complex integrity through a single amino-acid cleavage, and we reveal N-terminal proteoform control as an unexpected layer of organellar homeostasis.",
+      "summaryZh": "线粒体蛋白质稳态依赖于输入前体蛋白的精确 N 末端加工。这一成熟步骤的缺陷与疾病有关，但对人类功能的影响仍不清楚。在这里，我们证明中间裂解肽酶 ICP55 可去除单个氨基酸，充当多聚体线粒体蛋白复合物的关键稳定剂。利用蛋白质组学和复合体分析，我们鉴定了 100 多种人类 ICP55 底物，并证明 ICP55 的缺失会引发蛋白质组装体的广泛不稳定，并导致全球向更小的子复合物转变。因此，我们发现了一种保守的翻译后机制，通过单个氨基酸裂解调节复杂的完整性来保护线粒体蛋白质稳态，并且我们揭示了 N 末端蛋白质形式控制作为细胞器稳态的一个意想不到的层。",
+      "translationSource": "3c795da4c2a08918"
     },
     {
       "pmid": "42469449",
@@ -1132,6 +1432,27 @@
       "translationSource": "896defdcac2589cd"
     },
     {
+      "pmid": "42881157",
+      "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in Arabidopsis thaliana.",
+      "titleZh": "通过拟南芥耦合传感器对氧感应的分层调节。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-16",
+      "doi": "10.1038/s41467-026-77710-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77710-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42881157/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
+      "summaryZh": "分子氧的传感是动物和植物发育和环境响应的重要组成部分。植物氧感应植物半胱氨酸氧化酶 (PCO) N-降解决定子途径的底物很少已被识别。在这里，我们展示了缺氧传感器1（HYT1，以前称为缺氧响应未知蛋白，HUP40），一种被子植物特异性尾部锚定结构域蛋白，是通过Cys-2依赖性N-降解决定子的该途径的底物。 HYT1 在根组织急性缺氧时保持稳定，并与内质网和细胞核相关。遗传证据表明，HYT1 是氧感应转导的重要组成部分，是耐受急性缺氧和其他应激反应所必需的。 HYT1 的表达由第 VII 组乙烯反应因子转录因子 (ERFVII) 直接激活，这些转录因子也是途径底物。 ERFVII 和 HYT1 之间的关系具有由缺氧启动和维持的连贯前馈回路的特性，提供了一种机制来确保对减少的氧气的稳健响应。",
+      "translationSource": "70447d9a1ea611ed"
+    },
+    {
       "pmid": "42749740",
       "title": "Cholesterol maintains the degradative capacity of lysosomes during clearance and recycling of dysfunctional mitochondria.",
       "titleZh": "胆固醇在功能失调的线粒体的清除和再循环过程中维持溶酶体的降解能力。",
@@ -1256,9 +1577,9 @@
         "autophagy"
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Quality control of biomolecules is vital for organismal health. While DNA repair and protein quality control are well understood, how cells monitor other important biomolecules such as glycogen remains ill-defined. The accumulation of aberrant, poorly branched glycogen into insoluble polyglucosan bodies causes severe disease 1,2 . Here, we discover autophagy of ubiquitylated aberrant glycogen as a previously unrecognized quality control mechanism safeguarding the brain from polyglucosan buildup. This mechanism depends on the E3 ubiquitin ligase RNF213. Mice lacking ligase activity in RNF213 accumulate polyglucosan in cerebellum, pons, and hippocampus. Using cells engineered to produce polyglucosan, we show that RNF213 selectively ubiquitylates abnormal glycogen. Cryo-EM analysis of RNF213 bound to glycogen-derived maltoheptaose revealed its CBM20 domain binds linear oligosaccharides. Disrupting carbohydrate binding results in gain of E3 ligase activity towards physiological glycogen, indicating the CBM20 domain limits RNF213 activity towards physiological glycogen. Epistasis analysis places RNF213 upstream of LUBAC, suggesting a hierarchical network of multiple E3 ligases surveying glycogen quality. Ubiquitylated polyglucosan recruits the autophagy receptors SQSTM1, TAX1BP1, and optineurin, thereby triggering uptake into autophagosomes. These findings identify RNF213 as a quality control factor preventing polyglucosan accumulation in astrocytes through direct ubiquitylation of polyglucosan, revealing an essential role for non-protein ubiquitylation in glycogen quality control.",
-      "summaryZh": "生物分子的质量控制对于机体健康至关重要。虽然 DNA 修复和蛋白质质量控​​制已广为人知，但细胞如何监测糖原等其他重要生物分子仍然不明确。异常的、支化不良的糖原在不溶性聚葡聚糖体中积累会导致严重的疾病 1,2 。在这里，我们发现泛素化异常糖原的自噬作为一种以前未被认识的质量控制机制，可以保护大脑免受聚葡萄糖积聚的影响。该机制依赖于 E3 泛素连接酶 RNF213。 RNF213 缺乏连接酶活性的小鼠在小脑、脑桥和海马中积累聚葡聚糖。使用经过改造的细胞来生产聚葡聚糖，我们发现 RNF213 选择性地泛素化异常糖原。对 RNF213 与糖原衍生的麦芽七糖结合的冷冻电镜分析表明，其 CBM20 结构域与线性寡糖结合。破坏碳水化合物结合导致 E3 连接酶对生理糖原的活性增加，表明 CBM20 结构域限制 RNF213 对生理糖原的活性。上位性分析将 RNF213 置于 LUBAC 上游，表明多个 E3 连接酶的分层网络可测量糖原质量。泛素化聚葡聚糖招募自噬受体 SQSTM1、TAX1BP1 和 optineurin，从而触发自噬体的摄取。这些发现确定RNF213是一种质量控制因子，通过聚葡聚糖的直接泛素化来防止星形胶质细胞中聚葡聚糖的积累，揭示了非蛋白质泛素化在糖原质量控制中的重要作用。",
-      "translationSource": "102647aeb14bb133"
+      "abstractEn": "Quality control of biomolecules is vital for organismal health. Although DNA repair and protein quality control are well understood, how cells monitor other important biomolecules such as glycogen remains ill defined. Accumulation of aberrant, poorly branched glycogen into insoluble polyglucosan bodies causes severe disease 1,2 . Here we identify autophagy of ubiquitylated aberrant glycogen as a quality control mechanism safeguarding the brain from polyglucosan buildup. This mechanism depends on the E3 ubiquitin ligase RNF213. Mice lacking ligase activity in RNF213 accumulate polyglucosan in the cerebellum, pons and hippocampus. Using cells engineered to produce polyglucosan, we show that RNF213 selectively ubiquitylates abnormal glycogen. Cryo-electron microscopy analysis of RNF213 bound to glycogen-derived maltoheptaose showed that its CBM20 domain binds linear oligosaccharides. Disruption of carbohydrate binding results in gain of E3 ligase activity towards physiological glycogen, indicating that the CBM20 domain limits RNF213 activity towards physiological glycogen. Epistasis analysis places RNF213 upstream of LUBAC, suggesting a hierarchical network of multiple E3 ligases surveying glycogen quality. Ubiquitylated polyglucosan recruits autophagy receptors SQSTM1, TAX1BP1 and optineurin, thereby triggering uptake into autophagosomes. These findings identify RNF213 as a quality control factor preventing polyglucosan accumulation in astrocytes through direct ubiquitylation of polyglucosan, demonstrating an essential role for non-protein ubiquitylation in glycogen quality control.",
+      "summaryZh": "生物分子的质量控制对于机体健康至关重要。尽管 DNA 修复和蛋白质质量控​​制已广为人知，但细胞如何监测糖原等其他重要生物分子仍不清楚。异常的、支化不良的糖原在不溶性聚葡聚糖体中积累会导致严重的疾病 1,2 。在这里，我们将泛素化异常糖原的自噬确定为一种质量控制机制，可保护大脑免受聚葡萄糖积聚的影响。该机制依赖于 E3 泛素连接酶 RNF213。 RNF213 缺乏连接酶活性的小鼠在小脑、脑桥和海马中积累聚葡聚糖。使用经过改造的细胞来生产聚葡聚糖，我们发现 RNF213 选择性地泛素化异常糖原。与糖原衍生的麦芽七糖结合的 RNF213 的冷冻电子显微镜分析表明，其 CBM20 结构域与线性寡糖结合。碳水化合物结合的破坏导致 E3 连接酶对生理糖原的活性增加，表明 CBM20 结构域限制 RNF213 对生理糖原的活性。上位性分析将 RNF213 置于 LUBAC 上游，表明多个 E3 连接酶的分层网络可测量糖原质量。泛素化聚葡聚糖招募自噬受体 SQSTM1、TAX1BP1 和 optineurin，从而触发自噬体的摄取。这些发现将RNF213确定为一种质量控制因子，通过聚葡聚糖的直接泛素化来防止星形胶质细胞中聚葡聚糖的积累，证明非蛋白质泛素化在糖原质量控制中的重要作用。",
+      "translationSource": "92520a0e784cd5e8"
     },
     {
       "pmid": "42546705",
@@ -2097,49 +2418,6 @@
       "abstractEn": "Altered energy metabolism is a shared driver across cardiometabolic diseases-the leading cause of death globally 1 . Energy metabolism varies between individuals and is partly heritable 2-9 . Here, to investigate the genetic basis of energy metabolism, we perform an exome-sequencing analysis of 1,032,116 people from America, Europe and Asia, and estimate associations between rare protein-coding variants and the ratio of triglyceride to high-density-lipoprotein cholesterol (TG:HDL)-an energy-state biomarker that we associate with diverse cardiometabolic risk factors and diseases. We identify 59 independent genes (P < 1.04 × 10 -7 ) that are enriched for liver- and adipose-expressed master regulators of energy balance, storage and metabolism; 23 (39%) of these genes encode approved or clinical-stage drug targets. Ultra-rare protein-truncating variants in FNIP1 (allele frequency, 0.01%), which encodes a suppressor of energy expenditure and mitochondrial metabolism, are associated with a lower TG:HDL ratio, lower liver fat, lower glycaemia, favourable fat distribution and around 60% lower odds of cardiometabolic disease. FNIP1 knockdown in primary human hepatocytes induces lipid breakdown and lysosomal gene expression, while combined hepatic knockdown of Fnip1 with its paralogue Fnip2 or knockdown of its interactor Flcn protect against weight gain, reduce liver fat and enhance insulin sensitivity in mice fed a high-fat diet. Our study implicates the FNIP1 pathway in human energy metabolism and highlights its inhibition as a potential therapeutic strategy in cardiometabolic disease.",
       "summaryZh": "能量代谢改变是心脏代谢疾病的共同驱动因素，而心脏代谢疾病是全球死亡的主要原因 1 。能量代谢因人而异，并且部分具有遗传性 2-9 。在这里，为了研究能量代谢的遗传基础，我们对来自美洲、欧洲和亚洲的 1,032,116 人进行了外显子组测序分析，并估计了罕见蛋白质编码变异与甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率之间的关联，甘油三酯与高密度脂蛋白胆固醇 (TG:HDL) 的比率是一种与多种心脏代谢危险因素和疾病相关的能量状态生物标志物。我们确定了 59 个独立基因 (P < 1.04 × 10 -7 )，这些基因富含肝脏和脂肪表达的能量平衡、储存和代谢的主调节因子；其中 23 个（39%）基因编码已批准或临床阶段的药物靶点。 FNIP1 中的超罕见蛋白质截短变体（等位基因频率，0.01%）编码能量消耗和线粒体代谢的抑制因子，与较低的 TG:HDL 比率、较低的肝脏脂肪、较低的血糖、有利的脂肪分布以及约 60% 的心脏代谢疾病发病率降低相关。原代人肝细胞中的 FNIP1 敲除可诱导脂质分解和溶酶体基因表达，而 Fnip1 及其旁系同源物 Fnip2 的肝脏敲除或其相互作用因子 Flcn 的敲除可防止高脂饮食小鼠的体重增加、减少肝脏脂肪并增强胰岛素敏感性。我们的研究表明 FNIP1 通路与人类能量代谢有关，并强调其抑制作为心脏代谢疾病的潜在治疗策略。",
       "translationSource": "2cd03daa02b10d50"
-    },
-    {
-      "pmid": "42679820",
-      "title": "Ratiometric transcriptional activation by protein degradation.",
-      "titleZh": "通过蛋白质降解进行比例转录激活。",
-      "journal": "Cell",
-      "year": 2026,
-      "published": "2026-09-01",
-      "doi": "10.1016/j.cell.2026.08.009",
-      "doiUrl": "https://doi.org/10.1016/j.cell.2026.08.009",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679820/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "molecular glue degrader",
-        "molecular glue"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
-      "abstractEn": "Cells can respond to alterations in the abundances of specific proteins through transcriptional outputs. Synthetic approaches inspired by native post-transcriptional circuits that convert protein abundance changes into programmable gene expression would be transformative. Here, we discover and describe design principles that effectively convert protein degradation into transcriptional outputs in live cells. We define ratiometric transcriptional activation, where control over the ratio between a transcription factor and a protein of interest fused to its inhibitor enables detection of abundance changes with high sensitivity at scale. We show that ratiometric transcriptional activation can be implemented in single cells using triply orthogonal circuits or in multicellular pools, operating independently of the mechanism of protein downregulation and enabling simultaneous detection of multiple protein downregulation events through outputs such as cell survival, fluorescent protein expression, or barcode sequencing. These circuits can be applied to oncogenic targets and enable discovery of new molecular glue degraders.",
-      "summaryZh": "细胞可以通过转录输出对特定蛋白质丰度的变化做出反应。受天然转录后电路启发的合成方法将蛋白质丰度变化转化为可编程基因表达，这将是变革性的。在这里，我们发现并描述了有效地将蛋白质降解转化为活细胞转录输出的设计原理。我们定义了比率转录激活，其中控制转录因子和与其抑制剂融合的感兴趣蛋白质之间的比率能够以高灵敏度大规模检测丰度变化。我们表明，比率转录激活可以使用三重正交电路或多细胞池在单细胞中实现，独立于蛋白质下调机制运行，并能够通过细胞存活、荧光蛋白表达或条形码测序等输出同时检测多个蛋白质下调事件。这些电路可应用于致癌靶标，并能够发现新的分子胶降解剂。",
-      "translationSource": "eb2f23a905cb61aa"
-    },
-    {
-      "pmid": "42675210",
-      "title": "A single-amino-acid cleavage controls global mitochondrial complex integrity.",
-      "titleZh": "单个氨基酸的裂解控制着线粒体复合物的完整性。",
-      "journal": "Nature Structural & Molecular Biology",
-      "year": 2026,
-      "published": "2026-08-31",
-      "doi": "10.1038/s41594-026-01876-7",
-      "doiUrl": "https://doi.org/10.1038/s41594-026-01876-7",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42675210/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Mitochondrial proteostasis depends on precise N-terminal processing of imported precursor proteins. Defects in this maturation step are implicated in disease, yet the functional impact in humans remains unclear. Here we show that the intermediate cleaving peptidase ICP55, which removes a single amino acid, acts as a key stabilizer of multimeric mitochondrial protein complexes. Using proteomics and complexome profiling, we identify over 100 human ICP55 substrates and demonstrate that loss of ICP55 triggers widespread destabilization of protein assemblies, with a global shift toward smaller subcomplexes. Thus, we uncover a conserved, post-translational mechanism that safeguards mitochondrial proteostasis by regulating complex integrity through a single amino-acid cleavage, and we reveal N-terminal proteoform control as an unexpected layer of organellar homeostasis.",
-      "summaryZh": "线粒体蛋白质稳态依赖于输入前体蛋白的精确 N 末端加工。这一成熟步骤的缺陷与疾病有关，但对人类功能的影响仍不清楚。在这里，我们证明中间裂解肽酶 ICP55 可去除单个氨基酸，充当多聚体线粒体蛋白复合物的关键稳定剂。利用蛋白质组学和复合体分析，我们鉴定了 100 多种人类 ICP55 底物，并证明 ICP55 的缺失会引发蛋白质组装体的广泛不稳定，并导致全球向更小的子复合物转变。因此，我们发现了一种保守的翻译后机制，通过单个氨基酸裂解调节复杂的完整性来保护线粒体蛋白质稳态，并且我们揭示了 N 末端蛋白质形式控制作为细胞器稳态的一个意想不到的层。",
-      "translationSource": "3c795da4c2a08918"
     },
     {
       "pmid": "42816491",
@@ -4738,27 +5016,6 @@
       "translationSource": "2badf69b87397ef4"
     },
     {
-      "pmid": "42442365",
-      "title": "Understanding protein ISGylation, a multifaceted posttranslational modification.",
-      "titleZh": "了解蛋白质 ISGylation，一种多方面的翻译后修饰。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-07-13",
-      "doi": "10.1016/j.chembiol.2026.06.006",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.06.006",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42442365/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "ISG15 represents a key ubiquitin-like modifier induced primarily by interferon signaling. ISG15 is synthesized as a precursor, processed to a mature form, and covalently conjugated to substrates through a dedicated E1-E2-E3 enzymatic cascade involving UBE1L, UBE2L6, and E3 ligases such as HERC5, TRIM25, and ARIH1. This modification is reversed by deISGylases, particularly the highly specific protease USP18, which also negatively regulates interferon signaling. ISGylation impacts diverse molecular and cellular processes, including protein stability and function, protein-protein interaction, autophagy, transcription/translation, DNA damage response, and innate immunity. Advances in chemical biology and mass spectrometry-based proteomics have enabled the characterization of enzymes involved in (de)ISGylation and mapping of ISGylated proteins and sites. Dysregulated ISGylation is implicated in cancer, infection, neurodegenerative disorders, and inflammatory diseases, underscoring its broad pathophysiological relevance. Published by Elsevier Ltd.",
-      "summaryZh": "ISG15 代表主要由干扰素信号传导诱导的关键泛素样修饰剂。 ISG15 作为前体合成，加工成成熟形式，并通过涉及 UBE1L、UBE2L6 和 E3 连接酶（例如 HERC5、TRIM25 和 ARIH1）的专用 E1-E2-E3 酶级联与底物共价缀合。这种修饰可以被去ISG化酶逆转，尤其是高度特异性的蛋白酶USP18，它也会负向调节干扰素信号传导。 ISGylation 影响多种分子和细胞过程，包括蛋白质稳定性和功能、蛋白质-蛋白质相互作用、自噬、转录/翻译、DNA 损伤反应和先天免疫。化学生物学和基于质谱的蛋白质组学的进步使得能够对参与（去）ISGylation 的酶进行表征，并绘制 ISGylated 蛋白质和位点的图谱。 ISGylation 失调与癌症、感染、神经退行性疾病和炎症性疾病有关，强调了其广泛的病理生理学相关性。由爱思唯尔有限公司出版",
-      "translationSource": "920843c9e88be502"
-    },
-    {
       "pmid": "42436164",
       "title": "Glycocholic acid inhibits TRIB3-ID1 axis to acelerate colitis progression via suppressing intestinal stem cell renewal.",
       "titleZh": "甘胆酸抑制 TRIB3-ID1 轴，通过抑制肠道干细胞更新来加速结肠炎的进展。",
@@ -5506,29 +5763,6 @@
       "abstractEn": "Phytoalexins are core components of plant chemical defense against pathogens. However, the genetic basis and regulatory mechanisms governing their biosynthesis remain preliminary. Debneyol is a well-defined, broad-spectrum fungicidal phytoalexin. Here, we elucidate its biosynthetic pathway, key regulators, and activity against multiple pathogens. We show that debneyol is synthesized from farnesyl pyrophosphate (FPP) through three steps catalyzed by 5-epi-aristolochene synthase (EAS), 5-epi-aristolochene epoxidase (EAE), and epoxide hydrolase-1 (EH1). MCD1 (miR1919-targeted cell death-factor-1) interacts with EAS and EAE, enhancing their association and EAE activity and promoting debneyol biosynthesis. Increased MCD1 expression confers plant resistance not only against fungal but also viral and bacterial pathogens. Our work reveals a complete plant phytoalexin-based chemical defense machinery, opening avenues for engineering broad-spectrum plant resistance and industrial-scale debneyol production via synthetic biology.",
       "summaryZh": "植物抗毒素是植物化学防御病原体的核心成分。然而，控制其生物合成的遗传基础和调控机制仍处于初步阶段。 Debneyol 是一种性质明确的广谱杀菌植物抗毒素。在这里，我们阐明了其生物合成途径、关键调节因子以及针对多种病原体的活性。我们发现地布尼醇是由法尼基焦磷酸 (FPP) 在 5-表马兜铃烯合酶 (EAS)、5-表马兜铃烯环氧化酶 (EAE) 和环氧化物水解酶 1 (EH1) 催化下经过三个步骤合成的。 MCD1（miR1919 靶向细胞死亡因子-1）与 EAS 和 EAE 相互作用，增强它们的关联和 EAE 活性并促进 debneyol 生物合成。 MCD1 表达增加使植物不仅能抵抗真菌，还能抵抗病毒和细菌病原体。我们的工作揭示了一种完整的基于植物抗毒素的化学防御机制，为通过合成生物学工程广谱植物抗性和工业规模生产地布尼醇开辟了途径。",
       "translationSource": "c657a9f6182b7fe5"
-    },
-    {
-      "pmid": "42341763",
-      "title": "Lysine methylation as a bidirectional switch.",
-      "titleZh": "赖氨酸甲基化作为双向开关。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-06-24",
-      "doi": "10.1016/j.chembiol.2026.05.013",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.05.013",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42341763/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "degron",
-        "proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron, proteasome。",
-      "abstractEn": "Lysine methylation is classically linked to chromatin, yet an expanding literature shows that methylation on non-histone proteins can directly program protein lifetime through the Ub-proteasome system (UPS). We define a lysine methylation bidirectional switch in which methyl marks can be wired to opposite outcomes, degradation (methyl-degrons) or stabilization (methyl-stabilizers) depending on interpreter availability, competitive occupancy, and post-translational modification (PTM) neighborhood context. We organize the field into two symmetric frameworks and, within each, distinguish direct mechanisms from reader-mediated mechanisms. Across curated examples, both Kme1 and Kme2 are bidirectional, enabling either fate depending on the wiring. However, Kme1 dominates the degron pathways, while Kme3 only supports stabilization. We highlight recurring modular architectures and extract hypothesis-generating features that bias methyl sites toward degron versus stabilizer functions. Finally, we outline chemical biology opportunities to read and program this bidirectional switch, including antibody-independent chemoproteomics, proximity approaches for targeted methyl-editing for degradation and/or stabilization.",
-      "summaryZh": "赖氨酸甲基化通常与染色质相关，但越来越多的文献表明，非组蛋白上的甲基化可以通过 Ub 蛋白酶体系统 (UPS) 直接编程蛋白质寿命。我们定义了赖氨酸甲基化双向开关，其中甲基标记可以连接到相反的结果、降解（甲基降解决定子）或稳定化（甲基稳定剂），具体取决于解释器的可用性、竞争性占用和翻译后修饰（PTM）邻域环境。我们将该领域组织成两个对称框架，并在每个框架内区分直接机制和读者介导的机制。在精选的示例中，Kme1 和 Kme2 都是双向的，可以根据接线实现任一命运。然而，Kme1 主导降解决定子途径，而 Kme3 仅支持稳定性。我们强调重复出现的模块化架构，并提取假设生成特征，这些特征使甲基位点偏向降解决定子而不是稳定剂功能。最后，我们概述了读取和编程这种双向开关的化学生物学机会，包括独立于抗体的化学蛋白质组学、用于降解和/或稳定的靶向甲基编辑的邻近方法。",
-      "translationSource": "94b710924b57ed6c"
     },
     {
       "pmid": "42335217",
