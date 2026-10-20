@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-18T01:41:26+00:00",
+  "updatedAt": "2026-10-20T02:16:48+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42895853",
+      "title": "The conserved NUS-1/DHDDS-1 complex links N-glycosylation to lipid and lysosomal homeostasis in C. elegans.",
+      "titleZh": "保守的 NUS-1/DHDDS-1 复合物将 N-糖基化与线虫中的脂质和溶酶体稳态联系起来。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-19",
+      "doi": "10.1016/j.celrep.2026.118178",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118178",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42895853/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "N-glycosylation is essential for proteome integrity, yet the systemic roles of the cis-prenyltransferase (cis-PT) complex remain poorly defined. Using Caenorhabditis elegans, we demonstrate that this complex is a dual regulator of global lipid and lysosomal homeostasis. Mechanistically, NUS-1 physically associates with the core oligosaccharyltransferase (OST) complex to coordinate N-glycan transfer. Loss of NUS-1/DHDDS-1 triggers endoplasmic reticulum stress, lysosomal collapse, and systemic lipopenia. This lipid defect arises from impaired N-glycosylation of the SREBP cleavage-activating protein (SCAP). cis-PT deficiency causes unglycosylated SCAP to undergo massive degradation and absolute physical entrapment within the ER, preventing SREBP nuclear translocation and downstream lipid synthesis. Furthermore, pathogenic mutations cause dysfunction through distinct molecular mechanisms: pocket integrity disruption or catalytic impairment. These findings uncover an essential crosstalk between protein glycosylation and global lipid metabolism, providing a mechanistic framework for understanding the systemic pathophysiology of congenital disorders of glycosylation (CDG).",
+      "summaryZh": "N-糖基化对于蛋白质组完整性至关重要，但顺式异戊二烯基转移酶 (cis-PT) 复合物的系统作用仍不清楚。使用秀丽隐杆线虫，我们证明该复合物是整体脂质和溶酶体稳态的双重调节剂。从机制上讲，NUS-1 与核心寡糖转移酶 (OST) 复合物物理结合以协调 N-聚糖转移。 NUS-1/DHDDS-1 的缺失会引发内质网应激、溶酶体塌陷和全身性脂肪减少。这种脂质缺陷是由 SREBP 裂解激活蛋白 (SCAP) 的 N-糖基化受损引起的。 cis-PT 缺乏会导致未糖基化的 SCAP 发生大量降解并绝对物理截留在 ER 内，从而阻止 SREBP 核转位和下游脂质合成。此外，致病突变通过不同的分子机制导致功能障碍：口袋完整性破坏或催化损伤。这些发现揭示了蛋白质糖基化与整体脂质代谢之间的重要串扰，为理解先天性糖基化障碍（CDG）的系统病理生理学提供了机制框架。",
+      "translationSource": "818720254c8b97f0"
+    },
+    {
+      "pmid": "42892655",
+      "title": "Multimodal substrate recruitment enables CTLH MKLN1 E3 ligase to target acetylated N-, C-, and internal degrons.",
+      "titleZh": "多模式底物招募使 CTLH MKLN1 E3 连接酶能够靶向乙酰化 N-、C- 和内部降解决定子。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-17",
+      "doi": "10.1038/s41467-026-78311-4",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78311-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42892655/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "The GID/CTLH family of E3 ubiquitin ligases employs several substrate receptor subunits that recruit distinct degrons, but the substrate recognition mechanisms of the CTLH MKLN1 assembly have largely remained elusive. Here, we reconstitute CTLH MKLN1 -dependent ubiquitylation of three biochemically distinct substrates - MKLN1 itself, ZMYND19, and FAM72A-recruited UNG2, and determine cryo-EM structures of each substrate bound to MKLN1. The structures reveal how MKLN1's discoidin and Kelch β-propeller domains engage substrates through multivalent contacts. MKLN1 recruits itself through discoidin-Kelch interactions between MKLN1 dimers, forming an assembly that competes with other substrates. ZMYND19 and FAM72A each bind to MKLN1 through loops engaging the discoidin trench domain while their C-terminal Arg residues engage the MKLN1 Kelch central channel, identifying MKLN1 as an Arg/C-degron receptor. The acetylated N-terminus of UNG2 is positioned within a Y-shaped tunnel of FAM72A, defining an adaptor-mediated Ac/N-degron recognition mechanism. Thus, our data reveal how combinatorial deployment of MKLN1 discoidin and Kelch domains enable a single receptor subunit to recognize a diverse substrate repertoire, adding to a complex picture of degron recognition across the GID/CTLH family.",
+      "summaryZh": "E3 泛素连接酶的 GID/CTLH 家族采用多个底物受体亚基来招募不同的降解决定子，但 CTLH MKLN1 组装体的底物识别机制在很大程度上仍然难以捉摸。在这里，我们重建了三种生化不同底物（MKLN1 本身、ZMYND19 和 FAM72A 招募的 UNG2）的 CTLH MKLN1 依赖性泛素化，并确定了与 MKLN1 结合的每种底物的冷冻电镜结构。这些结构揭示了 MKLN1 的盘状蛋白和 Kelch β-螺旋桨结构域如何通过多价接触与底物结合。 MKLN1 通过 MKLN1 二聚体之间的盘状蛋白-Kelch 相互作用来招募自身，形成与其他底物竞争的组装体。 ZMYND19 和 FAM72A 各自通过与盘状蛋白沟槽​​结构域接合的环与 MKLN1 结合，而它们的 C 端 Arg 残基与 MKLN1 Kelch 中央通道接合，将 MKLN1 识别为 Arg/C-degron 受体。 UNG2 的乙酰化 N 末端位于 FAM72A 的 Y 形隧道内，定义了接头介导的 Ac/N-降解决定子识别机制。因此，我们的数据揭示了 MKLN1 盘状蛋白和 Kelch 结构域的组合部署如何使单个受体亚基能够识别不同的底物库，从而增加了跨 GID/CTLH 家族的降解决定子识别的复杂图景。",
+      "translationSource": "92bd7a272a281d85"
+    },
     {
       "pmid": "42886777",
       "title": "Chemogenetic ubiquitin E1 inhibitor TAK-243 CRISPR screen uncovers HAPSTR1/HUWE1 axis in chromatin proteostasis and cell cycle control.",
@@ -1298,6 +1340,27 @@
       "abstractEn": "Mutant isocitrate dehydrogenase 1 (mIDH1) catalyzes 2-hydroxyglutarate (2HG) production which leads to epigenetic reprogramming in astrocytomas with tumor protein p53 (TP53)/α-thalassemia/mental retardation, X-linked (ATRX) loss. RNA-sequencing, single-cell RNA-sequencing, and Chromatin Immunoprecipitation sequencing (ChIP-seq) followed by bioinformatics analysis shows that human and mouse mIDH1 gliomas exhibit downregulated gene ontologies (GOs) related to mitochondrial metabolism and upregulated autophagy-related GOs. Decreased mitochondrial metabolism is accompanied by decreased glycolysis, rendering autophagy as a source of energy in mIDH1 gliomas. Mutant IDH1 glioma cells exhibit increased expression of autophagy-related proteins and enhanced microtubule-associated protein 1 light chain 3 (LC3) I/II conversion, indicating augmented autophagy. Inhibiting autophagy in vivo by administration of synthetic protein nanoparticles (SPNPs) encapsulating autophagy related gene 7 (ATG7) silencing RNA sensitizes mIDH1 glioma cells to radiation, resulting in tumor regression, long-term survival, and immunological memory. This work uncovers autophagy as a critical pathway for survival in mIDH1 gliomas and its inhibition elicits radiosensitivity in vitro in human and mouse mIDH1 glioma cells, and in vivo in mIDH1 models.",
       "summaryZh": "突变的异柠檬酸脱氢酶 1 (mIDH1) 催化 2-羟基戊二酸 (2HG) 的产生，从而导致星形细胞瘤中的表观遗传重编程，并伴有肿瘤蛋白 p53 (TP53)/α-地中海贫血/精神发育迟滞、X 连锁 (ATRX) 丢失。 RNA 测序、单细胞 RNA 测序和染色质免疫沉淀测序 (ChIP-seq) 以及生物信息学分析表明，人类和小鼠 mIDH1 神经胶质瘤表现出与线粒体代谢相关的基因本体 (GO) 下调和自噬相关 GO 上调。线粒体代谢减少伴随着糖酵解减少，使自噬成为 mIDH1 神经胶质瘤的能量来源。突变的 IDH1 神经胶质瘤细胞表现出自噬相关蛋白表达增加和微管相关蛋白 1 轻链 3 (LC3) I/II 转换增强，表明自噬增强。通过给予封装自噬相关基因 7 (ATG7) 沉默 RNA 的合成蛋白纳米颗粒 (SPNP) 抑制体内自噬，可使 mIDH1 胶质瘤细胞对辐射敏感，从而导致肿瘤消退、长期存活和免疫记忆。这项工作揭示了自噬是 mIDH1 神经胶质瘤生存的关键途径，其抑制作用可在人和小鼠 mIDH1 神经胶质瘤细胞的体外以及 mIDH1 模型的体内引起放射敏感性。",
       "translationSource": "49128627cbd8ab52"
+    },
+    {
+      "pmid": "42893987",
+      "title": "A lipoprotein-biomimetic nanoplatform for oncogenic KRAS mutation-specific lysosome-targeting protein degradation.",
+      "titleZh": "用于致癌 KRAS 突变特异性溶酶体靶向蛋白降解的脂蛋白仿生纳米平台。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1038/s41467-026-77697-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77697-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893987/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome。",
+      "abstractEn": "Lysosome-targeting protein degradation strategies have evolved to leverage lineage-specific receptors to improve selectivity, yet remain unable to distinguish malignant from normal cells within the same lineage. Since oncogenic mutations are the defining feature of malignant cells, we here develop KRAS-mutated (MT) tumor targeting chimeras (KRASTAC), a lipoprotein-biomimetic nanoplatform that hijacks the enhanced macropinocytosis in KRAS-MT cells for mutation-specific protein degradation. KRASTAC potently degrades diverse proteins including epidermal growth factor receptor and programmed cell death ligand 1 (PD-L1) in KRAS-MT cells at a low antibody concentration of 2.5 nM within 9 h, with minimal impact in KRAS wild-type (WT) cells. Furthermore, KRASTAC exhibits mutation-specific tumor accumulation and protein degradation in vivo. KRASTAC-induced PD-L1 degradation leads to robust antitumor efficacy and reprogramming of the immunosuppressive microenvironment in mice carrying Kras-MT tumors. Our work presents KRASTAC as a potent mutation-specific protein degradation strategy for KRAS-MT cancers and establishes macropinocytosis as a route for lysosome-targeting protein degradation.",
+      "summaryZh": "溶酶体靶向蛋白质降解策略已经发展到利用谱系特异性受体来提高选择性，但仍然无法区分同一谱系内的恶性细胞和正常细胞。由于致癌突变是恶性细胞的定义特征，因此我们在此开发了 KRAS 突变 (MT) 肿瘤靶向嵌合体 (KRASTAC)，这是一种脂蛋白仿生纳米平台，可劫持 KRAS-MT 细胞中增强的巨胞饮作用，以实现突变特异性蛋白质降解。 KRASTAC 在 9 小时内以 2.5 nM 的低抗体浓度有效降解 KRAS-MT 细胞中的多种蛋白质，包括表皮生长因子受体和程序性细胞死亡配体 1 (PD-L1)，对 KRAS 野生型 (WT) 细胞的影响最小。此外，KRASTAC 在体内表现出突变特异性肿瘤积累和蛋白质降解。 KRASTAC 诱导的 PD-L1 降解可在携带 Kras-MT 肿瘤的小鼠中产生强大的抗肿瘤功效和免疫抑制微环境的重新编程。我们的工作将 KRASTAC 作为 KRAS-MT 癌症的一种有效的突变特异性蛋白质降解策略，并将巨胞饮作用确立为溶酶体靶向蛋白质降解的途径。",
+      "translationSource": "a039012ef56cf818"
     },
     {
       "pmid": "42710495",
