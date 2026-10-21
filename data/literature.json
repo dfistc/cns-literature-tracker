@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-10-20T02:16:48+00:00",
+  "updatedAt": "2026-10-21T02:10:11+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42897348",
+      "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy.",
+      "titleZh": "用四联疗法治疗新诊断的多发性骨髓瘤的微小残留病的分子预测因子。",
+      "journal": "Nature Medicine",
+      "year": 2026,
+      "published": "2026-10-19",
+      "doi": "10.1038/s41591-026-04692-0",
+      "doiUrl": "https://doi.org/10.1038/s41591-026-04692-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42897348/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). However, treatment response is heterogeneous and molecular predictors are needed to guide early therapeutic decisions. We performed integrated genomic, transcriptomic and epigenomic profiling of 423 tumor samples from patients with NDMM from the MIDAS cohort to characterize molecular heterogeneity and its association with measurable residual disease (MRD) after quadruplet induction with isatuximab, carfilzomib, lenalidomide and dexamethasone (Isa-KRd). Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes. B cell differentiation was associated with MRD positivity, while proliferation and MYC programs were associated with MRD negativity. These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. New driver alterations were identified with independent validation across three external cohorts with multiple myeloma (MMRF, MANHATTAN and CASSIOPEIA; 1,451 cases). Genomic instability features and driver genes such as CCND1 and MYC correlated with differential MRD outcomes. DNA methylation profiling identified nine MRD-linked subgroups distinguished by the extent of hypomethylation in quiescent chromatin and cis/trans signatures of driver translocations. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models. These findings define a multiomic classification of NDMM linked to Isa-KRd response. ClinicalTrials.gov identifier: NCT04934475 .",
+      "summaryZh": "四联疗法结合了抗CD38抗体、免疫调节药物、蛋白酶体抑制剂和地塞米松，现已成为新诊断的多发性骨髓瘤（NDMM）的标准诱导治疗。然而，治疗反应是异质的，需要分子预测因子来指导早期治疗决策。我们对来自 MIDAS 队列的 NDMM 患者的 423 份肿瘤样本进行了综合基因组、转录组和表观基因组分析，以表征分子异质性及其与伊沙妥昔单抗、卡非佐米、来那度胺和地塞米松 (Isa-KRd) 四联体诱导后可测量残留病灶 (MRD) 的关联。不同基因表达亚型的诱导后 MRD 阴性率差异显着，与 MF 和 CD2 亚型相比，HP1/HP3 和 MS 组表现出更好的反应。 B 细胞分化与 MRD 阳性相关，而增殖和 MYC 程序与 MRD 阴性相关。这些与 MRD 相关的转录组学特征在 CASSIOPEIA 队列中得到了独立验证。全基因组测序揭示了 MMRF 队列中验证的已知（APOBEC 突变、染色体碎裂）和新的基因组不稳定表型。通过三个外部多发性骨髓瘤队列（MMRF、曼哈顿和 CASSIOPEIA；1,451 例）的独立验证，发现了新的驱动因素改变。基因组不稳定特征和驱动基因（例如 CCND1 和 MYC）与不同的 MRD 结果相关。 DNA 甲基化分析确定了九个 MRD 相关亚组，通过静态染色质的低甲基化程度和驱动易位的顺式/反式特征来区分。 整合基因组、转录组和表观基因组特征的多模态随机森林模型预测诱导后的 MRD 状态，曲线下面积为 0.77，优于临床和基因组模型，同时提供相对于转录组和表观基因组模型的可比较的区分度和改进的校准。这些发现定义了与 Isa-KRd 反应相关的 NDMM 多组学分类。 ClinicalTrials.gov 标识符：NCT04934475。",
+      "translationSource": "7de0cb73bb9c5ce4"
+    },
     {
       "pmid": "42895853",
       "title": "The conserved NUS-1/DHDDS-1 complex links N-glycosylation to lipid and lysosomal homeostasis in C. elegans.",
@@ -1340,6 +1361,27 @@
       "abstractEn": "Mutant isocitrate dehydrogenase 1 (mIDH1) catalyzes 2-hydroxyglutarate (2HG) production which leads to epigenetic reprogramming in astrocytomas with tumor protein p53 (TP53)/α-thalassemia/mental retardation, X-linked (ATRX) loss. RNA-sequencing, single-cell RNA-sequencing, and Chromatin Immunoprecipitation sequencing (ChIP-seq) followed by bioinformatics analysis shows that human and mouse mIDH1 gliomas exhibit downregulated gene ontologies (GOs) related to mitochondrial metabolism and upregulated autophagy-related GOs. Decreased mitochondrial metabolism is accompanied by decreased glycolysis, rendering autophagy as a source of energy in mIDH1 gliomas. Mutant IDH1 glioma cells exhibit increased expression of autophagy-related proteins and enhanced microtubule-associated protein 1 light chain 3 (LC3) I/II conversion, indicating augmented autophagy. Inhibiting autophagy in vivo by administration of synthetic protein nanoparticles (SPNPs) encapsulating autophagy related gene 7 (ATG7) silencing RNA sensitizes mIDH1 glioma cells to radiation, resulting in tumor regression, long-term survival, and immunological memory. This work uncovers autophagy as a critical pathway for survival in mIDH1 gliomas and its inhibition elicits radiosensitivity in vitro in human and mouse mIDH1 glioma cells, and in vivo in mIDH1 models.",
       "summaryZh": "突变的异柠檬酸脱氢酶 1 (mIDH1) 催化 2-羟基戊二酸 (2HG) 的产生，从而导致星形细胞瘤中的表观遗传重编程，并伴有肿瘤蛋白 p53 (TP53)/α-地中海贫血/精神发育迟滞、X 连锁 (ATRX) 丢失。 RNA 测序、单细胞 RNA 测序和染色质免疫沉淀测序 (ChIP-seq) 以及生物信息学分析表明，人类和小鼠 mIDH1 神经胶质瘤表现出与线粒体代谢相关的基因本体 (GO) 下调和自噬相关 GO 上调。线粒体代谢减少伴随着糖酵解减少，使自噬成为 mIDH1 神经胶质瘤的能量来源。突变的 IDH1 神经胶质瘤细胞表现出自噬相关蛋白表达增加和微管相关蛋白 1 轻链 3 (LC3) I/II 转换增强，表明自噬增强。通过给予封装自噬相关基因 7 (ATG7) 沉默 RNA 的合成蛋白纳米颗粒 (SPNP) 抑制体内自噬，可使 mIDH1 胶质瘤细胞对辐射敏感，从而导致肿瘤消退、长期存活和免疫记忆。这项工作揭示了自噬是 mIDH1 神经胶质瘤生存的关键途径，其抑制作用可在人和小鼠 mIDH1 神经胶质瘤细胞的体外以及 mIDH1 模型的体内引起放射敏感性。",
       "translationSource": "49128627cbd8ab52"
+    },
+    {
+      "pmid": "42897205",
+      "title": "Proximity biotinylation at the host-Shigella interface reveals UFMylation as an antibacterial pathway.",
+      "titleZh": "宿主-志贺氏菌界面的邻近生物素化揭示了 UFMylation 是一种抗菌途径。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-17",
+      "doi": "10.1038/s41467-026-77860-y",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77860-y",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42897205/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Host cells contest invasion by intracellular bacterial pathogens with multiple strategies that recognise and/or damage the bacterial surface. To identify host defence factors targeted to intracellular bacteria, we developed a proximity biotinylation approach coupled to quantitative mass spectrometry that maps the host-bacterial interface during infection. Using this method, we discovered that intracellular Shigella and Salmonella become targeted by UFM1-protein ligase 1 (UFL1), an E3 ligase that catalyses the covalent attachment of Ubiquitin-fold modifier 1 (UFM1) to target substrates in a process called UFMylation. Shigella antagonises UFMylation in a dual manner: first, using its lipopolysaccharide to shield from UFL1 recruitment; second, preventing UFM1 decoration by the bacterial effector IpaH9.8. Absence of UFMylation leads to an increase of bacterial burden in human cells and zebrafish larvae. Contrary to ubiquitylation, the protective role of UFMylation is independent of autophagy. Altogether, our proximity mapping of the host-bacterial interface identifies UFMylation as an ancient antibacterial pathway and holds great promise to reveal other cell-autonomous immunity mechanisms.",
+      "summaryZh": "宿主细胞通过识别和/或损伤细菌表面的多种策略对抗细胞内细菌病原体的入侵。为了识别针对细胞内细菌的宿主防御因子，我们开发了一种邻近生物素化方法，与定量质谱联用，绘制感染过程中宿主-细菌界面的图谱。使用这种方法，我们发现细胞内志贺氏菌和沙门氏菌成为 UFM1 蛋白连接酶 1 (UFL1) 的靶标，这种 E3 连接酶在称为 UFMylation 的过程中催化泛素折叠修饰剂 1 (UFM1) 与靶底物共价连接。志贺氏菌以双重方式拮抗 UFMylation：首先，利用其脂多糖来阻止 UFL1 募集；第二，防止UFM1被细菌效应子IpaH9.8修饰。 UFMylation 的缺失会导致人类细胞和斑马鱼幼虫中的细菌负担增加。与泛素化相反，UFMylation 的保护作用不依赖于自噬。总而言之，我们对宿主-细菌界面的邻近图谱将 UFMylation 确定为一种古老的抗菌途径，并有望揭示其他细胞自主免疫机制。",
+      "translationSource": "eb1c99987c2ad7f9"
     },
     {
       "pmid": "42893987",
