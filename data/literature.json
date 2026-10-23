@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-10-21T02:10:11+00:00",
+  "updatedAt": "2026-10-23T02:08:57+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42901160",
+      "title": "Proteome-wide C-degron activity profiling connects conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
+      "titleZh": "全蛋白质组 C 降解决定子活性分析将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生联系起来。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-10-20",
+      "doi": "10.1016/j.molcel.2026.09.036",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.036",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42901160/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Many E3 ubiquitin ligases recognize degrons located at protein termini, but the paucity of bona fide substrates of N-degron and C-degron pathways hampers our understanding of their physiological significance. Devising an expression screening strategy to assess the effect of C-terminal \"capping\" on the stability of thousands of human proteins, we systematically identify substrates harboring C-degrons. Interrogating one leading candidate, ZMYND19, we characterize a C-degron pathway governed via the C-terminal to LisH (CTLH) E3 ligase complex subunit Muskelin. Cell-to-cell variability in ZMYND19 stability uncovered conditional regulation, with CTLH-mediated degradation impaired by TNF-α stimulation but enhanced by mTOR inhibition. Parallel genetic and proteomic screens identified angio-associated migratory protein (AAMP) and apoptosis-enhancing nuclease (AEN) as additional substrates of the CTLH Muskelin C-degron pathway, leading us to define an essential role for AAMP in ribosome maturation through chaperone activity toward uL16. Altogether, these data define a C-degron pathway connecting conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
+      "summaryZh": "许多E3泛素连接酶识别位于蛋白质末端的降解决定子，但N-降解决定子和C-降解决定子途径的真正底物的缺乏阻碍了我们对其生理意义的理解。我们设计了一种表达筛选策略来评估 C 末端“加帽”对数千种人类蛋白质稳定性的影响，系统地鉴定了含有 C 降解决定子的底物。通过询问一个主要候选物 ZMYND19，我们描述了通过 LisH (CTLH) E3 连接酶复合物亚基 Muskelin 的 C 末端控制的 C 降解决定子通路。 ZMYND19 稳定性的细胞间变异揭示了条件调节，CTLH 介导的降解会因 TNF-α 刺激而受损，但会因 mTOR 抑制而增强。并行遗传和蛋白质组筛选鉴定出血管相关迁移蛋白 (AAMP) 和凋亡增强核酸酶 (AEN) 作为 CTLH Muskelin C-degron 通路的额外底物，这使我们能够通过对 uL16 的分子伴侣活性来定义 AAMP 在核糖体成熟中的重要作用。总而言之，这些数据定义了将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生连接起来的 C-降解决定子途径。",
+      "translationSource": "2a947f0d0f0f641c"
+    },
     {
       "pmid": "42897348",
       "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy.",
@@ -1297,6 +1318,27 @@
       "translationSource": "c387a83c24496f3c"
     },
     {
+      "pmid": "42901940",
+      "title": "Structure of Blm10:13S proteasome intermediate reveals parallel assembly pathways for the proteasome core particle.",
+      "titleZh": "Blm10:13S 蛋白酶体中间体的结构揭示了蛋白酶体核心颗粒的平行组装途径。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-21",
+      "doi": "10.1038/s41467-026-77943-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77943-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42901940/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "The proteasome core particle (CP) can be capped by Blm10/PA200, which promotes ATP-independent degradation of disordered proteins and contributes to attenuating antigenic diversity and impacts immunotherapy upon upregulation. The assembly process that leads to Blm10-CP proteasomes remains unresolved and Blm10 is present not only at mature proteasomes but also bound to assembly intermediates. We identified and solved structures of five CP intermediate complexes by cryo-electron microscopy, two of which include Blm10. We find that CP intermediates interactions with Blm10 and Pba1/Pba2 chaperone complex are mutually exclusive and both leads to mature CP production. We further find no synergy between Pba1/Pba2 and Blm10 for CP assembly. These data suggest a parallel assembly pathway exists for Blm10 proteasomes that does not require sequential activity with Pba1/Pba2. Whereas CP affinity for Pba1/Pba2 is reduced during maturation to promote its release, no such affinity switch occurs for Blm10, further suggesting a parallel Blm10-assembly pathway for production of mature Blm10-bound CPs. Altogether, our findings reveal a functionally distinct CP assembly pathway for the production of mature Blm10-CP proteasomes.",
+      "summaryZh": "蛋白酶体核心颗粒 (CP) 可以被 Blm10/PA200 覆盖，从而促进紊乱蛋白质的 ATP 独立降解，有助于减弱抗原多样性，并在上调时影响免疫治疗。导致 Blm10-CP 蛋白酶体的组装过程仍未解决，Blm10 不仅存在于成熟的蛋白酶体中，而且还与组装中间体结合。我们通过冷冻电子显微镜鉴定并解析了 5 个 CP 中间体复合物的结构，其中两个包括 Blm10。我们发现 CP 中间体与 Blm10 和 Pba1/Pba2 分子伴侣复合物的相互作用是相互排斥的，两者都会导致成熟的 CP 生产。我们进一步发现 Pba1/Pba2 和 Blm10 之间对于 CP 组装没有协同作用。这些数据表明 Blm10 蛋白酶体存在平行组装途径，不需要 Pba1/Pba2 的连续活性。虽然 CP 对 Pba1/Pba2 的亲和力在成熟过程中降低以促进其释放，但 Blm10 没有发生这种亲和力转换，进一步表明用于生产成熟 Blm10 结合 CP 的平行 Blm10 组装途径。总而言之，我们的研究结果揭示了用于生产成熟 Blm10-CP 蛋白酶体的功能独特的 CP 组装途径。",
+      "translationSource": "3e41dcf0ff68c443"
+    },
+    {
       "pmid": "42476144",
       "title": "A single-component optogenetic toolkit for reversible visualization and programmable control of microtubule dynamics.",
       "titleZh": "用于微管动力学可逆可视化和可编程控制的单组分光遗传学工具包。",
@@ -1340,6 +1382,27 @@
       "abstractEn": "The 26 S proteasome engages with ubiquitinated substrates primarily through its constituent ubiquitin (Ub) receptors, which initiates a cascade of proteolytic processes. Leveraging this recognition mechanism, we developed a targeted protein degradation (TPD) strategy that recruits substrates directly to the proteasome, thereby bypassing the ubiquitination step. Our proteasome-targeting chimera, Protea-Tac, is a heterobifunctional protein degrader composed of a Ub receptor and an intracellular antibody. This chimera integrates into 26 S proteasomes without altering their structural or functional integrity. Protea-Tac with cognate antibodies degraded various target proteins, including c-Fos, BRD4, Flag TDP43, HA tau, and GFP ODC. We mechanistically demonstrated that this platform is (i) modular, allowing facile target switching, (ii) Ub independent, and (iii) highly target specific. Furthermore, Protea-Tac exhibited potent in vivo antitumor efficacy, posttranslationally inducing c-Fos degradation and substantially delaying tumor progression through both viral and nonviral delivery systems. These findings identify Protea-Tac as a distinct TPD platform capable of directly degrading intracellular proteins via engineered 26 S proteasomes.",
       "summaryZh": "26 S 蛋白酶体主要通过其组成的泛素 (Ub) 受体与泛素化底物结合，从而启动一系列蛋白水解过程。利用这种识别机制，我们开发了一种靶向蛋白质降解（TPD）策略，将底物直接招募到蛋白酶体，从而绕过泛素化步骤。我们的蛋白酶体靶向嵌合体 Protea-Tac 是一种异双功能蛋白质降解剂，由 Ub 受体和细胞内抗体组成。该嵌合体整合到 26 S 蛋白酶体中，而不改变其结构或功能完整性。 Protea-Tac 与同源抗体可降解各种靶蛋白，包括 c-Fos、BRD4、Flag TDP43、HA tau 和 GFP ODC。我们从机械上证明了该平台是（i）模块化的，允许轻松的目标切换，（ii）Ub独立，以及（iii）高度目标特定。此外，Protea-Tac 表现出强大的体内抗肿瘤功效，可在翻译后诱导 c-Fos 降解，并通过病毒和非病毒递送系统显着延缓肿瘤进展。这些发现将 Protea-Tac 确定为独特的 TPD 平台，能够通过工程化 26 S 蛋白酶体直接降解细胞内蛋白质。",
       "translationSource": "5b3373dabf8c56cd"
+    },
+    {
+      "pmid": "42901886",
+      "title": "Characterization of recombinase-based genetic parts and circuits using nanopore sequencing.",
+      "titleZh": "使用纳米孔测序表征基于重组酶的遗传部分和电路。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-18",
+      "doi": "10.1038/s41467-026-77605-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77605-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42901886/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Recombinases are versatile enzymes able to perform the precise insertion, deletion, and rearrangement of DNA and can act as a foundation for programmable genetic logic and memory. Crucial for their use are accurate measurements of function. However, these are often laborious, time-consuming, and costly to collect. To address this, we develop a semi-automated workflow that combines low-cost liquid handling robotics, multiplexed long-read nanopore sequencing, and a supporting computational analysis tool to enable the high-throughput and detailed characterization of recombinase parts and circuits when used in a variety of contexts and organisms. Our approach overcomes the limitations of typically used fluorescence-based assays and is able to monitor temporal dynamics, observe structural changes at nucleotide resolution, and unravel the internal workings of complex multi-state circuits. The ability to scale up and automate genetic circuit characterization is an essential step towards more rigorous biological metrology that can support the construction of predictive models for efficiently engineering biology.",
+      "summaryZh": "重组酶是一种多功能酶，能够执行 DNA 的精确插入、删除和重排，并且可以作为可编程遗传逻辑和记忆的基础。它们的使用至关重要的是功能的准确测量。然而，收集这些信息通常是费力、耗时且成本高昂的。为了解决这个问题，我们开发了一种半自动化工作流程，结合了低成本液体处理机器人、多重长读长纳米孔测序和支持计算分析工具，以实现重组酶部件和电路在各种环境和生物体中使用时的高通量和详细表征。我们的方法克服了通常使用的基于荧光的测定的局限性，能够监测时间动态、观察核苷酸分辨率的结构变化，并揭示复杂多状态电路的内部工作原理。扩大和自动化遗传电路表征的能力是迈向更严格的生物计量学的重要一步，可以支持构建有效的工程生物学预测模型。",
+      "translationSource": "e604f14c164aa8e9"
     },
     {
       "pmid": "42760279",
