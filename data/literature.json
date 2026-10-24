@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-10-23T02:08:57+00:00",
+  "updatedAt": "2026-10-24T02:07:53+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42912989",
+      "title": "PhagoID: Quantitative in situ proximity labeling defines the proteomes of bead- and microbe-containing phagosome lumina across species, maturation, and immune activation.",
+      "titleZh": "PhagoID：定量原位邻近标记定义了跨物种、成熟和免疫激活的包含珠子和微生物的吞噬体管腔的蛋白质组。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-23",
+      "doi": "10.1126/sciadv.aee3876",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee3876",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42912989/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "The phagosome is an immune organelle that integrates signals from diverse cargos to drive pathogen killing, tissue homeostasis, and antigen presentation. How this compartment coordinates such diverse functions remains incompletely understood. A comprehensive view of phagosomal composition across cell states and perturbations could accelerate insight into its regulation. Here, we establish PhagoID, a modular proximity labeling approach that enables in situ proteomic profiling of the phagosome lumen in living cells. Applying PhagoID to murine and human macrophages, we define conserved and species-specific phagosomal proteomes that include both canonical lysosomal components and unexpected contributors from nuclear, mitochondrial, and endoplasmic reticulum (ER) compartments. Integrating these proteomes with 25 genome-scale CRISPR screens of phagosomal phenotypes, we identify a network of lumenal proteins that regulate cargo uptake, acidification, antigen presentation, and microbial control highlighting previously unrecognized phagosomal effectors. We next adapt PhagoID to profile the microbe-containing phagosome and compare the sterile bead-containing phagosome to the Escherichia coli -containing phagosome, demonstrating a modest E. coli signature of phagosome remodeling. Comparative analyses further reveal that loss of LAMP1 enhances recruitment of ER-derived proteins to the phagosome, whereas loss of TFEB minimally perturbs the lumenal proteome despite its role in lysosomal biogenesis. Last, cytokine stimulation remodels the phagosome lumen to enrich for proteins involved in antigen presentation and antimicrobial activity in response to type I and II interferons. These data demonstrate that PhagoID delivers a high-confidence, quantitative, and integrative map of the phagosome lumen, revealing previously unidentified axes of organellar communication and regulatory control in innate immunity.",
+      "summaryZh": "吞噬体是一种免疫细胞器，它整合来自不同货物的信号以驱动病原体杀灭、组织稳态和抗原呈递。这个隔间如何协调如此不同的功能仍然不完全清楚。对跨细胞状态和扰动的吞噬体组成的全面了解可以加速对其调节的了解。在这里，我们建立了 PhagoID，这是一种模块化的邻近标记方法，可以对活细胞中的吞噬体腔进行原位蛋白质组学分析。将 PhagoID 应用于小鼠和人类巨噬细胞，我们定义了保守且物种特异性的吞噬体蛋白质组，其中包括典型的溶酶体成分和来自核、线粒体和内质网 (ER) 区室的意外贡献者。将这些蛋白质组与 25 个吞噬体表型的基因组规模 CRISPR 筛选相结合，我们确定了一个调节货物摄取、酸化、抗原呈递和微生物控制的腔蛋白网络，突出了以前未被识别的吞噬体效应器。接下来，我们采用 PhagoID 来分析含有微生物的吞噬体，并将含有无菌珠的吞噬体与含有大肠杆菌的吞噬体进行比较，证明了大肠杆菌吞噬体重塑的适度特征。比较分析进一步表明，LAMP1 的缺失增强了 ER 衍生蛋白向吞噬体的募集，而 TFEB 的缺失对腔内蛋白质组的干扰最小，尽管它在溶酶体生物发生中发挥作用。最后，细胞因子刺激重塑吞噬体腔，以富集参与抗原呈递和响应 I 型和 II 型干扰素的抗菌活性的蛋白质。 这些数据表明，PhagoID 提供了高置信度、定量和综合的吞噬体腔图，揭示了先天免疫中先前未识别的细胞器通讯和调节控制的轴。",
+      "translationSource": "a9f8dc97403c50eb"
+    },
+    {
+      "pmid": "42905836",
+      "title": "RanGAP1 coordinates the ER-lamina interface to drive de novo nuclear envelope reassembly in mouse embryos.",
+      "titleZh": "RanGAP1 协调 ER-核膜界面以驱动小鼠胚胎中的从头核膜重组。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-23",
+      "doi": "10.1126/sciadv.aef7931",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aef7931",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42905836/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "trim-away"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：trim-away。",
+      "abstractEn": "Nuclear envelope (NE) reassembly is essential for the zygote-to-totipotency transition in mammalian embryos. Beyond its classical roles in nuclear transport and maintenance of the RanGTP gradient, the function of RanGAP1 in embryonic NE reassembly has remained elusive. Here, we show that RanGAP1 localizes to the early embryonic NE, driving reassembly via a distinct structural mechanism. Trim-Away-mediated RanGAP1 depletion causes two-cell stage arrest and severe NE defects, including nuclear pore complex (NPC) loss, failed reassembly, and aberrant \"fishnet\" membrane structures. Mechanistically, RanGAP1 establishes a structural paradigm for endoplasmic reticulum (ER)-lamina coupling by recruiting Lamin A/C, B1, and B2 to the ER for coassembly. The acidic domain and SUMO-1 modification at Lys 526 (K526) are essential for the NPC localization of RanGAP1. Thus, RanGAP1 orchestrates nuclear lamina (NL) assembly by targeting lamins to the ER. These findings uncover mechanisms of NE reassembly that are critical for early embryogenesis and provide insights into NE-related developmental disorders.",
+      "summaryZh": "核膜（NE）重组对于哺乳动物胚胎中受精卵向全能性的转变至关重要。除了在核运输和维持 RanGTP 梯度中的经典作用之外，RanGAP1 在胚胎 NE 重组中的功能仍然难以捉摸。在这里，我们表明 RanGAP1 定位于早期胚胎 NE，通过独特的结构机制驱动重组。 Trim-Away 介导的 RanGAP1 耗竭会导致两细胞阶段停滞和严重的 NE 缺陷，包括核孔复合体 (NPC) 丢失、重组失败和异常的“鱼网”膜结构。从机制上讲，RanGAP1 通过将核纤层蛋白 A/C、B1 和 B2 招募到 ER 进行共组装，建立了内质网 (ER)-核纤层耦合的结构范例。 Lys 526 (K526) 的酸性结构域和 SUMO-1 修饰对于 RanGAP1 的 NPC 定位至关重要。因此，RanGAP1 通过将核纤层靶向 ER 来协调核纤层 (NL) 组装。这些发现揭示了对早期胚胎发生至关重要的 NE 重组机制，并为与 NE 相关的发育障碍提供了见解。",
+      "translationSource": "c51b9c2ef806e149"
+    },
+    {
+      "pmid": "42907506",
+      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis.",
+      "titleZh": "寒冷会激活 BH2 代谢网络，从而促进长寿和蛋白质稳态。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-21",
+      "doi": "10.1038/s41586-026-11152-9",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11152-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42907506/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Moderately cold temperatures extend lifespan and promote health across species 1-3 , yet the molecular mechanisms underlying these benefits remain unclear. Here we define a metabolite-driven, multi-tissue signalling system that links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans. Cold temperature upregulates the biopterin-synthesis enzyme CAT-4 (GCH1 in humans), increasing production of dihydrobiopterin (BH2), a transportable reservoir for the bioactive cofactor tetrahydrobiopterin (BH4). BH2 is produced in muscle and transported to distal tissues, including the intestine and neurons, where it is converted into BH4 by the salvage enzyme DHFR-1. BH4 functions as an essential cofactor for phenylalanine hydroxylase PAH-1, promoting tyrosine synthesis and extending lifespan. This BH2-BH4 axis also prevents disease-related protein aggregation and subsequent neuronal dysfunction during ageing. Importantly, increasing BH2 synthesis specifically in muscle is sufficient to promote longevity and suppress pathological protein aggregation in distal tissues, even at normal or elevated temperatures. In human cells, BH2 or tyrosine supplementation reduces aggregation of polyQ-expanded proteins associated with Huntington's disease, as well as mutant variants of TDP-43 and FUS that cause amyotrophic lateral sclerosis. Together, these findings identify BH2 as a cold-induced metabolite of which the synthesis, intertissue transport and conversion into bioactive BH4 preserve organism-wide proteostasis and extend lifespan.",
+      "summaryZh": "适度寒冷的温度可延长物种的寿命并促进健康 1-3 ，但这些益处背后的分子机制仍不清楚。在这里，我们定义了一个代谢物驱动的多组织信号系统，该系统将低温与秀丽隐杆线虫的寿命延长和蛋白质稳态联系起来。寒冷的温度会上调生物蝶呤合成酶 CAT-4（人类的 GCH1），增加二氢生物蝶呤 (BH2) 的产量，二氢生物蝶呤 (BH2) 是生物活性辅因子四氢生物蝶呤 (BH4) 的可运输储存库。 BH2 在肌肉中产生并转运至远端组织，包括肠道和神经元，并在其中被补救酶 DHFR-1 转化为 BH4。 BH4 作为苯丙氨酸羟化酶 PAH-1 的重要辅助因子，促进酪氨酸合成并延长寿命。该 BH2-BH4 轴还可以防止衰老过程中与疾病相关的蛋白质聚集和随后的神经元功能障碍。重要的是，即使在正常或升高的温度下，特别是在肌肉中增加 BH2 合成也足以延长寿命并抑制远端组织中的病理性蛋白质聚集。在人类细胞中，补充 BH2 或酪氨酸可减少与亨廷顿病相关的 PolyQ 扩增蛋白的聚集，以及导致肌萎缩侧索硬化症的 TDP-43 和 FUS 突变体的聚集。总之，这些发现将 BH2 确定为一种冷诱导代谢物，其合成、组织间运输和转化为生物活性 BH4 可维持整个生物体的蛋白质稳态并延长寿命。",
+      "translationSource": "fb5815f70ad5a519"
+    },
+    {
+      "pmid": "42716028",
+      "title": "Let there be multifunctionality: Uncovering the dynamical zoo of the AC-DC genetic circuit.",
+      "titleZh": "让它具有多功能性：揭示交流-直流遗传电路的动态动物园。",
+      "journal": "Cell Systems",
+      "year": 2026,
+      "published": "2026-10-21",
+      "doi": "10.1016/j.cels.2026.101715",
+      "doiUrl": "https://doi.org/10.1016/j.cels.2026.101715",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42716028/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Gene regulatory networks (GRNs) govern many cell processes. While multistability and oscillations are common GRN dynamics, they are typically studied and engineered in isolation. Here, we challenge this separation using the AC-DC circuit, a minimal three-gene network that merges the classical toggle switch and repressilator. Using a thermodynamic formalism and Bayesian inference, we show that a single-inducer version of the circuit displays diverse multifunctional dynamics, including coexistence of oscillations and multistability. We explore robustness, classify emergent behaviors, and analyze critical slowing down. Remarkably, the AC-DC circuit can produce more than thirty topologically distinct bifurcation diagrams, results that challenge the classical view that network topology rigidly constrains dynamical outcomes. This flexibility enables synthetic capabilities coupling hysteresis with oscillations, criticality, and reversibility. By uncovering the potential of minimal genetic circuits and outlining design principles for their implementation, this work opens directions for harnessing emergent complexity using the basic building blocks of life. A record of this paper's transparent peer review process is included in the supplemental information.",
+      "summaryZh": "基因调控网络（GRN）控制许多细胞过程。虽然多稳定性和振荡是常见的 GRN 动力学，但它们通常是单独研究和设计的。在这里，我们使用 AC-DC 电路来挑战这种分离，这是一个融合了经典拨动开关和抑制器的最小三基因网络。使用热力学形式和贝叶斯推理，我们证明了电路的单感应器版本显示出多种多功能动力学，包括振荡和多稳定性的共存。我们探索稳健性，对紧急行为进行分类，并分析关键的放缓。值得注意的是，AC-DC 电路可以产生三十多个拓扑不同的分叉图，这些结果挑战了网络拓扑严格限制动态结果的经典观点。这种灵活性使得合成能力能够将滞后与振荡、临界性和可逆性耦合起来。通过揭示最小遗传电路的潜力并概述其实施的设计原则，这项工作为利用生命的基本构建模块驾驭突发的复杂性开辟了方向。补充信息中包含了本文透明同行评审过程的记录。",
+      "translationSource": "b07d35d06dd7becc"
+    },
+    {
+      "pmid": "42906555",
+      "title": "Proteasome inhibition bidirectionally regulates ferroptosis sensitivity.",
+      "titleZh": "蛋白酶体抑制双向调节铁死亡敏感性。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-10-21",
+      "doi": "10.1016/j.chembiol.2026.09.020",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.09.020",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42906555/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Ferroptosis is a non-apoptotic cell death mechanism whose fundamental regulation continues to be elucidated. The proteasome is an essential multiprotein complex important for protein turnover. How proteasome function regulates ferroptosis is difficult to study given that proteasome inhibition causes apoptosis. Here, we isolated the effects of proteasome inhibition on ferroptosis by combining small molecule cell death inducers, pathway-specific cell death inhibitors, and direct cell death imaging. We find that proteasome inhibition enhances sensitivity to ferroptosis induced by glutathione peroxidase 4 (GPX4) inhibition while simultaneously promoting resistance to ferroptosis induced by system x c - inhibition. Sensitization to GPX4 inhibition requires protein synthesis but not the apoptosis execution machinery and is opposed by the activating transcription factor 4 (ATF4) stress response pathway. These findings establish proteasome-mediated protein turnover as a context-dependent regulator of ferroptosis and identify protein synthesis and ATF4 as key determinants of GPX4 inhibitor sensitivity.",
+      "summaryZh": "铁死亡是一种非凋亡性细胞死亡机制，其基本调控机制仍在不断阐明。蛋白酶体是一种重要的多蛋白复合物，对蛋白质周转非常重要。鉴于蛋白酶体抑制会导致细胞凋亡，因此很难研究蛋白酶体功能如何调节铁死亡。在这里，我们通过结合小分子细胞死亡诱导剂、途径特异性细胞死亡抑制剂和直接细胞死亡成像来分离蛋白酶体抑制对铁死亡的影响。我们发现蛋白酶体抑制增强了对谷胱甘肽过氧化物酶 4 (GPX4) 抑制引起的铁死亡的敏感性，同时增强了对系统 x c 抑制引起的铁死亡的抵抗力。对 GPX4 抑制的敏感性需要蛋白质合成，但不需要细胞凋亡执行机制，并且与激活转录因子 4 (ATF4) 应激反应途径相反。这些发现确立了蛋白酶体介导的蛋白质周转作为铁死亡的背景依赖性调节剂，并确定蛋白质合成和 ATF4 是 GPX4 抑制剂敏感性的关键决定因素。",
+      "translationSource": "d2aed974a2de70a2"
+    },
+    {
+      "pmid": "42906538",
+      "title": "Proteomic atlas of T cell exhaustion defines proteostatic collapse.",
+      "titleZh": "T 细胞耗竭的蛋白质组图谱定义了蛋白质抑制崩溃。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-10-21",
+      "doi": "10.1016/j.cell.2026.09.051",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.09.051",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42906538/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome, proteostasis。",
+      "abstractEn": "T cell exhaustion limits the success of cancer immunotherapies, yet the proteomic changes underlying this dysfunctional state remain poorly understood. We integrated transcriptomics, quantitative proteomics, turnover proteomics, and ubiquitin proteomics to construct a multi-omic atlas of T cell exhaustion. These studies identified pathways regulated through transcriptional and post-translational mechanisms, including degradative and nondegradative ubiquitin modifications, and uncovered widespread changes in proteostasis, metabolism, and DNA repair. Major shifts were revealed in the ubiquitin-proteasome system, as differential expression of E3 ubiquitin ligases correlates with immunotherapy outcomes. These findings position the collapse of proteostasis as a central, underappreciated feature of T cell exhaustion and reveal opportunities to restore T cell function. We demonstrate that overexpression of the E3 ligase RNF166 enhances T cell persistence in vitro and in vivo. This work defines proteome-turnover dynamics as a critical regulatory layer in progressive T cell dysfunction, with broad implications for advancing cancer immunotherapy through manipulation of E3 ligases.",
+      "summaryZh": "T 细胞耗竭限制了癌症免疫疗法的成功，但这种功能失调状态背后的蛋白质组变化仍然知之甚少。我们整合了转录组学、定量蛋白质组学、周转蛋白质组学和泛素蛋白质组学，构建了 T 细胞耗竭的多组学图谱。这些研究确定了通过转录和翻译后机制调节的途径，包括降解和非降解泛素修饰，并揭示了蛋白质稳态、代谢和 DNA 修复的广泛变化。泛素-蛋白酶体系统发生了重大变化，因为 E3 泛素连接酶的差异表达与免疫治疗结果相关。这些发现将蛋白质稳态的崩溃定位为 T 细胞耗竭的一个核心但未被充分认识的特征，并揭示了恢复 T 细胞功能的机会。我们证明 E3 连接酶 RNF166 的过度表达可增强 T 细胞在体外和体内的持久性。这项工作将蛋白质组更新动态定义为进行性 T 细胞功能障碍的关键调节层，对于通过 E3 连接酶的操作推进癌症免疫治疗具有广泛的影响。",
+      "translationSource": "ce83ef39081ce265"
+    },
     {
       "pmid": "42901160",
       "title": "Proteome-wide C-degron activity profiling connects conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
@@ -23,6 +151,27 @@
       "abstractEn": "Many E3 ubiquitin ligases recognize degrons located at protein termini, but the paucity of bona fide substrates of N-degron and C-degron pathways hampers our understanding of their physiological significance. Devising an expression screening strategy to assess the effect of C-terminal \"capping\" on the stability of thousands of human proteins, we systematically identify substrates harboring C-degrons. Interrogating one leading candidate, ZMYND19, we characterize a C-degron pathway governed via the C-terminal to LisH (CTLH) E3 ligase complex subunit Muskelin. Cell-to-cell variability in ZMYND19 stability uncovered conditional regulation, with CTLH-mediated degradation impaired by TNF-α stimulation but enhanced by mTOR inhibition. Parallel genetic and proteomic screens identified angio-associated migratory protein (AAMP) and apoptosis-enhancing nuclease (AEN) as additional substrates of the CTLH Muskelin C-degron pathway, leading us to define an essential role for AAMP in ribosome maturation through chaperone activity toward uL16. Altogether, these data define a C-degron pathway connecting conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
       "summaryZh": "许多E3泛素连接酶识别位于蛋白质末端的降解决定子，但N-降解决定子和C-降解决定子途径的真正底物的缺乏阻碍了我们对其生理意义的理解。我们设计了一种表达筛选策略来评估 C 末端“加帽”对数千种人类蛋白质稳定性的影响，系统地鉴定了含有 C 降解决定子的底物。通过询问一个主要候选物 ZMYND19，我们描述了通过 LisH (CTLH) E3 连接酶复合物亚基 Muskelin 的 C 末端控制的 C 降解决定子通路。 ZMYND19 稳定性的细胞间变异揭示了条件调节，CTLH 介导的降解会因 TNF-α 刺激而受损，但会因 mTOR 抑制而增强。并行遗传和蛋白质组筛选鉴定出血管相关迁移蛋白 (AAMP) 和凋亡增强核酸酶 (AEN) 作为 CTLH Muskelin C-degron 通路的额外底物，这使我们能够通过对 uL16 的分子伴侣活性来定义 AAMP 在核糖体成熟中的重要作用。总而言之，这些数据定义了将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生连接起来的 C-降解决定子途径。",
       "translationSource": "2a947f0d0f0f641c"
+    },
+    {
+      "pmid": "42905518",
+      "title": "SMURFs regulate mesendoderm differentiation through SMAD2-dependent ubiquitination of CDK9.",
+      "titleZh": "SMURF 通过 SMAD2 依赖性 CDK9 泛素化来调节中内胚层分化。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-20",
+      "doi": "10.1016/j.celrep.2026.118172",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118172",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42905518/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Precise control of transcriptional timing is essential during embryonic development, where dynamic gene expression programs govern lineage specification. Promoter-proximal pausing of RNA polymerase II (Pol II) and its regulated release into productive elongation constitute a critical checkpoint in transcriptional regulation. Nodal, a transforming growth factor β (TGF-β) family morphogen, promotes mesendoderm differentiation through SMAD2-dependent transcription, in part by promoting cyclin-dependent kinase 9 (CDK9)-mediated release of paused Pol II. While mechanisms of transcriptional activation downstream of Nodal are well characterized, how this transcriptional program is attenuated during gastrulation remains unclear. Here, we show that E3 ubiquitin ligases SMAD Ubiquitination Regulatory Factor (SMURF) 1 and SMURF2 are critical regulators of SMAD2-driven transcription. SMURF1/2 ubiquitinate CDK9 and promote its proteasome-mediated degradation, thereby restraining CDK9-dependent promoter-proximal pause release and productive transcription of SMAD2-dependent genes. Loss of SMURF function stabilizes CDK9, increases its occupancy at SMAD2 target genes, and enhances Pol II pause release, thereby sustaining mesendodermal gene expression. These findings reveal a ubiquitin-dependent mechanism that restricts morphogen-induced gene expression and ensures timely developmental progression. Published by Elsevier Inc.",
+      "summaryZh": "转录时间的精确控制在胚胎发育过程中至关重要，其中动态基因表达程序控制着谱系规范。 RNA 聚合酶 II (Pol II) 的启动子近端暂停及其调节释放到生产性延伸构成了转录调控的关键检查点。 Nodal 是一种转化生长因子 β (TGF-β) 家族形态发生素，通过 SMAD2 依赖性转录促进中内胚层分化，部分是通过促进细胞周期蛋白依赖性激酶 9 (CDK9) 介导的暂停 Pol II 的释放。虽然 Nodal 下游转录激活机制已得到很好的表征，但这种转录程序在原肠胚形成过程中如何减弱仍不清楚。在这里，我们证明 E3 泛素连接酶 SMAD 泛素化调节因子 (SMURF) 1 和 SMURF2 是 SMAD2 驱动转录的关键调节因子。 SMURF1/2 泛素化 CDK9 并促进其蛋白酶体介导的降解，从而抑制 CDK9 依赖性启动子近端暂停释放和 SMAD2 依赖性基因的高效转录。 SMURF 功能的丧失可稳定 CDK9，增加其对 SMAD2 靶基因的占据，并增强 Pol II 暂停释放，从而维持中内胚层基因表达。这些发现揭示了一种泛素依赖性机制，该机制限制形态发生素诱导的基因表达并确保及时的发育进展。由爱思唯尔公司出版",
+      "translationSource": "39a6158f369fb120"
     },
     {
       "pmid": "42897348",
@@ -883,6 +1032,27 @@
       "translationSource": "be2281eaab58d41e"
     },
     {
+      "pmid": "42749806",
+      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
+      "titleZh": "粘连蛋白重塑复制叉接触，以帮助复制叉减慢和逆转。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41586-026-11034-0",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11034-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749806/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "DNA replication forks can be challenged by cancer chemotherapeutic treatments, leading to accumulation of single-stranded DNA and slowdown of DNA synthesis. The marked plasticity of replication forks under replication stress ensures fork stability, damage tolerance and complete genome duplication 1 . Initiation and progression of replication forks occur in a three-dimensionally organized genome. DNA loop extrusion by the cohesin complex organizes the genome 2 and regulates the initiation and positioning of DNA replication origins 3,4 . Although transient interaction of sister forks was recently reported during unperturbed replication 5 , the functional relevance of fork contacts during replication stress and the role of cohesin in this context remain unknown. Here we show that cohesin-mediated loop extrusion rearranges nascent DNA contacts at stressed replication forks to promote genome stability. Using auxin-inducible degron 6 , separation-of-function mutants 7-9 and a newly developed Micro-C-based technique to capture chromatin contacts at nascent DNA (Repli-C), we found that loop-extruding cohesin accumulates at stalled replication forks, limiting sister-fork coupling in favour of inter-replicon contacts. This process promotes active fork slowing and reversal by preventing PRIMPOL action on single-stranded DNA 1 . These findings show that the replication stress response is not merely an accumulation of individual regulatory events, but is topologically integrated across the genome through cohesin loop extrusion. While providing a new function for loop-extruding cohesin, our results indicate the potential impact on cancer therapy of frequent cohesin mutations in tumours 10 .",
+      "summaryZh": "DNA 复制叉可能会受到癌症化疗的挑战，导致单链 DNA 积累和 DNA 合成减慢。复制叉在复制压力下的显着可塑性确保了复制叉的稳定性、损伤耐受性和完整的基因组复制 1 。复制叉的启动和进展发生在三维组织的基因组中。由粘连蛋白复合物挤出的 DNA 环组织基因组 2 并调节 DNA 复制起点的启动和定位 3,4 。尽管最近报道了在不受干扰的复制过程中姐妹叉的短暂相互作用 5 ，但在复制应激期间叉接触的功能相关性以及粘连蛋白在这种情况下的作用仍然未知。在这里，我们展示了粘连蛋白介导的环挤压在受压复制叉处重新排列新生DNA接触，以促进基因组稳定性。使用生长素诱导的降解决定子 6 、功能分离突变体 7-9 和新开发的基于 Micro-C 的技术来捕获新生 DNA (Repli-C) 上的染色质接触，我们发现环挤出粘连蛋白在停滞的复制叉处积累，限制姐妹叉耦合，有利于复制子间接触。该过程通过阻止 PRIMPOL 对单链 DNA 的作用来促进活性分叉减慢和逆转 1 。这些发现表明，复制应激反应不仅仅是单个调控事件的积累，而是通过粘连蛋白环挤出在整个基因组中进行拓扑整合。在为环挤出粘连蛋白提供新功能的同时，我们的结果表明肿瘤中频繁的粘连蛋白突变对癌症治疗的潜在影响 10 。",
+      "translationSource": "7ea445e9ee521282"
+    },
+    {
       "pmid": "42717093",
       "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK.",
       "titleZh": "TRI-611，一种选择性脑渗透性 ALK 分子胶降解剂。",
@@ -1665,27 +1835,6 @@
       "translationSource": "7b8f9ec0590df87f"
     },
     {
-      "pmid": "42749806",
-      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
-      "titleZh": "粘连蛋白重塑复制叉接触，以帮助复制叉减慢和逆转。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-09-16",
-      "doi": "10.1038/s41586-026-11034-0",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-11034-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749806/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "DNA replication forks can be challenged by cancer chemotherapeutic treatments, leading to accumulation of single-stranded DNA and slowdown of DNA synthesis. The marked plasticity of replication forks under replication stress ensures fork stability, damage tolerance and complete genome duplication 1 . Initiation and progression of replication forks occur in a three-dimensionally organized genome. DNA loop extrusion by the cohesin complex organizes the genome 2 and regulates the initiation and positioning of DNA replication origins 3,4 . Although transient interaction of sister forks was recently reported during unperturbed replication 5 , the functional relevance of fork contacts during replication stress and the role of cohesin in this context remain unknown. Here we show that cohesin-mediated loop extrusion rearranges nascent DNA contacts at stressed replication forks to promote genome stability. Using auxin-inducible degron 6 , separation-of-function mutants 7-9 and a newly developed Micro-C-based technique to capture chromatin contacts at nascent DNA (Repli-C), we found that loop-extruding cohesin accumulates at stalled replication forks, limiting sister-fork coupling in favour of inter-replicon contacts. This process promotes active fork slowing and reversal by preventing PRIMPOL action on single-stranded DNA 1 . These findings show that the replication stress response is not merely an accumulation of individual regulatory events, but is topologically integrated across the genome through cohesin loop extrusion. While providing a new function for loop-extruding cohesin, our results indicate the potential impact on cancer therapy of frequent cohesin mutations in tumours 10 .",
-      "summaryZh": "DNA 复制叉可能会受到癌症化疗的挑战，导致单链 DNA 积累和 DNA 合成减慢。复制叉在复制压力下的显着可塑性确保了复制叉的稳定性、损伤耐受性和完整的基因组复制 1 。复制叉的启动和进展发生在三维组织的基因组中。由粘连蛋白复合物挤出的 DNA 环组织基因组 2 并调节 DNA 复制起点的启动和定位 3,4 。尽管最近报道了在不受干扰的复制过程中姐妹叉的短暂相互作用 5 ，但在复制应激期间叉接触的功能相关性以及粘连蛋白在这种情况下的作用仍然未知。在这里，我们展示了粘连蛋白介导的环挤压在受压复制叉处重新排列新生DNA接触，以促进基因组稳定性。使用生长素诱导的降解决定子 6 、功能分离突变体 7-9 和新开发的基于 Micro-C 的技术来捕获新生 DNA (Repli-C) 上的染色质接触，我们发现环挤出粘连蛋白在停滞的复制叉处积累，限制姐妹叉耦合，有利于复制子间接触。该过程通过阻止 PRIMPOL 对单链 DNA 的作用来促进活性分叉减慢和逆转 1 。这些发现表明，复制应激反应不仅仅是单个调控事件的积累，而是通过粘连蛋白环挤出在整个基因组中进行拓扑整合。在为环挤出粘连蛋白提供新功能的同时，我们的结果表明肿瘤中频繁的粘连蛋白突变对癌症治疗的潜在影响 10 。",
-      "translationSource": "7ea445e9ee521282"
-    },
-    {
       "pmid": "42747968",
       "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation.",
       "titleZh": "TCF25 作为营养传感器，通过增强葡萄糖饥饿下的溶酶体酸化来协调代谢适应和细胞死亡。",
@@ -1896,27 +2045,6 @@
       "abstractEn": "The pace of embryonic development differs between mammalian species, yet the molecular basis for this remains unknown. By comparing protein dynamics in mouse and human neural progenitors (NPs), we show that protein turnover is faster in mouse NPs, driven by higher rates of protein synthesis and degradation. Human NPs exhibit longer protein half-lives, reduced proteasomal activity, and lower proteasome abundance. These differences persist in post-mitotic neurons and are also observed in the embryonic spinal cord in vivo. Pharmacological inhibition of proteasomal activity slows differentiation in mouse NPs. Conversely, enhancing proteasomal activity accelerates neuronal output in human NPs. Moreover, accelerating the degradation of the key transcriptional repressor IRX3 in mouse NPs speeds the activation of its target gene. Together, these results provide evidence that species-specific regulation of proteasome-mediated proteolysis influences the timing of neural development and suggest that evolutionary tuning of proteasomal activity contributes to differences in embryonic developmental pace.",
       "summaryZh": "哺乳动物物种之间的胚胎发育速度有所不同，但其分子基础仍然未知。通过比较小鼠和人类神经祖细胞 (NP) 中的蛋白质动态，我们发现小鼠 NP 中的蛋白质周转速度更快，这是由更高的蛋白质合成和降解率驱动的。人类纳米颗粒表现出更长的蛋白质半衰期、降低的蛋白酶体活性和更低的蛋白酶体丰度。这些差异在有丝分裂后神经元中持续存在，并且在体内胚胎脊髓中也观察到。蛋白酶体活性的药理抑制可减缓小鼠 NP 的分化。相反，增强蛋白酶体活性会加速人类纳米颗粒的神经元输出。此外，加速小鼠 NP 中关键转录抑制因子 IRX3 的降解，可加速其靶基因的激活。总之，这些结果提供了证据，表明蛋白酶体介导的蛋白水解的物种特异性调节影响神经发育的时间，并表明蛋白酶体活性的进化调整有助于胚胎发育速度的差异。",
       "translationSource": "e206ecaaabfcd53d"
-    },
-    {
-      "pmid": "42716028",
-      "title": "Let there be multifunctionality: Uncovering the dynamical zoo of the AC-DC genetic circuit.",
-      "titleZh": "让它具有多功能性：揭示交流-直流遗传电路的动态动物园。",
-      "journal": "Cell Systems",
-      "year": 2026,
-      "published": "2026-09-09",
-      "doi": "10.1016/j.cels.2026.101715",
-      "doiUrl": "https://doi.org/10.1016/j.cels.2026.101715",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42716028/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "genetic circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
-      "abstractEn": "Gene regulatory networks (GRNs) govern many cell processes. While multistability and oscillations are common GRN dynamics, they are typically studied and engineered in isolation. Here, we challenge this separation using the AC-DC circuit, a minimal three-gene network that merges the classical toggle switch and repressilator. Using a thermodynamic formalism and Bayesian inference, we show that a single-inducer version of the circuit displays diverse multifunctional dynamics, including coexistence of oscillations and multistability. We explore robustness, classify emergent behaviors, and analyze critical slowing down. Remarkably, the AC-DC circuit can produce more than thirty topologically distinct bifurcation diagrams, results that challenge the classical view that network topology rigidly constrains dynamical outcomes. This flexibility enables synthetic capabilities coupling hysteresis with oscillations, criticality, and reversibility. By uncovering the potential of minimal genetic circuits and outlining design principles for their implementation, this work opens directions for harnessing emergent complexity using the basic building blocks of life. A record of this paper's transparent peer review process is included in the supplemental information.",
-      "summaryZh": "基因调控网络（GRN）控制许多细胞过程。虽然多稳定性和振荡是常见的 GRN 动力学，但它们通常是单独研究和设计的。在这里，我们使用 AC-DC 电路来挑战这种分离，这是一个融合了经典拨动开关和抑制器的最小三基因网络。使用热力学形式和贝叶斯推理，我们证明了电路的单感应器版本显示出多种多功能动力学，包括振荡和多稳定性的共存。我们探索稳健性，对紧急行为进行分类，并分析关键的放缓。值得注意的是，AC-DC 电路可以产生三十多个拓扑不同的分叉图，这些结果挑战了网络拓扑严格限制动态结果的经典观点。这种灵活性使得合成能力能够将滞后与振荡、临界性和可逆性耦合起来。通过揭示最小遗传电路的潜力并概述其实施的设计原则，这项工作为利用生命的基本构建模块驾驭突发的复杂性开辟了方向。补充信息中包含了本文透明同行评审过程的记录。",
-      "translationSource": "b07d35d06dd7becc"
     },
     {
       "pmid": "42838957",
