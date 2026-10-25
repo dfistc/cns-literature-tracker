@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T02:07:53+00:00",
+  "updatedAt": "2026-10-25T01:54:13+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -44,6 +44,70 @@
       "abstractEn": "Nuclear envelope (NE) reassembly is essential for the zygote-to-totipotency transition in mammalian embryos. Beyond its classical roles in nuclear transport and maintenance of the RanGTP gradient, the function of RanGAP1 in embryonic NE reassembly has remained elusive. Here, we show that RanGAP1 localizes to the early embryonic NE, driving reassembly via a distinct structural mechanism. Trim-Away-mediated RanGAP1 depletion causes two-cell stage arrest and severe NE defects, including nuclear pore complex (NPC) loss, failed reassembly, and aberrant \"fishnet\" membrane structures. Mechanistically, RanGAP1 establishes a structural paradigm for endoplasmic reticulum (ER)-lamina coupling by recruiting Lamin A/C, B1, and B2 to the ER for coassembly. The acidic domain and SUMO-1 modification at Lys 526 (K526) are essential for the NPC localization of RanGAP1. Thus, RanGAP1 orchestrates nuclear lamina (NL) assembly by targeting lamins to the ER. These findings uncover mechanisms of NE reassembly that are critical for early embryogenesis and provide insights into NE-related developmental disorders.",
       "summaryZh": "核膜（NE）重组对于哺乳动物胚胎中受精卵向全能性的转变至关重要。除了在核运输和维持 RanGTP 梯度中的经典作用之外，RanGAP1 在胚胎 NE 重组中的功能仍然难以捉摸。在这里，我们表明 RanGAP1 定位于早期胚胎 NE，通过独特的结构机制驱动重组。 Trim-Away 介导的 RanGAP1 耗竭会导致两细胞阶段停滞和严重的 NE 缺陷，包括核孔复合体 (NPC) 丢失、重组失败和异常的“鱼网”膜结构。从机制上讲，RanGAP1 通过将核纤层蛋白 A/C、B1 和 B2 招募到 ER 进行共组装，建立了内质网 (ER)-核纤层耦合的结构范例。 Lys 526 (K526) 的酸性结构域和 SUMO-1 修饰对于 RanGAP1 的 NPC 定位至关重要。因此，RanGAP1 通过将核纤层靶向 ER 来协调核纤层 (NL) 组装。这些发现揭示了对早期胚胎发生至关重要的 NE 重组机制，并为与 NE 相关的发育障碍提供了见解。",
       "translationSource": "c51b9c2ef806e149"
+    },
+    {
+      "pmid": "42919905",
+      "title": "Autologous erythrocyte microparticles drive antitumour T cell immunity via haem-mediated dendritic cell activation.",
+      "titleZh": "自体红细胞微粒通过血红素介导的树突状细胞激活驱动抗肿瘤 T 细胞免疫。",
+      "journal": "Nature Biomedical Engineering",
+      "year": 2026,
+      "published": "2026-10-23",
+      "doi": "10.1038/s41551-026-01795-4",
+      "doiUrl": "https://doi.org/10.1038/s41551-026-01795-4",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42919905/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Current vaccine adjuvants, such as aluminum salts and emulsions, are limited by weak induction of cytotoxic T cell immunity and restricted ability to promote T helper type 1 responses, highlighting the need for safer and more effective alternatives. Here we show that microparticles generated from erythrocytes by controlled ultraviolet irradiation function as potent T helper type 1-skewing adjuvants that enhance tumour antigen-specific cytotoxic T cell responses in vitro and in multiple mouse tumour models. Following uptake by dendritic cells, these microparticles traffic to lysosomes and deliver haem cargo that is subsequently transported to the nucleus. Mechanistically, the particles elevate lysosomal pH, promoting lysosome movement towards the nucleus and enabling haem transfer, where haem activates REV-ERB⍺ and forms a co-repressor complex that suppresses peroxisome proliferator-activated receptor gamma, thereby relieving inhibition of dendritic cell maturation and antigen presentation. In vaccination settings, combining tumour antigens with erythrocyte-derived microparticles enhances cytotoxic T cell activation and suppresses tumour growth with minimal toxicity. These findings establish host-derived vesicles as a promising platform for next-generation cancer vaccine adjuvants.",
+      "summaryZh": "目前的疫苗佐剂，如铝盐和乳剂，受到细胞毒性 T 细胞免疫诱导能力弱和促进 1 型辅助 T 反应的能力有限的限制，这凸显了对更安全、更有效的替代品的需求。在这里，我们表明，通过受控紫外线照射由红细胞产生的微粒可作为有效的 1 型辅助性 T 佐剂，在体外和多种小鼠肿瘤模型中增强肿瘤抗原特异性细胞毒性 T 细胞反应。被树突状细胞摄取后，这些微粒运输至溶酶体并输送血红素货物，随后将其转运至细胞核。从机制上讲，这些颗粒提高了溶酶体的 pH 值，促进溶酶体向细胞核移动并实现血红素转移，其中血红素激活 REV-ERB⍺ 并形成抑制过氧化物酶体增殖物激活受体 γ 的共阻遏物复合物，从而缓解对树突状细胞成熟和抗原呈递的抑制。在疫苗接种环境中，将肿瘤抗原与红细胞衍生的微粒结合可以增强细胞毒性 T 细胞的激活并以最小的毒性抑制肿瘤生长。这些发现确立了宿主来源的囊泡作为下一代癌症疫苗佐剂的有前景的平台。",
+      "translationSource": "f8e00f4841757b1f"
+    },
+    {
+      "pmid": "42913640",
+      "title": "Programmable apoptosis circuits enable subtractive engineering of stem cell-derived organoids and embryoids.",
+      "titleZh": "可编程凋亡电路能够对干细胞衍生的类器官和胚状体进行消减工程。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-10-22",
+      "doi": "10.1016/j.stem.2026.09.015",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.09.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913640/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Pluripotent stem cell-derived multicellular systems provide a promising platform for studying development and disease. However, they do not faithfully mirror their in vivo counterparts due to the presence of aberrant cells. Similarly, aberrant cell types emerge during tissue development in multicellular organisms but are effectively removed via proofreading mechanisms that often exploit apoptosis. Yet, the design and engineering of such processes are notably absent from current approaches for building stem cell-derived multicellular systems. We address this gap by introducing a \"subtractive multicellular engineering\" approach, using genetic circuits that integrate logic-gated computing and synthetic apoptosis. Through this approach, we enhance tissue maturity in human pluripotent stem cell-derived liver organoids. Additionally, we demonstrate the versatility of this approach in a human post-implantation embryo model, where it improves pro-amniotic cavity development, a key morphogenetic feature. Our results establish a framework for building tissues in vitro via controlled elimination of aberrant cells during morphogenesis.",
+      "summaryZh": "多能干细胞衍生的多细胞系统为研究发育和疾病提供了一个有前途的平台。然而，由于异常细胞的存在，它们并不能忠实地反映体内的对应物。类似地，异常细胞类型在多细胞生物的组织发育过程中出现，但通过经常利用细胞凋亡的校对机制被有效去除。然而，目前构建干细胞衍生的多细胞系统的方法中明显缺乏此类过程的设计和工程。我们通过引入“减法多细胞工程”方法来解决这一差距，该方法使用集成了逻辑门控计算和合成细胞凋亡的遗传电路。通过这种方法，我们增强了人类多能干细胞衍生的肝脏类器官的组织成熟度。此外，我们在人类植入后胚胎模型中证明了这种方法的多功能性，它可以改善羊膜腔发育，这是一个关键的形态发生特征。我们的结果建立了一个通过在形态发生过程中控制消除异常细胞来构建体外组织的框架。",
+      "translationSource": "a6edac0c6d8ccea5"
+    },
+    {
+      "pmid": "42913633",
+      "title": "Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct biology and targetable vulnerabilities.",
+      "titleZh": "微卫星稳定结直肠癌的多组学特征揭示了独特的生物学和可靶向的脆弱性。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-10-22",
+      "doi": "10.1016/j.ccell.2026.09.014",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.09.014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913633/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Microsatellite-stable (MSS) colorectal cancer (CRC) is a molecularly complex and clinically challenging disease subtype, lacking effective targeted therapies. Leveraging multiomic data from ∼2,000 tumor samples (including 316MSS CRCs not previously profiled) representing ∼4,500 molecular profiles and 195,246 single cells/nuclei, we uncover complex biology and therapeutic vulnerabilities. Application of a multiomic-phenomic integrative framework, including iPhenMap (a machine-learning tool), reveals complex molecular programs, including replication stress, right-sided biology, glutaminolysis-driven metabolic reprogramming, and MYC-E2F transcriptional networks governing epigenetic remodeling and perineural invasion. Focusing on RAS-mutant MSS CRC, functional validation in state-of-the-art patient-derived tumoroid and matched xenograft models confirms focal adhesion kinase (FAK), phosphoinositide-dependent kinase (PDK)1/2, and proteasome inhibition as potential therapeutic strategies when combined with mitogen-activated protein kinase (MEK) blockade. This work underscores the power of integrated multiomic profiling and functional modeling to refine potential treatment approaches in MSS CRC patient populations.",
+      "summaryZh": "微卫星稳定（MSS）结直肠癌（CRC）是一种分子复杂且具有临床挑战性的疾病亚型，缺乏有效的靶向治疗。利用代表约 4,500 个分子谱和 195,246 个单细胞/细胞核的约 2,000 个肿瘤样本（包括先前未分析的 316MSS CRC）的多组学数据，我们揭示了复杂的生物学和治疗漏洞。应用多组学-表型组整合框架，包括 iPhenMap（一种机器学习工具），揭示了复杂的分子程序，包括复制应激、右侧生物学、谷氨酰胺分解驱动的代谢重编程以及控制表观遗传重塑和神经周围侵袭的 MYC-E2F 转录网络。专注于 RAS 突变 MSS CRC，在最先进的患者源性肿瘤和匹配的异种移植模型中进行的功能验证证实，粘着斑激酶 (FAK)、磷酸肌醇依赖性激酶 (PDK)1/2 和蛋白酶体抑制与丝裂原激活蛋白激酶 (MEK) 阻断相结合时是潜在的治疗策略。这项工作强调了综合多组学分析和功能建模的力量，以完善 MSS CRC 患者群体的潜在治疗方法。",
+      "translationSource": "5b7d049eff591005"
     },
     {
       "pmid": "42907506",
