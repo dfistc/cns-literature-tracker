@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:56:06+00:00",
+  "updatedAt": "2026-10-27T02:34:01+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1436,6 +1436,27 @@
       "abstractEn": "Immune checkpoint inhibitor (ICI) therapy triggers complications that are currently attributed solely to immune activation. We hypothesized that target tissue-specific mechanisms also play a role and studied these mechanisms in thyrocytes. We found that thyroidal PD-L1 acts as a cytoprotective regulator, promoting cell survival during cytokine-induced stress. PD-L1 suppression in thyrocytes amplified interferon-γ-driven stress by aberrantly activating AKT-ERK-mTORC1, inhibiting autophagy, augmenting cellular stress, and triggering apoptosis. In a mouse model of ICI-thyroiditis, anti-PD-L1 treatment triggered immune activation while promoting thyrocyte apoptosis. Mechanistically, in mice, both pharmacologic and genetic down-regulation of thyroidal PD-L1 caused autophagic defects. Our findings reveal a role for PD-L1 in protecting thyroid tissue from cytokine-mediated stress and suggest that anti-PD-L1 tissue toxicity may reflect both an immune-mediated attack and intrinsic cellular vulnerability. Our data provide a broader framework for understanding ICI adverse events and for guiding the development of treatment strategies.",
       "summaryZh": "免疫检查点抑制剂（ICI）治疗会引发目前仅归因于免疫激活的并发症。我们假设靶组织特异性机制也发挥作用，并研究了甲状腺细胞中的这些机制。我们发现甲状腺 PD-L1 作为细胞保护调节剂，在细胞因子诱导的应激期间促进细胞存活。甲状腺细胞中的 PD-L1 抑制通过异常激活 AKT-ERK-mTORC1、抑制自噬、增加细胞应激并引发细胞凋亡，从而放大干扰素 γ 驱动的应激。在 ICI 甲状腺炎小鼠模型中，抗 PD-L1 治疗触发免疫激活，同时促进甲状腺细胞凋亡。从机制上讲，在小鼠中，甲状腺 PD-L1 的药理和遗传下调会导致自噬缺陷。我们的研究结果揭示了 PD-L1 在保护甲状腺组织免受细胞因子介导的应激中的作用，并表明抗 PD-L1 组织毒性可能反映了免疫介导的攻击和内在的细胞脆弱性。我们的数据为了解 ICI 不良事件和指导治疗策略的制定提供了更广泛的框架。",
       "translationSource": "d6d81c81a7a15f6f"
+    },
+    {
+      "pmid": "42928288",
+      "title": "ARHGEF2 isoform switching couples intestinal epithelial barrier function with autophagic host defense response to pathogens.",
+      "titleZh": "ARHGEF2 亚型转换将肠上皮屏障功能与宿主对病原体的自噬防御反应结合起来。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-24",
+      "doi": "10.1038/s41467-026-78030-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78030-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42928288/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Intestinal epithelial integrity is essential for host defense, yet how epithelial junctional scaffolds coordinate antimicrobial immunity remains unclear. We show that the long GEF-H1 isoforms (mouse Arhgef2-207; human ARHGEF2-219) localize to adherens junctions in polarized epithelial cells through interactions with actin and Nectin-3, whereas the shorter Arhgef2-201 isoform localizes to tight junctions. Conditional deletion of epithelial Arhgef2-207 induces Arhgef2-201 expression, disrupts barrier integrity, activates autophagy, and causes small-intestinal inflammation. In human intestinal organoids, Listeria monocytogenes selectively depletes junction-associated ARHGEF2-219, triggering a switch to ARHGEF2-201 and RhoA- and STING-mediated autophagic signaling. This transition coincides with loss of the Na⁺/K⁺-ATPase and epithelial polarity. Here we show that a pathogen-induced ARHGEF2 isoform switch links junctional perturbation to autophagic responses and immune activation, revealing a mechanism that couples barrier disruption to cell-intrinsic antimicrobial defense.",
+      "summaryZh": "肠上皮完整性对于宿主防御至关重要，但上皮连接支架如何协调抗菌免疫仍不清楚。我们发现，长的 GEF-H1 亚型（小鼠 Arhgef2-207；人 ARHGEF2-219）通过与肌动蛋白和 Nectin-3 的相互作用定位于极化上皮细胞中的粘附连接，而较短的 Arhgef2-201 亚型定位于紧密连接。上皮 Arhgef2-207 的条件性缺失会诱导 Arhgef2-201 表达，破坏屏障完整性，激活自噬，并引起小肠炎症。在人肠道类器官中，单核细胞增多性李斯特菌选择性地消耗连接相关的 ARHGEF2-219，从而触发向 ARHGEF2-201 以及 RhoA 和 STING 介导的自噬信号转导。这种转变与 Na⁺/K⁺-ATP 酶和上皮极性的丧失同时发生。在这里，我们展示了病原体诱导的 ARHGEF2 亚型开关将连接扰动与自噬反应和免疫激活联系起来，揭示了一种将屏障破坏与细胞内在抗菌防御结合起来的机制。",
+      "translationSource": "084725f771637ab1"
     },
     {
       "pmid": "42777087",
