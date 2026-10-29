@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:42:52+00:00",
+  "updatedAt": "2026-10-29T03:02:03+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -46,6 +46,28 @@
       "abstractEn": "Mechanistic target of rapamycin complex 1 (mTORC1) is a nutrient sensor that integrates diverse inputs to regulate protein translation and cell growth. While mTORC1 is activated on the lysosome in the classical model, it has become increasingly clear that this multifaceted signaling complex is active at various subcellular locations, such as the nucleus. However, what specific functions mTORC1 serves at these locations and how its signaling is compartmentalized are unclear. To interrogate subcellular pools of mTORC1, we developed TerminaTOR, a genetically encodable inhibitor of mTORC1 that can be targeted to specific subcellular locations. When TerminaTOR is directed to the lysosome, it inhibits canonical lysosomal mTORC1 and induces autophagy. Furthermore, TerminaTOR targeted to the nucleus specifically inhibits nuclear mTORC1, uncovering noncanonical roles of nuclear mTORC1 in regulating the transcription of CCAAT motif-containing genes. Thus, mTORC1 exhibits functional spatial compartmentalization and TerminaTOR serves as a powerful tool for unraveling spatially regulated functions of mTORC1 across different scales.",
       "summaryZh": "雷帕霉素复合物 1 (mTORC1) 的机械靶标是一种营养传感器，可整合多种输入来调节蛋白质翻译和细胞生长。虽然在经典模型中 mTORC1 在溶酶体上被激活，但越来越清楚的是，这种多方面的信号复合物在各个亚细胞位置（例如细胞核）都具有活性。然而，mTORC1 在这些位置发挥什么具体功能以及其信号传导如何划分尚不清楚。为了研究 mTORC1 的亚细胞库，我们开发了 TerminaTOR，这是一种基因可编码的 mTORC1 抑制剂，可以靶向特定的亚细胞位置。当 TerminaTOR 靶向溶酶体时，它会抑制典型的溶酶体 mTORC1 并诱导自噬。此外，针对细胞核的 TerminaTOR 特异性抑制细胞核 mTORC1，揭示了细胞核 mTORC1 在调节含有 CCAAT 基序的基因转录中的非典型作用。因此，mTORC1 表现出功能性空间划分，而 TerminaTOR 可以作为揭示 mTORC1 在不同尺度上的空间调节功能的强大工具。",
       "translationSource": "aeae36ac619bca1e"
+    },
+    {
+      "pmid": "42949915",
+      "title": "Stress hyperglycemia impairs FOXK2-dependent macrophage cardiac repair after myocardial infarction.",
+      "titleZh": "应激性高血糖会损害心肌梗死后 FOXK2 依赖性巨噬细胞心脏修复。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-28",
+      "doi": "10.1016/j.celrep.2026.118203",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118203",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42949915/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Stress hyperglycemia (SHG) predicts poor outcomes after myocardial infarction (MI), but the underlying mechanisms remain unclear. Here, we identify FOXK2 as a key regulator of macrophage-mediated cardiac repair. FOXK2 expression was reduced in cardiac macrophages from hyperglycemic mice after MI and in peripheral blood mononuclear cells from patients with MI with SHG, whereas macrophage-specific FOXK2 deficiency aggravated cardiac injury. Under high-glucose conditions, FOXK2 was glycosylated at T552 by O-GlcNAc transferase, promoting its ubiquitin-proteasome-dependent degradation. Mass spectrometry and functional assays showed that the FOXK2 T552A variant resisted hyperglycemia-induced degradation. Integrated CUT&Tag and RNA-seq analyses revealed that FOXK2 restrained pro-inflammatory cytokine expression by suppressing H3K27 acetylation. Thus, our findings identify FOXK2 as a critical regulator that supports cardiac repair during hyperglycemia, and targeting excessive FOXK2 O-GlcNAcylation may offer a therapeutic strategy for patients with MI and SHG.",
+      "summaryZh": "应激性高血糖（SHG）可预测心肌梗死（MI）后的不良预后，但其潜在机制仍不清楚。在这里，我们将 FOXK2 确定为巨噬细胞介导的心脏修复的关键调节因子。 MI后高血糖小鼠的心脏巨噬细胞以及患有SHG的MI患者的外周血单核细胞中FOXK2表达降低，而巨噬细胞特异性FOXK2缺乏会加重心脏损伤。在高葡萄糖条件下，FOXK2 在 T552 处被 O-GlcNAc 转移酶糖基化，促进其泛素蛋白酶体依赖性降解。质谱分析和功能分析表明 FOXK2 T552A 变体可抵抗高血糖诱导的降解。综合 CUT&Tag 和 RNA-seq 分析表明，FOXK2 通过抑制 H3K27 乙酰化来抑制促炎细胞因子的表达。因此，我们的研究结果确定 FOXK2 是支持高血糖期间心脏修复的关键调节因子，并且针对过度的 FOXK2 O-GlcNAcNA 酰化可能为 MI 和 SHG 患者提供治疗策略。",
+      "translationSource": "91560f125852d140"
     },
     {
       "pmid": "42945212",
@@ -1438,6 +1460,27 @@
       "abstractEn": "Chaperone-mediated autophagy (CMA) is a critical regulator of cancer progression and antiviral responses, often modulated by post-translational modifications. SUMOylation, a reversible post-translational modification, is implicated in viral infection and tumorigenesis, yet its role in CMA regulation remains unclear. Here we demonstrate that oncogenic viruses hijack CMA by inducing nuclear localization and SUMOylation of lysosomal-associated membrane protein 2A (LAMP2A), a central lysosomal receptor. Specifically, tripartite motif containing 32 (TRIM32) mediates SUMO2/3 conjugation to LAMP2A at lysine residues K104, K132 and K289. Using Kaposi's sarcoma-associated herpesvirus as a model, we found that TRIM32-induced LAMP2A SUMOylation activates CMA, thereby promoting viral persistence, tumour growth and angiogenesis in vivo. Importantly, TRIM32 expression positively correlates with LAMP2A in tumour tissues from patients with Kaposi's sarcoma-associated herpesvirus-, Epstein-Barr virus- and human papillomavirus-associated cancers, and peptide inhibitors targeting SUMOylated LAMP2A demonstrate potent antitumour and antiviral efficacy in vitro and in mice. Together, our findings position LAMP2A as a promising druggable target for treating virus-associated cancers.",
       "summaryZh": "伴侣介导的自噬 (CMA) 是癌症进展和抗病毒反应的关键调节因子，通常通过翻译后修饰进行调节。 SUMOylation 是一种可逆的翻译后修饰，与病毒感染和肿瘤发生有关，但其在 CMA 调节中的作用仍不清楚。在此，我们证明致癌病毒通过诱导中央溶酶体受体溶酶体相关膜蛋白 2A (LAMP2A) 的核定位和 SUMO 化来劫持 CMA。具体而言，含有 32 (TRIM32) 的三联基序介导 SUMO2/3 在赖氨酸残基 K104、K132 和 K289 处与 LAMP2A 缀合。使用卡波西肉瘤相关疱疹病毒作为模型，我们发现 TRIM32 诱导的 LAMP2A SUMO 化可激活 CMA，从而促进体内病毒持久性、肿瘤生长和血管生成。重要的是，在卡波西肉瘤相关疱疹病毒、EB 病毒和人乳头瘤病毒相关癌症患者的肿瘤组织中，TRIM32 表达与 LAMP2A 呈正相关，针对 SUMO 化 LAMP2A 的肽抑制剂在体外和小鼠体内表现出有效的抗肿瘤和抗病毒功效。总之，我们的研究结果将 LAMP2A 定位为治疗病毒相关癌症的有前景的药物靶点。",
       "translationSource": "4d836f26dc6e53fe"
+    },
+    {
+      "pmid": "42946762",
+      "title": "Allosteric inhibition of human mitochondrial ClpP by hijacking the dordaviprone (ONC201) binding site.",
+      "titleZh": "通过劫持多达维酮 (ONC201) 结合位点对人线粒体 ClpP 进行变构抑制。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-78140-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78140-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42946762/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "ClpP protease maintains proteostasis in human mitochondria and is overexpressed in cancers such as acute myeloid leukemia (AML). While activators such as dordaviprone (ONC201) have reached the clinic, the development of ClpP inhibitors has been hampered by paradoxical activation upon orthosteric inhibitor binding. Here, we report a series of quinazolinone-based compounds that allosterically inhibit human ClpP with nanomolar potency. Cryo-EM and H/D exchange mass spectrometry reveal that our lead compound binds sub-stoichiometrically to a distal hydrophobic pocket ~30 Å from the active sites, disrupts a conserved inter-subunit cluster, and induces a conformational change that misaligns the catalytic triad, thereby inactivating ClpP. The binding site of our quinazolinone-based inhibitors partially overlaps with that of the activator dordaviprone. In a xenograft mouse model of leukemia, our lead compound significantly reduced tumor burden following short-term oral administration. Our findings identify a regulatory hotspot in human ClpP and a mechanistically distinct inhibition strategy.",
+      "summaryZh": "ClpP 蛋白酶维持人类线粒体中的蛋白质稳态，并在急性髓系白血病 (AML) 等癌症中过度表达。虽然多达维酮 (ONC201) 等激活剂已进入临床，但 ClpP 抑制剂的开发因正位抑制剂结合时的矛盾激活而受到阻碍。在这里，我们报道了一系列基于喹唑啉酮的化合物，它们以纳摩尔效力变构抑制人类 ClpP。 Cryo-EM 和 H/D 交换质谱分析表明，我们的先导化合物以亚化学计量方式与距活性位点约 30 Å 的远端疏水口袋结合，破坏保守的亚基间簇，并诱导构象变化，使催化三联体错位，从而使 ClpP 失活。我们的喹唑啉酮抑制剂的结合位点与激活剂多达维酮的结合位点部分重叠。在白血病异种移植小鼠模型中，我们的先导化合物在短期口服给药后显着降低了肿瘤负荷。我们的研究结果确定了人类 ClpP 的调节热点和机制上不同的抑制策略。",
+      "translationSource": "b6437ba7e422e497"
     },
     {
       "pmid": "42789730",
