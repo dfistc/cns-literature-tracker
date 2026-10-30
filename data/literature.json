@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:02:03+00:00",
+  "updatedAt": "2026-10-30T03:07:18+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -48,6 +48,91 @@
       "translationSource": "aeae36ac619bca1e"
     },
     {
+      "pmid": "42956153",
+      "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival.",
+      "titleZh": "刺激蛋白质降解，促进线粒体功能和神经元存活。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-10-29",
+      "doi": "10.1126/science.aed2525",
+      "doiUrl": "https://doi.org/10.1126/science.aed2525",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42956153/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "induced protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, induced protein degradation。",
+      "abstractEn": "Targeted protein degradation is a promising modality to treat cancer or inflammation, but whether it can provide a similar benefit for disorders caused by pervasive protein dysregulation is unclear. We describe stimulated protein degradation (SPD) as a strategy that leverages agonists of stress-responsive E3 ubiquitin ligases to simultaneously eliminate multiple pathogenic factors. Specifically, we show that activators of the reductive stress response E3 CUL2 FEM1B boost degradation of multiple physiological substrates to improve mitochondrial import and electron transport chain assembly. In this manner, CUL2 FEM1B agonists preserve mitochondrial function and neuronal survival in models of neurodegenerative COX deficiency syndrome and Friedreich's ataxia. By activating E3 ligases that evolved to safeguard cellular integrity, SPD expands the use of compound-induced protein degradation to complex pathologies of high unmet need.",
+      "summaryZh": "靶向蛋白质降解是治疗癌症或炎症的一种有前途的方法，但它是否能为普遍蛋白质失调引起的疾病提供类似的益处尚不清楚。我们将刺激蛋白降解 (SPD) 描述为一种利用应激反应性 E3 泛素连接酶激动剂同时消除多种致病因素的策略。具体来说，我们表明还原应激反应 E3 CUL2 FEM1B 的激活剂可促进多种生理底物的降解，从而改善线粒体输入和电子传递链组装。通过这种方式，CUL2 FEM1B 激动剂可以在神经退行性 COX 缺乏综合征和弗里德赖希共济失调模型中保留线粒体功能和神经元存活。通过激活为保护细胞完整性而进化的 E3 连接酶，SPD 将化合物诱导的蛋白质降解的用途扩展到高度未满足需求的复杂病理学。",
+      "translationSource": "5c4767878c3be805"
+    },
+    {
+      "pmid": "42955949",
+      "title": "Sense-and-respond: Engineered bacteria drive epithelial repair during gut inflammation.",
+      "titleZh": "感知和响应：工程细菌在肠道炎症期间驱动上皮修复。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-29",
+      "doi": "10.1016/j.celrep.2026.118198",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118198",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42955949/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Zhao et al. 1 engineer a reactive oxygen species-responsive probiotic strain of Escherichia coli that senses intestinal inflammation and responds by locally delivering IL-22-Fc to promote epithelial repair, establishing an integrated sense-and-respond platform for inflammatory bowel disease diagnosis and mucosal healing.",
+      "summaryZh": "赵等人。 1 设计了一种活性氧响应型大肠杆菌益生菌菌株，它能够感知肠道炎症，并通过局部递送 IL-22-Fc 来促进上皮修复，从而建立一个用于炎症性肠病诊断和粘膜愈合的综合感知和响应平台。",
+      "translationSource": "9708c01169874c94"
+    },
+    {
+      "pmid": "42955945",
+      "title": "ALS-linked FUS mutation impairs GEMIN5-dependent mRNA recruitment to neuronal late endosomes.",
+      "titleZh": "ALS 相关的 FUS 突变会损害 GEMIN5 依赖性 mRNA 向神经元晚期内体的募集。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-29",
+      "doi": "10.1016/j.celrep.2026.118206",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118206",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42955945/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：endosome。",
+      "abstractEn": "Neurons depend on tightly regulated positioning of cellular components to maintain long-distance signaling, but the mechanisms guiding specific mRNAs to distant regions remain unclear. Here, we show that late endosomes function as selective RNA carriers in human motor neurons and uncover the molecular logic guiding their loading. Using APEX2-mediated proximity labeling, we identify the external transcriptome of RAB7A-positive endosomes and find a specific population of mRNAs enriched for endosomal, axonal, and synaptic functions. We find that mRNAs enriched in RAB7A endosomes contain evolutionarily conserved 5'UTRs that act as localization signals, and that the RNA-binding protein GEMIN5 interacts with these regions to promote endosomal RNA recruitment. Finally, we show that there is a conspicuous loss of endosome-associated transcripts in amyotrophic lateral sclerosis-associated conditions, accompanied by the mislocalization of GEMIN5 from endosomes. These findings uncover fundamental principles of RNA compartmentalization and highlight endosomal mRNA loading as a vulnerable axis in neuronal homeostasis.",
+      "summaryZh": "神经元依靠严格调节的细胞成分定位来维持长距离信号传导，但引导特定 mRNA 到达远处区域的机制仍不清楚。在这里，我们展示了晚期内体在人类运动神经元中作为选择性 RNA 载体发挥作用，并揭示了指导其装载的分子逻辑。使用 APEX2 介导的邻近标记，我们鉴定了 RAB7A 阳性内体的外部转录组，并找到了富含内体、轴突和突触功能的特定 mRNA 群体。我们发现，RAB7A 内体中富集的 mRNA 含有进化上保守的 5'UTR，可作为定位信号，并且 RNA 结合蛋白 GEMIN5 与这些区域相互作用，促进内体 RNA 募集。最后，我们发现，在肌萎缩侧索硬化症相关病症中，内体相关转录物明显丢失，并伴有 GEMIN5 从内体的错误定位。这些发现揭示了 RNA 区室化的基本原理，并强调内体 mRNA 负载是神经元稳态中的一个脆弱轴。",
+      "translationSource": "e06578859058c4ae"
+    },
+    {
+      "pmid": "42950820",
+      "title": "Organoids and organs-on-a-chip as new approach methodologies at the convergence of cell biology and bioengineering.",
+      "titleZh": "类器官和芯片器官作为细胞生物学和生物工程融合的新方法。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-10-28",
+      "doi": "10.1016/j.stem.2026.10.003",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.10.003",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The rapid growth of new approach methodologies (NAMs), including organoids and organs-on-a-chip (OOCs), has revealed a need for interdisciplinary dialogue between cell biologists and bioengineers to develop human models that can best complement therapeutic development. Stem cell-derived and bioengineered human tissue models are redefining how we understand human physiology and pathophysiology, offering control that traditional preclinical models cannot provide. By recapitulating complex tissue microenvironments, multi-organ interactions, and patient-specific biology, these systems are bridging long-standing gaps in the drug development and clinical application pipelines. Here, we synthesize advances in organoids, OOCs, and other bioengineered technologies for translational medicine to identify remaining gaps, including challenges in reproducibility, validation, and regulatory acceptance. Emerging opportunities at the intersection of synthetic biology, multi-omics, machine learning, and genetic engineering are positioning NAMs not merely as improved experimental tools but as foundational platforms for accelerating therapeutic discovery and enabling personalized medicine at scale.",
+      "summaryZh": "包括类器官和芯片器官（OOC）在内的新方法学（NAM）的快速发展表明，细胞生物学家和生物工程师之间需要进行跨学科对话，以开发能够最好地补充治疗发展的人体模型。干细胞衍生和生物工程人体组织模型正在重新定义我们理解人类生理学和病理生理学的方式，提供传统临床前模型无法提供的控制。通过概括复杂的组织微环境、多器官相互作用和患者特异性生物学，这些系统正在弥合药物开发和临床应用管道中长期存在的差距。在这里，我们综合了类器官、OOC 和其他转化医学生物工程技术的进展，以确定剩余的差距，包括再现性、验证和监管接受方面的挑战。合成生物学、多组学、机器学习和基因工程交叉领域的新兴机遇使 NAM 不仅成为改进的实验工具，而且成为加速治疗发现和大规模实现个性化医疗的基础平台。",
+      "translationSource": "68a6cf5bf51b091c"
+    },
+    {
       "pmid": "42949915",
       "title": "Stress hyperglycemia impairs FOXK2-dependent macrophage cardiac repair after myocardial infarction.",
       "titleZh": "应激性高血糖会损害心肌梗死后 FOXK2 依赖性巨噬细胞心脏修复。",
@@ -89,6 +174,156 @@
       "abstractEn": "Tumor-associated neutrophil (TAN) enrichment is a defining feature and driving force of brain metastases (BrMs), a leading cause of death in solid tumors. Yet, the mechanisms governing TAN enrichment in BrM remains undefined. Herein, we demonstrate that BrM cell-derived shed soluble mesothelin (sMSLN) critically prolongs neutrophil survival to facilitate tumor cell colonization and outgrowth in the brain. Specifically, sMSLN binds to toll-like receptor 4 (TLR4) on neutrophil to activate the JAK2-STAT3 pathway. This activation promotes lysosomal biogenesis and function, reducing cellular reactive oxygen species (ROS) and inhibiting neutrophil apoptosis. Neutrophil depletion or TLR4-STAT3 blockade abrogates sMSLN-induced BrM progression. Targeting MSLN with Anetumab effectively reduces TAN enrichment, and combining this with TLR4 inhibition synergistically suppresses lung cancer BrM. Our findings establish a critical role for tumor cell-derived sMSLN in sustaining neutrophil longevity and driving BrM, highlighting the sMSLN-TLR4 axis as a promising therapeutic target for brain metastatic tumors.",
       "summaryZh": "肿瘤相关中性粒细胞 (TAN) 富集是脑转移 (BrM) 的一个决定性特征和驱动力，而脑转移是实体瘤死亡的主要原因。然而，控制 BrM 中 TAN 富集的机制仍不明确。在此，我们证明 BrM 细胞衍生的可溶性间皮素 (sMSLN) 可以显着延长中性粒细胞的存活时间，从而促进肿瘤细胞在大脑中定植和生长。具体来说，sMSLN 与中性粒细胞上的 Toll 样受体 4 (TLR4) 结合，激活 JAK2-STAT3 通路。这种激活促进溶酶体的生物发生和功能，减少细胞活性氧（ROS）并抑制中性粒细胞凋亡。中性粒细胞耗竭或 TLR4-STAT3 阻断可消除 sMSLN 诱导的 BrM 进展。使用 Anetumab 靶向 MSLN 可有效降低 TAN 富集，并将其与 TLR4 抑制相结合可协同抑制肺癌 BrM。我们的研究结果确立了肿瘤细胞衍生的 sMSLN 在维持中性粒细胞寿命和驱动 BrM 方面的关键作用，强调 sMSLN-TLR4 轴作为脑转移肿瘤的有前途的治疗靶点。",
       "translationSource": "50ffef0207d57bf7"
+    },
+    {
+      "pmid": "42879277",
+      "title": "TM6SF2 acts at ER membrane contact sites to enable RAB7-dependent endolysosomal VLDL secretion and maintain Golgi structure.",
+      "titleZh": "TM6SF2 作用于 ER 膜接触位点，使 RAB7 依赖性溶酶体 VLDL 分泌并维持高尔基体结构。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118116",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118116",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42879277/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal, endosome。",
+      "abstractEn": "Although a loss-of-function variant of TM6SF2 is a highly penetrant risk factor for steatotic liver disease, including progression to cirrhosis and cancer, its normal function is largely unknown. Here we show that endoplasmic reticulum (ER)-localized TM6SF2 forms membrane contact sites (MCSs) with late endosomes/lysosomes, where it activates the small GTPase RAB7 to enable an endolysosomal route for selective secretion of lipid-rich very low-density lipoprotein (VLDL) particles. In accord, TM6SF2 and RAB7 deficiency similarly cause endolysosomal VLDL retention and accumulation of enlarged late endosomes/lysosomes. TM6SF2 further binds to VAMP-associated protein (VAP) ER-anchor proteins to maintain MCSs between the ER, endosomes, and the trans-Golgi network, with TM6SF2 deficiency causing Golgi fragmentation and disruption of cGAS-STING signaling known to prevent cirrhosis and cancer by clearing senescent hepatocytes. Our findings establish TM6SF2 as an ER-MCS component that enables endolysosomal VLDL secretion and maintains Golgi structure, which suggests that TM6SF2 loss of function causes liver disease through steatosis-dependent and independent mechanisms.",
+      "summaryZh": "尽管 TM6SF2 的功能丧失变体是脂肪变性肝病（包括进展为肝硬化和癌症）的高度渗透性危险因素，但其正常功能很大程度上未知。在这里，我们发现内质网（ER）定位的TM6SF2与晚期内体/溶酶体形成膜接触位点（MCS），在那里它激活小GTP酶RAB7，以实现选择性分泌富含脂质的极低密度脂蛋白（VLDL）颗粒的内溶酶体途径。因此，TM6SF2 和 RAB7 缺陷同样会导致内溶酶体 VLDL 滞留和扩大的晚期内体/溶酶体的积累。 TM6SF2 进一步与 VAMP 相关蛋白 (VAP) ER 锚定蛋白结合，以维持 ER、内涵体和反式高尔基体网络之间的 MCS，TM6SF2 缺陷会导致高尔基体断裂和 cGAS-STING 信号破坏，已知该信号可通过清除衰老的肝细胞来预防肝硬化和癌症。我们的研究结果表明，TM6SF2 是一种 ER-MCS 成分，能够实现内溶酶体 VLDL 分泌并维持高尔基体结构，这表明 TM6SF2 功能丧失会通过脂肪变性依赖性和独立机制导致肝脏疾病。",
+      "translationSource": "cbeae8e73927e135"
+    },
+    {
+      "pmid": "42873639",
+      "title": "Mitochondrial stress induces transcription of cytosolic and mitochondrial protein synthesis components via NHR-180.",
+      "titleZh": "线粒体应激通过 NHR-180 诱导细胞质和线粒体蛋白质合成成分的转录。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118161",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118161",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873639/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The mitochondrial unfolded protein response (UPR mt ), which promotes mitochondrial biogenesis and proteostasis, is regulated by the transcription factor ATFS-1. In C. elegans, impaired atfs-1 expression perturbs mitochondrial function and slows development. Here, using an RNAi suppressor screen, we find that inhibition of the nuclear hormone receptor NHR-180 increases mitochondrial function and developmental rate in atfs-1(null) worms. NHR-180 levels increase and become more nuclear-localized during mitochondrial dysfunction, inducing transcription of genes required for protein synthesis on cytosolic and mitochondrial ribosomes. The NHR-180 ligand-binding domain interacts with AMP, suggesting that NHR-180 may link cellular energy status to protein synthesis during mitochondrial stress. However, NHR-180-dependent activity is associated with exacerbated mitochondrial dysfunction. Consistent with these findings, inhibition of the S6 kinase homolog RSKS-1 increases mitochondrial function in atfs-1(null) worms. S6 kinase inhibition also increases respiration and mitochondrial DNA (mtDNA) content in mammalian ATF5-knockout cells and oxidative phosphorylation (OXPHOS)-deficient models.",
+      "summaryZh": "线粒体未折叠蛋白反应 (UPR mt ) 可促进线粒体生物发生和蛋白质稳态，受转录因子 ATFS-1 调节。在秀丽隐杆线虫中，atfs-1 表达受损会扰乱线粒体功能并减缓发育。在这里，使用 RNAi 抑制子筛选，我们发现核激素受体 NHR-180 的抑制会增加 atfs-1(null) 线虫的线粒体功能和发育速度。在线粒体功能障碍期间，NHR-180 水平增加并更加集中于核，诱导细胞质和线粒体核糖体上蛋白质合成所需的基因转录。 NHR-180 配体结合结构域与 AMP 相互作用，表明 NHR-180 可能将线粒体应激期间的细胞能量状态与蛋白质合成联系起来。然而，NHR-180 依赖性活性与线粒体功能障碍加剧有关。与这些发现一致，抑制 S6 激酶同源物 RSKS-1 会增加 atfs-1(null) 线虫的线粒体功能。 S6 激酶抑制还会增加哺乳动物 ATF5 敲除细胞和氧化磷酸化 (OXPHOS) 缺陷模型中的呼吸和线粒体 DNA (mtDNA) 含量。",
+      "translationSource": "1400d15c2a170b8b"
+    },
+    {
+      "pmid": "42867988",
+      "title": "A systemic circadian nicotinic acid riboside (NaR) signal engages the unfolded protein response and adipogenesis via the prefoldin complex.",
+      "titleZh": "全身昼夜节律烟酸核苷 (NaR) 信号通过前折叠蛋白复合物参与未折叠蛋白反应和脂肪生成。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118136",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118136",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42867988/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Daily light-dark cycles impose environmental fluctuations that require coordinated regulation of physiology. This coordination is mediated by the circadian clock, which operates as a network of tissue oscillators; however, the signals that convey circadian information between organs remain incompletely defined. We identify nicotinic acid riboside (NaR) as a circulating metabolite whose rhythmicity depends on the liver clock. In adipocytes and neuronal cells, NaR engages the unfolded protein response (UPR). Proteome-wide stability profiling implicates the prefoldin complex as a target of NaR, linking NaR exposure to altered proteostasis. In adipocytes, NaR-induced UPR signaling converges on the transcription factor CCAAT/enhancer-binding protein alpha (CEBPA). Sustained NaR exposure suppresses adipocyte lipid deposition, whereas temporally restricted NaR stimulation enhances adipogenesis. Together, these findings identify NaR as a liver clock-controlled circulating metabolite that couples systemic circadian metabolism to proteostasis and tissue remodeling, revealing a mechanism by which temporal metabolic signals shape tissue-specific physiological outcomes.",
+      "summaryZh": "每日的明暗循环会造成环境波动，需要生理学的协调调节。这种协调是由生物钟介导的，生物钟作为组织振荡器的网络运行。然而，在器官之间传递昼夜节律信息的信号仍未完全确定。我们将烟酸核苷（NaR）确定为一种循环代谢物，其节律取决于肝脏时钟。在脂肪细胞和神经元细胞中，NaR 参与未折叠蛋白反应 (UPR)。全蛋白质组稳定性分析表明前折叠蛋白复合物是 NaR 的靶点，将 NaR 暴露与蛋白质稳态改变联系起来。在脂肪细胞中，NaR 诱导的 UPR 信号汇聚于转录因子 CCAAT/增强子结合蛋白 α (CEBPA)。持续的 NaR 暴露抑制脂肪细胞脂质沉积，而暂时限制的 NaR 刺激则增强脂肪生成。总之，这些发现确定 NaR 是一种肝脏时钟控制的循环代谢物，它将全身昼夜节律代谢与蛋白质稳态和组织重塑结合起来，揭示了时间代谢信号塑造组织特异性生理结果的机制。",
+      "translationSource": "730dd53bccb9e788"
+    },
+    {
+      "pmid": "42858251",
+      "title": "The ENL-USP7 complex regulates HIV latency through BRD4 protein stabilization.",
+      "titleZh": "ENL-USP7 复合物通过 BRD4 蛋白稳定来调节 HIV 潜伏期。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118120",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118120",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42858251/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
+      "abstractEn": "HIV persistence in CD4 + T cells and brain microglia is maintained by host mechanisms that enforce viral latency. We identify ENL and the deubiquitinase USP7 as a host complex that sustains HIV latency. Pharmacologic inhibition or genetic loss of ENL reactivated latent HIV. Proteomic analyses revealed an ENL-USP7-BRD4 regulatory axis associated with latency maintenance, where USP7 maintained BRD4 protein stability. Targeted USP7 degradation using PROTAC induced latency reversal and destabilized BRD4. Chromatin immunoprecipitation studies showed that ENL was required for USP7 and BRD4 occupancy at the HIV nuc-1 region but not at the 5' long terminal repeat. Single-nucleus RNA sequencing further implicated this pathway in HIV persistence within the central nervous system. Importantly, degradation of either ENL or USP7 reactivated latent HIV in resting CD4 + T cells and brain microglia from individuals receiving antiretroviral therapy. These findings identify the ENL-USP7-BRD4 axis as a therapeutically actionable mechanism sustaining HIV latency and viral reservoirs.",
+      "summaryZh": "HIV 在 CD4 + T 细胞和脑小胶质细胞中的持续存在是通过强化病毒潜伏期的宿主机制来维持的。我们将 ENL 和去泛素酶 USP7 确定为维持 HIV 潜伏期的宿主复合物。 ENL 的药物抑制或遗传损失重新激活了潜伏的 HIV。蛋白质组学分析揭示了 ENL-USP7-BRD4 调控轴与潜伏期维持相关，其中 USP7 维持了 BRD4 蛋白的稳定性。使用 PROTAC 诱导潜伏期逆转并破坏 BRD4 的稳定性来靶向 USP7 降解。染色质免疫沉淀研究表明，USP7 和 BRD4 在 HIV nuc-1 区域的占据需要 ENL，但在 5' 长末端重复区域则不需要。单核 RNA 测序进一步表明该途径与 HIV 在中枢神经系统内的持续存在有关。重要的是，ENL 或 USP7 的降解重新激活了接受抗逆转录病毒治疗的个体静息 CD4 + T 细胞和脑小胶质细胞中的潜伏 HIV。这些发现将 ENL-USP7-BRD4 轴确定为维持 HIV 潜伏期和病毒库的治疗可行机制。",
+      "translationSource": "11199fe7a13f4041"
+    },
+    {
+      "pmid": "42842369",
+      "title": "Acute degron-mediated RUNX1 loss reprograms enhancer activity associated with epithelial destabilization and initiation of cancer hallmarks.",
+      "titleZh": "急性降解决定子介导的 RUNX1 丢失会重新编程与上皮不稳定和癌症标志起始相关的增强子活性。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118101",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118101",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842369/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "RUNX1 coordinates phenotypic gene expression, and its suppression or perturbations are associated with breast tumor initiation and progression. Mechanisms governing the dual roles of RUNX1 in sustaining the mammary epithelial phenotype while suppressing initiation of cancer-compromised gene expression are unclear. Degron-mediated acute, selective, and complete RUNX1 ablation in human mammary epithelial cells reveals promoter and distal enhancer-driven expression of a gene cohort. RUNX1 ablation rapidly and selectively decreases chromatin accessibility and H3K27ac at RUNX1-bound enhancers but not promoters. While differentially initiated and expressed genes contacted by RUNX1-bound enhancers are enriched in epithelial maintenance and stemness pathways, genes with RUNX1-promoter occupancy support DNA damage responsiveness. Modified cell morphology, metabolic control, breast cancer stemness, plasticity, anchorage-independent survival, chemoresistance, and perturbed DNA damage reactivity are observed upon RUNX1 ablation. These findings define RUNX1 as a tumor suppressor maintaining epithelial cell state, preserving enhancer activity to prevent gene expression associated with cancer hallmarks.",
+      "summaryZh": "RUNX1 协调表型基因表达，其抑制或扰动与乳腺肿瘤的发生和进展相关。 RUNX1 在维持乳腺上皮表型和抑制癌症受损基因表达起始方面的双重作用的机制尚不清楚。人乳腺上皮细胞中降解决定子介导的急性、选择性和完全的 RUNX1 消融揭示了启动子和远端增强子驱动的基因组表达。 RUNX1 消融快速、选择性地降低染色质可及性和 RUNX1 结合增强子处的 H3K27ac，但不降低启动子处。虽然 RUNX1 结合增强子接触的差异启动和表达基因在上皮维持和干性途径中富集，但具有 RUNX1 启动子占据的基因支持 DNA 损伤反应。 RUNX1 消融后观察到细胞形态改变、代谢控制、乳腺癌干性、可塑性、不依赖贴壁的存活、化疗耐药性和扰乱的 DNA 损伤反应性。这些发现将 RUNX1 定义为一种肿瘤抑制因子，可维持上皮细胞状态，保留增强子活性以防止与癌症标志相关的基因表达。",
+      "translationSource": "36cb261796ffb7cb"
+    },
+    {
+      "pmid": "42826099",
+      "title": "Lysosomal multi-omics reveals altered sphingolipid catabolism associated with lysosomal dysfunction in the aging brain.",
+      "titleZh": "溶酶体多组学揭示了与衰老大脑中溶酶体功能障碍相关的鞘脂分解代谢的改变。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118065",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118065",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826099/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Lipids dynamically reside in multiple intracellular locations, and their organellar distribution is important for function. During brain aging, lysosomal lipid changes have been noted, but lipid identity, interactions, and functional relevance have not been characterized. We used mass spectrometry to assess longitudinal changes in the lipidome and proteome of lysosomal fractions from the murine cortex, from 3 to 24 months, followed by multi-omics factor analysis (MOFA) to identify factors underlying lysosomal aging. Our data uncover an age-dependent increase in lysosomal abundance of lipid and protein myelin components and suggest altered sphingolipid catabolism favoring degradation of sphingomyelins over glycosphingolipids. We experimentally corroborate MOFA predictions to demonstrate that age-dependent accumulation of myelin-derived glycosphingolipids is associated with lysosomal enlargement and dysfunction and is most pronounced in microglia. Our findings suggest that age-related lysosomal lipidome changes resemble those observed in lysosomal storage diseases and underscore the importance of organelle-specific analyses for elucidating lipid function.",
+      "summaryZh": "脂质动态地驻留在细胞内的多个位置，它们的细胞器分布对于功能很重要。在大脑衰老过程中，溶酶体脂质的变化已被注意到，但脂质的特性、相互作用和功能相关性尚未得到表征。我们使用质谱法评估 3 至 24 个月内小鼠皮质溶酶体组分的脂质组和蛋白质组的纵向变化，然后通过多组学因子分析 (MOFA) 来识别溶酶体衰老的潜在因素。我们的数据揭示了溶酶体中脂质和蛋白质髓磷脂成分的丰度随年龄的增加而增加，并表明鞘脂分解代谢的改变有利于鞘磷脂而不是糖鞘脂的降解。我们通过实验证实了 MOFA 的预测，证明髓磷脂衍生的鞘糖脂的年龄依赖性积累与溶酶体增大和功能障碍相关，并且在小胶质细胞中最为明显。我们的研究结果表明，与年龄相关的溶酶体脂质组变化类似于在溶酶体贮积病中观察到的变化，并强调了细胞器特异性分析对于阐明脂质功能的重要性。",
+      "translationSource": "e9c5c8c689f459a5"
+    },
+    {
+      "pmid": "42747968",
+      "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation.",
+      "titleZh": "TCF25 作为营养传感器，通过增强葡萄糖饥饿下的溶酶体酸化来协调代谢适应和细胞死亡。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-27",
+      "doi": "10.1016/j.celrep.2026.118055",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118055",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42747968/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "",
+      "summaryZh": "PubMed 未提供可翻译的摘要。",
+      "translationSource": "1763b7f80dd96e71"
     },
     {
       "pmid": "42933405",
@@ -536,30 +771,6 @@
       "translationSource": "dc9940120f4931a6"
     },
     {
-      "pmid": "42879277",
-      "title": "TM6SF2 acts at ER membrane contact sites to enable RAB7-dependent endolysosomal VLDL secretion and maintain Golgi structure.",
-      "titleZh": "TM6SF2 作用于 ER 膜接触位点，使 RAB7 依赖性溶酶体 VLDL 分泌并维持高尔基体结构。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-15",
-      "doi": "10.1016/j.celrep.2026.118116",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118116",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42879277/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "endolysosomal",
-        "endosome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal, endosome。",
-      "abstractEn": "Although a loss-of-function variant of TM6SF2 is a highly penetrant risk factor for steatotic liver disease, including progression to cirrhosis and cancer, its normal function is largely unknown. Here we show that endoplasmic reticulum (ER)-localized TM6SF2 forms membrane contact sites (MCSs) with late endosomes/lysosomes, where it activates the small GTPase RAB7 to enable an endolysosomal route for selective secretion of lipid-rich very low-density lipoprotein (VLDL) particles. In accord, TM6SF2 and RAB7 deficiency similarly cause endolysosomal VLDL retention and accumulation of enlarged late endosomes/lysosomes. TM6SF2 further binds to VAMP-associated protein (VAP) ER-anchor proteins to maintain MCSs between the ER, endosomes, and the trans-Golgi network, with TM6SF2 deficiency causing Golgi fragmentation and disruption of cGAS-STING signaling known to prevent cirrhosis and cancer by clearing senescent hepatocytes. Our findings establish TM6SF2 as an ER-MCS component that enables endolysosomal VLDL secretion and maintains Golgi structure, which suggests that TM6SF2 loss of function causes liver disease through steatosis-dependent and independent mechanisms.",
-      "summaryZh": "尽管 TM6SF2 的功能丧失变体是脂肪变性肝病（包括进展为肝硬化和癌症）的高度渗透性危险因素，但其正常功能很大程度上未知。在这里，我们发现内质网（ER）定位的TM6SF2与晚期内体/溶酶体形成膜接触位点（MCS），在那里它激活小GTP酶RAB7，以实现选择性分泌富含脂质的极低密度脂蛋白（VLDL）颗粒的内溶酶体途径。因此，TM6SF2 和 RAB7 缺陷同样会导致内溶酶体 VLDL 滞留和扩大的晚期内体/溶酶体的积累。 TM6SF2 进一步与 VAMP 相关蛋白 (VAP) ER 锚定蛋白结合，以维持 ER、内涵体和反式高尔基体网络之间的 MCS，TM6SF2 缺陷会导致高尔基体断裂和 cGAS-STING 信号破坏，已知该信号可通过清除衰老的肝细胞来预防肝硬化和癌症。我们的研究结果表明，TM6SF2 是一种 ER-MCS 成分，能够实现内溶酶体 VLDL 分泌并维持高尔基体结构，这表明 TM6SF2 功能丧失会通过脂肪变性依赖性和独立机制导致肝脏疾病。",
-      "translationSource": "cbeae8e73927e135"
-    },
-    {
       "pmid": "42880255",
       "title": "Akkermansia muciniphila protects against endometritis through a tyrosol-mediated gut-uterus axis.",
       "titleZh": "Akkermansia muciniphila 通过酪醇介导的肠-子宫轴预防子宫内膜炎。",
@@ -773,48 +984,6 @@
       "translationSource": "0f2ac3a049d47a65"
     },
     {
-      "pmid": "42873639",
-      "title": "Mitochondrial stress induces transcription of cytosolic and mitochondrial protein synthesis components via NHR-180.",
-      "titleZh": "线粒体应激通过 NHR-180 诱导细胞质和线粒体蛋白质合成成分的转录。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-14",
-      "doi": "10.1016/j.celrep.2026.118161",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118161",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873639/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "The mitochondrial unfolded protein response (UPR mt ), which promotes mitochondrial biogenesis and proteostasis, is regulated by the transcription factor ATFS-1. In C. elegans, impaired atfs-1 expression perturbs mitochondrial function and slows development. Here, using an RNAi suppressor screen, we find that inhibition of the nuclear hormone receptor NHR-180 increases mitochondrial function and developmental rate in atfs-1(null) worms. NHR-180 levels increase and become more nuclear-localized during mitochondrial dysfunction, inducing transcription of genes required for protein synthesis on cytosolic and mitochondrial ribosomes. The NHR-180 ligand-binding domain interacts with AMP, suggesting that NHR-180 may link cellular energy status to protein synthesis during mitochondrial stress. However, NHR-180-dependent activity is associated with exacerbated mitochondrial dysfunction. Consistent with these findings, inhibition of the S6 kinase homolog RSKS-1 increases mitochondrial function in atfs-1(null) worms. S6 kinase inhibition also increases respiration and mitochondrial DNA (mtDNA) content in mammalian ATF5-knockout cells and oxidative phosphorylation (OXPHOS)-deficient models.",
-      "summaryZh": "线粒体未折叠蛋白反应 (UPR mt ) 可促进线粒体生物发生和蛋白质稳态，受转录因子 ATFS-1 调节。在秀丽隐杆线虫中，atfs-1 表达受损会扰乱线粒体功能并减缓发育。在这里，使用 RNAi 抑制子筛选，我们发现核激素受体 NHR-180 的抑制会增加 atfs-1(null) 线虫的线粒体功能和发育速度。在线粒体功能障碍期间，NHR-180 水平增加并更加集中于核，诱导细胞质和线粒体核糖体上蛋白质合成所需的基因转录。 NHR-180 配体结合结构域与 AMP 相互作用，表明 NHR-180 可能将线粒体应激期间的细胞能量状态与蛋白质合成联系起来。然而，NHR-180 依赖性活性与线粒体功能障碍加剧有关。与这些发现一致，抑制 S6 激酶同源物 RSKS-1 会增加 atfs-1(null) 线虫的线粒体功能。 S6 激酶抑制还会增加哺乳动物 ATF5 敲除细胞和氧化磷酸化 (OXPHOS) 缺陷模型中的呼吸和线粒体 DNA (mtDNA) 含量。",
-      "translationSource": "1400d15c2a170b8b"
-    },
-    {
-      "pmid": "42867988",
-      "title": "A systemic circadian nicotinic acid riboside (NaR) signal engages the unfolded protein response and adipogenesis via the prefoldin complex.",
-      "titleZh": "全身昼夜节律烟酸核苷 (NaR) 信号通过前折叠蛋白复合物参与未折叠蛋白反应和脂肪生成。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-13",
-      "doi": "10.1016/j.celrep.2026.118136",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118136",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42867988/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Daily light-dark cycles impose environmental fluctuations that require coordinated regulation of physiology. This coordination is mediated by the circadian clock, which operates as a network of tissue oscillators; however, the signals that convey circadian information between organs remain incompletely defined. We identify nicotinic acid riboside (NaR) as a circulating metabolite whose rhythmicity depends on the liver clock. In adipocytes and neuronal cells, NaR engages the unfolded protein response (UPR). Proteome-wide stability profiling implicates the prefoldin complex as a target of NaR, linking NaR exposure to altered proteostasis. In adipocytes, NaR-induced UPR signaling converges on the transcription factor CCAAT/enhancer-binding protein alpha (CEBPA). Sustained NaR exposure suppresses adipocyte lipid deposition, whereas temporally restricted NaR stimulation enhances adipogenesis. Together, these findings identify NaR as a liver clock-controlled circulating metabolite that couples systemic circadian metabolism to proteostasis and tissue remodeling, revealing a mechanism by which temporal metabolic signals shape tissue-specific physiological outcomes.",
-      "summaryZh": "每日的明暗循环会造成环境波动，需要生理学的协调调节。这种协调是由生物钟介导的，生物钟作为组织振荡器的网络运行。然而，在器官之间传递昼夜节律信息的信号仍未完全确定。我们将烟酸核苷（NaR）确定为一种循环代谢物，其节律取决于肝脏时钟。在脂肪细胞和神经元细胞中，NaR 参与未折叠蛋白反应 (UPR)。全蛋白质组稳定性分析表明前折叠蛋白复合物是 NaR 的靶点，将 NaR 暴露与蛋白质稳态改变联系起来。在脂肪细胞中，NaR 诱导的 UPR 信号汇聚于转录因子 CCAAT/增强子结合蛋白 α (CEBPA)。持续的 NaR 暴露抑制脂肪细胞脂质沉积，而暂时限制的 NaR 刺激则增强脂肪生成。总之，这些发现确定 NaR 是一种肝脏时钟控制的循环代谢物，它将全身昼夜节律代谢与蛋白质稳态和组织重塑结合起来，揭示了时间代谢信号塑造组织特异性生理结果的机制。",
-      "translationSource": "730dd53bccb9e788"
-    },
-    {
       "pmid": "42863465",
       "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability.",
       "titleZh": "CK2-β-TrCP 激酶-E3 泛素连接酶级联是调节色氨酸 2,3-双加氧酶稳定性的代谢传感器。",
@@ -859,27 +1028,6 @@
       "abstractEn": "Cancer genomes harbor hundreds of mutated genes, but their exact roles in tumorigenesis often remain incompletely understood. Here, by integrating protein structures with mutation data from 139,818 patients, we generate detailed, functional maps of mutations for 173 cancer genes in 18+ tumor types. In most cancer genes, oncogenic mutations accumulate in \"significantly mutated regions\" aligned with key functions, including DNA-binding domains in transcription factors (e.g., FOXA1), ligand-binding sites in receptors (e.g., ERBB2), catalytic domains in chromatin remodelers (e.g., EP300), substrate-recognition sites in ubiquitin-proteasome regulators (e.g., SPOP), and degradation signals in cell-cycle proteins (e.g., CCND1). In other cancer genes, mutations align more closely with constraints in three-dimensional protein structures, such as targeting the interior core (e.g., TP53) or a specific secondary structure (e.g., PTEN). Broadly, our study provides a proteo-genomic framework to characterize the effects of mutations in tumorigenesis and integrate them into workflows for clinical interpretation in precision medicine.",
       "summaryZh": "癌症基因组包含数百个突变基因，但它们在肿瘤发生中的确切作用通常仍不完全清楚。在这里，通过将蛋白质结构与 139,818 名患者的突变数据整合，我们生成了 18 种以上肿瘤类型中 173 个癌症基因的详细突变功能图。在大多数癌症基因中，致癌突变积累在与关键功能相关的“显着突变区域”，包括转录因子中的DNA结合域（例如FOXA1）、受体中的配体结合位点（例如ERBB2）、染色质重塑因子中的催化域（例如EP300）、泛素蛋白酶体调节因子中的底物识别位点（例如SPOP）和细胞周期蛋白（例如 CCND1）中的降解信号。在其他癌症基因中，突变与三维蛋白质结构的限制更加紧密地结合在一起，例如针对内部核心（例如 TP53）或特定二级结构（例如 PTEN）。总的来说，我们的研究提供了一个蛋白质基因组框架来表征突变对肿瘤发生的影响，并将其整合到精准医学临床解释的工作流程中。",
       "translationSource": "971c5018ff200eeb"
-    },
-    {
-      "pmid": "42858251",
-      "title": "The ENL-USP7 complex regulates HIV latency through BRD4 protein stabilization.",
-      "titleZh": "ENL-USP7 复合物通过 BRD4 蛋白稳定来调节 HIV 潜伏期。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-10",
-      "doi": "10.1016/j.celrep.2026.118120",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118120",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42858251/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "protac"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac。",
-      "abstractEn": "HIV persistence in CD4 + T cells and brain microglia is maintained by host mechanisms that enforce viral latency. We identify ENL and the deubiquitinase USP7 as a host complex that sustains HIV latency. Pharmacologic inhibition or genetic loss of ENL reactivated latent HIV. Proteomic analyses revealed an ENL-USP7-BRD4 regulatory axis associated with latency maintenance, where USP7 maintained BRD4 protein stability. Targeted USP7 degradation using PROTAC induced latency reversal and destabilized BRD4. Chromatin immunoprecipitation studies showed that ENL was required for USP7 and BRD4 occupancy at the HIV nuc-1 region but not at the 5' long terminal repeat. Single-nucleus RNA sequencing further implicated this pathway in HIV persistence within the central nervous system. Importantly, degradation of either ENL or USP7 reactivated latent HIV in resting CD4 + T cells and brain microglia from individuals receiving antiretroviral therapy. These findings identify the ENL-USP7-BRD4 axis as a therapeutically actionable mechanism sustaining HIV latency and viral reservoirs.",
-      "summaryZh": "HIV 在 CD4 + T 细胞和脑小胶质细胞中的持续存在是通过强化病毒潜伏期的宿主机制来维持的。我们将 ENL 和去泛素酶 USP7 确定为维持 HIV 潜伏期的宿主复合物。 ENL 的药物抑制或遗传损失重新激活了潜伏的 HIV。蛋白质组学分析揭示了 ENL-USP7-BRD4 调控轴与潜伏期维持相关，其中 USP7 维持了 BRD4 蛋白的稳定性。使用 PROTAC 诱导潜伏期逆转并破坏 BRD4 的稳定性来靶向 USP7 降解。染色质免疫沉淀研究表明，USP7 和 BRD4 在 HIV nuc-1 区域的占据需要 ENL，但在 5' 长末端重复区域则不需要。单核 RNA 测序进一步表明该途径与 HIV 在中枢神经系统内的持续存在有关。重要的是，ENL 或 USP7 的降解重新激活了接受抗逆转录病毒治疗的个体静息 CD4 + T 细胞和脑小胶质细胞中的潜伏 HIV。这些发现将 ENL-USP7-BRD4 轴确定为维持 HIV 潜伏期和病毒库的治疗可行机制。",
-      "translationSource": "11199fe7a13f4041"
     },
     {
       "pmid": "42853952",
@@ -943,27 +1091,6 @@
       "abstractEn": "Impaired protective autophagy contributes to idiopathic pulmonary fibrosis (IPF), yet therapeutic strategies that restore this process remain limited. Here, we identify SKLB-39b, a BRD4-BD1-selective inhibitor that restores protective autophagy and attenuates pulmonary fibrosis. SKLB-39b exhibits over 100-fold selectivity for BRD4-BD1 relative to BRD4-BD2 and nearly 10-fold greater affinity for BRD4-BD1 than for BRD2/3-BD1. Mechanistically, we identify a BRD4-BD1-p62 interaction that links BET bromodomain function to autophagy regulation. By engaging Leu92 and Ile146 through a hydrophobic binding mode, SKLB-39b disrupts this interaction, restores ULK1-dependent autophagy, and provides a structural framework for BD1-selective inhibitor design. SKLB-39b outperformed JQ-1 in suppressing fibroblast activation, epithelial-mesenchymal transition, and collagen deposition in experimental fibrosis while showing favorable pharmacokinetic exposure and no overt toxicity in the mouse studies performed. These findings establish the BRD4-BD1-p62 interface as a druggable target for restoring protective autophagy in IPF.",
       "summaryZh": "保护性自噬受损会导致特发性肺纤维化（IPF），但恢复这一过程的治疗策略仍然有限。在这里，我们鉴定出 SKLB-39b，一种 BRD4-BD1 选择性抑制剂，可恢复保护性自噬并减轻肺纤维化。相对于 BRD4-BD2，SKLB-39b 对 BRD4-BD1 的选择性高出 100 倍以上，对 BRD4-BD1 的亲和力比对 BRD2/3-BD1 的亲和力高出近 10 倍。从机制上讲，我们确定了 BRD4-BD1-p62 相互作用，将 BET 溴结构域功能与自噬调节联系起来。通过疏水结合模式接合 Leu92 和 Ile146，SKLB-39b 破坏了这种相互作用，恢复了 ULK1 依赖性自噬，并为 BD1 选择性抑制剂设计提供了结构框架。 SKLB-39b 在抑制实验性纤维化中的成纤维细胞活化、上皮间质转化和胶原沉积方面优于 JQ-1，同时在小鼠研究中显示出良好的药代动力学暴露且没有明显的毒性。这些发现确立了 BRD4-BD1-p62 界面作为恢复 IPF 保护性自噬的药物靶点。",
       "translationSource": "e79f25eaf13cd062"
-    },
-    {
-      "pmid": "42842369",
-      "title": "Acute degron-mediated RUNX1 loss reprograms enhancer activity associated with epithelial destabilization and initiation of cancer hallmarks.",
-      "titleZh": "急性降解决定子介导的 RUNX1 丢失会重新编程与上皮不稳定和癌症标志起始相关的增强子活性。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-07",
-      "doi": "10.1016/j.celrep.2026.118101",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118101",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842369/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "RUNX1 coordinates phenotypic gene expression, and its suppression or perturbations are associated with breast tumor initiation and progression. Mechanisms governing the dual roles of RUNX1 in sustaining the mammary epithelial phenotype while suppressing initiation of cancer-compromised gene expression are unclear. Degron-mediated acute, selective, and complete RUNX1 ablation in human mammary epithelial cells reveals promoter and distal enhancer-driven expression of a gene cohort. RUNX1 ablation rapidly and selectively decreases chromatin accessibility and H3K27ac at RUNX1-bound enhancers but not promoters. While differentially initiated and expressed genes contacted by RUNX1-bound enhancers are enriched in epithelial maintenance and stemness pathways, genes with RUNX1-promoter occupancy support DNA damage responsiveness. Modified cell morphology, metabolic control, breast cancer stemness, plasticity, anchorage-independent survival, chemoresistance, and perturbed DNA damage reactivity are observed upon RUNX1 ablation. These findings define RUNX1 as a tumor suppressor maintaining epithelial cell state, preserving enhancer activity to prevent gene expression associated with cancer hallmarks.",
-      "summaryZh": "RUNX1 协调表型基因表达，其抑制或扰动与乳腺肿瘤的发生和进展相关。 RUNX1 在维持乳腺上皮表型和抑制癌症受损基因表达起始方面的双重作用的机制尚不清楚。人乳腺上皮细胞中降解决定子介导的急性、选择性和完全的 RUNX1 消融揭示了启动子和远端增强子驱动的基因组表达。 RUNX1 消融快速、选择性地降低染色质可及性和 RUNX1 结合增强子处的 H3K27ac，但不降低启动子处。虽然 RUNX1 结合增强子接触的差异启动和表达基因在上皮维持和干性途径中富集，但具有 RUNX1 启动子占据的基因支持 DNA 损伤反应。 RUNX1 消融后观察到细胞形态改变、代谢控制、乳腺癌干性、可塑性、不依赖贴壁的存活、化疗耐药性和扰乱的 DNA 损伤反应性。这些发现将 RUNX1 定义为一种肿瘤抑制因子，可维持上皮细胞状态，保留增强子活性以防止与癌症标志相关的基因表达。",
-      "translationSource": "36cb261796ffb7cb"
     },
     {
       "pmid": "42843329",
@@ -1071,6 +1198,28 @@
       "abstractEn": "Mitochondrial proteostasis depends on precise N-terminal processing of imported precursor proteins. Defects in this maturation step are implicated in disease, yet the functional impact in humans remains unclear. Here we show that the intermediate cleaving peptidase ICP55, which removes a single amino acid, acts as a key stabilizer of multimeric mitochondrial protein complexes. Using proteomics and complexome profiling, we identify over 100 human ICP55 substrates and demonstrate that loss of ICP55 triggers widespread destabilization of protein assemblies, with a global shift toward smaller subcomplexes. Thus, we uncover a conserved, post-translational mechanism that safeguards mitochondrial proteostasis by regulating complex integrity through a single amino-acid cleavage, and we reveal N-terminal proteoform control as an unexpected layer of organellar homeostasis.",
       "summaryZh": "线粒体蛋白质稳态依赖于输入前体蛋白的精确 N 末端加工。这一成熟步骤的缺陷与疾病有关，但对人类功能的影响仍不清楚。在这里，我们证明中间裂解肽酶 ICP55 可去除单个氨基酸，充当多聚体线粒体蛋白复合物的关键稳定剂。利用蛋白质组学和复合体分析，我们鉴定了 100 多种人类 ICP55 底物，并证明 ICP55 的缺失会引发蛋白质组装体的广泛不稳定，并导致全球向更小的子复合物转变。因此，我们发现了一种保守的翻译后机制，通过单个氨基酸裂解调节复杂的完整性来保护线粒体蛋白质稳态，并且我们揭示了 N 末端蛋白质形式控制作为细胞器稳态的一个意想不到的层。",
       "translationSource": "3c795da4c2a08918"
+    },
+    {
+      "pmid": "42811103",
+      "title": "Oncogenic viral infection triggers LAMP2A SUMOylation and chaperone-mediated autophagy to promote tumorigenesis.",
+      "titleZh": "致癌病毒感染触发 LAMP2A SUMO 化和分子伴侣介导的自噬，促进肿瘤发生。",
+      "journal": "Nature Microbiology",
+      "year": 2026,
+      "published": "2026-10-01",
+      "doi": "10.1038/s41564-026-02476-3",
+      "doiUrl": "https://doi.org/10.1038/s41564-026-02476-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42811103/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Chaperone-mediated autophagy (CMA) is a critical regulator of cancer progression and antiviral responses, often modulated by post-translational modifications. SUMOylation, a reversible post-translational modification, is implicated in viral infection and tumorigenesis, yet its role in CMA regulation remains unclear. Here we demonstrate that oncogenic viruses hijack CMA by inducing nuclear localization and SUMOylation of lysosomal-associated membrane protein 2A (LAMP2A), a central lysosomal receptor. Specifically, tripartite motif containing 32 (TRIM32) mediates SUMO2/3 conjugation to LAMP2A at lysine residues K104, K132 and K289. Using Kaposi's sarcoma-associated herpesvirus as a model, we found that TRIM32-induced LAMP2A SUMOylation activates CMA, thereby promoting viral persistence, tumour growth and angiogenesis in vivo. Importantly, TRIM32 expression positively correlates with LAMP2A in tumour tissues from patients with Kaposi's sarcoma-associated herpesvirus-, Epstein-Barr virus- and human papillomavirus-associated cancers, and peptide inhibitors targeting SUMOylated LAMP2A demonstrate potent antitumour and antiviral efficacy in vitro and in mice. Together, our findings position LAMP2A as a promising druggable target for treating virus-associated cancers.",
+      "summaryZh": "伴侣介导的自噬 (CMA) 是癌症进展和抗病毒反应的关键调节因子，通常通过翻译后修饰进行调节。 SUMOylation 是一种可逆的翻译后修饰，与病毒感染和肿瘤发生有关，但其在 CMA 调节中的作用仍不清楚。在此，我们证明致癌病毒通过诱导中央溶酶体受体溶酶体相关膜蛋白 2A (LAMP2A) 的核定位和 SUMO 化来劫持 CMA。具体而言，含有 32 (TRIM32) 的三联基序介导 SUMO2/3 在赖氨酸残基 K104、K132 和 K289 处与 LAMP2A 缀合。使用卡波西肉瘤相关疱疹病毒作为模型，我们发现 TRIM32 诱导的 LAMP2A SUMO 化可激活 CMA，从而促进体内病毒持久性、肿瘤生长和血管生成。重要的是，在卡波西肉瘤相关疱疹病毒、EB 病毒和人乳头瘤病毒相关癌症患者的肿瘤组织中，TRIM32 表达与 LAMP2A 呈正相关，针对 SUMO 化 LAMP2A 的肽抑制剂在体外和小鼠体内表现出有效的抗肿瘤和抗病毒功效。总之，我们的研究结果将 LAMP2A 定位为治疗病毒相关癌症的有前景的药物靶点。",
+      "translationSource": "4d836f26dc6e53fe"
     },
     {
       "pmid": "42469449",
@@ -1334,27 +1483,6 @@
       "translationSource": "347372ab1a50bcf3"
     },
     {
-      "pmid": "42826099",
-      "title": "Lysosomal multi-omics reveals altered sphingolipid catabolism associated with lysosomal dysfunction in the aging brain.",
-      "titleZh": "溶酶体多组学揭示了与衰老大脑中溶酶体功能障碍相关的鞘脂分解代谢的改变。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-10-01",
-      "doi": "10.1016/j.celrep.2026.118065",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118065",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826099/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Lipids dynamically reside in multiple intracellular locations, and their organellar distribution is important for function. During brain aging, lysosomal lipid changes have been noted, but lipid identity, interactions, and functional relevance have not been characterized. We used mass spectrometry to assess longitudinal changes in the lipidome and proteome of lysosomal fractions from the murine cortex, from 3 to 24 months, followed by multi-omics factor analysis (MOFA) to identify factors underlying lysosomal aging. Our data uncover an age-dependent increase in lysosomal abundance of lipid and protein myelin components and suggest altered sphingolipid catabolism favoring degradation of sphingomyelins over glycosphingolipids. We experimentally corroborate MOFA predictions to demonstrate that age-dependent accumulation of myelin-derived glycosphingolipids is associated with lysosomal enlargement and dysfunction and is most pronounced in microglia. Our findings suggest that age-related lysosomal lipidome changes resemble those observed in lysosomal storage diseases and underscore the importance of organelle-specific analyses for elucidating lipid function.",
-      "summaryZh": "脂质动态地驻留在细胞内的多个位置，它们的细胞器分布对于功能很重要。在大脑衰老过程中，溶酶体脂质的变化已被注意到，但脂质的特性、相互作用和功能相关性尚未得到表征。我们使用质谱法评估 3 至 24 个月内小鼠皮质溶酶体组分的脂质组和蛋白质组的纵向变化，然后通过多组学因子分析 (MOFA) 来识别溶酶体衰老的潜在因素。我们的数据揭示了溶酶体中脂质和蛋白质髓磷脂成分的丰度随年龄的增加而增加，并表明鞘脂分解代谢的改变有利于鞘磷脂而不是糖鞘脂的降解。我们通过实验证实了 MOFA 的预测，证明髓磷脂衍生的鞘糖脂的年龄依赖性积累与溶酶体增大和功能障碍相关，并且在小胶质细胞中最为明显。我们的研究结果表明，与年龄相关的溶酶体脂质组变化类似于在溶酶体贮积病中观察到的变化，并强调了细胞器特异性分析对于阐明脂质功能的重要性。",
-      "translationSource": "e9c5c8c689f459a5"
-    },
-    {
       "pmid": "42772279",
       "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes.",
       "titleZh": "地热阿米巴原虫为真核生物设定了新的温度上限。",
@@ -1438,28 +1566,6 @@
       "abstractEn": "G-protein-coupled receptors (GPCRs) represent one of the most important yet incompletely addressed classes of therapeutic targets 1 . Here we report a strategy for functional GPCR antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation. GPCR-TfR1 targeting chimeras (GTACs) achieve potent and selective downregulation of multiple GPCRs, including BILF1, RXFP1 and CCR6-viral, cancer and immune targets that have been difficult to drug 2-4 . GTACs lead to complete inhibition of receptor signalling, including constitutive signalling, with more than one to two orders of magnitude greater potency than conventional antibody antagonists. Using protein engineering and multicolour live-cell imaging, we establish a context-dependent degrader design and explain the cellular mechanisms, with broad relevance for degrader technology. The GTAC platform establishes induced endocytosis and rewiring protein trafficking as a model for therapeutic GPCR modulation.",
       "summaryZh": "G 蛋白偶联受体 (GPCR) 是最重要但尚未完全解决的治疗靶点之一 1 。在这里，我们报告了一种通过双特异性抗体介导的内吞作用和溶酶体降解来实现功能性 GPCR 拮抗的策略。 GPCR-TfR1 靶向嵌合体 (GTAC) 可实现多种 GPCR 的有效选择性下调，包括 BILF1、RXFP1 和 CCR6 病毒、癌症和免疫靶点，这些靶点一直难以药物治疗 2-4 。 GTAC 可完全抑制受体信号传导，包括组成型信号传导，其效力比传统抗体拮抗剂高一到两个数量级以上。利用蛋白质工程和多色活细胞成像，我们建立了上下文相关的降解剂设计并解释了细胞机制，与降解剂技术具有广泛的相关性。 GTAC 平台建立了诱导内吞作用和重新布线蛋白质运输作为治疗性 GPCR 调节的模型。",
       "translationSource": "3daa0938a97c6713"
-    },
-    {
-      "pmid": "42811103",
-      "title": "Oncogenic viral infection triggers LAMP2A SUMOylation and chaperone-mediated autophagy to promote tumorigenesis.",
-      "titleZh": "致癌病毒感染触发 LAMP2A SUMO 化和分子伴侣介导的自噬，促进肿瘤发生。",
-      "journal": "Nature Microbiology",
-      "year": 2026,
-      "published": "2026-09-29",
-      "doi": "10.1038/s41564-026-02476-3",
-      "doiUrl": "https://doi.org/10.1038/s41564-026-02476-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42811103/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
-      "abstractEn": "Chaperone-mediated autophagy (CMA) is a critical regulator of cancer progression and antiviral responses, often modulated by post-translational modifications. SUMOylation, a reversible post-translational modification, is implicated in viral infection and tumorigenesis, yet its role in CMA regulation remains unclear. Here we demonstrate that oncogenic viruses hijack CMA by inducing nuclear localization and SUMOylation of lysosomal-associated membrane protein 2A (LAMP2A), a central lysosomal receptor. Specifically, tripartite motif containing 32 (TRIM32) mediates SUMO2/3 conjugation to LAMP2A at lysine residues K104, K132 and K289. Using Kaposi's sarcoma-associated herpesvirus as a model, we found that TRIM32-induced LAMP2A SUMOylation activates CMA, thereby promoting viral persistence, tumour growth and angiogenesis in vivo. Importantly, TRIM32 expression positively correlates with LAMP2A in tumour tissues from patients with Kaposi's sarcoma-associated herpesvirus-, Epstein-Barr virus- and human papillomavirus-associated cancers, and peptide inhibitors targeting SUMOylated LAMP2A demonstrate potent antitumour and antiviral efficacy in vitro and in mice. Together, our findings position LAMP2A as a promising druggable target for treating virus-associated cancers.",
-      "summaryZh": "伴侣介导的自噬 (CMA) 是癌症进展和抗病毒反应的关键调节因子，通常通过翻译后修饰进行调节。 SUMOylation 是一种可逆的翻译后修饰，与病毒感染和肿瘤发生有关，但其在 CMA 调节中的作用仍不清楚。在此，我们证明致癌病毒通过诱导中央溶酶体受体溶酶体相关膜蛋白 2A (LAMP2A) 的核定位和 SUMO 化来劫持 CMA。具体而言，含有 32 (TRIM32) 的三联基序介导 SUMO2/3 在赖氨酸残基 K104、K132 和 K289 处与 LAMP2A 缀合。使用卡波西肉瘤相关疱疹病毒作为模型，我们发现 TRIM32 诱导的 LAMP2A SUMO 化可激活 CMA，从而促进体内病毒持久性、肿瘤生长和血管生成。重要的是，在卡波西肉瘤相关疱疹病毒、EB 病毒和人乳头瘤病毒相关癌症患者的肿瘤组织中，TRIM32 表达与 LAMP2A 呈正相关，针对 SUMO 化 LAMP2A 的肽抑制剂在体外和小鼠体内表现出有效的抗肿瘤和抗病毒功效。总之，我们的研究结果将 LAMP2A 定位为治疗病毒相关癌症的有前景的药物靶点。",
-      "translationSource": "4d836f26dc6e53fe"
     },
     {
       "pmid": "42946762",
@@ -2090,27 +2196,6 @@
       "abstractEn": "Cellular senescence is a state of irreversible cell cycle arrest triggered by telomere erosion, persistent DNA damage or chronic stress. The accumulation of senescent cells disrupts tissue function and contributes to aging and disease. Here, we employ mass spectrometry-based proteomics to systematically interrogate dynamic proteome changes at multiple levels during the progression of replicative cellular senescence. We demonstrate that proteome changes during senescence occur in a coordinated manner, characterized by widespread protein depletion on chromatin. Moreover, components of the cytoplasmic translation machinery are depleted, while mitochondrial proteins display increased insolubility. Autophagic and proteasome activity is compromised in senescent cells along with remodeling of ubiquitin linkages and depletion of ubiquitin E3 ligases. Comparison of the senescent proteome with different pathophysiological cellular states reveals a distinctive senescent signature shaped by changes in the proteostasis network. Collectively, we provide a resource for the exploration of temporally resolved changes in the senescent proteome.",
       "summaryZh": "细胞衰老是一种由端粒侵蚀、持续性 DNA 损伤或慢性应激引发的不可逆细胞周期停滞状态。衰老细胞的积累会破坏组织功能并导致衰老和疾病。在这里，我们采用基于质谱的蛋白质组学来系统地询问复制性细胞衰老过程中多个水平的动态蛋白质组变化。我们证明衰老过程中蛋白质组的变化以协调的方式发生，其特征是染色质上广泛的蛋白质消耗。此外，细胞质翻译机制的成分被耗尽，而线粒体蛋白的不溶性增加。衰老细胞中的自噬和蛋白酶体活性随着泛素连接的重塑和泛素 E3 连接酶的消耗而受到损害。衰老蛋白质组与不同病理生理细胞状态的比较揭示了由蛋白质稳态网络变化形成的独特衰老特征。总的来说，我们为探索衰老蛋白质组中暂时解决的变化提供了资源。",
       "translationSource": "7b8f9ec0590df87f"
-    },
-    {
-      "pmid": "42747968",
-      "title": "TCF25 serves as a nutrient sensor to orchestrate metabolic adaptation and cell death by enhancing lysosomal acidification under glucose starvation.",
-      "titleZh": "TCF25 作为营养传感器，通过增强葡萄糖饥饿下的溶酶体酸化来协调代谢适应和细胞死亡。",
-      "journal": "Cell Reports",
-      "year": 2026,
-      "published": "2026-09-16",
-      "doi": "10.1016/j.celrep.2026.118055",
-      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118055",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42747968/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "",
-      "summaryZh": "PubMed 未提供可翻译的摘要。",
-      "translationSource": "1763b7f80dd96e71"
     },
     {
       "pmid": "42743266",
