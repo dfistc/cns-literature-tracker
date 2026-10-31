@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:07:18+00:00",
+  "updatedAt": "2026-10-31T02:53:32+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -46,6 +46,49 @@
       "abstractEn": "Mechanistic target of rapamycin complex 1 (mTORC1) is a nutrient sensor that integrates diverse inputs to regulate protein translation and cell growth. While mTORC1 is activated on the lysosome in the classical model, it has become increasingly clear that this multifaceted signaling complex is active at various subcellular locations, such as the nucleus. However, what specific functions mTORC1 serves at these locations and how its signaling is compartmentalized are unclear. To interrogate subcellular pools of mTORC1, we developed TerminaTOR, a genetically encodable inhibitor of mTORC1 that can be targeted to specific subcellular locations. When TerminaTOR is directed to the lysosome, it inhibits canonical lysosomal mTORC1 and induces autophagy. Furthermore, TerminaTOR targeted to the nucleus specifically inhibits nuclear mTORC1, uncovering noncanonical roles of nuclear mTORC1 in regulating the transcription of CCAAT motif-containing genes. Thus, mTORC1 exhibits functional spatial compartmentalization and TerminaTOR serves as a powerful tool for unraveling spatially regulated functions of mTORC1 across different scales.",
       "summaryZh": "雷帕霉素复合物 1 (mTORC1) 的机械靶标是一种营养传感器，可整合多种输入来调节蛋白质翻译和细胞生长。虽然在经典模型中 mTORC1 在溶酶体上被激活，但越来越清楚的是，这种多方面的信号复合物在各个亚细胞位置（例如细胞核）都具有活性。然而，mTORC1 在这些位置发挥什么具体功能以及其信号传导如何划分尚不清楚。为了研究 mTORC1 的亚细胞库，我们开发了 TerminaTOR，这是一种基因可编码的 mTORC1 抑制剂，可以靶向特定的亚细胞位置。当 TerminaTOR 靶向溶酶体时，它会抑制典型的溶酶体 mTORC1 并诱导自噬。此外，针对细胞核的 TerminaTOR 特异性抑制细胞核 mTORC1，揭示了细胞核 mTORC1 在调节含有 CCAAT 基序的基因转录中的非典型作用。因此，mTORC1 表现出功能性空间划分，而 TerminaTOR 可以作为揭示 mTORC1 在不同尺度上的空间调节功能的强大工具。",
       "translationSource": "aeae36ac619bca1e"
+    },
+    {
+      "pmid": "42962024",
+      "title": "A dual-targeting lipid nanoparticle delivery system for precision phage therapy against multidrug-resistant Gram-negative bacteria.",
+      "titleZh": "一种双靶向脂质纳米颗粒递送系统，用于针对多重耐药革兰氏阴性菌的精准噬菌体治疗。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-30",
+      "doi": "10.1126/sciadv.aeh7105",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh7105",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42962024/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The escalating crisis of antimicrobial resistance, particularly among Gram-negative bacteria, demands innovative therapeutic strategies. Here, we present a dual-targeting lipid nanoparticle-chimeric phage (AbLCP) system engineered to combat multidrug-resistant (MDR) Gram-negative bacteria. Our design integrates a genetically modified M13 phage displaying anti-lipopolysaccharide (LPS) antibodies with polymyxin B conjugation, which is further encapsulated within anti-LPS antibody-functionalized lipid nanoparticles. This system overcomes the fundamental limitations of conventional phage therapy, enabling efficient cellular internalization, endosomal escape, and potent intracellular bactericidal activity. In murine models of Pseudomonas aeruginosa infection, AbLCP achieved superior bacterial clearance and up to 10 3 -fold reduction in bacterial burden at a 10 3 -fold lower effective dose than free polymyxin B, with 67-fold selective accumulation at infection sites, and attenuated systemic inflammation and preservation of gut microbiota. Mechanistically, AbLCP neutralized LPS to suppress inflammation and induced a lethal bacterial stress response. This work establishes a transformative nanophage platform that merges synthetic biology with nanomedicine, offering a promising strategy against MDR bacterial infections.",
+      "summaryZh": "不断升级的抗菌药物耐药性危机，特别是革兰氏阴性菌耐药性危机，需要创新的治疗策略。在这里，我们提出了一种双靶向脂质纳米颗粒嵌合噬菌体（AbLCP）系统，旨在对抗多重耐药（MDR）革兰氏阴性细菌。我们的设计将展示抗脂多糖 (LPS) 抗体的转基因 M13 噬菌体与多粘菌素 B 结合相结合，并进一步封装在抗 LPS 抗体功能化的脂质纳米颗粒内。该系统克服了传统噬菌体疗法的基本局限性，实现了有效的细胞内化、内体逃逸和有效的细胞内杀菌活性。在铜绿假单胞菌感染的小鼠模型中，AbLCP 以比游离多粘菌素 B 低 10 3 倍的有效剂量实现了优异的细菌清除率和高达 10 3 倍的细菌负荷减少，在感染部位选择性积累了 67 倍，并减轻了全身炎症并保护了肠道微生物群。从机制上讲，AbLCP 中和 LPS 以抑制炎症并诱导致命的细菌应激反应。这项工作建立了一个变革性的纳米噬菌体平台，将合成生物学与纳米医学相结合，提供了一种有前景的对抗 MDR 细菌感染的策略。",
+      "translationSource": "08a8dbb118387907"
+    },
+    {
+      "pmid": "42962009",
+      "title": "LAMP2A gene therapy mitigates Parkinson's disease-related pathology in nonhuman primates.",
+      "titleZh": "LAMP2A 基因疗法可减轻非人类灵长类动物中帕金森病相关的病理。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-10-30",
+      "doi": "10.1126/sciadv.aeg1787",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg1787",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42962009/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Chaperone-mediated autophagy (CMA), regulated by its lysosomal receptor LAMP2A, is a key pathway for αSynuclein (αSyn) clearance and a direct target of αSyn-related neurotoxicity. Rodent studies show that LAMP2A enhancement reverses neurodegeneration, whereas its deficiency accelerates pathology. To test translational relevance, we examined whether increasing LAMP2A expression in nonhuman primates could mitigate α-synucleinopathy induced by injections of Parkinson's disease patient-derived Lewy body (LB) extract. Increasing LAMP2A expression protected nigral dopaminergic neurons from LB-induced αSyn neurodegeneration, delayed the formation and release of pathology-related αSyn species, and evoked a beneficial effect on motor behavior and on cognitive functions of the primate model. Our findings provide preliminary preclinical evidence supporting CMA enhancement as a therapeutic strategy for αSynucleinopathies.",
+      "summaryZh": "伴侣介导的自噬 (CMA) 受其溶酶体受体 LAMP2A 调节，是 αSyn 清除的关键途径，也是 αSyn 相关神经毒性的直接目标。啮齿类动物研究表明，LAMP2A 的增强可逆转神经退行性变，而 LAMP2A 的缺乏则会加速病理变化。为了测试翻译相关性，我们检查了非人灵长类动物中增加 LAMP2A 表达是否可以减轻注射帕金森病患者来源的路易体 (LB) 提取物引起的 α-突触核蛋白病。增加 LAMP2A 表达可保护黑质多巴胺能神经元免受 LB 诱导的 αSyn 神经变性的影响，延迟病理相关 αSyn 物种的形成和释放，并对灵长类动物模型的运动行为和认知功能产生有益影响。我们的研究结果提供了初步的临床前证据，支持 CMA 增强作为 α 突触核蛋白病的治疗策略。",
+      "translationSource": "bdf0baaed3f04616"
     },
     {
       "pmid": "42956153",
@@ -1504,6 +1547,31 @@
       "translationSource": "7d0bf344fb13c65d"
     },
     {
+      "pmid": "42957722",
+      "title": "RuPHOTACs provide photocontrol over protein degradation with optimized properties for biological applications.",
+      "titleZh": "RuPHOTAC 提供对蛋白质降解的光控制，并具有适合生物应用的优化特性。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-30",
+      "doi": "10.1038/s41467-026-78110-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78110-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42957722/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "protac",
+        "proteolysis targeting chimera",
+        "photac",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac, proteolysis targeting chimera, photac, proteostasis。",
+      "abstractEn": "PROteolysis TArgeting Chimeras (PROTACs) are bifunctional molecules that catalyze degradation of selected proteins by inducing protein:protein interactions (PPIs) between E3 ubiquitin ligases and the protein of interest. A critical limitation is undesired effects in untargeted tissues, necessitating approaches to impose spatiotemporal control over PROTAC function. Here we present Ru(II) photocages that can be released with low energy light, providing triggered PROTAC activity on demand. The systems, termed Ruthenium-based PHOToActivated Chimeras (RuPHOTACs), were validated by targeting bromodomain-containing proteins, which act as crucial epigenetic regulators, and also strongly reduced levels of c-MYC and PIM1. RuPHOTACs demonstrate that the incorporation of metal components within organic PROTACs confers multiple advantages for light-controlled systems for chemical biology applications, including the highest selectivity for activation in the light vs. the dark, improved potency against the target proteins of interest, and increased efficacy in vivo using low energy red light. To efficiently monitor protein degradation via optical means, a strategy was implemented by creating a fusion of a photoconvertible protein, Dendra2, with the proteins of interest. This bifunctional reporter system for live cell analysis decouples protein degradation efficiency and rates from signals arising from new protein production, and is superior to prior reporter systems described for PROTACs because it directly measures the true degradation rate of the target protein in intact, viable cells while simultaneously tracking newly synthesized protein without perturbing translation, proteostasis, or cell health.",
+      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 是双功能分子，通过诱导 E3 泛素连接酶和目标蛋白之间的蛋白质：蛋白质相互作用 (PPI) 来催化选定蛋白质的降解。一个关键的限制是对非目标组织产生不良影响，因此需要对 PROTAC 功能进行时空控制的方法。在这里，我们展示了可以用低能光释放的 Ru(II) 光笼，根据需要提供触发的 PROTAC 活性。该系统被称为基于钌的 PHOToActivated Chimeras (RuPHOTACs)，通过靶向含溴结构域的蛋白质（作为重要的表观遗传调节因子）进行了验证，并且还大大降低了 c-MYC 和 PIM1 的水平。 RuPHOTAC 证明，在有机 PROTAC 中加入金属成分为化学生物学应用的光控系统带来了多种优势，包括在光与暗中激活的最高选择性、提高针对目标蛋白的效力，以及使用低能量红光提高体内功效。为了通过光学手段有效监测蛋白质降解，通过创建光转换蛋白质 Dendra2 与目标蛋白质的融合来实施策略。这种用于活细胞分析的双功能报告系统将蛋白质降解效率和速率与新蛋白质产生的信号解耦，并且优于为 PROTAC 描述的先前报告系统，因为它直接测量完整、活细胞中目标蛋白质的真实降解率，同时跟踪新合成的蛋白质，而不会干扰翻译、蛋白质稳态或细胞健康。",
+      "translationSource": "9da962cc6db373d9"
+    },
+    {
       "pmid": "42816512",
       "title": "Cell-autonomous restoration of splicing homeostasis and RP11 phenotype in patient-derived RPE and retinal organoids by PRPF31.AAV gene therapy.",
       "titleZh": "通过 PRPF31.AAV 基因治疗，细胞自主恢复患者来源的 RPE 和视网膜类器官中的剪接稳态和 RP11 表型。",
@@ -1566,6 +1634,48 @@
       "abstractEn": "G-protein-coupled receptors (GPCRs) represent one of the most important yet incompletely addressed classes of therapeutic targets 1 . Here we report a strategy for functional GPCR antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation. GPCR-TfR1 targeting chimeras (GTACs) achieve potent and selective downregulation of multiple GPCRs, including BILF1, RXFP1 and CCR6-viral, cancer and immune targets that have been difficult to drug 2-4 . GTACs lead to complete inhibition of receptor signalling, including constitutive signalling, with more than one to two orders of magnitude greater potency than conventional antibody antagonists. Using protein engineering and multicolour live-cell imaging, we establish a context-dependent degrader design and explain the cellular mechanisms, with broad relevance for degrader technology. The GTAC platform establishes induced endocytosis and rewiring protein trafficking as a model for therapeutic GPCR modulation.",
       "summaryZh": "G 蛋白偶联受体 (GPCR) 是最重要但尚未完全解决的治疗靶点之一 1 。在这里，我们报告了一种通过双特异性抗体介导的内吞作用和溶酶体降解来实现功能性 GPCR 拮抗的策略。 GPCR-TfR1 靶向嵌合体 (GTAC) 可实现多种 GPCR 的有效选择性下调，包括 BILF1、RXFP1 和 CCR6 病毒、癌症和免疫靶点，这些靶点一直难以药物治疗 2-4 。 GTAC 可完全抑制受体信号传导，包括组成型信号传导，其效力比传统抗体拮抗剂高一到两个数量级以上。利用蛋白质工程和多色活细胞成像，我们建立了上下文相关的降解剂设计并解释了细胞机制，与降解剂技术具有广泛的相关性。 GTAC 平台建立了诱导内吞作用和重新布线蛋白质运输作为治疗性 GPCR 调节的模型。",
       "translationSource": "3daa0938a97c6713"
+    },
+    {
+      "pmid": "42957684",
+      "title": "A role for selective ER autophagy in gametogenic rejuvenation revealed by high-throughput lifespan profiling.",
+      "titleZh": "高通量寿命分析揭示了选择性内质网自噬在配子再生中的作用。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-29",
+      "doi": "10.1038/s41467-026-77993-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77993-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42957684/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "During mitotic growth, Saccharomyces cerevisiae cells age by dividing asymmetrically, producing young daughter cells while retaining age-associated damage in the mother cell, which will eventually become senescent. Gametogenesis naturally and fully resets precursor cell lifespan, even for replicatively aged cells. However, the mechanisms responsible for gametogenic rejuvenation have remained mysterious. This is partly due to the existing methods to quantify lifespan resetting in this context, which are limited to low-throughput and labor-intensive approaches. Here, we introduce a high-throughput assay that allows systematic characterization of factors required for gametogenic rejuvenation. With this approach, we show that we can sensitively measure a wide range of gamete replicative lifespans that are consistent with established mutants. Excitingly, we also discover that Atg39 and Atg40, receptors involved in selective autophagy of the ER, are molecular determinants of gametogenic rejuvenation. This technique will enable systematic identification of the molecular factors that drive gametogenic rejuvenation.",
+      "summaryZh": "在有丝分裂生长过程中，酿酒酵母细胞通过不对称分裂而老化，产生年轻的子细胞，同时保留母细胞中与年龄相关的损伤，最终导致衰老。配子发生自然且完全重置前体细胞的寿命，即使对于复制老化的细胞也是如此。然而，导致配子再生的机制仍然是个谜。这部分是由于现有的量化寿命重置的方法仅限于低通量和劳动密集型方法。在这里，我们介绍了一种高通量测定，可以系统地表征配子再生所需的因素。通过这种方法，我们表明我们可以灵敏地测量与已建立的突变体一致的各种配子复制寿命。令人兴奋的是，我们还发现 Atg39 和 Atg40（参与 ER 选择性自噬的受体）是配子再生的分子决定因素。该技术将能够系统地识别驱动配子再生的分子因素。",
+      "translationSource": "347dfcd0a11bb3e5"
+    },
+    {
+      "pmid": "42957655",
+      "title": "Quantitative changes in 3D contact predict changes in enhancer-promoter regulation upon cohesin depletion.",
+      "titleZh": "3D 接触的定量变化预示着粘连蛋白耗尽时增强子-启动子调节的变化。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-09-29",
+      "doi": "10.1038/s41467-026-77582-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77582-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42957655/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Enhancers are drivers of gene regulation thought to act via 3D interactions with promoters. However, genome-wide cohesin depletion causes only limited changes in gene expression, despite widespread loss of contact domains, raising questions about how 3D contacts and cohesin influence enhancer function. Here, we introduce CRISPRi of regulatory elements upon degron operation (CRUDO), to quantitatively assess how changes in contact frequency affect enhancer-driven gene regulation. We analyzed 1039 candidate enhancers near five cohesin-dependent genes and identified 30 significant enhancer-gene pairs, 16 with cohesin-dependent effects. While all cohesin-dependent enhancers were distal (>50 Kb), not all distal enhancers were sensitive to cohesin. Instead, changes in enhancer effects correlated with changes in enhancer-promoter 3D contact frequency, which appeared to depend on both genomic distance and other locus-specific factors. Across the genome, most predicted enhancer-gene regulatory interactions do not show substantial contact changes upon cohesin depletion, explaining why only a small subset of genes are cohesin-sensitive. Together, our results illuminate how 3D contacts tune enhancer effects on endogenous gene expression.",
+      "summaryZh": "增强子是基因调控的驱动因素，被认为通过与启动子的 3D 相互作用发挥作用。然而，尽管接触域广泛丢失，但全基因组粘连蛋白消耗仅导致基因表达发生有限的变化，这引发了关于 3D 接触和粘连蛋白如何影响增强子功能的问题。在这里，我们引入了降解子操作调控元件的 CRISPRi (CRUDO)，以定量评估接触频率的变化如何影响增强子驱动的基因调控。我们分析了 5 个粘连蛋白依赖性基因附近的 1039 个候选增强子，并鉴定了 30 个显着的增强子基因对，其中 16 个具有粘连蛋白依赖性效应。虽然所有粘连蛋白依赖性增强子都位于远端（> 50 Kb），但并非所有远端增强子都对粘连蛋白敏感。相反，增强子效应的变化与增强子-启动子 3D 接触频率的变化相关，这似乎取决于基因组距离和其他位点特异性因素。在整个基因组中，大多数预测的增强子-基因调控相互作用在粘连蛋白耗尽时并未显示出实质性的接触变化，这解释了为什么只有一小部分基因对粘连蛋白敏感。总之，我们的结果阐明了 3D 接触如何调节增强子对内源基因表达的影响。",
+      "translationSource": "0bd58b9b76fca365"
     },
     {
       "pmid": "42946762",
