@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:46:10+00:00",
+  "updatedAt": "2026-11-02T02:54:26+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -48,6 +48,27 @@
       "translationSource": "aeae36ac619bca1e"
     },
     {
+      "pmid": "42965863",
+      "title": "Arbitrium crosstalk enables shared signaling among phages.",
+      "titleZh": "任意串扰可以实现噬菌体之间的共享信号。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-31",
+      "doi": "10.1016/j.celrep.2026.118254",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118254",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42965863/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The arbitrium system has transformed our understanding of phage biology by demonstrating that temperate phages communicate through extracellular peptides to coordinate lysis-lysogeny decisions. Initially considered a highly specific signaling pathway restricted to individual phage lineages, arbitrium communication has now been shown to extend beyond lineage boundaries in some phage systems. Recent studies have shown that non-cognate arbitrium peptides can interact with heterologous receptors, providing evidence of inter-phage crosstalk. Here, we synthesize current knowledge of the molecular basis of arbitrium signaling, the structural determinants of peptide-receptor specificity, and the potential ecological and evolutionary consequences of inter-phage communication. We suggest that arbitrium crosstalk may shape phage ecology by mediating competitive and potentially cooperative interactions within shared signaling environments. We also discuss its potential uses in engineered phage systems, synthetic biology, and microbiome engineering. Collectively, the available evidence broadens the concept of viral communication beyond lineage-specific signaling, while the ecological significance and practical applications of arbitrium crosstalk remain to be established.",
+      "summaryZh": "仲裁系统通过证明温带噬菌体通过细胞外肽进行通信来协调裂解-溶源决策，改变了我们对噬菌体生物学的理解。最初被认为是仅限于单个噬菌体谱系的高度特异性信号传导途径，现在已证明任意通讯在某些噬菌体系统中延伸到谱系边界之外。最近的研究表明，非同源任意肽可以与异源受体相互作用，提供噬菌体间串扰的证据。在这里，我们综合了目前关于任意信号传导的分子基础、肽受体特异性的结构决定因素以及噬菌体间通讯的潜在生态和进化后果的知识。我们认为，任意串扰可能通过调节共享信号环境中的竞争性和潜在的合作性相互作用来塑造噬菌体生态。我们还讨论了它在工程噬菌体系统、合成生物学和微生物组工程中的潜在用途。总的来说，现有证据拓宽了病毒传播的概念，超越了谱系特异性信号传导，而任意串扰的生态意义和实际应用仍有待确定。",
+      "translationSource": "6978557eaf3d1f03"
+    },
+    {
       "pmid": "42962024",
       "title": "A dual-targeting lipid nanoparticle delivery system for precision phage therapy against multidrug-resistant Gram-negative bacteria.",
       "titleZh": "一种双靶向脂质纳米颗粒递送系统，用于针对多重耐药革兰氏阴性菌的精准噬菌体治疗。",
@@ -89,6 +110,27 @@
       "abstractEn": "Chaperone-mediated autophagy (CMA), regulated by its lysosomal receptor LAMP2A, is a key pathway for αSynuclein (αSyn) clearance and a direct target of αSyn-related neurotoxicity. Rodent studies show that LAMP2A enhancement reverses neurodegeneration, whereas its deficiency accelerates pathology. To test translational relevance, we examined whether increasing LAMP2A expression in nonhuman primates could mitigate α-synucleinopathy induced by injections of Parkinson's disease patient-derived Lewy body (LB) extract. Increasing LAMP2A expression protected nigral dopaminergic neurons from LB-induced αSyn neurodegeneration, delayed the formation and release of pathology-related αSyn species, and evoked a beneficial effect on motor behavior and on cognitive functions of the primate model. Our findings provide preliminary preclinical evidence supporting CMA enhancement as a therapeutic strategy for αSynucleinopathies.",
       "summaryZh": "伴侣介导的自噬 (CMA) 受其溶酶体受体 LAMP2A 调节，是 αSyn 清除的关键途径，也是 αSyn 相关神经毒性的直接目标。啮齿类动物研究表明，LAMP2A 的增强可逆转神经退行性变，而 LAMP2A 的缺乏则会加速病理变化。为了测试翻译相关性，我们检查了非人灵长类动物中增加 LAMP2A 表达是否可以减轻注射帕金森病患者来源的路易体 (LB) 提取物引起的 α-突触核蛋白病。增加 LAMP2A 表达可保护黑质多巴胺能神经元免受 LB 诱导的 αSyn 神经变性的影响，延迟病理相关 αSyn 物种的形成和释放，并对灵长类动物模型的运动行为和认知功能产生有益影响。我们的研究结果提供了初步的临床前证据，支持 CMA 增强作为 α 突触核蛋白病的治疗策略。",
       "translationSource": "bdf0baaed3f04616"
+    },
+    {
+      "pmid": "42965864",
+      "title": "Clusterin, through exercise-mediated liver-heart crosstalk, promotes heart regeneration after myocardial infarction.",
+      "titleZh": "凝聚素通过运动介导的肝-心串扰，促进心肌梗塞后的心脏再生。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-10-30",
+      "doi": "10.1016/j.celrep.2026.118234",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118234",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42965864/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Loss of cardiomyocytes drives cardiac remodeling and ultimately leads to heart failure, highlighting the need to promote cardiac regeneration. Exercise has been known to enhance cardiac repair and stimulate cardiomyocyte proliferation; however, the underlying mechanisms remain unclear. In this study, we demonstrated that exercise-induced exerkine clusterin mediates the pro-regenerative effects of running plasma on cardiac repair and cardiomyocyte proliferation following myocardial infarction (MI). Cardiac-specific Clu knockout attenuated, whereas clusterin overexpression enhanced, post-MI cardiac regeneration. Recombinant clusterin administration promoted heart regeneration in adult mice after MI. Mechanistically, clusterin activated NF-κB via proteasome-dependent IκBα degradation through direct binding with IκBα. Furthermore, the liver was identified as the major source of exercise-induced circulating clusterin; hepatocyte-specific Clu knockdown abolished the stimulatory effect of exercise plasma on cardiac regeneration. This study reveals a liver-heart crosstalk mechanism by which exercise-induced clusterin promotes cardiomyocyte proliferation, positioning clusterin as a potential therapeutic target for post-MI heart failure.",
+      "summaryZh": "心肌细胞的损失会导致心脏重塑并最终导致心力衰竭，这凸显了促进心脏再生的必要性。众所周知，运动可以增强心脏修复并刺激心肌细胞增殖。然而，其根本机制仍不清楚。在这项研究中，我们证明运动诱导的运动素簇蛋白介导跑步血浆对心肌梗死（MI）后心脏修复和心肌细胞增殖的促再生作用。心脏特异性 Clu 敲除减弱，而 clusterin 过度表达增强 MI 后心脏再生。重组凝聚素的施用促进了成年小鼠心肌梗死后的心脏再生。从机制上讲，凝聚素通过与 IκBα 直接结合，通过蛋白酶体依赖性 IκBα 降解来激活 NF-κB。此外，肝脏被认为是运动引起的循环凝聚蛋白的主要来源。肝细胞特异性 Clu 敲低消除了运动血浆对心脏再生的刺激作用。这项研究揭示了运动诱导的聚集蛋白促进心肌细胞增殖的肝-心串扰机制，将聚集蛋白定位为心肌梗死后心力衰竭的潜在治疗靶点。",
+      "translationSource": "b84e67183aba90c1"
     },
     {
       "pmid": "42956153",
