@@ -1,8 +1,114 @@
 {
-  "updatedAt": "2026-11-03T04:11:18+00:00",
+  "updatedAt": "2026-11-06T03:50:00+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42982803",
+      "title": "Systematic screen of RNA binding proteins that enhance circular RNA translation.",
+      "titleZh": "系统筛选增强环状 RNA 翻译的 RNA 结合蛋白。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-04",
+      "doi": "10.1038/s41467-026-77614-w",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-77614-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42982803/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Translatable circular RNAs (circRNAs) have emerged as a promising alternative to conventional mRNA therapy due to their improved stability that results in a prolonged expression window. The translation of circRNAs is mainly driven by internal ribosome entry site (IRES) or IRES-like elements, which is tightly regulated by various trans-acting RNA binding proteins (RBPs). Here we develop a cell-based system to systematically screen RBPs that enhance translation of circRNAs, identifying 68 proteins as putative activators of noncanonical translation. These translation activators are involved in a broad range of biological processes including RNA processing, ribosomal biogenesis, and translation initiation. We further design a machine learning algorithm to extract common sequence features of these activators and predict more potential RBPs with translation activator activities. The newly identified and predicted activators are subsequently validated to promote the IRES-mediated circRNA translation in a context-dependent fashion. Overall, this study provides new insights into IRES-related trans-acting factors and expands the toolbox for engineered RBPs in RNA synthetic biology.",
+      "summaryZh": "可翻译的环状 RNA (circRNA) 已成为传统 mRNA 疗法的一种有前途的替代品，因为它们的稳定性得到提高，从而延长了表达窗口。 circRNA的翻译主要由内部核糖体进入位点（IRES）或IRES样元件驱动，受到各种反式作用RNA结合蛋白（RBP）的严格调控。在这里，我们开发了一种基于细胞的系统来系统地筛选增强 circRNA 翻译的 RBP，识别出 68 种蛋白质作为非规范翻译的推定激活剂。这些翻译激活剂参与广泛的生物过程，包括 RNA 加工、核糖体生物发生和翻译起始。我们进一步设计了一种机器学习算法来提取这些激活子的共同序列特征，并通过翻译激活子活动预测更多潜在的 RBP。随后验证新鉴定和预测的激活剂以上下文依赖的方式促进 IRES 介导的 circRNA 翻译。总体而言，这项研究为 IRES 相关反式作用因子提供了新的见解，并扩展了 RNA 合成生物学中工程化 RBP 的工具箱。",
+      "translationSource": "d7a12c32bf257f09"
+    },
+    {
+      "pmid": "42983087",
+      "title": "An AI-native experimental laboratory for autonomous biomolecular operations.",
+      "titleZh": "用于自主生物分子操作的人工智能原生实验实验室。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-04",
+      "doi": "10.1038/s41586-026-11228-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11228-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42983087/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging 1-4 , especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an 'add-on' architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, such as reagent and labware replenishment. Across four representative applications, AutoDNA matched expert-optimized enzymatic DNA synthesis yields, accelerated concurrent protocol execution by 3.2-fold, completed an end-to-end DNA data storage cycle with exact recovery of the original digital content, and identified and validated a clinically detected KRAS G13D mutation. AutoDNA establishes a blueprint towards science-as-a-service, accelerating biological discovery and advancing various applications in synthetic biology and information storage.",
+      "summaryZh": "开发人工智能（AI）原生实验实验室，以最少的人为干预进行自主科学探索是一个长期目标。尽管自主实验系统正在兴起 1-4 ，特别是在化学和材料科学领域，但它们仍然主要局限于具有单一目标、明确定义的工作流程和简单仪器的领域。这种限制可能反映了一种“附加”架构，该架构使用人工智能作为特定于任务的工具，而不是为其提供对实验的全局理解，尤其是在面向工程的情况下。在这里，我们介绍 AutoDNA，这是一个人工智能原生自主生物分子工程实验室，旨在跨不同仪器进行多目标实验。通过模型、实验和仪器的协同设计，AutoDNA在端到端多用户框架内实现了人工智能和自动化系统的共同进化。该系统自主协调20多种类型的仪器，跨越11,000多个步骤来执行核心核酸操作，包括合成、转录、扩增和测序，而人工干预仅限于硬件维护任务，例如试剂和实验室器具补充。在四个代表性应用中，AutoDNA 匹配了专家优化的酶 DNA 合成产量，将并发协议执行速度加快了 3.2 倍，完成了端到端 DNA 数据存储周期，准确恢复了原始数字内容，并识别和验证了临床检测到的 KRAS G13D 突变。 AutoDNA 制定了科学即服务的蓝图，加速生物发现并推进合成生物学和信息存储方面的各种应用。",
+      "translationSource": "e57695ec8c30ae86"
+    },
+    {
+      "pmid": "42977750",
+      "title": "Ca 2+ signature gates responsiveness to exogenous auxin in Arabidopsis roots.",
+      "titleZh": "Ca 2+ 特征门控拟南芥根部对外源生长素的反应。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-03",
+      "doi": "10.1038/s41467-026-78361-8",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78361-8",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977750/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Plants must continually balance growth with arrest, especially under stress. Auxin signaling acts as a central regulatory hub in this process, yet the mechanisms that dynamically tune auxin signaling in real time remain unknown. Here, we use the light-gated, Ca 2+ -permeable Channelrhodopsin 2 variant XXM2.0 to optogenetically impose defined Ca 2+ signatures on Arabidopsis root cells. Repetitive light activation triggers cytosolic Ca 2+ signals that in turn suppress membrane depolarization and Ca 2+ transients triggered by exogenous auxin. Moreover, prolonged optogenetic Ca 2+ stimulation affects auxin-responsive transcriptional reprogramming. As phenotypic output, reversible inhibition of root growth by suppressing cell division and elongation is observed. We further identify a candidate CaM7-CNGC14 module that likely mediates Ca 2+ -dependent gating of responsiveness to exogenous auxin as well as Ca 2+ -dependent root growth inhibition. Our study thus introduces a synthetic biology approach to decompose calcium-auxin crosstalk in plant cells, and demonstrates that optogenetically imposed cytosolic Ca 2+ signals act as dynamic regulators of auxin susceptibility in roots.",
+      "summaryZh": "植物必须不断平衡生长与停滞，尤其是在压力下。生长素信号传导在此过程中充当中央调节中心，但实时动态调节生长素信号传导的机制仍然未知。在这里，我们使用光门控、Ca 2+ 渗透性通道视紫红质 2 变体 XXM2.0 在拟南芥根细胞上通过光遗传学方式施加定义的 Ca 2+ 特征。重复的光激活会触发胞质 Ca 2+ 信号，进而抑制由外源生长素触发的膜去极化和 Ca 2+ 瞬变。此外，长时间的光遗传学Ca 2+ 刺激会影响生长素响应性转录重编程。作为表型输出，观察到通过抑制细胞分裂和伸长对根生长的可逆抑制。我们进一步确定了一个候选 CaM7-CNGC14 模块，该模块可能介导对外源生长素的 Ca 2+ 依赖性门控反应以及 Ca 2+ 依赖性根生长抑制。因此，我们的研究引入了一种合成生物学方法来分解植物细胞中的钙-生长素串扰，并证明光遗传学施加的胞质Ca 2+ 信号可作为根中生长素敏感性的动态调节剂。",
+      "translationSource": "8e1bb1bf25efeccf"
+    },
+    {
+      "pmid": "42977769",
+      "title": "STING-dependent TNF signalling promotes IKKβ-mediated ATG9A phosphorylation and autophagy.",
+      "titleZh": "STING 依赖性 TNF 信号传导促进 IKKβ 介导的 ATG9A 磷酸化和自噬。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-11-03",
+      "doi": "10.1038/s41556-026-02101-9",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02101-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977769/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Chemotherapeutic drugs, either alone or in combination with immunotherapy, are routinely used in cancer treatment. However, cancer cells frequently develop resistance to chemotherapy, and the underlying mechanisms remain incompletely understood. Using head and neck squamous cell carcinoma as a model, we show that chemotherapy activates the cGAS-STING pathway, leading to the induction of TNF. TNF mediates a paracrine signalling pathway in recipient tumour cells, leading to IKKβ activation and ATG9A phosphorylation at serine 654, thereby promoting autophagy. Moreover, IKKβ activation and ATG9A S654 phosphorylation are induced by TNF, nutrient deprivation and mTOR inhibition, suggesting that the IKKβ-ATG9A axis may represent a common regulatory mechanism of autophagy. Analysis of patient samples further reveals that chemotherapy induces autophagy, and elevated phosphorylation of ATG9A at S654 correlates with poor chemotherapy response. Of note, TNF blockade enhances therapeutic efficacy in both chemotherapy alone and chemotherapy combined with immune checkpoint inhibition. Together, our findings uncover a previously unrecognized TNF-IKKβ-ATG9A signalling axis that promotes autophagy and highlight TNF blockade as a promising strategy to overcome chemotherapy resistance.",
+      "summaryZh": "化疗药物单独或与免疫疗法联合使用，通常用于癌症治疗。然而，癌细胞经常对化疗产生耐药性，其潜在机制仍不完全清楚。使用头颈鳞状细胞癌作为模型，我们发现化疗激活 cGAS-STING 通路，导致 TNF 的诱导。 TNF 在受体肿瘤细胞中介导旁分泌信号通路，导致 IKKβ 激活和 ATG9A 丝氨酸 654 磷酸化，从而促进自噬。此外，TNF、营养剥夺和 mTOR 抑制诱导 IKKβ 激活和 ATG9A S654 磷酸化，表明 IKKβ-ATG9A 轴可能代表自噬的常见调节机制。对患者样本的分析进一步表明，化疗会诱导自噬，并且 ATG9A S654 磷酸化升高与化疗反应不佳相关。值得注意的是，TNF 阻断可增强单独化疗和化疗联合免疫检查点抑制的治疗效果。总之，我们的研究结果揭示了一个以前未被识别的 TNF-IKKβ-ATG9A 信号轴，该信号轴可促进自噬，并强调 TNF 阻断是克服化疗耐药性的一种有前景的策略。",
+      "translationSource": "1afca670dda7dd8b"
+    },
+    {
+      "pmid": "42976006",
+      "title": "HRS dephosphorylation at membrane contact sites promotes sorting within multivesicular endosomes.",
+      "titleZh": "膜接触位点的 HRS 去磷酸化促进多囊泡内体内的分选。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-11-03",
+      "doi": "10.1016/j.celrep.2026.118222",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118222",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42976006/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endosome。",
+      "abstractEn": "HRS is a receptor tyrosine kinase substrate and ESCRT machinery component. It enables sorting of ubiquitylated cargo into multivesicular endosomes (MVEs) for lysosomal degradation but also functions in receptor recycling. We show that co-depletion of its ESCRT-0 binding partners, STAM1 and STAM2, recapitulates defects in EGF receptor (EGFR) sorting onto intraluminal vesicles (ILVs) but does not mirror the increased MVE size evident after HRS depletion. Using mutagenesis of the endogenous gene or introduction of APEX2-tagged HRS variants, we find that HRS Y329/334 phosphorylation is dispensable for EGFR sorting and MVE size control. AnnexinA1 mediates ER:endosomal membrane contacts and promotes EGF-stimulated ILV formation. We show that reduced ILV formation on AnnexinA1 depletion is accompanied by increased HRS phosphorylation, likely through reduced HRS dephosphorylation by ER-localised PTP1B. Conversely, Y329/334 mutation renders ILV formation insensitive to AnnexinA1 depletion. Our data suggest that rapid HRS dephosphorylation at ER:MVE contacts promotes efficient ILV formation.",
+      "summaryZh": "HRS 是受体酪氨酸激酶底物和 ESRT 机械组件。它能够将泛素化的货物分类到多囊泡内体 (MVE) 中进行溶酶体降解，同时也在受体回收中发挥作用。我们发现，其 ESCRT-0 结合伴侣 STAM1 和 STAM2 的共同耗尽，重现了 EGF 受体 (EGFR) 分类到管腔内囊泡 (ILV) 上的缺陷，但并不反映 HRS 耗尽后明显增加的 MVE 大小。通过内源基因的诱变或引入 APEX2 标记的 HRS 变体，我们发现 HRS Y329/334 磷酸化对于 EGFR 分选和 MVE 大小控制是可有可无的。膜联蛋白 A1 介导 ER：内体膜接触并促进 EGF 刺激的 ILV 形成。我们发现，AnnexinA1 耗尽时 ILV 形成的减少伴随着 HRS 磷酸化的增加，这可能是通过 ER 定位的 PTP1B 减少 HRS 去磷酸化来实现的。相反，Y329/334 突变使 ILV 形成对annexinA1 耗尽不敏感。我们的数据表明，ER:MVE 接触处的快速 HRS 去磷酸化可促进有效的 ILV 形成。",
+      "translationSource": "0cf1b242796d03ba"
+    },
     {
       "pmid": "42493606",
       "title": "Using enantioselective biosensors to evolve asymmetric biocatalysts.",
@@ -46,6 +152,28 @@
       "abstractEn": "Mechanistic target of rapamycin complex 1 (mTORC1) is a nutrient sensor that integrates diverse inputs to regulate protein translation and cell growth. While mTORC1 is activated on the lysosome in the classical model, it has become increasingly clear that this multifaceted signaling complex is active at various subcellular locations, such as the nucleus. However, what specific functions mTORC1 serves at these locations and how its signaling is compartmentalized are unclear. To interrogate subcellular pools of mTORC1, we developed TerminaTOR, a genetically encodable inhibitor of mTORC1 that can be targeted to specific subcellular locations. When TerminaTOR is directed to the lysosome, it inhibits canonical lysosomal mTORC1 and induces autophagy. Furthermore, TerminaTOR targeted to the nucleus specifically inhibits nuclear mTORC1, uncovering noncanonical roles of nuclear mTORC1 in regulating the transcription of CCAAT motif-containing genes. Thus, mTORC1 exhibits functional spatial compartmentalization and TerminaTOR serves as a powerful tool for unraveling spatially regulated functions of mTORC1 across different scales.",
       "summaryZh": "雷帕霉素复合物 1 (mTORC1) 的机械靶标是一种营养传感器，可整合多种输入来调节蛋白质翻译和细胞生长。虽然在经典模型中 mTORC1 在溶酶体上被激活，但越来越清楚的是，这种多方面的信号复合物在各个亚细胞位置（例如细胞核）都具有活性。然而，mTORC1 在这些位置发挥什么具体功能以及其信号传导如何划分尚不清楚。为了研究 mTORC1 的亚细胞库，我们开发了 TerminaTOR，这是一种基因可编码的 mTORC1 抑制剂，可以靶向特定的亚细胞位置。当 TerminaTOR 靶向溶酶体时，它会抑制典型的溶酶体 mTORC1 并诱导自噬。此外，针对细胞核的 TerminaTOR 特异性抑制细胞核 mTORC1，揭示了细胞核 mTORC1 在调节含有 CCAAT 基序的基因转录中的非典型作用。因此，mTORC1 表现出功能性空间划分，而 TerminaTOR 可以作为揭示 mTORC1 在不同尺度上的空间调节功能的强大工具。",
       "translationSource": "aeae36ac619bca1e"
+    },
+    {
+      "pmid": "42816627",
+      "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation.",
+      "titleZh": "TBK1/ULK1 信号轴将溶酶体应激与 TFEB 激活结合起来。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41586-026-11093-3",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11093-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816627/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal adaptation to environmental changes is critical for cellular and metabolic homeostasis and requires coordination by the mTORC1 kinase, which conveys nutritional and stress signals into distinct, substrate-specific outputs 1,2 . The FLCN-FNIP complex (FLCN:FNIP) serves as a crucial regulator of lysosomal function by selectively controlling the ability of mTORC1 to inhibit transcription factor EB (TFEB), a master regulator of catabolic programs and a known oncogene 3 . Yet how FLCN:FNIP activity is regulated has remained unclear. Here we identify a nutrient-independent lysosomal signalling pathway that regulates FLCN through v-ATPase-driven recruitment of TBK1 or ULK1 (TBK1/ULK1) to lysosomes, via the TAX1BP1 adaptor. This enables TBK1/ULK1-mediated FNIP1 phosphorylation at S296, resulting in inhibition of FLCN and nuclear translocation of TFEB. Recurrent ATP6V1B2 v-ATPase mutations, found in patients with follicular lymphoma, constitutively activate this pathway, leading to hyperactivation of TFEB and follicular lymphoma proliferation. Our work uncovers a lysosomal signalling pathway that is critical for lysosomal adaptation and tumorigenesis.",
+      "summaryZh": "溶酶体对环境变化的适应对于细胞和代谢稳态至关重要，并且需要 mTORC1 激酶的协调，该激酶将营养和应激信号传递到不同的底物特异性输出 1,2 。 FLCN-FNIP 复合物 (FLCN:FNIP) 通过选择性控制 mTORC1 抑制转录因子 EB (TFEB) 的能力，作为溶酶体功能的关键调节因子，转录因子 EB (TFEB) 是分解代谢程序的主要调节因子和已知的癌基因 3 。然而 FLCN:FNIP 活动如何受到监管仍不清楚。在这里，我们确定了一种不依赖营养的溶酶体信号通路，该通路通过 TAX1BP1 接头，通过 v-ATPase 驱动的 TBK1 或 ULK1 (TBK1/ULK1) 募集到溶酶体来调节 FLCN。这使得 TBK1/ULK1 介导的 FNIP1 在 S296 处磷酸化，从而抑制 FLCN 和 TFEB 的核转位。在滤泡性淋巴瘤患者中发现的复发性 ATP6V1B2 v-ATPase 突变会持续激活该通路，导致 TFEB 过度激活和滤泡性淋巴瘤增殖。我们的工作揭示了对溶酶体适应和肿瘤发生至关重要的溶酶体信号通路。",
+      "translationSource": "44bbbfab74681155"
     },
     {
       "pmid": "42965863",
@@ -704,9 +832,9 @@
         "proteasome"
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
-      "abstractEn": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). However, treatment response is heterogeneous and molecular predictors are needed to guide early therapeutic decisions. We performed integrated genomic, transcriptomic and epigenomic profiling of 423 tumor samples from patients with NDMM from the MIDAS cohort to characterize molecular heterogeneity and its association with measurable residual disease (MRD) after quadruplet induction with isatuximab, carfilzomib, lenalidomide and dexamethasone (Isa-KRd). Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes. B cell differentiation was associated with MRD positivity, while proliferation and MYC programs were associated with MRD negativity. These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. New driver alterations were identified with independent validation across three external cohorts with multiple myeloma (MMRF, MANHATTAN and CASSIOPEIA; 1,451 cases). Genomic instability features and driver genes such as CCND1 and MYC correlated with differential MRD outcomes. DNA methylation profiling identified nine MRD-linked subgroups distinguished by the extent of hypomethylation in quiescent chromatin and cis/trans signatures of driver translocations. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models. These findings define a multiomic classification of NDMM linked to Isa-KRd response. ClinicalTrials.gov identifier: NCT04934475 .",
-      "summaryZh": "四联疗法结合了抗CD38抗体、免疫调节药物、蛋白酶体抑制剂和地塞米松，现已成为新诊断的多发性骨髓瘤（NDMM）的标准诱导治疗。然而，治疗反应是异质的，需要分子预测因子来指导早期治疗决策。我们对来自 MIDAS 队列的 NDMM 患者的 423 份肿瘤样本进行了综合基因组、转录组和表观基因组分析，以表征分子异质性及其与伊沙妥昔单抗、卡非佐米、来那度胺和地塞米松 (Isa-KRd) 四联体诱导后可测量残留病灶 (MRD) 的关联。不同基因表达亚型的诱导后 MRD 阴性率差异显着，与 MF 和 CD2 亚型相比，HP1/HP3 和 MS 组表现出更好的反应。 B 细胞分化与 MRD 阳性相关，而增殖和 MYC 程序与 MRD 阴性相关。这些与 MRD 相关的转录组学特征在 CASSIOPEIA 队列中得到了独立验证。全基因组测序揭示了 MMRF 队列中验证的已知（APOBEC 突变、染色体碎裂）和新的基因组不稳定表型。通过三个外部多发性骨髓瘤队列（MMRF、曼哈顿和 CASSIOPEIA；1,451 例）的独立验证，发现了新的驱动因素改变。基因组不稳定特征和驱动基因（例如 CCND1 和 MYC）与不同的 MRD 结果相关。 DNA 甲基化分析确定了九个 MRD 相关亚组，通过静态染色质的低甲基化程度和驱动易位的顺式/反式特征来区分。 整合基因组、转录组和表观基因组特征的多模态随机森林模型预测诱导后的 MRD 状态，曲线下面积为 0.77，优于临床和基因组模型，同时提供相对于转录组和表观基因组模型的可比较的区分度和改进的校准。这些发现定义了与 Isa-KRd 反应相关的 NDMM 多组学分类。 ClinicalTrials.gov 标识符：NCT04934475。",
-      "translationSource": "7de0cb73bb9c5ce4"
+      "abstractEn": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). However, treatment response is heterogeneous and molecular predictors are needed to guide early therapeutic decisions. We performed integrated genomic, transcriptomic and epigenomic profiling of 423 tumor samples from patients with NDMM from the MIDAS cohort to characterize molecular heterogeneity and its association with measurable residual disease (MRD) after quadruplet induction with isatuximab, carfilzomib, lenalidomide and dexamethasone (Isa-KRd). Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes. B cell differentiation was associated with MRD positivity, while proliferation and MYC programs were associated with MRD negativity. These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort, including mismatch repair deficiency driven by pathogenic MSH2 mutations and a focal deletion signature linked to BRCA2 inactivation. New driver alterations were identified, including translocations activating IRAK1 and FOXR1 fusions, with independent validation. Genomic instability features and driver genes such as CCND1 and MYC correlated with differential MRD outcomes. DNA methylation profiling identified nine MRD-linked subgroups distinguished by the extent of hypomethylation in quiescent chromatin and cis/trans signatures of driver translocations. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models. These findings define a multiomic classification of NDMM linked to Isa-KRd response. ClinicalTrials.gov identifier: NCT04934475 .",
+      "summaryZh": "四联疗法结合了抗CD38抗体、免疫调节药物、蛋白酶体抑制剂和地塞米松，现已成为新诊断的多发性骨髓瘤（NDMM）的标准诱导治疗。然而，治疗反应是异质的，需要分子预测因子来指导早期治疗决策。我们对来自 MIDAS 队列的 NDMM 患者的 423 份肿瘤样本进行了综合基因组、转录组和表观基因组分析，以表征分子异质性及其与伊沙妥昔单抗、卡非佐米、来那度胺和地塞米松 (Isa-KRd) 四联体诱导后可测量残留病灶 (MRD) 的关联。不同基因表达亚型的诱导后 MRD 阴性率差异显着，与 MF 和 CD2 亚型相比，HP1/HP3 和 MS 组表现出更好的反应。 B 细胞分化与 MRD 阳性相关，而增殖和 MYC 程序与 MRD 阴性相关。这些与 MRD 相关的转录组学特征在 CASSIOPEIA 队列中得到了独立验证。全基因组测序揭示了 MMRF 队列中验证的已知（APOBEC 突变、染色体碎裂）和新的基因组不稳定表型，包括由致病性 MSH2 突变驱动的错配修复缺陷和与 BRCA2 失活相关的局灶性缺失特征。经过独立验证，发现了新的驱动程序改变，包括激活 IRAK1 和 FOXR1 融合的易位。基因组不稳定特征和驱动基因（例如 CCND1 和 MYC）与不同的 MRD 结果相关。 DNA 甲基化分析确定了九个 MRD 相关亚组，通过静态染色质的低甲基化程度和驱动易位的顺式/反式特征来区分。 整合基因组、转录组和表观基因组特征的多模态随机森林模型预测诱导后的 MRD 状态，曲线下面积为 0.77，优于临床和基因组模型，同时提供相对于转录组和表观基因组模型的可比较的区分度和改进的校准。这些发现定义了与 Isa-KRd 反应相关的 NDMM 多组学分类。 ClinicalTrials.gov 标识符：NCT04934475。",
+      "translationSource": "84882fdedb2dcf6c"
     },
     {
       "pmid": "42895853",
@@ -1178,6 +1306,28 @@
       "translationSource": "e79f25eaf13cd062"
     },
     {
+      "pmid": "42982836",
+      "title": "Sub-stoichiometric degradation is dispensable for potent PROTACs as demonstrated by irreversible covalent BTK degraders.",
+      "titleZh": "正如不可逆共价 BTK 降解剂所证明的那样，亚化学计量降解对于有效的 PROTAC 来说是可有可无的。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-07",
+      "doi": "10.1038/s41467-026-78239-9",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78239-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42982836/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "protac",
+        "proteolysis-targeting chimera"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：protac, proteolysis-targeting chimera。",
+      "abstractEn": "Proteolysis-targeting chimeras (PROTACs) represent a transformative therapeutic modality, yet the viability of covalent PROTACs remains debated, as irreversible binding seemingly contradicts the catalytic mechanism of action. Here, we develop and characterize PSIRC3, a potent covalent PROTAC for Bruton's tyrosine kinase (BTK). PSIRC3 induces selective BTK degradation with a sub-nanomolar DC 50 of 0.75 nM and a D max of 85%, while its non-covalent counterpart is inactive. Such activity requires covalent bond formation with Cys481, as efficacy is abolished against the C481S BTK mutant. PSIRC3 achieves maximum BTK degradation within 30 min, a kinetic profile linked to rapid cell permeation and efficient ternary complex formation. In vivo, a single administration of PSIRC3 leads to substantial BTK degradation in both PBMCs ( > 80%) and splenocytes ( > 50%). Computational modeling, parameterized with our experimental data, reveals that degradation efficacy is governed by a balance between E3 ligase and target affinities: excessively high E3 affinity is detrimental by inducing a hook effect, while higher target affinity is generally beneficial. Our findings provide strong evidence that covalent engagement can drive potent and selective protein degradation, challenging the notion that catalytic turnover is indispensable for PROTAC efficacy, and open avenues for targeting intractable proteins.",
+      "summaryZh": "蛋白水解靶向嵌合体 (PROTAC) 代表了一种变革性的治疗方式，但共价 PROTAC 的可行性仍存在争议，因为不可逆结合似乎与催化作用机制相矛盾。在这里，我们开发并表征了 PSIRC3，这是一种针对布鲁顿酪氨酸激酶 (BTK) 的有效共价 PROTAC。 PSIRC3 诱导选择性 BTK 降解，其 DC 50 为 0.75 nM，D max 为 85%，而其非共价对应物则无活性。这种活性需要与 Cys481 形成共价键，因为针对 C481S BTK 突变体的功效被消除。 PSIRC3 在 30 分钟内实现最大程度的 BTK 降解，这是与快速细胞渗透和有效三元复合物形成相关的动力学特征。在体内，PSIRC3 的单次给药会导致 PBMC (> 80%) 和脾细胞 (> 50%) 中的 BTK 大量降解。用我们的实验数据进行参数化的计算模型表明，降解功效由 E3 连接酶和靶标亲和力之间的平衡控制：过高的 E3 亲和力会诱发钩状效应，因此是有害的，而较高的靶标亲和力通常是有益的。我们的研究结果提供了强有力的证据，表明共价结合可以驱动有效和选择性的蛋白质降解，挑战了催化周转对于 PROTAC 功效必不可少的观念，并为靶向棘手的蛋白质开辟了途径。",
+      "translationSource": "c1b1340875e2ec56"
+    },
+    {
       "pmid": "42843329",
       "title": "Targeting ZDHHC15-mediated S-acylation of CD155 reactivates anti-tumor immunity.",
       "titleZh": "靶向 ZDHHC15 介导的 CD155 S 酰化可重新激活抗肿瘤免疫。",
@@ -1633,28 +1783,6 @@
       "abstractEn": "Mutations in the PRPF31 gene cause retinitis pigmentosa type 11 (RP11), a progressive blinding disease triggered by defects in the spliceosome, the cellular machinery responsible for RNA processing. Although gene replacement holds therapeutic promise, it remains unclear whether it can effectively rescue both primary target cell types across different disease stages. Here we show that viral-mediated delivery of PRPF31 to patient-derived retinal pigment epithelium (RPE) cells and 3D retinal organoids restores RNA splicing activity and reverses core cellular pathology. Gene delivery cleared toxic protein aggregates, restored essential RPE functions, including structural polarity, cilia integrity, and cellular waste clearance, and boosted light-evoked activity in photoreceptors. Notably, robust rescue was achievable even in mature cells, whereas combining gene therapy with autophagy-activating drugs offered no added benefit. These findings demonstrate that restoring splicing homeostasis alone drives functional recovery, supporting a broad clinical window for PRPF31 gene therapy in RP11.",
       "summaryZh": "PRPF31 基因突变会导致 11 型视网膜色素变性 (RP11)，这是一种由剪接体缺陷引发的进行性致盲疾病，剪接体是负责 RNA 加工的细胞机制。尽管基因替代具有治疗前景，但目前尚不清楚它是否可以有效地拯救不同疾病阶段的两种主要靶细胞类型。在这里，我们展示了病毒介导的 PRPF31 递送至患者来源的视网膜色素上皮 (RPE) 细胞和 3D 视网膜类器官，恢复了 RNA 剪接活性并逆转了核心细胞病理学。基因传递清除了有毒蛋白质聚集体，恢复了基本的 RPE 功能，包括结构极性、纤毛完整性和细胞废物清除，并增强了光感受器的光诱发活性。值得注意的是，即使在成熟细胞中也可以实现强有力的拯救，而将基因疗法与自噬激活药物相结合并没有带来额外的好处。这些发现表明，仅恢复剪接稳态即可促进功能恢复，为 RP11 中的 PRPF31 基因治疗提供广阔的临床窗口。",
       "translationSource": "24b1e03ea2b3c228"
-    },
-    {
-      "pmid": "42816627",
-      "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation.",
-      "titleZh": "TBK1/ULK1 信号轴将溶酶体应激与 TFEB 激活结合起来。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-09-30",
-      "doi": "10.1038/s41586-026-11093-3",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-11093-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816627/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
-      "abstractEn": "Lysosomal adaptation to environmental changes is critical for cellular and metabolic homeostasis and requires coordination by the mTORC1 kinase, which conveys nutritional and stress signals into distinct, substrate-specific outputs 1,2 . The FLCN-FNIP complex (FLCN:FNIP) serves as a crucial regulator of lysosomal function by selectively controlling the ability of mTORC1 to inhibit transcription factor EB (TFEB), a master regulator of catabolic programs and a known oncogene 3 . Yet how FLCN:FNIP activity is regulated has remained unclear. Here we identify a nutrient-independent lysosomal signalling pathway that regulates FLCN through v-ATPase-driven recruitment of TBK1 or ULK1 (TBK1/ULK1) to lysosomes, via the TAX1BP1 adaptor. This enables TBK1/ULK1-mediated FNIP1 phosphorylation at S296, resulting in inhibition of FLCN and nuclear translocation of TFEB. Recurrent ATP6V1B2 v-ATPase mutations, found in patients with follicular lymphoma, constitutively activate this pathway, leading to hyperactivation of TFEB and follicular lymphoma proliferation. Our work uncovers a lysosomal signalling pathway that is critical for lysosomal adaptation and tumorigenesis.",
-      "summaryZh": "溶酶体对环境变化的适应对于细胞和代谢稳态至关重要，并且需要 mTORC1 激酶的协调，该激酶将营养和应激信号传递到不同的底物特异性输出 1,2 。 FLCN-FNIP 复合物 (FLCN:FNIP) 通过选择性控制 mTORC1 抑制转录因子 EB (TFEB) 的能力，作为溶酶体功能的关键调节因子，转录因子 EB (TFEB) 是分解代谢程序的主要调节因子和已知的癌基因 3 。然而 FLCN:FNIP 活动如何受到监管仍不清楚。在这里，我们确定了一种不依赖营养的溶酶体信号通路，该通路通过 TAX1BP1 接头，通过 v-ATPase 驱动的 TBK1 或 ULK1 (TBK1/ULK1) 募集到溶酶体来调节 FLCN。这使得 TBK1/ULK1 介导的 FNIP1 在 S296 处磷酸化，从而抑制 FLCN 和 TFEB 的核转位。在滤泡性淋巴瘤患者中发现的复发性 ATP6V1B2 v-ATPase 突变会持续激活该通路，导致 TFEB 过度激活和滤泡性淋巴瘤增殖。我们的工作揭示了对溶酶体适应和肿瘤发生至关重要的溶酶体信号通路。",
-      "translationSource": "44bbbfab74681155"
     },
     {
       "pmid": "42816619",
