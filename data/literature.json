@@ -1,8 +1,183 @@
 {
-  "updatedAt": "2026-11-06T03:50:00+00:00",
+  "updatedAt": "2026-11-07T03:23:14+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42993847",
+      "title": "Comprehensive degron mapping in human transcription factors.",
+      "titleZh": "人类转录因子的综合降解决定子图谱。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-06",
+      "doi": "10.1126/sciadv.aee1766",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee1766",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42993847/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "targeted degradation",
+        "degron",
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted degradation, degron, proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Gene expression is regulated by the targeted degradation of transcription factors through the ubiquitin-proteasome system. Transcription factors destined for degradation are recognized by E3 ubiquitin-protein ligases through motifs termed degrons, embedded within the sequence. In this study, we systematically map degrons in all 1626 human transcription factors. We find thousands of both known and previously unidentified degrons and characterize their sequence properties. Active degrons placed within exposed and intrinsically disordered regions contribute to modulating the abundance of the transcription factors, while the most common somatic mutations that are linked to skin cutaneous melanoma lead to unfolding and exposure of a latent degron buried in the zinc finger structure. We present examples of compartment-specific degrons and demonstrate that variant effects in transcription factors correlate with degron potency. Last, we show that while >60% of all predicted transcriptional activation domains overlap with strong degrons, acidic residues within the remaining transactivating regions counter the degron potency, showing how degrons can shape the transcription factor sequence landscape.",
+      "summaryZh": "基因表达通过泛素-蛋白酶体系统通过转录因子的定向降解来调节。 E3 泛素蛋白连接酶通过嵌入序列中的称为降解决定子的基序来识别注定要降解的转录因子。在这项研究中，我们系统地绘制了所有 1626 个人类转录因子中的降解决定子。我们发现了数千个已知和以前未识别的降解决定子并表征了它们的序列特性。位于暴露和本质无序区域内的活性降解决定子有助于调节转录因子的丰度，而与皮肤黑色素瘤相关的最常见的体细胞突变导致埋在锌指结构中的潜在降解决定子的展开和暴露。我们提供了区室特异性降解决定子的例子，并证明转录因子中的变异效应与降解决定子的效力相关。最后，我们表明，虽然所有预测的转录激活域中>60%与强降解决定子重叠，但其余反式激活区域内的酸性残基抵消了降解决定子的效力，显示了降解决定子如何塑造转录因子序列景观。",
+      "translationSource": "c57c9c82b983b44d"
+    },
+    {
+      "pmid": "42993823",
+      "title": "Spatial control of enzyme orientation at the lipid droplet interface enables regio- and chemoselective metabolic flux.",
+      "titleZh": "脂滴界面处酶方向的空间控制能够实现区域​​和化学选择性代谢流。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-06",
+      "doi": "10.1126/sciadv.aeg5924",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeg5924",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42993823/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Precise spatial control over multienzyme cascade reactions is increasingly recognized as a design lever in synthetic biology for enhancing catalytic performance and directing metabolic flux. By emulating principles of cellular compartmentalization, synthetic scaffolds and engineered interfaces have emerged as powerful platforms to modulate intermediate channeling and reaction efficiency in complex biocatalytic systems. However, robust and spatially defined immobilization of multienzyme assemblies within physicochemically optimal compartments remains challenging because of the dynamic intracellular environment. Here, we reprogram the amphiphilic interface of yeast lipid droplets (LDs) as a programmable scaffold system to support regio- and chemoselective localization of enzymes. Guided by molecular dynamics simulations, we designed LD-anchoring motifs to direct the enzyme orientation at the LD monolayer interface, yielding cytosol-facing or LD inner-facing configurations. Using this designed LD-anchoring motif, we spatially reorganize a trienzyme cascade for prodeoxyviolacein (PDV) biosynthesis across the cytosol-LD interface, facilitating directional conversion of hydrophilic substrates into hydrophobic products. This spatial reorganization substantially improved PDV production by 1300%, achieving 46.25 milligrams per liter. Our approach offers a modular and tunable platform for engineering spatially organized and readily deployable enzyme cascades, opening avenues for biosynthetic catalysis at organellar interfaces.",
+      "summaryZh": "对多酶级联反应的精确空间控制越来越被认为是合成生物学中增强催化性能和引导代谢通量的设计杠杆。通过模拟细胞区室化的原理，合成支架和工程界面已成为调节复杂生物催化系统中的中间通道和反应效率的强大平台。然而，由于动态的细胞内环境，在物理化学最佳隔室内多酶组装体的稳健且空间限定的固定仍然具有挑战性。在这里，我们将酵母脂滴（LD）的两亲界面重新编程为可编程支架系统，以支持酶的区域和化学选择性定位。在分子动力学模拟的指导下，我们设计了 LD 锚定基序来引导 LD 单层界面上的酶方向，产生面向细胞质或面向 LD 内部的配置。利用这种设计的 LD 锚定基序，我们在空间上重组了三酶级联，用于跨胞质-LD 界面的脱氧紫酸原 (PDV) 生物合成，促进亲水性底物定向转化为疏水性产物。这种空间重组将 PDV 产量大幅提高了 1300%，达到 46.25 毫克/升。我们的方法提供了一个模块化和可调的平台，用于工程空间组织和易于部署的酶级联，为细胞器界面的生物合成催化开辟了途径。",
+      "translationSource": "2a6612802504a40a"
+    },
+    {
+      "pmid": "42933405",
+      "title": "Small genomes, big lessons: What viruses teach us about structure-based riboregulation.",
+      "titleZh": "小基因组，大教训：病毒教给我们关于基于结构的核糖调节的知识。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.molcel.2026.10.001",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.10.001",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42933405/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "RNA viruses encode multiple layers of information within a single molecule, which functions simultaneously as a template for protein synthesis and as a structured regulatory RNA. These structures control key aspects of viral gene expression, govern host interactions, and mediate immune evasion. Although the prevalence of RNA structure in viral genomes is now well established, only recently have functional and mechanistic studies begun to uncover how these elements act as regulatory modules that shape infection outcomes. With their compact genomes and experimentally tractable life cycles, RNA viruses represent powerful model systems for uncovering the fundamental building blocks of riboregulation and illuminating principles of gene control conserved across eukaryotes. Here, we review current mechanistic understanding of RNA structure-based regulation across diverse viral families and draw parallels to structure-mediated gene control in eukaryotic transcriptomes, highlighting RNA structure as a central regulatory layer in gene expression with broad therapeutic and synthetic biology potential.",
+      "summaryZh": "RNA病毒在单个分子内编码多层信息，该分子同时充当蛋白质合成的模板和结构化调节RNA。这些结构控制病毒基因表达的关键方面，控制宿主相互作用，并介导免疫逃避。尽管RNA结构在病毒基因组中的普遍存在现已得到充分证实，但直到最近，功能和机制研究才开始揭示这些元件如何作为影响感染结果的调节模块。凭借其紧凑的基因组和实验上易于处理的生命周期，RNA病毒代表了强大的模型系统，可用于揭示核糖调节的基本构建模块并阐明真核生物中保守的基因控制原理。在这里，我们回顾了当前对不同病毒家族基于 RNA 结构的调控的机制理解，并将其与真核转录组中结构介导的基因控制进行了比较，强调 RNA 结构作为基因表达的中央调控层，具有广泛的治疗和合成生物学潜力。",
+      "translationSource": "ae2c8e2c0c6e5060"
+    },
+    {
+      "pmid": "42901160",
+      "title": "Proteome-wide C-degron activity profiling connects conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
+      "titleZh": "全蛋白质组 C 降解决定子活性分析将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生联系起来。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.molcel.2026.09.036",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.036",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42901160/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Many E3 ubiquitin ligases recognize degrons located at protein termini, but the paucity of bona fide substrates of N-degron and C-degron pathways hampers our understanding of their physiological significance. Devising an expression screening strategy to assess the effect of C-terminal \"capping\" on the stability of thousands of human proteins, we systematically identify substrates harboring C-degrons. Interrogating one leading candidate, ZMYND19, we characterize a C-degron pathway governed via the C-terminal to LisH (CTLH) E3 ligase complex subunit Muskelin. Cell-to-cell variability in ZMYND19 stability uncovered conditional regulation, with CTLH-mediated degradation impaired by TNF-α stimulation but enhanced by mTOR inhibition. Parallel genetic and proteomic screens identified angio-associated migratory protein (AAMP) and apoptosis-enhancing nuclease (AEN) as additional substrates of the CTLH Muskelin C-degron pathway, leading us to define an essential role for AAMP in ribosome maturation through chaperone activity toward uL16. Altogether, these data define a C-degron pathway connecting conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
+      "summaryZh": "许多E3泛素连接酶识别位于蛋白质末端的降解决定子，但N-降解决定子和C-降解决定子途径的真正底物的缺乏阻碍了我们对其生理意义的理解。我们设计了一种表达筛选策略来评估 C 末端“加帽”对数千种人类蛋白质稳定性的影响，系统地鉴定了含有 C 降解决定子的底物。通过询问一个主要候选物 ZMYND19，我们描述了通过 LisH (CTLH) E3 连接酶复合物亚基 Muskelin 的 C 末端控制的 C 降解决定子通路。 ZMYND19 稳定性的细胞间变异揭示了条件调节，CTLH 介导的降解会因 TNF-α 刺激而受损，但会因 mTOR 抑制而增强。并行遗传和蛋白质组筛选鉴定出血管相关迁移蛋白 (AAMP) 和凋亡增强核酸酶 (AEN) 作为 CTLH Muskelin C-degron 通路的额外底物，这使我们能够通过对 uL16 的分子伴侣活性来定义 AAMP 在核糖体成熟中的重要作用。总而言之，这些数据定义了将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生连接起来的 C-降解决定子途径。",
+      "translationSource": "2a947f0d0f0f641c"
+    },
+    {
+      "pmid": "42874584",
+      "title": "STING engages PKR to drive lysosomal cell death in lung ischemia-reperfusion injury.",
+      "titleZh": "STING 参与 PKR 驱动肺缺血再灌注损伤中的溶酶体细胞死亡。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.molcel.2026.09.024",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.024",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42874584/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Stimulator of interferon genes (STING) has been implicated in multiple forms of cell death. However, the effector kinases that couple STING to these death programs remain poorly defined. Here, we show that during lung ischemia-reperfusion injury, mitochondrial DNA release engages the cyclic GMP-AMP synthase (cGAS)-STING pathway to trigger lysosomal cell death (LCD) in mouse and rat models. In human lung epithelial cells, STING oligomerization at the endoplasmic reticulum drives autophosphorylation of double-stranded RNA-dependent protein kinase (PKR) at serine 33. This phosphorylation of PKR activates IκB kinase-NF-κB signaling independently of the canonical STING-TBK1 and PKR-eIF2α pathways. In turn, NF-κB induces LAMP3 transcription, promoting lysosomal membrane permeabilization and LCD. STING-PKR signaling is also observed in patient-derived lung epithelial cells and alveolar organoids. These findings identify PKR as a non-canonical STING effector and show that blockade of STING-PKR signaling attenuates epithelial LCD and lung injury.",
+      "summaryZh": "干扰素基因刺激物 (STING) 与多种形式的细胞死亡有关。然而，将 STING 与这些死亡程序结合的效应激酶仍不清楚。在这里，我们发现，在小鼠和大鼠模型中，在肺缺血再灌注损伤期间，线粒体 DNA 释放参与环 GMP-AMP 合酶 (cGAS)-STING 途径，触发溶酶体细胞死亡 (LCD)。在人肺上皮细胞中，内质网的 STING 寡聚化驱动丝氨酸 33 处双链 RNA 依赖性蛋白激酶 (PKR) 的自磷酸化。 PKR 的这种磷酸化独立于经典的 STING-TBK1 和 PKR-eIF2α 途径激活 IκB 激酶-NF-κB 信号传导。反过来，NF-κB 诱导 LAMP3 转录，促进溶酶体膜透化和 LCD。在患者来源的肺上皮细胞和肺泡类器官中也观察到 STING-PKR 信号传导。这些发现将 PKR 确定为一种非典型的 STING 效应子，并表明阻断 STING-PKR 信号可减轻上皮 LCD 和肺损伤。",
+      "translationSource": "0cc57f5c947a9710"
+    },
+    {
+      "pmid": "42863465",
+      "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability.",
+      "titleZh": "CK2-β-TrCP 激酶-E3 泛素连接酶级联是调节色氨酸 2,3-双加氧酶稳定性的代谢传感器。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.molcel.2026.09.023",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.023",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42863465/",
+      "categories": [
+        "靶向蛋白降解",
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "degron",
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron, proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Small molecules toggling the ubiquitin-proteasome system (UPS) are powerful regulators of protein degradation, yet how endogenous ligands gate UPS decisions remains poorly understood. Here, we define control of UPS access to human tryptophan 2,3-dioxygenase (TDO2), which converts the amino acid tryptophan (Trp) to N-formylkynurenine. When Trp concentrations are limiting, TDO2 is degraded to avert hypotryptophanemia. We discovered that a CK2-β-TrCP kinase-E3 ligase cascade generates and recognizes phosphodegrons in TDO2 unless they are shielded by Trp binding at an exosite distal from the catalytic site. Effects of Trp analogs on CK2-β-TrCP-dependent ubiquitylation indicated that the indole, amino, and carboxylate groups collectively protect TDO2. Cryo-EM reveals that these moieties organize a Trp-ordered flap that covers the exosite and thereby restricts generation of adjacent phosphodegrons. In the absence of Trp, the flap is flexible, enabling phosphorylation-coupled ubiquitylation. Overall, our data uncovered an endogenous small molecule conformationally stabilizing its own metabolizing enzyme through protection from a phosphorylation-ubiquitylation cascade.",
+      "summaryZh": "切换泛素蛋白酶体系统 (UPS) 的小分子是蛋白质降解的强大调节剂，但内源配体如何控制 UPS 决策仍知之甚少。在这里，我们定义了 UPS 对人色氨酸 2,3-双加氧酶 (TDO2) 的访问控制，该酶将氨基酸色氨酸 (Trp) 转化为 N-甲酰犬尿氨酸。当色氨酸浓度受到限制时，TDO2 会被降解以避免低色氨酸血症。我们发现，CK2-β-TrCP 激酶-E3 连接酶级联会生成并识别 TDO2 中的磷酸化降解子，除非它们被远离催化位点的外部位点上的 Trp 结合所屏蔽。 Trp 类似物对 CK2-β-TrCP 依赖性泛素化的影响表明吲哚、氨基和羧酸基团共同保护 TDO2。冷冻电镜显示这些部分组织了一个色氨酸有序瓣，覆盖了外部位点，从而限制了相邻磷酸降解子的产生。在没有色氨酸的情况下，瓣是柔性的，能够实现磷酸化偶联的泛素化。总体而言，我们的数据揭示了一种内源性小分子通过免受磷酸化-泛素化级联的影响，在构象上稳定其自身的代谢酶。",
+      "translationSource": "78cdcbefcd4881aa"
+    },
+    {
+      "pmid": "42950820",
+      "title": "Organoids and organs-on-a-chip as new approach methodologies at the convergence of cell biology and bioengineering.",
+      "titleZh": "类器官和芯片器官作为细胞生物学和生物工程融合的新方法。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.stem.2026.10.003",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.10.003",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "The rapid growth of new approach methodologies (NAMs), including organoids and organs-on-a-chip (OOCs), has revealed a need for interdisciplinary dialogue between cell biologists and bioengineers to develop human models that can best complement therapeutic development. Stem cell-derived and bioengineered human tissue models are redefining how we understand human physiology and pathophysiology, offering control that traditional preclinical models cannot provide. By recapitulating complex tissue microenvironments, multi-organ interactions, and patient-specific biology, these systems are bridging long-standing gaps in the drug development and clinical application pipelines. Here, we synthesize advances in organoids, OOCs, and other bioengineered technologies for translational medicine to identify remaining gaps, including challenges in reproducibility, validation, and regulatory acceptance. Emerging opportunities at the intersection of synthetic biology, multi-omics, machine learning, and genetic engineering are positioning NAMs not merely as improved experimental tools but as foundational platforms for accelerating therapeutic discovery and enabling personalized medicine at scale.",
+      "summaryZh": "包括类器官和芯片器官（OOC）在内的新方法学（NAM）的快速发展表明，细胞生物学家和生物工程师之间需要进行跨学科对话，以开发能够最好地补充治疗发展的人体模型。干细胞衍生和生物工程人体组织模型正在重新定义我们理解人类生理学和病理生理学的方式，提供传统临床前模型无法提供的控制。通过概括复杂的组织微环境、多器官相互作用和患者特异性生物学，这些系统正在弥合药物开发和临床应用管道中长期存在的差距。在这里，我们综合了类器官、OOC 和其他转化医学生物工程技术的进展，以确定剩余的差距，包括再现性、验证和监管接受方面的挑战。合成生物学、多组学、机器学习和基因工程交叉领域的新兴机遇使 NAM 不仅成为改进的实验工具，而且成为加速治疗发现和大规模实现个性化医疗的基础平台。",
+      "translationSource": "68a6cf5bf51b091c"
+    },
+    {
+      "pmid": "42913640",
+      "title": "Programmable apoptosis circuits enable subtractive engineering of stem cell-derived organoids and embryoids.",
+      "titleZh": "可编程凋亡电路能够对干细胞衍生的类器官和胚状体进行消减工程。",
+      "journal": "Cell Stem Cell",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1016/j.stem.2026.09.015",
+      "doiUrl": "https://doi.org/10.1016/j.stem.2026.09.015",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913640/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
+      "abstractEn": "Pluripotent stem cell-derived multicellular systems provide a promising platform for studying development and disease. However, they do not faithfully mirror their in vivo counterparts due to the presence of aberrant cells. Similarly, aberrant cell types emerge during tissue development in multicellular organisms but are effectively removed via proofreading mechanisms that often exploit apoptosis. Yet, the design and engineering of such processes are notably absent from current approaches for building stem cell-derived multicellular systems. We address this gap by introducing a \"subtractive multicellular engineering\" approach, using genetic circuits that integrate logic-gated computing and synthetic apoptosis. Through this approach, we enhance tissue maturity in human pluripotent stem cell-derived liver organoids. Additionally, we demonstrate the versatility of this approach in a human post-implantation embryo model, where it improves pro-amniotic cavity development, a key morphogenetic feature. Our results establish a framework for building tissues in vitro via controlled elimination of aberrant cells during morphogenesis.",
+      "summaryZh": "多能干细胞衍生的多细胞系统为研究发育和疾病提供了一个有前途的平台。然而，由于异常细胞的存在，它们并不能忠实地反映体内的对应物。类似地，异常细胞类型在多细胞生物的组织发育过程中出现，但通过经常利用细胞凋亡的校对机制被有效去除。然而，目前构建干细胞衍生的多细胞系统的方法中明显缺乏此类过程的设计和工程。我们通过引入“减法多细胞工程”方法来解决这一差距，该方法使用集成了逻辑门控计算和合成细胞凋亡的遗传电路。通过这种方法，我们增强了人类多能干细胞衍生的肝脏类器官的组织成熟度。此外，我们在人类植入后胚胎模型中证明了这种方法的多功能性，它可以改善羊膜腔发育，这是一个关键的形态发生特征。我们的结果建立了一个通过在形态发生过程中控制消除异常细胞来构建体外组织的框架。",
+      "translationSource": "a6edac0c6d8ccea5"
+    },
     {
       "pmid": "42982803",
       "title": "Systematic screen of RNA binding proteins that enhance circular RNA translation.",
@@ -325,27 +500,6 @@
       "translationSource": "e06578859058c4ae"
     },
     {
-      "pmid": "42950820",
-      "title": "Organoids and organs-on-a-chip as new approach methodologies at the convergence of cell biology and bioengineering.",
-      "titleZh": "类器官和芯片器官作为细胞生物学和生物工程融合的新方法。",
-      "journal": "Cell Stem Cell",
-      "year": 2026,
-      "published": "2026-10-28",
-      "doi": "10.1016/j.stem.2026.10.003",
-      "doiUrl": "https://doi.org/10.1016/j.stem.2026.10.003",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
-      "abstractEn": "The rapid growth of new approach methodologies (NAMs), including organoids and organs-on-a-chip (OOCs), has revealed a need for interdisciplinary dialogue between cell biologists and bioengineers to develop human models that can best complement therapeutic development. Stem cell-derived and bioengineered human tissue models are redefining how we understand human physiology and pathophysiology, offering control that traditional preclinical models cannot provide. By recapitulating complex tissue microenvironments, multi-organ interactions, and patient-specific biology, these systems are bridging long-standing gaps in the drug development and clinical application pipelines. Here, we synthesize advances in organoids, OOCs, and other bioengineered technologies for translational medicine to identify remaining gaps, including challenges in reproducibility, validation, and regulatory acceptance. Emerging opportunities at the intersection of synthetic biology, multi-omics, machine learning, and genetic engineering are positioning NAMs not merely as improved experimental tools but as foundational platforms for accelerating therapeutic discovery and enabling personalized medicine at scale.",
-      "summaryZh": "包括类器官和芯片器官（OOC）在内的新方法学（NAM）的快速发展表明，细胞生物学家和生物工程师之间需要进行跨学科对话，以开发能够最好地补充治疗发展的人体模型。干细胞衍生和生物工程人体组织模型正在重新定义我们理解人类生理学和病理生理学的方式，提供传统临床前模型无法提供的控制。通过概括复杂的组织微环境、多器官相互作用和患者特异性生物学，这些系统正在弥合药物开发和临床应用管道中长期存在的差距。在这里，我们综合了类器官、OOC 和其他转化医学生物工程技术的进展，以确定剩余的差距，包括再现性、验证和监管接受方面的挑战。合成生物学、多组学、机器学习和基因工程交叉领域的新兴机遇使 NAM 不仅成为改进的实验工具，而且成为加速治疗发现和大规模实现个性化医疗的基础平台。",
-      "translationSource": "68a6cf5bf51b091c"
-    },
-    {
       "pmid": "42949915",
       "title": "Stress hyperglycemia impairs FOXK2-dependent macrophage cardiac repair after myocardial infarction.",
       "titleZh": "应激性高血糖会损害心肌梗死后 FOXK2 依赖性巨噬细胞心脏修复。",
@@ -539,27 +693,6 @@
       "translationSource": "1763b7f80dd96e71"
     },
     {
-      "pmid": "42933405",
-      "title": "Small genomes, big lessons: What viruses teach us about structure-based riboregulation.",
-      "titleZh": "小基因组，大教训：病毒教给我们关于基于结构的核糖调节的知识。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-10-26",
-      "doi": "10.1016/j.molcel.2026.10.001",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.10.001",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42933405/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
-      "abstractEn": "RNA viruses encode multiple layers of information within a single molecule, which functions simultaneously as a template for protein synthesis and as a structured regulatory RNA. These structures control key aspects of viral gene expression, govern host interactions, and mediate immune evasion. Although the prevalence of RNA structure in viral genomes is now well established, only recently have functional and mechanistic studies begun to uncover how these elements act as regulatory modules that shape infection outcomes. With their compact genomes and experimentally tractable life cycles, RNA viruses represent powerful model systems for uncovering the fundamental building blocks of riboregulation and illuminating principles of gene control conserved across eukaryotes. Here, we review current mechanistic understanding of RNA structure-based regulation across diverse viral families and draw parallels to structure-mediated gene control in eukaryotic transcriptomes, highlighting RNA structure as a central regulatory layer in gene expression with broad therapeutic and synthetic biology potential.",
-      "summaryZh": "RNA病毒在单个分子内编码多层信息，该分子同时充当蛋白质合成的模板和结构化调节RNA。这些结构控制病毒基因表达的关键方面，控制宿主相互作用，并介导免疫逃避。尽管RNA结构在病毒基因组中的普遍存在现已得到充分证实，但直到最近，功能和机制研究才开始揭示这些元件如何作为影响感染结果的调节模块。凭借其紧凑的基因组和实验上易于处理的生命周期，RNA病毒代表了强大的模型系统，可用于揭示核糖调节的基本构建模块并阐明真核生物中保守的基因控制原理。在这里，我们回顾了当前对不同病毒家族基于 RNA 结构的调控的机制理解，并将其与真核转录组中结构介导的基因控制进行了比较，强调 RNA 结构作为基因表达的中央调控层，具有广泛的治疗和合成生物学潜力。",
-      "translationSource": "ae2c8e2c0c6e5060"
-    },
-    {
       "pmid": "42945215",
       "title": "Early mitophagy defects and impaired mitochondrial energy metabolism drive target organ damage progression: Lessons from the Fabry heart.",
       "titleZh": "早期线粒体自噬缺陷和线粒体能量代谢受损导致靶器官损伤进展：法布里心脏的教训。",
@@ -644,27 +777,6 @@
       "abstractEn": "Current vaccine adjuvants, such as aluminum salts and emulsions, are limited by weak induction of cytotoxic T cell immunity and restricted ability to promote T helper type 1 responses, highlighting the need for safer and more effective alternatives. Here we show that microparticles generated from erythrocytes by controlled ultraviolet irradiation function as potent T helper type 1-skewing adjuvants that enhance tumour antigen-specific cytotoxic T cell responses in vitro and in multiple mouse tumour models. Following uptake by dendritic cells, these microparticles traffic to lysosomes and deliver haem cargo that is subsequently transported to the nucleus. Mechanistically, the particles elevate lysosomal pH, promoting lysosome movement towards the nucleus and enabling haem transfer, where haem activates REV-ERB⍺ and forms a co-repressor complex that suppresses peroxisome proliferator-activated receptor gamma, thereby relieving inhibition of dendritic cell maturation and antigen presentation. In vaccination settings, combining tumour antigens with erythrocyte-derived microparticles enhances cytotoxic T cell activation and suppresses tumour growth with minimal toxicity. These findings establish host-derived vesicles as a promising platform for next-generation cancer vaccine adjuvants.",
       "summaryZh": "目前的疫苗佐剂，如铝盐和乳剂，受到细胞毒性 T 细胞免疫诱导能力弱和促进 1 型辅助 T 反应的能力有限的限制，这凸显了对更安全、更有效的替代品的需求。在这里，我们表明，通过受控紫外线照射由红细胞产生的微粒可作为有效的 1 型辅助性 T 佐剂，在体外和多种小鼠肿瘤模型中增强肿瘤抗原特异性细胞毒性 T 细胞反应。被树突状细胞摄取后，这些微粒运输至溶酶体并输送血红素货物，随后将其转运至细胞核。从机制上讲，这些颗粒提高了溶酶体的 pH 值，促进溶酶体向细胞核移动并实现血红素转移，其中血红素激活 REV-ERB⍺ 并形成抑制过氧化物酶体增殖物激活受体 γ 的共阻遏物复合物，从而缓解对树突状细胞成熟和抗原呈递的抑制。在疫苗接种环境中，将肿瘤抗原与红细胞衍生的微粒结合可以增强细胞毒性 T 细胞的激活并以最小的毒性抑制肿瘤生长。这些发现确立了宿主来源的囊泡作为下一代癌症疫苗佐剂的有前景的平台。",
       "translationSource": "f8e00f4841757b1f"
-    },
-    {
-      "pmid": "42913640",
-      "title": "Programmable apoptosis circuits enable subtractive engineering of stem cell-derived organoids and embryoids.",
-      "titleZh": "可编程凋亡电路能够对干细胞衍生的类器官和胚状体进行消减工程。",
-      "journal": "Cell Stem Cell",
-      "year": 2026,
-      "published": "2026-10-22",
-      "doi": "10.1016/j.stem.2026.09.015",
-      "doiUrl": "https://doi.org/10.1016/j.stem.2026.09.015",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913640/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "genetic circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genetic circuit。",
-      "abstractEn": "Pluripotent stem cell-derived multicellular systems provide a promising platform for studying development and disease. However, they do not faithfully mirror their in vivo counterparts due to the presence of aberrant cells. Similarly, aberrant cell types emerge during tissue development in multicellular organisms but are effectively removed via proofreading mechanisms that often exploit apoptosis. Yet, the design and engineering of such processes are notably absent from current approaches for building stem cell-derived multicellular systems. We address this gap by introducing a \"subtractive multicellular engineering\" approach, using genetic circuits that integrate logic-gated computing and synthetic apoptosis. Through this approach, we enhance tissue maturity in human pluripotent stem cell-derived liver organoids. Additionally, we demonstrate the versatility of this approach in a human post-implantation embryo model, where it improves pro-amniotic cavity development, a key morphogenetic feature. Our results establish a framework for building tissues in vitro via controlled elimination of aberrant cells during morphogenesis.",
-      "summaryZh": "多能干细胞衍生的多细胞系统为研究发育和疾病提供了一个有前途的平台。然而，由于异常细胞的存在，它们并不能忠实地反映体内的对应物。类似地，异常细胞类型在多细胞生物的组织发育过程中出现，但通过经常利用细胞凋亡的校对机制被有效去除。然而，目前构建干细胞衍生的多细胞系统的方法中明显缺乏此类过程的设计和工程。我们通过引入“减法多细胞工程”方法来解决这一差距，该方法使用集成了逻辑门控计算和合成细胞凋亡的遗传电路。通过这种方法，我们增强了人类多能干细胞衍生的肝脏类器官的组织成熟度。此外，我们在人类植入后胚胎模型中证明了这种方法的多功能性，它可以改善羊膜腔发育，这是一个关键的形态发生特征。我们的结果建立了一个通过在形态发生过程中控制消除异常细胞来构建体外组织的框架。",
-      "translationSource": "a6edac0c6d8ccea5"
     },
     {
       "pmid": "42913633",
@@ -772,27 +884,6 @@
       "abstractEn": "T cell exhaustion limits the success of cancer immunotherapies, yet the proteomic changes underlying this dysfunctional state remain poorly understood. We integrated transcriptomics, quantitative proteomics, turnover proteomics, and ubiquitin proteomics to construct a multi-omic atlas of T cell exhaustion. These studies identified pathways regulated through transcriptional and post-translational mechanisms, including degradative and nondegradative ubiquitin modifications, and uncovered widespread changes in proteostasis, metabolism, and DNA repair. Major shifts were revealed in the ubiquitin-proteasome system, as differential expression of E3 ubiquitin ligases correlates with immunotherapy outcomes. These findings position the collapse of proteostasis as a central, underappreciated feature of T cell exhaustion and reveal opportunities to restore T cell function. We demonstrate that overexpression of the E3 ligase RNF166 enhances T cell persistence in vitro and in vivo. This work defines proteome-turnover dynamics as a critical regulatory layer in progressive T cell dysfunction, with broad implications for advancing cancer immunotherapy through manipulation of E3 ligases.",
       "summaryZh": "T 细胞耗竭限制了癌症免疫疗法的成功，但这种功能失调状态背后的蛋白质组变化仍然知之甚少。我们整合了转录组学、定量蛋白质组学、周转蛋白质组学和泛素蛋白质组学，构建了 T 细胞耗竭的多组学图谱。这些研究确定了通过转录和翻译后机制调节的途径，包括降解和非降解泛素修饰，并揭示了蛋白质稳态、代谢和 DNA 修复的广泛变化。泛素-蛋白酶体系统发生了重大变化，因为 E3 泛素连接酶的差异表达与免疫治疗结果相关。这些发现将蛋白质稳态的崩溃定位为 T 细胞耗竭的一个核心但未被充分认识的特征，并揭示了恢复 T 细胞功能的机会。我们证明 E3 连接酶 RNF166 的过度表达可增强 T 细胞在体外和体内的持久性。这项工作将蛋白质组更新动态定义为进行性 T 细胞功能障碍的关键调节层，对于通过 E3 连接酶的操作推进癌症免疫治疗具有广泛的影响。",
       "translationSource": "ce83ef39081ce265"
-    },
-    {
-      "pmid": "42901160",
-      "title": "Proteome-wide C-degron activity profiling connects conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
-      "titleZh": "全蛋白质组 C 降解决定子活性分析将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生联系起来。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-10-20",
-      "doi": "10.1016/j.molcel.2026.09.036",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.036",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42901160/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "degron"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
-      "abstractEn": "Many E3 ubiquitin ligases recognize degrons located at protein termini, but the paucity of bona fide substrates of N-degron and C-degron pathways hampers our understanding of their physiological significance. Devising an expression screening strategy to assess the effect of C-terminal \"capping\" on the stability of thousands of human proteins, we systematically identify substrates harboring C-degrons. Interrogating one leading candidate, ZMYND19, we characterize a C-degron pathway governed via the C-terminal to LisH (CTLH) E3 ligase complex subunit Muskelin. Cell-to-cell variability in ZMYND19 stability uncovered conditional regulation, with CTLH-mediated degradation impaired by TNF-α stimulation but enhanced by mTOR inhibition. Parallel genetic and proteomic screens identified angio-associated migratory protein (AAMP) and apoptosis-enhancing nuclease (AEN) as additional substrates of the CTLH Muskelin C-degron pathway, leading us to define an essential role for AAMP in ribosome maturation through chaperone activity toward uL16. Altogether, these data define a C-degron pathway connecting conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis.",
-      "summaryZh": "许多E3泛素连接酶识别位于蛋白质末端的降解决定子，但N-降解决定子和C-降解决定子途径的真正底物的缺乏阻碍了我们对其生理意义的理解。我们设计了一种表达筛选策略来评估 C 末端“加帽”对数千种人类蛋白质稳定性的影响，系统地鉴定了含有 C 降解决定子的底物。通过询问一个主要候选物 ZMYND19，我们描述了通过 LisH (CTLH) E3 连接酶复合物亚基 Muskelin 的 C 末端控制的 C 降解决定子通路。 ZMYND19 稳定性的细胞间变异揭示了条件调节，CTLH 介导的降解会因 TNF-α 刺激而受损，但会因 mTOR 抑制而增强。并行遗传和蛋白质组筛选鉴定出血管相关迁移蛋白 (AAMP) 和凋亡增强核酸酶 (AEN) 作为 CTLH Muskelin C-degron 通路的额外底物，这使我们能够通过对 uL16 的分子伴侣活性来定义 AAMP 在核糖体成熟中的重要作用。总而言之，这些数据定义了将 CTLH E3 连接酶复合物的条件调节与核糖体生物发生连接起来的 C-降解决定子途径。",
-      "translationSource": "2a947f0d0f0f641c"
     },
     {
       "pmid": "42905518",
@@ -1155,27 +1246,6 @@
       "translationSource": "1bf306977a40e663"
     },
     {
-      "pmid": "42874584",
-      "title": "STING engages PKR to drive lysosomal cell death in lung ischemia-reperfusion injury.",
-      "titleZh": "STING 参与 PKR 驱动肺缺血再灌注损伤中的溶酶体细胞死亡。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-10-14",
-      "doi": "10.1016/j.molcel.2026.09.024",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.024",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42874584/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "Stimulator of interferon genes (STING) has been implicated in multiple forms of cell death. However, the effector kinases that couple STING to these death programs remain poorly defined. Here, we show that during lung ischemia-reperfusion injury, mitochondrial DNA release engages the cyclic GMP-AMP synthase (cGAS)-STING pathway to trigger lysosomal cell death (LCD) in mouse and rat models. In human lung epithelial cells, STING oligomerization at the endoplasmic reticulum drives autophosphorylation of double-stranded RNA-dependent protein kinase (PKR) at serine 33. This phosphorylation of PKR activates IκB kinase-NF-κB signaling independently of the canonical STING-TBK1 and PKR-eIF2α pathways. In turn, NF-κB induces LAMP3 transcription, promoting lysosomal membrane permeabilization and LCD. STING-PKR signaling is also observed in patient-derived lung epithelial cells and alveolar organoids. These findings identify PKR as a non-canonical STING effector and show that blockade of STING-PKR signaling attenuates epithelial LCD and lung injury.",
-      "summaryZh": "干扰素基因刺激物 (STING) 与多种形式的细胞死亡有关。然而，将 STING 与这些死亡程序结合的效应激酶仍不清楚。在这里，我们发现，在小鼠和大鼠模型中，在肺缺血再灌注损伤期间，线粒体 DNA 释放参与环 GMP-AMP 合酶 (cGAS)-STING 途径，触发溶酶体细胞死亡 (LCD)。在人肺上皮细胞中，内质网的 STING 寡聚化驱动丝氨酸 33 处双链 RNA 依赖性蛋白激酶 (PKR) 的自磷酸化。 PKR 的这种磷酸化独立于经典的 STING-TBK1 和 PKR-eIF2α 途径激活 IκB 激酶-NF-κB 信号传导。反过来，NF-κB 诱导 LAMP3 转录，促进溶酶体膜透化和 LCD。在患者来源的肺上皮细胞和肺泡类器官中也观察到 STING-PKR 信号传导。这些发现将 PKR 确定为一种非典型的 STING 效应子，并表明阻断 STING-PKR 信号可减轻上皮 LCD 和肺损伤。",
-      "translationSource": "0cc57f5c947a9710"
-    },
-    {
       "pmid": "42826720",
       "title": "Nitrate-responsive Sialin2 couples stress granule assembly and clearance to maintain neuronal homeostasis.",
       "titleZh": "硝酸盐反应性Sialin2 结合应激颗粒组装和清除以维持神经元稳态。",
@@ -1195,30 +1265,6 @@
       "abstractEn": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
       "summaryZh": "应激颗粒（SG）是相分离的核糖核蛋白凝聚物，支持细胞对急性应激的适应，但细胞外信号如何协调其组装和恢复期清除仍不清楚。在这里，我们展示了硝酸盐响应性 Sialin2 在整个应激周期中协调 SG 稳态。在急性应激期间，Sialin2 经历液-液相分离，并与 Ras GTP 酶激活蛋白 SH3 结构域结合蛋白 (G3BP) 中心的支架共组装，以促进 SG 形成。在恢复过程中，Sialin2 保留液体样 SG 动力学并促进自噬相关的清除。 Sialin2 缺失会延迟 SG 分辨率，促进肉瘤 (FUS) 和 TAR DNA 结合蛋白 43 (TDP-43) 变异体中肌萎缩侧索硬化症 (ALS) 相关融合的保留，并增强淀粉样前体蛋白 (APP) 相关的淀粉样蛋白生成输出。在 ALS 小鼠模型中，硝酸盐治疗可减少 SG 样病理和神经炎症，保留神经元完整性，并延缓功能衰退。总之，这些发现定义了硝酸盐-Sialin2 信号传导模块，该模块将 SG 组装与恢复期清除结合起来，并将无机阴离子传感与防止神经变性联系起来。",
       "translationSource": "0f2ac3a049d47a65"
-    },
-    {
-      "pmid": "42863465",
-      "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability.",
-      "titleZh": "CK2-β-TrCP 激酶-E3 泛素连接酶级联是调节色氨酸 2,3-双加氧酶稳定性的代谢传感器。",
-      "journal": "Molecular Cell",
-      "year": 2026,
-      "published": "2026-10-12",
-      "doi": "10.1016/j.molcel.2026.09.023",
-      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.09.023",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42863465/",
-      "categories": [
-        "靶向蛋白降解",
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "degron",
-        "proteasome",
-        "ubiquitin-proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron, proteasome, ubiquitin-proteasome。",
-      "abstractEn": "Small molecules toggling the ubiquitin-proteasome system (UPS) are powerful regulators of protein degradation, yet how endogenous ligands gate UPS decisions remains poorly understood. Here, we define control of UPS access to human tryptophan 2,3-dioxygenase (TDO2), which converts the amino acid tryptophan (Trp) to N-formylkynurenine. When Trp concentrations are limiting, TDO2 is degraded to avert hypotryptophanemia. We discovered that a CK2-β-TrCP kinase-E3 ligase cascade generates and recognizes phosphodegrons in TDO2 unless they are shielded by Trp binding at an exosite distal from the catalytic site. Effects of Trp analogs on CK2-β-TrCP-dependent ubiquitylation indicated that the indole, amino, and carboxylate groups collectively protect TDO2. Cryo-EM reveals that these moieties organize a Trp-ordered flap that covers the exosite and thereby restricts generation of adjacent phosphodegrons. In the absence of Trp, the flap is flexible, enabling phosphorylation-coupled ubiquitylation. Overall, our data uncovered an endogenous small molecule conformationally stabilizing its own metabolizing enzyme through protection from a phosphorylation-ubiquitylation cascade.",
-      "summaryZh": "切换泛素蛋白酶体系统 (UPS) 的小分子是蛋白质降解的强大调节剂，但内源配体如何控制 UPS 决策仍知之甚少。在这里，我们定义了 UPS 对人色氨酸 2,3-双加氧酶 (TDO2) 的访问控制，该酶将氨基酸色氨酸 (Trp) 转化为 N-甲酰犬尿氨酸。当色氨酸浓度受到限制时，TDO2 会被降解以避免低色氨酸血症。我们发现，CK2-β-TrCP 激酶-E3 连接酶级联会生成并识别 TDO2 中的磷酸化降解子，除非它们被远离催化位点的外部位点上的 Trp 结合所屏蔽。 Trp 类似物对 CK2-β-TrCP 依赖性泛素化的影响表明吲哚、氨基和羧酸基团共同保护 TDO2。冷冻电镜显示这些部分组织了一个色氨酸有序瓣，覆盖了外部位点，从而限制了相邻磷酸降解子的产生。在没有色氨酸的情况下，瓣是柔性的，能够实现磷酸化偶联的泛素化。总体而言，我们的数据揭示了一种内源性小分子通过免受磷酸化-泛素化级联的影响，在构象上稳定其自身的代谢酶。",
-      "translationSource": "78cdcbefcd4881aa"
     },
     {
       "pmid": "42628524",
