@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:23:14+00:00",
+  "updatedAt": "2026-11-08T02:52:07+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -48,6 +48,27 @@
       "abstractEn": "Precise spatial control over multienzyme cascade reactions is increasingly recognized as a design lever in synthetic biology for enhancing catalytic performance and directing metabolic flux. By emulating principles of cellular compartmentalization, synthetic scaffolds and engineered interfaces have emerged as powerful platforms to modulate intermediate channeling and reaction efficiency in complex biocatalytic systems. However, robust and spatially defined immobilization of multienzyme assemblies within physicochemically optimal compartments remains challenging because of the dynamic intracellular environment. Here, we reprogram the amphiphilic interface of yeast lipid droplets (LDs) as a programmable scaffold system to support regio- and chemoselective localization of enzymes. Guided by molecular dynamics simulations, we designed LD-anchoring motifs to direct the enzyme orientation at the LD monolayer interface, yielding cytosol-facing or LD inner-facing configurations. Using this designed LD-anchoring motif, we spatially reorganize a trienzyme cascade for prodeoxyviolacein (PDV) biosynthesis across the cytosol-LD interface, facilitating directional conversion of hydrophilic substrates into hydrophobic products. This spatial reorganization substantially improved PDV production by 1300%, achieving 46.25 milligrams per liter. Our approach offers a modular and tunable platform for engineering spatially organized and readily deployable enzyme cascades, opening avenues for biosynthetic catalysis at organellar interfaces.",
       "summaryZh": "对多酶级联反应的精确空间控制越来越被认为是合成生物学中增强催化性能和引导代谢通量的设计杠杆。通过模拟细胞区室化的原理，合成支架和工程界面已成为调节复杂生物催化系统中的中间通道和反应效率的强大平台。然而，由于动态的细胞内环境，在物理化学最佳隔室内多酶组装体的稳健且空间限定的固定仍然具有挑战性。在这里，我们将酵母脂滴（LD）的两亲界面重新编程为可编程支架系统，以支持酶的区域和化学选择性定位。在分子动力学模拟的指导下，我们设计了 LD 锚定基序来引导 LD 单层界面上的酶方向，产生面向细胞质或面向 LD 内部的配置。利用这种设计的 LD 锚定基序，我们在空间上重组了三酶级联，用于跨胞质-LD 界面的脱氧紫酸原 (PDV) 生物合成，促进亲水性底物定向转化为疏水性产物。这种空间重组将 PDV 产量大幅提高了 1300%，达到 46.25 毫克/升。我们的方法提供了一个模块化和可调的平台，用于工程空间组织和易于部署的酶级联，为细胞器界面的生物合成催化开辟了途径。",
       "translationSource": "2a6612802504a40a"
+    },
+    {
+      "pmid": "42994429",
+      "title": "Nuclear TRiC states captured in situ.",
+      "titleZh": "原位捕获的核 TRiC 状态。",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-06",
+      "doi": "10.1016/j.molcel.2026.10.018",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.10.018",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42994429/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "The chaperonin T-complex protein ring complex (TRiC) is an essential protein-folding machine in eukaryotic cells. Although its cytosolic role in folding newly synthesized proteins is well established, nuclear TRiC remains less well described. Here, we combined cryo-electron tomography (cryo-ET), cross-linking and affinity purification mass spectrometry with AlphaFold3 (AF3)-based structural modeling to examine nuclear TRiC in human cells. We detected intermediates of the TRiC duty cycle in the nucleus and identified several nuclear proteins that bind to TRiC. The respective AF3 models suggest interaction surfaces at the inside of the TRiC chamber. Our findings point toward compartment-specific roles of TRiC and a potential function in maintaining nuclear proteostasis. By data-mining very large datasets, our study establishes that rather low-abundant events can be analyzed by cryo-ET. It thus paves the way toward broader applications.",
+      "summaryZh": "伴侣蛋白 T 复合物蛋白环复合物 (TRiC) 是真核细胞中重要的蛋白质折叠机器。尽管其在折叠新合成蛋白质中的胞质作用已得到充分证实，但核 TRiC 的描述仍较少。在这里，我们将冷冻电子断层扫描 (cryo-ET)、交联和亲和纯化质谱与基于 AlphaFold3 (AF3) 的结构模型相结合，以检查人类细胞中的核 TRiC。我们检测了细胞核中 TRiC 工作循环的中间体，并鉴定了几种与 TRiC 结合的核蛋白。各自的 AF3 模型表明了 TRiC 室内部的相互作用表面。我们的研究结果指出了 TRiC 的区室特异性作用以及维持核蛋白质稳态的潜在功能。通过对非常大的数据集进行数据挖掘，我们的研究表明，可以通过冷冻电子断层扫描来分析相当低丰度的事件。因此，它为更广泛的应用铺平了道路。",
+      "translationSource": "e6d2aa5f3b282451"
     },
     {
       "pmid": "42933405",
