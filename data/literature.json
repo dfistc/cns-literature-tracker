@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-11-08T02:52:07+00:00",
+  "updatedAt": "2026-11-09T03:11:12+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42998255",
+      "title": "Proteolytic dissection of eIF4G reveals that closed-loop mRNP formation is dispensable for bulk translation in mammalian cells.",
+      "titleZh": "eIF4G 的蛋白水解解剖表明，闭环 mRNA 的形成对于哺乳动物细胞中的批量翻译来说是可有可无的。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-11-07",
+      "doi": "10.1016/j.celrep.2026.118259",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118259",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42998255/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "The \"closed-loop\" mRNP, in which the 5' cap and 3' poly(A) tail are bridged by eIF4E-eIF4G-PABP interactions, has been proposed to drive efficient translation. Direct rigorous tests of this model in mammalian cells have remained elusive. Using auxin-inducible degrons to acutely deplete eIF4G1, we find that global translation is only partially reduced and recovers without restoration of eIF4G1 levels. We identify eIF4G3 as an underappreciated contributor to basal translation that buffers translational output upon eIF4G1 loss. eIF4G1 mutants reveal that PABP binding by eIF4G1 is dispensable for bulk protein synthesis. Further, PABP depletion has no immediate effect on protein synthesis but instead destabilizes poly(A) mRNA. In contrast, the N-terminal enteroviral cleavage product (2A-cp N ) is a potent, dominant translational repressor that requires both PABP- and eIF4E-binding domains for inhibition. These findings suggest that the eIF4G-PABP closed-loop architecture is not required for productive initiation but may be actively co-opted for translational silencing.",
+      "summaryZh": "“闭环”mRNP（其中 5' 帽和 3' Poly(A) 尾通过 eIF4E-eIF4G-PABP 相互作用桥接）已被提议用于驱动高效翻译。在哺乳动物细胞中对该模型进行直接严格的测试仍然难以实现。使用生长素诱导的降解决定子来急剧消耗 eIF4G1，我们发现全局翻译仅部分减少并恢复，而没有恢复 eIF4G1 水平。我们认为 eIF4G3 是基础翻译的一个未被充分认识的贡献者，它可以在 eIF4G1 丢失时缓冲翻译输出。 eIF4G1 突变体表明，eIF4G1 结合 PABP 对于大量蛋白质合成来说是可有可无的。此外，PABP 耗尽对蛋白质合成没有直接影响，但会破坏 Poly(A) mRNA 的稳定性。相比之下，N 端肠道病毒裂解产物 (2A-cp N ) 是一种有效的显性翻译抑制因子，需要 PABP 和 eIF4E 结合域进行抑制。这些发现表明，eIF4G-PABP 闭环架构不是生产启动所必需的，但可能会被积极地用于翻译沉默。",
+      "translationSource": "a24ddcb63f19e491"
+    },
     {
       "pmid": "42993847",
       "title": "Comprehensive degron mapping in human transcription factors.",
