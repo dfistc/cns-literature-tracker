@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-11-09T03:11:12+00:00",
+  "updatedAt": "2026-11-10T04:53:21+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "42913633",
+      "title": "Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct biology and targetable vulnerabilities.",
+      "titleZh": "微卫星稳定结直肠癌的多组学特征揭示了独特的生物学和可靶向的脆弱性。",
+      "journal": "Cancer Cell",
+      "year": 2026,
+      "published": "2026-11-09",
+      "doi": "10.1016/j.ccell.2026.09.014",
+      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.09.014",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913633/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
+      "abstractEn": "Microsatellite-stable (MSS) colorectal cancer (CRC) is a molecularly complex and clinically challenging disease subtype, lacking effective targeted therapies. Leveraging multiomic data from ∼2,000 tumor samples (including 316MSS CRCs not previously profiled) representing ∼4,500 molecular profiles and 195,246 single cells/nuclei, we uncover complex biology and therapeutic vulnerabilities. Application of a multiomic-phenomic integrative framework, including iPhenMap (a machine-learning tool), reveals complex molecular programs, including replication stress, right-sided biology, glutaminolysis-driven metabolic reprogramming, and MYC-E2F transcriptional networks governing epigenetic remodeling and perineural invasion. Focusing on RAS-mutant MSS CRC, functional validation in state-of-the-art patient-derived tumoroid and matched xenograft models confirms focal adhesion kinase (FAK), phosphoinositide-dependent kinase (PDK)1/2, and proteasome inhibition as potential therapeutic strategies when combined with mitogen-activated protein kinase (MEK) blockade. This work underscores the power of integrated multiomic profiling and functional modeling to refine potential treatment approaches in MSS CRC patient populations.",
+      "summaryZh": "微卫星稳定（MSS）结直肠癌（CRC）是一种分子复杂且具有临床挑战性的疾病亚型，缺乏有效的靶向治疗。利用代表约 4,500 个分子谱和 195,246 个单细胞/细胞核的约 2,000 个肿瘤样本（包括先前未分析的 316MSS CRC）的多组学数据，我们揭示了复杂的生物学和治疗漏洞。应用多组学-表型组整合框架，包括 iPhenMap（一种机器学习工具），揭示了复杂的分子程序，包括复制应激、右侧生物学、谷氨酰胺分解驱动的代谢重编程以及控制表观遗传重塑和神经周围侵袭的 MYC-E2F 转录网络。专注于 RAS 突变 MSS CRC，在最先进的患者源性肿瘤和匹配的异种移植模型中进行的功能验证证实，粘着斑激酶 (FAK)、磷酸肌醇依赖性激酶 (PDK)1/2 和蛋白酶体抑制与丝裂原激活蛋白激酶 (MEK) 阻断相结合时是潜在的治疗策略。这项工作强调了综合多组学分析和功能建模的力量，以完善 MSS CRC 患者群体的潜在治疗方法。",
+      "translationSource": "5b7d049eff591005"
+    },
     {
       "pmid": "42998255",
       "title": "Proteolytic dissection of eIF4G reveals that closed-loop mRNP formation is dispensable for bulk translation in mammalian cells.",
@@ -819,27 +840,6 @@
       "abstractEn": "Current vaccine adjuvants, such as aluminum salts and emulsions, are limited by weak induction of cytotoxic T cell immunity and restricted ability to promote T helper type 1 responses, highlighting the need for safer and more effective alternatives. Here we show that microparticles generated from erythrocytes by controlled ultraviolet irradiation function as potent T helper type 1-skewing adjuvants that enhance tumour antigen-specific cytotoxic T cell responses in vitro and in multiple mouse tumour models. Following uptake by dendritic cells, these microparticles traffic to lysosomes and deliver haem cargo that is subsequently transported to the nucleus. Mechanistically, the particles elevate lysosomal pH, promoting lysosome movement towards the nucleus and enabling haem transfer, where haem activates REV-ERB⍺ and forms a co-repressor complex that suppresses peroxisome proliferator-activated receptor gamma, thereby relieving inhibition of dendritic cell maturation and antigen presentation. In vaccination settings, combining tumour antigens with erythrocyte-derived microparticles enhances cytotoxic T cell activation and suppresses tumour growth with minimal toxicity. These findings establish host-derived vesicles as a promising platform for next-generation cancer vaccine adjuvants.",
       "summaryZh": "目前的疫苗佐剂，如铝盐和乳剂，受到细胞毒性 T 细胞免疫诱导能力弱和促进 1 型辅助 T 反应的能力有限的限制，这凸显了对更安全、更有效的替代品的需求。在这里，我们表明，通过受控紫外线照射由红细胞产生的微粒可作为有效的 1 型辅助性 T 佐剂，在体外和多种小鼠肿瘤模型中增强肿瘤抗原特异性细胞毒性 T 细胞反应。被树突状细胞摄取后，这些微粒运输至溶酶体并输送血红素货物，随后将其转运至细胞核。从机制上讲，这些颗粒提高了溶酶体的 pH 值，促进溶酶体向细胞核移动并实现血红素转移，其中血红素激活 REV-ERB⍺ 并形成抑制过氧化物酶体增殖物激活受体 γ 的共阻遏物复合物，从而缓解对树突状细胞成熟和抗原呈递的抑制。在疫苗接种环境中，将肿瘤抗原与红细胞衍生的微粒结合可以增强细胞毒性 T 细胞的激活并以最小的毒性抑制肿瘤生长。这些发现确立了宿主来源的囊泡作为下一代癌症疫苗佐剂的有前景的平台。",
       "translationSource": "f8e00f4841757b1f"
-    },
-    {
-      "pmid": "42913633",
-      "title": "Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct biology and targetable vulnerabilities.",
-      "titleZh": "微卫星稳定结直肠癌的多组学特征揭示了独特的生物学和可靶向的脆弱性。",
-      "journal": "Cancer Cell",
-      "year": 2026,
-      "published": "2026-10-22",
-      "doi": "10.1016/j.ccell.2026.09.014",
-      "doiUrl": "https://doi.org/10.1016/j.ccell.2026.09.014",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913633/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome。",
-      "abstractEn": "Microsatellite-stable (MSS) colorectal cancer (CRC) is a molecularly complex and clinically challenging disease subtype, lacking effective targeted therapies. Leveraging multiomic data from ∼2,000 tumor samples (including 316MSS CRCs not previously profiled) representing ∼4,500 molecular profiles and 195,246 single cells/nuclei, we uncover complex biology and therapeutic vulnerabilities. Application of a multiomic-phenomic integrative framework, including iPhenMap (a machine-learning tool), reveals complex molecular programs, including replication stress, right-sided biology, glutaminolysis-driven metabolic reprogramming, and MYC-E2F transcriptional networks governing epigenetic remodeling and perineural invasion. Focusing on RAS-mutant MSS CRC, functional validation in state-of-the-art patient-derived tumoroid and matched xenograft models confirms focal adhesion kinase (FAK), phosphoinositide-dependent kinase (PDK)1/2, and proteasome inhibition as potential therapeutic strategies when combined with mitogen-activated protein kinase (MEK) blockade. This work underscores the power of integrated multiomic profiling and functional modeling to refine potential treatment approaches in MSS CRC patient populations.",
-      "summaryZh": "微卫星稳定（MSS）结直肠癌（CRC）是一种分子复杂且具有临床挑战性的疾病亚型，缺乏有效的靶向治疗。利用代表约 4,500 个分子谱和 195,246 个单细胞/细胞核的约 2,000 个肿瘤样本（包括先前未分析的 316MSS CRC）的多组学数据，我们揭示了复杂的生物学和治疗漏洞。应用多组学-表型组整合框架，包括 iPhenMap（一种机器学习工具），揭示了复杂的分子程序，包括复制应激、右侧生物学、谷氨酰胺分解驱动的代谢重编程以及控制表观遗传重塑和神经周围侵袭的 MYC-E2F 转录网络。专注于 RAS 突变 MSS CRC，在最先进的患者源性肿瘤和匹配的异种移植模型中进行的功能验证证实，粘着斑激酶 (FAK)、磷酸肌醇依赖性激酶 (PDK)1/2 和蛋白酶体抑制与丝裂原激活蛋白激酶 (MEK) 阻断相结合时是潜在的治疗策略。这项工作强调了综合多组学分析和功能建模的力量，以完善 MSS CRC 患者群体的潜在治疗方法。",
-      "translationSource": "5b7d049eff591005"
     },
     {
       "pmid": "42907506",
