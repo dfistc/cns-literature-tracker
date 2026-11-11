@@ -1,8 +1,51 @@
 {
-  "updatedAt": "2026-11-10T04:53:21+00:00",
+  "updatedAt": "2026-11-11T03:19:34+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "43003864",
+      "title": "Absolute quantification and profiling of cellular tRNAs by nanopore sequencing and a deep learning classifier.",
+      "titleZh": "通过纳米孔测序和深度学习分类器对细胞 tRNA 进行绝对定量和分析。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-09",
+      "doi": "10.1038/s41467-026-78563-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78563-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43003864/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Transfer RNAs (tRNAs) link mRNA codons to amino acids during translation. Their abundance and modification states are dynamically regulated and influence translation efficiency, mRNA stability, and proteostasis. Accurate profiling of tRNAs is essential, but deep sequencing suffers from modification-induced biases during cDNA synthesis, while nanopore direct RNA sequencing (DRS) still faces challenges in accurate tRNA profiling. Here, we develop an end-to-end deep learning model, termed nano tRNA classifier, that directly uses nanopore-DRS ionic current signals to classify tRNAs without basecalling. The model achieves 98.2% classification accuracy with high read retention across all Escherichia coli tRNA species. Using an equimolar mixture of native tRNAs as a ground-truth reference, we correct read-count bias, enabling absolute quantification and profiling under diverse culture conditions. We further develop binary classifiers that detect specific tRNA modifications at the single-molecule level with high accuracy. This nanopore-based platform integrates accurate tRNA classification, absolute quantification, and single-molecule modification detection.",
+      "summaryZh": "转移 RNA (tRNA) 在翻译过程中将 mRNA 密码子与氨基酸连接起来。它们的丰度和修饰状态受到动态调节，并影响翻译效率、mRNA 稳定性和蛋白质稳态。准确的 tRNA 分析至关重要，但深度测序在 cDNA 合成过程中会受到修饰引起的偏差，而纳米孔直接 RNA 测序 (DRS) 仍然面临准确 tRNA 分析的挑战。在这里，我们开发了一种端到端深度学习模型，称为纳米 tRNA 分类器，它直接使用纳米孔-DRS 离子电流信号对 tRNA 进行分类，而无需进行碱基识别。该模型在所有大肠杆菌 tRNA 物种中实现了 98.2% 的分类准确率和高读数保留率。使用天然 tRNA 的等摩尔混合物作为真实参考，我们纠正了读数计数偏差，从而能够在不同的培养条件下进行绝对定量和分析。我们进一步开发了二元分类器，可以在单分子水平上高精度检测特定的 tRNA 修饰。这个基于纳米孔的平台集成了准确的 tRNA 分类、绝对定量和单分子修饰检测。",
+      "translationSource": "4b536596df4e3851"
+    },
+    {
+      "pmid": "43003885",
+      "title": "Full-length RNA sequencing profiles intracellular and extracellular RNAs in euploid and aneuploid human embryos.",
+      "titleZh": "全长 RNA 测序可分析整倍体和非整倍体人类胚胎的细胞内和细胞外 RNA。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-11-09",
+      "doi": "10.1038/s41556-026-02123-3",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02123-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43003885/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Cell-free RNA (cfRNA) in human embryo culture medium may provide molecular information about preimplantation development, but its origin and regulation remain unclear. Here we show, using full-length total RNA sequencing of individual human blastocysts and matched spent media, that extracellular cfRNA profiles differ according to embryonic chromosomal status. Euploid embryos showed relatively stable intracellular and extracellular transcriptomic programmes, whereas aneuploid embryos displayed disrupted transcriptional states with stress-associated signatures, including nonsense-mediated decay and TP53-mediated apoptosis. Analyses of stable non-differentially expressed genes and long non-coding RNA-mRNA co-expression modules linked cfRNA signatures to RNA processing, RNA export, vesicle trafficking, autophagy and RNA degradation pathways. Mouse perturbation experiments further supported a connection between autophagy-lysosome-vesicle pathway activity and embryo-derived cfRNA signatures. These data establish a transcriptomic resource for studying intracellular and extracellular RNA states in human embryos and support cfRNA as a biologically informative readout of embryonic state.",
+      "summaryZh": "人类胚胎培养基中的游离RNA（cfRNA）可能提供有关植入前发育的分子信息，但其起源和调控仍不清楚。在这里，我们使用单个人类囊胚和匹配的废培养基的全长总 RNA 测序表明，细胞外 cfRNA 图谱根据胚胎染色体状态而有所不同。整倍体胚胎表现出相对稳定的细胞内和细胞外转录组程序，而非整倍体胚胎则表现出具有应激相关特征的破坏的转录状态，包括无义介导的衰变和TP53介导的细胞凋亡。对稳定非差异表达基因和长非编码 RNA-mRNA 共表达模块的分析将 cfRNA 特征与 RNA 加工、RNA 输出、囊泡运输、自噬和 RNA 降解途径联系起来。小鼠扰动实验进一步支持自噬-溶酶体-囊泡途径活性与胚胎衍生的 cfRNA 特征之间的联系。这些数据建立了用于研究人类胚胎细胞内和细胞外 RNA 状态的转录组资源，并支持 cfRNA 作为胚胎状态的生物学信息读数。",
+      "translationSource": "83893facab493bba"
+    },
     {
       "pmid": "42913633",
       "title": "Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct biology and targetable vulnerabilities.",
@@ -1307,6 +1350,49 @@
       "abstractEn": "Stress granules (SGs) are phase-separated ribonucleoprotein condensates that support cellular adaptation to acute stress, but how extracellular signals coordinate their assembly and recovery-phase clearance remains unclear. Here, we show that nitrate-responsive Sialin2 coordinates SG homeostasis across the stress cycle. During acute stress, Sialin2 undergoes liquid-liquid phase separation and co-assembles with Ras GTPase-activating protein SH3-domain-binding protein (G3BP)-centered scaffolds to promote SG formation. During recovery, Sialin2 preserves liquid-like SG dynamics and promotes autophagy-linked clearance. Sialin2 loss delays SG resolution, promotes retention of amyotrophic lateral sclerosis (ALS)-linked fused in sarcoma (FUS) and TAR DNA-binding protein 43 (TDP-43) variants, and enhances amyloid precursor protein (APP)-related amyloidogenic output. In an ALS mouse model, nitrate treatment reduces SG-like pathology and neuroinflammation, preserves neuronal integrity, and delays functional decline. Together, these findings define a nitrate-Sialin2 signaling module that couples SG assembly to recovery-phase clearance and links inorganic anion sensing to protection against neurodegeneration.",
       "summaryZh": "应激颗粒（SG）是相分离的核糖核蛋白凝聚物，支持细胞对急性应激的适应，但细胞外信号如何协调其组装和恢复期清除仍不清楚。在这里，我们展示了硝酸盐响应性 Sialin2 在整个应激周期中协调 SG 稳态。在急性应激期间，Sialin2 经历液-液相分离，并与 Ras GTP 酶激活蛋白 SH3 结构域结合蛋白 (G3BP) 中心的支架共组装，以促进 SG 形成。在恢复过程中，Sialin2 保留液体样 SG 动力学并促进自噬相关的清除。 Sialin2 缺失会延迟 SG 分辨率，促进肉瘤 (FUS) 和 TAR DNA 结合蛋白 43 (TDP-43) 变异体中肌萎缩侧索硬化症 (ALS) 相关融合的保留，并增强淀粉样前体蛋白 (APP) 相关的淀粉样蛋白生成输出。在 ALS 小鼠模型中，硝酸盐治疗可减少 SG 样病理和神经炎症，保留神经元完整性，并延缓功能衰退。总之，这些发现定义了硝酸盐-Sialin2 信号传导模块，该模块将 SG 组装与恢复期清除结合起来，并将无机阴离子传感与防止神经变性联系起来。",
       "translationSource": "0f2ac3a049d47a65"
+    },
+    {
+      "pmid": "43003862",
+      "title": "The VPS33B-VPS16B protein complex facilitates Golgi ribbon formation and Golgi-endosome trafficking.",
+      "titleZh": "VPS33B-VPS16B 蛋白复合物促进高尔基体带形成和高尔基体内体运输。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-12",
+      "doi": "10.1038/s41467-026-78534-5",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78534-5",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43003862/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "endosome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, endosome。",
+      "abstractEn": "Loss of expression of VIPAS39/VPS16B or the Sec1/Munc18 (SM) family protein VPS33B causes early lethal ARC syndrome in humans. These proteins have been shown to form a complex containing 2 opposed VPS33B molecules known as VPS33B-VPS16B. ARC patient-derived fibroblasts have dispersed Golgi elements and absence of ribbons, an abnormality also observed in VPS16B-knockout HEK293 cells. These observations indicate that VPS33B-VPS16B is involved in Golgi formation/stability. Immunofluorescence microscopy studies showed colocalization of VPS33B-VPS16B with several Golgi-associated proteins, and co-immunoprecipitation studies indicated interactions involving the Golgi tethering factor GRASP55/GORASP2. Interactions were also detected involving VPS33B-VPS16B and VPS51 and VPS53, components of the Golgi-associated retrograde protein (GARP) and endosome-associated recycling protein (EARP) complexes. Abnormalities were observed in retrograde trafficking of mannose-6-phosphate receptors, and of cathepsin B between Golgi and endosomes in VPS33B-VPS16B deficient cells, along with abnormally large late endosomes/lysosomes. These observations suggest that VPS33B-VPS16B has previously unreported roles in key aspects of Golgi apparatus formation/stability, Golgi-endosome trafficking, and perhaps lysosome dynamics.",
+      "summaryZh": "VIPAS39/VPS16B 或 Sec1/Munc18 (SM) 家族蛋白 VPS33B 表达缺失会导致人类早期致死性 ARC 综合征。这些蛋白质已被证明可形成包含 2 个相对的 VPS33B 分子（称为 VPS33B-VPS16B）的复合物。 ARC 患者来源的成纤维细胞具有分散的高尔基体成分并且缺乏丝带，这种异常在 VPS16B 敲除的 HEK293 细胞中也观察到。这些观察结果表明 VPS33B-VPS16B 参与高尔基体形成/稳定性。免疫荧光显微镜研究显示 VPS33B-VPS16B 与几种高尔基体相关蛋白共定位，免疫共沉淀研究表明存在涉及高尔基体束缚因子 GRASP55/GORASP2 的相互作用。还检测到涉及 VPS33B-VPS16B 以及 VPS51 和 VPS53 的相互作用，它们是高尔基体相关逆行蛋白 (GARP) 和内体相关回收蛋白 (EARP) 复合物的组成部分。在 VPS33B-VPS16B 缺陷细胞中，6-磷酸甘露糖受体和高尔基体与内涵体之间的组织蛋白酶 B 的逆行运输存在异常，以及异常大的晚期内涵体/溶酶体。这些观察结果表明，VPS33B-VPS16B 在高尔基体形成/稳定性、高尔基体内体运输以及溶酶体动力学的关键方面具有先前未报道的作用。",
+      "translationSource": "cfc70c2cc36ddb64"
+    },
+    {
+      "pmid": "43003859",
+      "title": "Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo.",
+      "titleZh": "可解释的人工智能引导发现可降解的可电离脂质，并增强体内肝脏 mRNA 的传递。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-12",
+      "doi": "10.1038/s41467-026-78635-1",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78635-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43003859/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Lipid nanoparticles (LNPs) enable RNA medicines, yet ionizable-lipid discovery remains largely empirical, particularly when in vitro activity must be translated into functional hepatic delivery in vivo. Here we establish an interpretable discovery framework that combines modular degradable lipid chemistry, high-throughput phenotyping, machine learning, virtual library expansion, and independent in vivo validation to define a learnable ionizable-lipid design space. Starting from a 520-member library, we train an XGBoost model on firefly luciferase (Fluc) expression in HeLa cells and use physicochemical descriptors and molecular fingerprints to prospectively prioritize candidates with higher predicted in vitro transfection activity across a 10,920-member virtual space. In vivo phenotyping subsequently identifies PA97MD101 as a lead ionizable lipid. In mice, PA97MD101 enhances hepatic mRNA expression and Cre-dependent recombination and supports Cas9/sgTtr-mediated TTR suppression. Its performance is associated with pH-dependent membrane activity and reduced lysosomal colocalization. These findings support further evaluation of PA97MD101 for functional hepatic RNA delivery.",
+      "summaryZh": "脂质纳米粒子 (LNP) 使 RNA 药物成为可能，但可电离脂质的发现在很大程度上仍然是经验性的，特别是当体外活性必须转化为体内功能性肝递送时。在这里，我们建立了一个可解释的发现框架，结合了模块化可降解脂质化学、高通量表型分析、机器学习、虚拟库扩展和独立的体内验证，以定义可学习的电离脂质设计空间。我们从 520 名成员的库开始，训练 HeLa 细胞中萤火虫荧光素酶 (Fluc) 表达的 XGBoost 模型，并使用理化描述符和分子指纹在 10,920 名成员的虚拟空间中前瞻性地优先考虑具有较高预测体外转染活性的候选者。随后体内表型分析将 PA97MD101 鉴定为铅可电离脂质。在小鼠中，PA97MD101 增强肝脏 mRNA 表达和 Cre 依赖性重组，并支持 Cas9/sgTtr 介导的 TTR 抑制。其性能与 pH 依赖性膜活性和溶酶体共定位减少有关。这些发现支持进一步评估 PA97MD101 的功能性肝 RNA 递送功能。",
+      "translationSource": "55399b0fbf0cd9fe"
     },
     {
       "pmid": "42628524",
