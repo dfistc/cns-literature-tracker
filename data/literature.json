@@ -1,8 +1,136 @@
 {
-  "updatedAt": "2026-11-11T03:19:34+00:00",
+  "updatedAt": "2026-11-12T04:30:31+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "43013672",
+      "title": "A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer.",
+      "titleZh": "TROP2 靶向适体能够在胰腺癌中实现选择性药物递送和有效的抗肿瘤活性。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-13",
+      "doi": "10.1126/sciadv.aee3585",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aee3585",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013672/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Pancreatic ductal adenocarcinoma (PDAC) remains difficult to treat, highlighting the need for strategies that selectively deliver cytotoxic agents to tumor cells. Trophoblast cell-surface antigen 2 (TROP2) has been proposed as a candidate therapeutic target in PDAC, but non-antibody-based delivery formats remain underexplored. Using protein-SELEX, we identified T17, a high-affinity aptamer that specifically binds to TROP2, and conjugated it to monomethyl auristatin E through an MC-Val-Cit-PAB linker to generate the aptamer-drug conjugate T17-M. Preclinical evaluation in cellular and animal models showed that T17-M retained TROP2-dependent binding, underwent clathrin-mediated internalization and lysosomal processing, and suppressed tumor growth in cell-line-derived and patient-derived xenografts. T17-M also reduced liver metastasis and induced calreticulin exposure, ATP release, and HMGB1 secretion, consistent with immunogenic cell death. In immunocompetent models, T17-M promoted dendritic-cell activation and CD8 + T cell infiltration, while its combination with PD-1 blockade further enhanced tumor control and prolonged survival. These findings provide preclinical proof-of-concept for T17-M as an alternative TROP2-targeted drug-delivery strategy for PDAC.",
+      "summaryZh": "胰腺导管腺癌（PDAC）仍然难以治疗，这突出表明需要选择性地将细胞毒性药物递送至肿瘤细胞的策略。滋养层细胞表面抗原 2 (TROP2) 已被提议作为 PDAC 的候选治疗靶点，但非基于抗体的递送形式仍未得到充分探索。使用蛋白质-SELEX，我们鉴定了 T17，一种与 TROP2 特异性结合的高亲和力适体，并通过 MC-Val-Cit-PAB 连接子将其与单甲基 auristatin E 缀合，生成适体-药物缀合物 T17-M。细胞和动物模型的临床前评估表明，T17-M 保留了 TROP2 依赖性结合，经历网格蛋白介导的内化和溶酶体加工，并抑制细胞系来源和患者来源的异种移植物中的肿瘤生长。 T17-M 还减少肝转移并诱导钙网蛋白暴露、ATP 释放和 HMGB1 分泌，这与免疫原性细胞死亡一致。在免疫活性模型中，T17-M 促进树突状细胞激活和 CD8 + T 细胞浸润，而其与 PD-1 阻断的组合进一步增强肿瘤控制并延长生存期。这些发现为 T17-M 作为 PDAC 的替代 TROP2 靶向药物递送策略提供了临床前概念验证。",
+      "translationSource": "efa1b0be90eba509"
+    },
+    {
+      "pmid": "43013659",
+      "title": "Asymmetric cell division is predictive of human T cell vaccine responses.",
+      "titleZh": "不对称细胞分裂可预测人类 T 细胞疫苗反应。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-13",
+      "doi": "10.1126/sciadv.aef1608",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aef1608",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013659/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Vaccine-induced protection relies on the generation and maintenance of stem-like memory B and T cells, a process sustained by two conserved mechanisms: asymmetric cell division (ACD) and autophagy. In T cells, ACD enables them to produce progeny with the same T cell receptor but with divergent metabolic and functional fates upon antigen encounter through the unequal inheritance of cellular cargoes. Autophagy recycles cellular components, provides metabolic substrates essential for sustaining energy demands, and is relevant for the maintenance of T cell memory. Direct evidence of how these processes synergize and affect human immunity is still lacking. Here, we show that mitotic human CD8 + T cells asymmetrically segregate autophagy-related organelles, including autophagosomes and lysosomes. Furthermore, we show that ACD drives divergent transcriptional and functional fates in daughter cells. Extending these findings to an influenza vaccine trial, we demonstrate that autophagic flux follows the dynamics of clonal expansion and contraction of antigen-specific T cells. Notably, individuals with enhanced ACD capacity, especially with increased LC3B asymmetry, exhibit better vaccine responses, linking early cellular segregation events to long-term immune fitness. Last, transient use of the mechanistic target of rapamycin complex 1 inhibitor rapamycin improved memory survival, which was associated with improved ACD, measured by the asymmetric inheritance of both CD8 and LC3B. Together, these findings highlight that the asymmetric inheritance of the autophagy machinery represents another layer of human adaptive immunity and offers a potential therapeutic target to enhance vaccine outcomes.",
+      "summaryZh": "疫苗诱导的保护依赖于干细胞样记忆 B 和 T 细胞的生成和维持，这一过程由两种保守机制维持：不对称细胞分裂 (ACD) 和自噬。在 T 细胞中，ACD 使它们能够产生具有相同 T 细胞受体的后代，但通过细胞货物的不平等遗传，在遇到抗原时具有不同的代谢和功能命运。自噬回收细胞成分，提供维持能量需求所必需的代谢底物，并且与 T 细胞记忆的维持相关。仍然缺乏这些过程如何协同作用并影响人类免疫力的直接证据。在这里，我们证明有丝分裂的人类 CD8 + T 细胞不对称地分离自噬相关的细胞器，包括自噬体和溶酶体。此外，我们发现 ACD 在子细胞中驱动不同的转录和功能命运。将这些发现扩展到流感疫苗试验中，我们证明自噬流遵循抗原特异性 T 细胞克隆扩张和收缩的动态。值得注意的是，ACD 能力增强的个体，尤其是 LC3B 不对称性增强的个体，表现出更好的疫苗反应，将早期细胞分离事件与长期免疫适应性联系起来。最后，短暂使用雷帕霉素复合物 1 抑制剂雷帕霉素的机械靶标可改善记忆存活率，这与 ACD 的改善相关，通过 CD8 和 LC3B 的不对称遗传来衡量。总之，这些发现强调，自噬机制的不对称遗传代表了人类适应性免疫的另一层，并提供了增强疫苗效果的潜在治疗靶点。",
+      "translationSource": "e95ce623e3d5b7d8"
+    },
+    {
+      "pmid": "43013683",
+      "title": "Dual inhibition of TNF-α and IL-1β signaling through BIG2 ameliorates osteoarthritis in mouse and primate models.",
+      "titleZh": "通过 BIG2 双重抑制 TNF-α 和 IL-1β 信号可改善小鼠和灵长类动物模型中的骨关节炎。",
+      "journal": "Science Translational Medicine",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1126/scitranslmed.aec8494",
+      "doiUrl": "https://doi.org/10.1126/scitranslmed.aec8494",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013683/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, autophagy。",
+      "abstractEn": "Osteoarthritis (OA), a leading cause of disability, is characterized by chronic low-grade inflammation and metabolic dysregulation in chondrocytes. TNF-α and IL-1β are key inflammatory drivers in OA pathogenesis, but clinical trials targeting them individually have been unsuccessful, highlighting the potential need for dual-targeting strategies. By screening a US Food and Drug Administration-approved drug library, we identified dabigatran, a thrombin inhibitor, as a potent dual suppressor of TNF-α and IL-1β signaling that restored chondrocyte metabolism. In preclinical OA models, including both mice and cynomolgus macaques, dabigatran attenuated cartilage degeneration, alleviated pain, and improved joint function. To elucidate the molecular mechanisms, we performed biochemical copurification coupled with mass spectrometry, identifying brefeldin A-inhibited guanine nucleotide-exchange protein 2 (BIG2) as a previously unknown dabigatran-binding target. Mechanistically, dabigatran binds to BIG2, promoting BIG2-dependent TNFR1 release to dampen TNF-α signaling while enhancing BIG2-mediated IL-1R1 degradation through the autophagy-lysosome pathway to limit IL-1β effects. These findings establish BIG2-mediated receptor trafficking and membrane dynamics as a regulatory node that concurrently inhibits TNF-α and IL-1β signaling, suggesting this pathway as a potential therapeutic strategy for OA.",
+      "summaryZh": "骨关节炎 (OA) 是导致残疾的主要原因，其特征是慢性低度炎症和软骨细胞代谢失调。 TNF-α 和 IL-1β 是 OA 发病机制中的关键炎症驱动因素，但单独针对它们的临床试验并未成功，这凸显了双靶向策略的潜在需求。通过筛选美国食品和药物管理局批准的药物库，我们发现达比加群（一种凝血酶抑制剂）是一种有效的 TNF-α 和 IL-1β 信号双重抑制剂，可恢复软骨细胞代谢。在临床前 OA 模型（包括小鼠和食蟹猴）中，达比加群减轻了软骨退化，减轻了疼痛，并改善了关节功能。为了阐明分子机制，我们进行了生化共纯化和质谱分析，将布雷菲德菌素 A 抑制的鸟嘌呤核苷酸交换蛋白 2 (BIG2) 鉴定为以前未知的达比加群结合靶点。从机制上讲，达比加群与 BIG2 结合，促进 BIG2 依赖性 TNFR1 释放，抑制 TNF-α 信号传导，同时通过自噬-溶酶体途径增强 BIG2 介导的 IL-1R1 降解，以限制 IL-1β 效应。这些发现确立了 BIG2 介导的受体运输和膜动力学作为同时抑制 TNF-α 和 IL-1β 信号传导的调节节点，表明该途径是 OA 的潜在治疗策略。",
+      "translationSource": "1672230362bd7aa9"
+    },
+    {
+      "pmid": "42880255",
+      "title": "Akkermansia muciniphila protects against endometritis through a tyrosol-mediated gut-uterus axis.",
+      "titleZh": "Akkermansia muciniphila 通过酪醇介导的肠-子宫轴预防子宫内膜炎。",
+      "journal": "Cell Host & Microbe",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1016/j.chom.2026.09.012",
+      "doiUrl": "https://doi.org/10.1016/j.chom.2026.09.012",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880255/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Endometritis is a common reproductive disorder in humans and domestic animals that causes infertility and livestock losses. However, few specific bacteria and related metabolites involved in its pathogenesis have been identified. Here, we find that endometritis cows (EC) exhibit gut dysbiosis, with depletion of Akkermansia muciniphila (AKK). Gut microbiota transplantation from EC (E-GMT) induces endometritis in mice, whereas gut microbiota transplantation from healthy cows (H-GMT) does not. Supplementation with live AKK or its culture supernatant, but not heat-inactivated AKK, alleviates Escherichia coli-induced endometritis and protects E-GMT mice. Metabolomic profiling shows that live AKK increases tyrosol levels. Genomic and functional analyses support a role for AKK-derived alcohol dehydrogenase (ADH)1/ADH2 in tyrosol production. Engineered bacteria overexpressing this enzyme reproduce the anti-endometritis effects, whereas enzyme inhibition abolishes AKK-mediated protection. Mechanistically, tyrosol exerts protective effects by activating the phosphatidylinositol 3-kinase (PI3K)/AKT signaling pathway via upregulation of SIRT1 expression, highlighting the gut-uterine axis as a target for endometritis and uterine diseases.",
+      "summaryZh": "子宫内膜炎是人类和家畜的常见生殖疾病，导致不孕和牲畜损失。然而，目前尚未发现参与其发病机制的特定细菌和相关代谢物。在这里，我们发现患有子宫内膜炎的奶牛 (EC) 表现出肠道菌群失调，并伴有阿克曼氏菌 (AKK) 的消耗。 EC 肠道微生物群移植 (E-GMT) 会诱发小鼠子宫内膜炎，而健康奶牛肠道微生物群移植 (H-GMT) 则不会。补充活 AKK 或其培养上清液（而非热灭活的 AKK）可减轻大肠杆菌诱导的子宫内膜炎并保护 E-GMT 小鼠。代谢组学分析表明，活 AKK 会增加酪醇水平。基因组和功能分析支持 AKK 衍生的乙醇脱氢酶 (ADH)1/ADH2 在酪醇生产中的作用。过度表达这种酶的工程细菌可重现抗子宫内膜炎作用，而酶抑制则消除了 AKK 介导的保护作用。从机制上讲，酪醇通过上调 SIRT1 表达激活磷脂酰肌醇 3 激酶 (PI3K)/AKT 信号通路来发挥保护作用，凸显肠-子宫轴作为子宫内膜炎和子宫疾病的靶点。",
+      "translationSource": "77b88fa79d3824c7"
+    },
+    {
+      "pmid": "43008730",
+      "title": "Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT.",
+      "titleZh": "使用 Cas9-ACROBAT 对抗 CRISPR 进行蛋白酶体控制，以调节 CRISPR-Cas9 活性。",
+      "journal": "Cell Reports Methods",
+      "year": 2026,
+      "published": "2026-11-10",
+      "doi": "10.1016/j.crmeth.2026.101649",
+      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101649",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43008730/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Precise regulation of CRISPR-Cas9 activity is critical to limit off-target effects and improve the safety of genome engineering. To achieve reversible and robust control of Cas9, we developed multiple small-molecule-responsive systems that modulate the stability of the anti-CRISPR protein AcrIIA4. By fusing AcrIIA4 to dTAG, SMASh, or ecDHFR degrons, we enabled ligand-dependent degradation or stabilization of the inhibitor, thereby tightly regulating CRISPR cutting, activation, and interference in human cells. To further eliminate background Cas9 activity, we engineered a theophylline-responsive riboswitch into the sgRNA scaffold to block Cas9-sgRNA assembly until ligand addition. Combining riboswitch sgRNAs with degron-controlled AcrIIA4 produced the Cas9-ACROBAT platform, which provided near-complete suppression of CRISPR leakiness, while maintaining potent induction of genome editing and transcriptional modulation, including regulation of endogenous targets such as PLK1, CDKN1A, and CCND1. Cas9-ACROBAT offers a versatile, modular strategy for precise, small-molecule control of CRISPR systems.",
+      "summaryZh": "CRISPR-Cas9 活性的精确调控对于限制脱靶效应和提高基因组工程的安全性至关重要。为了实现 Cas9 的可逆和稳健控制，我们开发了多个小分子响应系统来调节抗 CRISPR 蛋白 AcrIIA4 的稳定性。通过将 AcrIIA4 与 dTAG、SMASh 或 ecDHFR 降解决定子融合，我们实现了抑制剂的配体依赖性降解或稳定化，从而严格调节人类细胞中的 CRISPR 切割、激活和干扰。为了进一步消除背景 Cas9 活性，我们将茶碱响应核糖开关设计到 sgRNA 支架中，以阻断 Cas9-sgRNA 组装，直到配体添加。将核糖开关 sgRNA 与降解决定子控制的 AcrIIA4 相结合产生了 Cas9-ACROBAT 平台，该平台几乎完全抑制 CRISPR 泄漏，同时保持基因组编辑和转录调节的有效诱导，包括对 PLK1、CDKN1A 和 CCND1 等内源靶标的调节。 Cas9-ACROBAT 提供了一种多功能、模块化策略，用于 CRISPR 系统的精确、小分子控制。",
+      "translationSource": "665f091b642ab2b1"
+    },
+    {
+      "pmid": "43013396",
+      "title": "TNIP1 acts as an aggrephagy receptor that assembles clearance machinery for protein aggregate removal.",
+      "titleZh": "TNIP1 充当聚集吞噬受体，组装清除机制以去除蛋白质聚集体。",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-11-10",
+      "doi": "10.1016/j.celrep.2026.118283",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118283",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013396/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Selective autophagy receptors recognize and recruit harmful intracellular components to autophagosomes for degradation, and their dysfunction is linked to neurodegeneration, metabolic disorders, and cancer. Here, we identified TNFAIP3 interacting protein 1 (TNIP1) as an aggrephagy receptor implicated in neurodegenerative diseases. TNIP1 accumulated at polyubiquitinated protein aggregates upon proteotoxic stress. Genetic depletion of TNIP1 reduced protein aggregate clearance and increased axonal degeneration under proteotoxic stress. Mechanistically, TNIP1 enhanced protein aggregate clearance by assembling aggrephagy receptors, such as SQSTM1/p62 and TAX1BP1, onto protein aggregates. Gene expression analysis revealed that TNIP1 expression levels are reduced in patients with amyotrophic lateral sclerosis (ALS) with TAR DNA-binding protein 43 (TDP-43) inclusion pathology. Additionally, an ALS-associated TNIP1 mutant exhibited impaired association with TDP-43 aggregates and failed to rescue their autophagy-mediated degradation. These findings establish TNIP1 as an aggrephagy receptor and reveal its potential role as a therapeutic target for ALS and other proteinopathies.",
+      "summaryZh": "选择性自噬受体识别有害的细胞内成分并将其招募至自噬体进行降解，其功能障碍与神经退行性变、代谢紊乱和癌症有关。在这里，我们确定 TNFAIP3 相互作用蛋白 1 (TNIP1) 是一种与神经退行性疾病有关的聚集吞噬受体。 TNIP1 在蛋白毒性应激下在多泛素化蛋白聚集体中积累。 TNIP1 的基因缺失降低了蛋白质聚集物的清除率，并增加了蛋白质毒性应激下的轴突变性。从机制上讲，TNIP1 通过将吞噬受体（例如 SQSTM1/p62 和 TAX1BP1）组装到蛋白质聚集体上来增强蛋白质聚集体清除。基因表达分析显示，具有 TAR DNA 结合蛋白 43 (TDP-43) 包涵体病理学的肌萎缩侧索硬化症 (ALS) 患者中 TNIP1 表达水平降低。此外，ALS 相关的 TNIP1 突变体表现出与 TDP-43 聚集体的关联受损，并且未能挽救其自噬介导的降解。这些发现将 TNIP1 确立为一种聚集吞噬受体，并揭示了其作为 ALS 和其他蛋白质病治疗靶点的潜在作用。",
+      "translationSource": "14e31d52f7f43664"
+    },
     {
       "pmid": "43003864",
       "title": "Absolute quantification and profiling of cellular tRNAs by nanopore sequencing and a deep learning classifier.",
@@ -348,27 +476,6 @@
       "translationSource": "8e1bb1bf25efeccf"
     },
     {
-      "pmid": "42977769",
-      "title": "STING-dependent TNF signalling promotes IKKβ-mediated ATG9A phosphorylation and autophagy.",
-      "titleZh": "STING 依赖性 TNF 信号传导促进 IKKβ 介导的 ATG9A 磷酸化和自噬。",
-      "journal": "Nature Cell Biology",
-      "year": 2026,
-      "published": "2026-11-03",
-      "doi": "10.1038/s41556-026-02101-9",
-      "doiUrl": "https://doi.org/10.1038/s41556-026-02101-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977769/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
-      "abstractEn": "Chemotherapeutic drugs, either alone or in combination with immunotherapy, are routinely used in cancer treatment. However, cancer cells frequently develop resistance to chemotherapy, and the underlying mechanisms remain incompletely understood. Using head and neck squamous cell carcinoma as a model, we show that chemotherapy activates the cGAS-STING pathway, leading to the induction of TNF. TNF mediates a paracrine signalling pathway in recipient tumour cells, leading to IKKβ activation and ATG9A phosphorylation at serine 654, thereby promoting autophagy. Moreover, IKKβ activation and ATG9A S654 phosphorylation are induced by TNF, nutrient deprivation and mTOR inhibition, suggesting that the IKKβ-ATG9A axis may represent a common regulatory mechanism of autophagy. Analysis of patient samples further reveals that chemotherapy induces autophagy, and elevated phosphorylation of ATG9A at S654 correlates with poor chemotherapy response. Of note, TNF blockade enhances therapeutic efficacy in both chemotherapy alone and chemotherapy combined with immune checkpoint inhibition. Together, our findings uncover a previously unrecognized TNF-IKKβ-ATG9A signalling axis that promotes autophagy and highlight TNF blockade as a promising strategy to overcome chemotherapy resistance.",
-      "summaryZh": "化疗药物单独或与免疫疗法联合使用，通常用于癌症治疗。然而，癌细胞经常对化疗产生耐药性，其潜在机制仍不完全清楚。使用头颈鳞状细胞癌作为模型，我们发现化疗激活 cGAS-STING 通路，导致 TNF 的诱导。 TNF 在受体肿瘤细胞中介导旁分泌信号通路，导致 IKKβ 激活和 ATG9A 丝氨酸 654 磷酸化，从而促进自噬。此外，TNF、营养剥夺和 mTOR 抑制诱导 IKKβ 激活和 ATG9A S654 磷酸化，表明 IKKβ-ATG9A 轴可能代表自噬的常见调节机制。对患者样本的分析进一步表明，化疗会诱导自噬，并且 ATG9A S654 磷酸化升高与化疗反应不佳相关。值得注意的是，TNF 阻断可增强单独化疗和化疗联合免疫检查点抑制的治疗效果。总之，我们的研究结果揭示了一个以前未被识别的 TNF-IKKβ-ATG9A 信号轴，该信号轴可促进自噬，并强调 TNF 阻断是克服化疗耐药性的一种有前景的策略。",
-      "translationSource": "1afca670dda7dd8b"
-    },
-    {
       "pmid": "42976006",
       "title": "HRS dephosphorylation at membrane contact sites promotes sorting within multivesicular endosomes.",
       "titleZh": "膜接触位点的 HRS 去磷酸化促进多囊泡内体内的分选。",
@@ -433,6 +540,49 @@
       "abstractEn": "Mechanistic target of rapamycin complex 1 (mTORC1) is a nutrient sensor that integrates diverse inputs to regulate protein translation and cell growth. While mTORC1 is activated on the lysosome in the classical model, it has become increasingly clear that this multifaceted signaling complex is active at various subcellular locations, such as the nucleus. However, what specific functions mTORC1 serves at these locations and how its signaling is compartmentalized are unclear. To interrogate subcellular pools of mTORC1, we developed TerminaTOR, a genetically encodable inhibitor of mTORC1 that can be targeted to specific subcellular locations. When TerminaTOR is directed to the lysosome, it inhibits canonical lysosomal mTORC1 and induces autophagy. Furthermore, TerminaTOR targeted to the nucleus specifically inhibits nuclear mTORC1, uncovering noncanonical roles of nuclear mTORC1 in regulating the transcription of CCAAT motif-containing genes. Thus, mTORC1 exhibits functional spatial compartmentalization and TerminaTOR serves as a powerful tool for unraveling spatially regulated functions of mTORC1 across different scales.",
       "summaryZh": "雷帕霉素复合物 1 (mTORC1) 的机械靶标是一种营养传感器，可整合多种输入来调节蛋白质翻译和细胞生长。虽然在经典模型中 mTORC1 在溶酶体上被激活，但越来越清楚的是，这种多方面的信号复合物在各个亚细胞位置（例如细胞核）都具有活性。然而，mTORC1 在这些位置发挥什么具体功能以及其信号传导如何划分尚不清楚。为了研究 mTORC1 的亚细胞库，我们开发了 TerminaTOR，这是一种基因可编码的 mTORC1 抑制剂，可以靶向特定的亚细胞位置。当 TerminaTOR 靶向溶酶体时，它会抑制典型的溶酶体 mTORC1 并诱导自噬。此外，针对细胞核的 TerminaTOR 特异性抑制细胞核 mTORC1，揭示了细胞核 mTORC1 在调节含有 CCAAT 基序的基因转录中的非典型作用。因此，mTORC1 表现出功能性空间划分，而 TerminaTOR 可以作为揭示 mTORC1 在不同尺度上的空间调节功能的强大工具。",
       "translationSource": "aeae36ac619bca1e"
+    },
+    {
+      "pmid": "42977769",
+      "title": "STING-dependent TNF signalling promotes IKKβ-mediated ATG9A phosphorylation and autophagy.",
+      "titleZh": "STING 依赖性 TNF 信号传导促进 IKKβ 介导的 ATG9A 磷酸化和自噬。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41556-026-02101-9",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02101-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977769/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Chemotherapeutic drugs, either alone or in combination with immunotherapy, are routinely used in cancer treatment. However, cancer cells frequently develop resistance to chemotherapy, and the underlying mechanisms remain incompletely understood. Using head and neck squamous cell carcinoma as a model, we show that chemotherapy activates the cGAS-STING pathway, leading to the induction of TNF. TNF mediates a paracrine signalling pathway in recipient tumour cells, leading to IKKβ activation and ATG9A phosphorylation at serine 654, thereby promoting autophagy. Moreover, IKKβ activation and ATG9A S654 phosphorylation are induced by TNF, nutrient deprivation and mTOR inhibition, suggesting that the IKKβ-ATG9A axis may represent a common regulatory mechanism of autophagy. Analysis of patient samples further reveals that chemotherapy induces autophagy, and elevated phosphorylation of ATG9A at S654 correlates with poor chemotherapy response. Of note, TNF blockade enhances therapeutic efficacy in both chemotherapy alone and chemotherapy combined with immune checkpoint inhibition. Together, our findings uncover a previously unrecognized TNF-IKKβ-ATG9A signalling axis that promotes autophagy and highlight TNF blockade as a promising strategy to overcome chemotherapy resistance.",
+      "summaryZh": "化疗药物单独或与免疫疗法联合使用，通常用于癌症治疗。然而，癌细胞经常对化疗产生耐药性，其潜在机制仍不完全清楚。使用头颈鳞状细胞癌作为模型，我们发现化疗激活 cGAS-STING 通路，导致 TNF 的诱导。 TNF 在受体肿瘤细胞中介导旁分泌信号通路，导致 IKKβ 激活和 ATG9A 丝氨酸 654 磷酸化，从而促进自噬。此外，TNF、营养剥夺和 mTOR 抑制诱导 IKKβ 激活和 ATG9A S654 磷酸化，表明 IKKβ-ATG9A 轴可能代表自噬的常见调节机制。对患者样本的分析进一步表明，化疗会诱导自噬，并且 ATG9A S654 磷酸化升高与化疗反应不佳相关。值得注意的是，TNF 阻断可增强单独化疗和化疗联合免疫检查点抑制的治疗效果。总之，我们的研究结果揭示了一个以前未被识别的 TNF-IKKβ-ATG9A 信号轴，该信号轴可促进自噬，并强调 TNF 阻断是克服化疗耐药性的一种有前景的策略。",
+      "translationSource": "1afca670dda7dd8b"
+    },
+    {
+      "pmid": "41219485",
+      "title": "A parts list of promoters and gRNA scaffolds for mammalian genome engineering and molecular recording.",
+      "titleZh": "用于哺乳动物基因组工程和分子记录的启动子和 gRNA 支架的零件列表。",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41587-025-02896-2",
+      "doiUrl": "https://doi.org/10.1038/s41587-025-02896-2",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41219485/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology",
+        "genetic circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, genetic circuit。",
+      "abstractEn": "A standardized 'parts list' of sequences for genetic engineering of microbes has been indispensable to progress in synthetic biology, but few analogous parts exist for mammalian systems. Here we design libraries of extant, ancestral, mutagenized or miniaturized variants of polymerase III promoters and guide RNA (gRNA) scaffolds and quantify their abilities to mediate precise edits to the mammalian genome through multiplex prime editing. We identify thousands of parts for reproducible editing in human and mouse cell lines, including hundreds with greater activity than commonly used sequences. Saturation mutagenesis screens identify tolerated sequence variants that further enhance sequence diversity. In an application to molecular recording, we design a 'ten key' array that, in mammalian cells, achieves balanced activity of pegRNAs as predicted by the activity of the component parts. The data reported here will aid the design of synthetic loci encoding arrays of gRNAs exhibiting predictable, differentiated levels of activity for applications in multiplexed perturbation, biological recorders and complex genetic circuits.",
+      "summaryZh": "微生物基因工程序列的标准化“部件列表”对于合成生物学的进步是不可或缺的，但哺乳动物系统中几乎不存在类似的部件。在这里，我们设计了聚合酶 III 启动子和引导 RNA (gRNA) 支架的现存、祖先、诱变或小型化变体文库，并量化它们通过多重引物编辑介导哺乳动物基因组精确编辑的能力。我们在人类和小鼠细胞系中鉴定了数千个可重复编辑的部分，其中数百个比常用序列具有更高的活性。饱和诱变筛选可识别可进一步增强序列多样性的耐受序列变体。在分子记录的应用中，我们设计了一个“十键”阵列，在哺乳动物细胞中，可以根据组成部分的活性预测实现 pegRNA 的平衡活性。这里报告的数据将有助于设计合成基因座编码 gRNA 阵列，这些 gRNA 表现出可预测的、差异化的活性水平，适用于多重扰动、生物记录器和复杂的遗传电路。",
+      "translationSource": "ab4b6902fd1afa92"
     },
     {
       "pmid": "42816627",
@@ -1158,27 +1308,6 @@
       "abstractEn": "Functional RNA design is central to synthetic biology and RNA therapeutics. Recent AI advances leverage tertiary structure to interpret function and guide sequence generation, replacing traditional trial-and-error workflows. Experimental methods assisted by AI models continuously expand the structural data foundation and ultimately enable scalable and programmable RNA design.",
       "summaryZh": "功能性 RNA 设计是合成生物学和 RNA 疗法的核心。最近的人工智能进步利用三级结构来解释功能并指导序列生成，取代了传统的试错工作流程。 AI模型辅助的实验方法不断扩展结构数据基础，最终实现可扩展和可编程的RNA设计。",
       "translationSource": "dc9940120f4931a6"
-    },
-    {
-      "pmid": "42880255",
-      "title": "Akkermansia muciniphila protects against endometritis through a tyrosol-mediated gut-uterus axis.",
-      "titleZh": "Akkermansia muciniphila 通过酪醇介导的肠-子宫轴预防子宫内膜炎。",
-      "journal": "Cell Host & Microbe",
-      "year": 2026,
-      "published": "2026-10-15",
-      "doi": "10.1016/j.chom.2026.09.012",
-      "doiUrl": "https://doi.org/10.1016/j.chom.2026.09.012",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880255/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "engineered bacteria"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
-      "abstractEn": "Endometritis is a common reproductive disorder in humans and domestic animals that causes infertility and livestock losses. However, few specific bacteria and related metabolites involved in its pathogenesis have been identified. Here, we find that endometritis cows (EC) exhibit gut dysbiosis, with depletion of Akkermansia muciniphila (AKK). Gut microbiota transplantation from EC (E-GMT) induces endometritis in mice, whereas gut microbiota transplantation from healthy cows (H-GMT) does not. Supplementation with live AKK or its culture supernatant, but not heat-inactivated AKK, alleviates Escherichia coli-induced endometritis and protects E-GMT mice. Metabolomic profiling shows that live AKK increases tyrosol levels. Genomic and functional analyses support a role for AKK-derived alcohol dehydrogenase (ADH)1/ADH2 in tyrosol production. Engineered bacteria overexpressing this enzyme reproduce the anti-endometritis effects, whereas enzyme inhibition abolishes AKK-mediated protection. Mechanistically, tyrosol exerts protective effects by activating the phosphatidylinositol 3-kinase (PI3K)/AKT signaling pathway via upregulation of SIRT1 expression, highlighting the gut-uterine axis as a target for endometritis and uterine diseases.",
-      "summaryZh": "子宫内膜炎是人类和家畜的常见生殖疾病，导致不孕和牲畜损失。然而，目前尚未发现参与其发病机制的特定细菌和相关代谢物。在这里，我们发现患有子宫内膜炎的奶牛 (EC) 表现出肠道菌群失调，并伴有阿克曼氏菌 (AKK) 的消耗。 EC 肠道微生物群移植 (E-GMT) 会诱发小鼠子宫内膜炎，而健康奶牛肠道微生物群移植 (H-GMT) 则不会。补充活 AKK 或其培养上清液（而非热灭活的 AKK）可减轻大肠杆菌诱导的子宫内膜炎并保护 E-GMT 小鼠。代谢组学分析表明，活 AKK 会增加酪醇水平。基因组和功能分析支持 AKK 衍生的乙醇脱氢酶 (ADH)1/ADH2 在酪醇生产中的作用。过度表达这种酶的工程细菌可重现抗子宫内膜炎作用，而酶抑制则消除了 AKK 介导的保护作用。从机制上讲，酪醇通过上调 SIRT1 表达激活磷脂酰肌醇 3 激酶 (PI3K)/AKT 信号通路来发挥保护作用，凸显肠-子宫轴作为子宫内膜炎和子宫疾病的靶点。",
-      "translationSource": "77b88fa79d3824c7"
     },
     {
       "pmid": "42880225",
@@ -13999,28 +14128,6 @@
       "abstractEn": "Cells store information by means of chromatin modifications that persist through cell divisions and can hold gene expression silenced over generations. However, how these modifications may maintain other gene expression states has remained unclear. This study shows that chromatin modifications can maintain a wide range of gene expression levels over time, thus uncovering analog epigenetic memory. By engineering a genomic reporter and epigenetic effectors, we tracked the gene expression dynamics following targeted perturbations to the chromatin state. We found that distinct grades of DNA methylation led to corresponding, persistent gene expression levels. Altering the DNA methylation grade, in turn, resulted in permanent loss of gene expression memory. Consistent with experiments, our chromatin modification model indicates that analog memory arises when the positive feedback between DNA methylation and repressive histone modifications is lacking. This discovery will lead to a deeper understanding of epigenetic memory and to new tools for synthetic biology.",
       "summaryZh": "细胞通过染色质修饰来存储信息，这种修饰在细胞分裂过程中持续存在，并且可以在几代人的时间内保持基因表达的沉默。然而，这些修饰如何维持其他基因表达状态仍不清楚。这项研究表明，随着时间的推移，染色质修饰可以维持广泛的基因表达水平，从而揭示模拟表观遗传记忆。通过设计基因组报告基因和表观遗传效应器，我们跟踪了对染色质状态进行针对性扰动后的基因表达动态。我们发现不同级别的 DNA 甲基化会导致相应的、持久的基因表达水平。改变 DNA 甲基化等级反过来会导致基因表达记忆的永久丧失。与实验一致，我们的染色质修饰模型表明，当 DNA 甲基化和抑制性组蛋白修饰之间缺乏正反馈时，就会产生模拟记忆。这一发现将导致对表观遗传记忆的更深入理解和合成生物学的新工具。",
       "translationSource": "4337f4a4964c82d3"
-    },
-    {
-      "pmid": "41219485",
-      "title": "A parts list of promoters and gRNA scaffolds for mammalian genome engineering and molecular recording.",
-      "titleZh": "用于哺乳动物基因组工程和分子记录的启动子和 gRNA 支架的零件列表。",
-      "journal": "Nature Biotechnology",
-      "year": 2025,
-      "published": "2025-11-11",
-      "doi": "10.1038/s41587-025-02896-2",
-      "doiUrl": "https://doi.org/10.1038/s41587-025-02896-2",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41219485/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology",
-        "genetic circuit"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology, genetic circuit。",
-      "abstractEn": "A standardized 'parts list' of sequences for genetic engineering of microbes has been indispensable to progress in synthetic biology, but few analogous parts exist for mammalian systems. Here we design libraries of extant, ancestral, mutagenized or miniaturized variants of polymerase III promoters and guide RNA (gRNA) scaffolds and quantify their abilities to mediate precise edits to the mammalian genome through multiplex prime editing. We identify thousands of parts for reproducible editing in human and mouse cell lines, including hundreds with greater activity than commonly used sequences. Saturation mutagenesis screens identify tolerated sequence variants that further enhance sequence diversity. In an application to molecular recording, we design a 'ten key' array that, in mammalian cells, achieves balanced activity of pegRNAs as predicted by the activity of the component parts. The data reported here will aid the design of synthetic loci encoding arrays of gRNAs exhibiting predictable, differentiated levels of activity for applications in multiplexed perturbation, biological recorders and complex genetic circuits.",
-      "summaryZh": "微生物基因工程序列的标准化“部件列表”对于合成生物学的进步是不可或缺的，但哺乳动物系统中几乎不存在类似的部件。在这里，我们设计了聚合酶 III 启动子和引导 RNA (gRNA) 支架的现存、祖先、诱变或小型化变体文库，并量化它们通过多重引物编辑介导哺乳动物基因组精确编辑的能力。我们在人类和小鼠细胞系中鉴定了数千个可重复编辑的部分，其中数百个比常用序列具有更高的活性。饱和诱变筛选可识别可进一步增强序列多样性的耐受序列变体。在分子记录的应用中，我们设计了一个“十键”阵列，在哺乳动物细胞中，可以根据组成部分的活性预测实现 pegRNA 的平衡活性。这里报告的数据将有助于设计合成基因座编码 gRNA 阵列，这些 gRNA 表现出可预测的、差异化的活性水平，适用于多重扰动、生物记录器和复杂的遗传电路。",
-      "translationSource": "ab4b6902fd1afa92"
     },
     {
       "pmid": "41213972",
