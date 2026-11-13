@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:30:31+00:00",
+  "updatedAt": "2026-11-13T03:45:04+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -47,6 +47,49 @@
       "translationSource": "e95ce623e3d5b7d8"
     },
     {
+      "pmid": "43019432",
+      "title": "TMEM184 proteins are Ca 2+ uptake transporters in lysosomes.",
+      "titleZh": "TMEM184 蛋白是溶酶体中的 Ca 2+ 摄取转运蛋白。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-11-12",
+      "doi": "10.1126/science.aeh3996",
+      "doiUrl": "https://doi.org/10.1126/science.aeh3996",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43019432/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal。",
+      "abstractEn": "Lysosomal Ca 2+ release from acidic stores is critical for lysosomal function, yet the molecular identity of the Ca 2+ uptake conduit has remained elusive. We used a Ca 2+ -imaging-based genetic screen of the lysosomal membrane proteome to identify TMEM184 family proteins as lysosomal Ca 2+ transporters (LyCaTs) essential for Ca 2+ uptake and refilling. TMEM184 selectively transported Ca 2+ while excluding monovalent cations. Loss of TMEM184B/C depleted lysosomal Ca 2+ stores, diminished Ca 2+ release, and disrupted lysosomal exocytosis, biogenesis, and membrane repair, thus phenocopying the release channel transient receptor potential mucolipin 1 (TRPML1) deficiency. Moreover, a human TMEM184B mutation associated with a neurodevelopmental disorder compromised lysosomal Ca 2+ transport, and Tmem184b -deficient mice exhibited profound motor impairment. Thus, TMEM184 constitutes the long-sought Ca 2+ uptake and refilling mechanism that governs lysosomal signaling and homeostasis.",
+      "summaryZh": "溶酶体从酸性储存中释放 Ca 2+ 对于溶酶体功能至关重要，但 Ca 2+ 摄取管道的分子身份仍然难以捉摸。我们使用基于 Ca 2+ 成像的溶酶体膜蛋白质组遗传筛选来鉴定 TMEM184 家族蛋白作为 Ca 2+ 摄取和再填充所必需的溶酶体 Ca 2+ 转运蛋白 (LyCaTs)。 TMEM184 选择性转运Ca 2+ 同时排除单价阳离子。 TMEM184B/C 的缺失会耗尽溶酶体 Ca 2+ 储存，减少 Ca 2+ 释放，并破坏溶酶体胞吐作用、生物发生和膜修复，从而表现出释放通道瞬时受体电位粘脂蛋白 1 (TRPML1) 缺陷。此外，与神经发育障碍相关的人类 TMEM184B 突变会损害溶酶体 Ca 2+ 转运，而 Tmem184b 缺陷小鼠表现出严重的运动障碍。因此，TMEM184 构成了人们长期寻找的控制溶酶体信号传导和体内平衡的 Ca 2+ 吸收和再填充机制。",
+      "translationSource": "747453db686addc8"
+    },
+    {
+      "pmid": "43019419",
+      "title": "A trapped catalytic product acts as molecular glue for innate immune signalosome assembly.",
+      "titleZh": "捕获的催化产物充当先天免疫信号体组装的分子胶。",
+      "journal": "Science",
+      "year": 2026,
+      "published": "2026-11-12",
+      "doi": "10.1126/science.aef3150",
+      "doiUrl": "https://doi.org/10.1126/science.aef3150",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43019419/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue。",
+      "abstractEn": "Innate immune systems of living organisms are essential for host defense. Central to these systems is the Toll/interleukin-1 receptor (TIR) domain, an evolutionarily conserved module. From antiphage systems in prokaryotes to innate immune systems in plants, TIR domains have catalytic activity. However, TIR domains within animal innate immune receptors, such as Toll-like receptors (TLRs), have been considered as scaffolds for adaptor recruitment. We report that the TLR4 TIR domain possesses an allosterically activated nicotinamide adenine dinucleotide (NAD + ) hydrolase (NADase) activity that operates in a single-turnover manner. Its product, adenosine diphosphate ribose, is not released but entrapped as a \"molecular glue,\" stabilizing a composite catalytic pocket with adaptor TIR domain-containing adaptor protein (TIRAP) to nucleate signalosome assembly. This \"produce-and-trap\" mechanism represents a signaling mode that integrates enzymatic activity with adaptor function to drive downstream signaling.",
+      "summaryZh": "生物体的先天免疫系统对于宿主防御至关重要。这些系统的核心是 Toll/interleukin-1 受体 (TIR) 结构域，这是一个进化上保守的模块。从原核生物的抗噬菌体系统到植物的先天免疫系统，TIR 结构域都具有催化活性。然而，动物先天免疫受体（例如 Toll 样受体 (TLR)）内的 TIR 结构域已被认为是接头招募的支架。我们报告说，TLR4 TIR 结构域具有变构激活的烟酰胺腺嘌呤二核苷酸 (NAD + ) 水解酶 (NADase) 活性，该活性以单周转方式运行。其产物二磷酸腺苷核糖不会被释放，而是作为“分子胶”被捕获，与含有接头 TIR 结构域的接头蛋白 (TIRAP) 一起稳定复合催化袋，使信号体组装成核。这种“产生和捕获”机制代表了一种信号传导模式，它将酶活性与接头功能相结合以驱动下游信号传导。",
+      "translationSource": "28d58182b8e36083"
+    },
+    {
       "pmid": "43013683",
       "title": "Dual inhibition of TNF-α and IL-1β signaling through BIG2 ameliorates osteoarthritis in mouse and primate models.",
       "titleZh": "通过 BIG2 双重抑制 TNF-α 和 IL-1β 信号可改善小鼠和灵长类动物模型中的骨关节炎。",
@@ -67,6 +110,154 @@
       "abstractEn": "Osteoarthritis (OA), a leading cause of disability, is characterized by chronic low-grade inflammation and metabolic dysregulation in chondrocytes. TNF-α and IL-1β are key inflammatory drivers in OA pathogenesis, but clinical trials targeting them individually have been unsuccessful, highlighting the potential need for dual-targeting strategies. By screening a US Food and Drug Administration-approved drug library, we identified dabigatran, a thrombin inhibitor, as a potent dual suppressor of TNF-α and IL-1β signaling that restored chondrocyte metabolism. In preclinical OA models, including both mice and cynomolgus macaques, dabigatran attenuated cartilage degeneration, alleviated pain, and improved joint function. To elucidate the molecular mechanisms, we performed biochemical copurification coupled with mass spectrometry, identifying brefeldin A-inhibited guanine nucleotide-exchange protein 2 (BIG2) as a previously unknown dabigatran-binding target. Mechanistically, dabigatran binds to BIG2, promoting BIG2-dependent TNFR1 release to dampen TNF-α signaling while enhancing BIG2-mediated IL-1R1 degradation through the autophagy-lysosome pathway to limit IL-1β effects. These findings establish BIG2-mediated receptor trafficking and membrane dynamics as a regulatory node that concurrently inhibits TNF-α and IL-1β signaling, suggesting this pathway as a potential therapeutic strategy for OA.",
       "summaryZh": "骨关节炎 (OA) 是导致残疾的主要原因，其特征是慢性低度炎症和软骨细胞代谢失调。 TNF-α 和 IL-1β 是 OA 发病机制中的关键炎症驱动因素，但单独针对它们的临床试验并未成功，这凸显了双靶向策略的潜在需求。通过筛选美国食品和药物管理局批准的药物库，我们发现达比加群（一种凝血酶抑制剂）是一种有效的 TNF-α 和 IL-1β 信号双重抑制剂，可恢复软骨细胞代谢。在临床前 OA 模型（包括小鼠和食蟹猴）中，达比加群减轻了软骨退化，减轻了疼痛，并改善了关节功能。为了阐明分子机制，我们进行了生化共纯化和质谱分析，将布雷菲德菌素 A 抑制的鸟嘌呤核苷酸交换蛋白 2 (BIG2) 鉴定为以前未知的达比加群结合靶点。从机制上讲，达比加群与 BIG2 结合，促进 BIG2 依赖性 TNFR1 释放，抑制 TNF-α 信号传导，同时通过自噬-溶酶体途径增强 BIG2 介导的 IL-1R1 降解，以限制 IL-1β 效应。这些发现确立了 BIG2 介导的受体运输和膜动力学作为同时抑制 TNF-α 和 IL-1β 信号传导的调节节点，表明该途径是 OA 的潜在治疗策略。",
       "translationSource": "1672230362bd7aa9"
+    },
+    {
+      "pmid": "43015321",
+      "title": "Pharmacological chaperone treatment with Cystadane in aspartylglucosaminuria: an open-label, phase Ib/II trial.",
+      "titleZh": "使用 Cystadane 治疗天冬氨葡萄糖胺尿症的药理学伴侣治疗：一项开放标签、Ib/II 期试验。",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1038/s41467-026-78752-x",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78752-x",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43015321/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "This phase Ib/II investigator-initiated, open label trial aims to show the safety and efficacy of Cystadane (betaine) in aspartylglucosaminuria, a lysosomal storage disorder characterized by progressive cognitive decline, in Finnish patients homozygous for the Finnish major mutation, aged between 3 and 17 years at study begin (recruited: 25, analyzed: 21). Oral Cystadane efficacy and safety were studied over 48 months. The primary endpoint of the study, reduction of glycoasparagines in the urine, was quantitatively determined using liquid chromatography/mass spectrometry and normalized to urine creatinine. Urine glycoasparagines are significantly reduced upon Cystadane treatment (by 68.6% ±10.8%; p = 0.000), and the study thus meets its primary endpoint. Our data show that Cystadane/betaine efficiently improves the main disease biomarker, and it is safe to use in aspartylglucosaminuria. Further studies should be carried out in a larger patient population over a longer time to demonstrate the effects on disease progression. EudraCT registration number 2017-000645-48.",
+      "summaryZh": "这项 Ib/II 期研究者发起的开放标签试验旨在证明 Cystadane（甜菜碱）治疗天冬氨葡萄糖胺尿症（一种以进行性认知能力下降为特征的溶酶体贮积症）的安全性和有效性，受试者为芬兰主要突变纯合子，研究开始时年龄在 3 至 17 岁之间（招募：25 名，分析：21 名）。对口服 Cystadane 的功效和安全性进行了超过 48 个月的研究。该研究的主要终点是尿液中糖天冬酰胺的减少，使用液相色谱/质谱法定量测定并标准化为尿肌酐。经 Cystadane 治疗后，尿糖天冬酰胺显着减少（减少 68.6% ±10.8%；p = 0.000），因此该研究达到了其主要终点。我们的数据表明，Cystadane/甜菜碱可有效改善主要疾病生物标志物，并且可安全用于天冬氨葡萄糖胺尿症。应该在更长的时间内在更大的患者群体中进行进一步的研究，以证明对疾病进展的影响。 EudraCT 注册号 2017-000645-48。",
+      "translationSource": "7dde004fa3910115"
+    },
+    {
+      "pmid": "43015476",
+      "title": "Transient nuclear softening for zygotic gene activation in mice.",
+      "titleZh": "小鼠合子基因激活的瞬时核软化。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1038/s41586-026-11240-w",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11240-w",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43015476/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "Nuclei in early mammalian embryos undergo epigenetic reprogramming that enables the zygote to develop into a complete organism. Whereas changes in chromatin state during this critical transition period have been extensively studied 1-3 , changes in the nucleus that houses chromatin remain poorly understood. Here, using direct organelle capture and biophysical manipulation methods, we find that nuclei attain profound softness and plasticity during the two-cell embryonic stage in mice, facilitating major zygotic gene activation. The prominent nuclear deformability is attributable to the rapid clearance of lamin B1 from the nuclear envelope by the autophagy factor LC3. Nuclear stiffening by lamin B1 retention or its overloading results in incomplete activation of zygotic genes and impaired development. However, embryos that maintain nuclear deformability escape from this transcriptional interference. High-resolution microscopy and sequential three-dimensional fluorescence in situ hybridization analyses revealed an accumulation of active RNA polymerase II and coordinated positioning of key genomic loci near the deformable nuclear envelope. An engineered molecular tether that stiffens the nuclei restricts these nuclear activities and suppresses expression of key zygotic gene activation genes. Together, our study identifies a distinct physical nuclear state that embryos acquire at the beginning of life that supports the initiation of the zygotic transcription program.",
+      "summaryZh": "早期哺乳动物胚胎中的细胞核经历表观遗传重编程，使受精卵发育成完整的有机体。虽然这一关键过渡时期染色质状态的变化已被广泛研究 1-3 ，但对容纳染色质的细胞核的变化仍知之甚少。在这里，利用直接细胞器捕获和生物物理操作方法，我们发现细胞核在小鼠的双细胞胚胎阶段获得了深刻的柔软性和可塑性，促进了主要合子基因的激活。显着的核变形性归因于自噬因子 LC3 从核膜中快速清除核纤层蛋白 B1。核纤层蛋白 B1 保留或其超载导致核硬化，导致合子基因不完全激活和发育受损。然而，保持核变形能力的胚胎可以逃避这种转录干扰。高分辨率显微镜和连续三维荧光原位杂交分析揭示了活性RNA聚合酶II的积累以及可变形核膜附近关键基因组位点的协调定位。一种使细胞核变硬的工程分子链限制了这些核活动并抑制了关键合子基因激活基因的表达。总之，我们的研究确定了胚胎在生命之初获得的独特的物理核状态，该状态支持合子转录程序的启动。",
+      "translationSource": "aec6f7ca542a4095"
+    },
+    {
+      "pmid": "43015469",
+      "title": "Mitochondrial protein import defects enhance tumour immunogenicity.",
+      "titleZh": "线粒体蛋白输入缺陷增强肿瘤免疫原性。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1038/s41586-026-11249-1",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11249-1",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43015469/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Tumour cells evade detection and elimination by the immune system through a suite of adaptations 1 , including the repression of antigen presentation, which is required for the recognition of tumour cells by CD8 + T cells. Mitochondria have emerged as targets for enhancing antitumour immunity; however, the extensive mitochondrial proteome has remained largely unstudied for its ability to modulate immune responses. Here we show that defects in the mitochondrial protein import machinery promote tumour immunogenicity and synergize with immune checkpoint blockade treatment in melanoma models. Mitochondrial protein import perturbation, specifically through depletion of the TIM23 import complex subunit TIMM50, enhances tumour immunogenicity through a pathway involving mitochondrial DNA escape, cGAS-STING pathway activation and interferon-β (IFNβ) secretion. Secreted IFNβ signals through the type I IFN receptor to activate the JAK-STAT pathway, resulting in increased antigen presentation on MHC class I complexes. Mitochondrial DNA escape in Timm50-depleted cells is linked to the formation of mitochondrial-derived vesicles. Depletion of SNX9 and RAB9, involved in mitochondrial-derived vesicle formation 2 , suppresses mitochondrial DNA-dependent type I IFN production and signalling. By disrupting mitochondrial proteostasis and membrane architecture, defective protein import in Timm50-depleted cells drives the immune phenotype. This study shows that mitochondrial protein import inhibition causes tumour immunogenicity, including sensitization to immune checkpoint blockade, by promoting mitochondrial DNA escape and IFNβ-driven MHC class I antigen presentation.",
+      "summaryZh": "肿瘤细胞通过一系列适应来逃避免疫系统的检测和消除，包括抑制抗原呈递，这是 CD8 + T 细胞识别肿瘤细胞所必需的。线粒体已成为增强抗肿瘤免疫力的靶点；然而，广泛的线粒体蛋白质组在很大程度上尚未对其调节免疫反应的能力进行研究。在这里，我们发现线粒体蛋白输入机制的缺陷促进肿瘤免疫原性，并与黑色素瘤模型中的免疫检查点阻断治疗产生协同作用。线粒体蛋白输入扰动，特别是通过消耗 TIM23 输入复合物亚基 TIMM50，通过涉及线粒体 DNA 逃逸、cGAS-STING 通路激活和干扰素-β (IFNβ) 分泌的途径增强肿瘤免疫原性。通过 I 型 IFN 受体分泌 IFNβ 信号激活 JAK-STAT 通路，导致 MHC I 类复合物上的抗原呈递增加。 Timm50 缺失细胞中线粒体 DNA 的逃逸与线粒体衍生囊泡的形成有关。参与线粒体来源的囊泡形成 2 的 SNX9 和 RAB9 的耗尽，会抑制线粒体 DNA 依赖性 I 型 IFN 的产生和信号传导。通过破坏线粒体蛋白质稳态和膜结构，Timm50 耗尽细胞中的蛋白质输入缺陷会驱动免疫表型。这项研究表明，线粒体蛋白输入抑制通过促进线粒体 DNA 逃逸和 IFNβ 驱动的 MHC I 类抗原呈递，导致肿瘤免疫原性，包括对免疫检查点阻断的敏感性。",
+      "translationSource": "23ca71217ae13ec7"
+    },
+    {
+      "pmid": "43014276",
+      "title": "p53 activates chaperone-mediated autophagy to remodel metabolism and suppress tumorigenesis.",
+      "titleZh": "p53 激活分子伴侣介导的自噬来重塑代谢并抑制肿瘤发生。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1016/j.devcel.2026.10.009",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.10.009",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014276/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "p53 protects against the initiation and progression of cancers, but the mechanisms underlying this function remain incompletely understood. Chaperone-mediated autophagy (CMA) is a form of autophagy unique in vertebrates, yet its regulation and function are unclear. Here, we demonstrate that p53 functions as a central activator of CMA, integrating stress signals to regulate this selective autophagic pathway. Mechanistically, the energy sensor AMP-activated protein kinase (AMPK) inhibits CMA by preventing oligomerization of its receptor LAMP2A. Cytoplasmic p53 interacts with AMPK and relieves this inhibition. By activating CMA, p53 promotes lysosomal degradation of isocitrate dehydrogenases IDH1 and IDH2, thereby reducing intracellular α-ketoglutarate levels, inhibiting reductive glutamine metabolism, and suppressing growth of lung and liver cancers. Tumor-associated p53 mutants fail to promote CMA, whereas oncogenic IDH1/2 mutants evade CMA-mediated degradation. These results suggest that CMA activation may be a fundamental component of p53 function, through which it modulates metabolism and inhibits oncogenic growth.",
+      "summaryZh": "p53 可防止癌症的发生和进展，但该功能背后的机制仍不完全清楚。伴侣介导的自噬（CMA）是脊椎动物特有的一种自噬形式，但其调控和功能尚不清楚。在这里，我们证明 p53 作为 CMA 的中心激活剂，整合应激信号来调节这种选择性自噬途径。从机制上讲，能量传感器 AMP 激活蛋白激酶 (AMPK) 通过阻止其受体 LAMP2A 寡聚化来抑制 CMA。细胞质 p​​53 与 AMPK 相互作用并解除这种抑制。通过激活CMA，p53促进异柠檬酸脱氢酶IDH1和IDH2的溶酶体降解，从而降低细胞内α-酮戊二酸水平，抑制还原性谷氨酰胺代谢，抑制肺癌和肝癌的生长。肿瘤相关 p53 突变体无法促进 CMA，而致癌 IDH1/2 突变体则逃避 CMA 介导的降解。这些结果表明，CMA 激活可能是 p53 功能的基本组成部分，通过它调节新陈代谢并抑制致癌生长。",
+      "translationSource": "9afe0e953ca6049a"
+    },
+    {
+      "pmid": "43014275",
+      "title": "TP53 promotes CMA-dependent metabolic adaptations to suppress cancer.",
+      "titleZh": "TP53 促进 CMA 依赖性代谢适应来抑制癌症。",
+      "journal": "Developmental Cell",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1016/j.devcel.2026.10.010",
+      "doiUrl": "https://doi.org/10.1016/j.devcel.2026.10.010",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014275/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：autophagy。",
+      "abstractEn": "In this issue of Developmental Cell, Xu et al. report that cytosolic p53 relieves AMPK-mediated inhibition of chaperone-mediated autophagy (CMA), promoting CMA-dependent degradation of IDH1 and IDH2. This causes a metabolic change that reduces cancer cell growth and matrix-detached survival, challenging the view that CMA is predominantly tumor promoting.",
+      "summaryZh": "在本期《发育细胞》中，Xu 等人。报告称，胞质 p53 可以缓解 AMPK 介导的分子伴侣介导的自噬 (CMA) 抑制，促进 IDH1 和 IDH2 的 CMA 依赖性降解。这会导致代谢变化，从而减少癌细胞生长和基质分离存活，挑战了 CMA 主要促进肿瘤的观点。",
+      "translationSource": "2d72bb9e63434610"
+    },
+    {
+      "pmid": "43014320",
+      "title": "MitoTALENs reduce mutant mitochondrial DNA carryover following pronuclear transfer.",
+      "titleZh": "MitoTALEN 减少原核转移后突变线粒体 DNA 残留。",
+      "journal": "Cell Reports Methods",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1016/j.crmeth.2026.101666",
+      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101666",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014320/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Preventing transmission of maternally inherited mitochondrial diseases remains a major challenge in reproductive medicine. Nuclear transfer (NT) offers a promising strategy by replacing mutant mitochondrial DNA (mtDNA) while preserving the nuclear genome; nevertheless, residual mtDNA carryover can persist in reconstructed embryos and potentially expand, leading to disease recurrence. Using a heteroplasmic mouse model harboring the pathogenic m.5024C>T mutation, we evaluated two approaches to reduce mtDNA carryover following pronuclear transfer (PNT): mitochondrially targeted transcription activator-like effector nucleases (mitoTALENs) and induced mitophagy. PNT alone markedly lowered heteroplasmy, reducing mutant mtDNA from 68.5% to 2.4%, on average. Application of mitoTALENs post-PNT further reduced residual mutant mtDNA below 1%, with levels as low as 0.2%, without compromising embryonic development. In contrast, mitophagy induction via SQSTM1 overexpression failed to reduce heteroplasmy, consistent with inefficient lysosomal recruitment in embryos. Additionally, we validated digital PCR (dPCR) as a sensitive and robust method for quantifying mtDNA copy number and low-level heteroplasmy.",
+      "summaryZh": "预防母系遗传线粒体疾病的传播仍然是生殖医学的主要挑战。核移植（NT）提供了一种有前途的策略，通过替换突变的线粒体DNA（mtDNA），同时保留核基因组；然而，残留的线粒体 DNA 残留可能会持续存在于重建胚胎中，并有可能扩大，导致疾病复发。使用携带致病性 m.5024C>T 突变的异质性小鼠模型，我们评估了两种减少原核转移 (PNT) 后 mtDNA 残留的方法：线粒体靶向转录激活因子样效应核酸酶 (mitoTALEN) 和诱导线粒体自噬。单独使用 PNT 可以显着降低异质性，平均将突变 mtDNA 从 68.5% 减少到 2.4%。 PNT 后应用 mitoTALEN 进一步将残留突变体 mtDNA 降至 1% 以下，水平低至 0.2%，且不影响胚胎发育。相反，通过 SQSTM1 过表达诱导线粒体自噬未能减少异质性，这与胚胎中溶酶体募集效率低下一致。此外，我们验证了数字 PCR (dPCR) 作为量化 mtDNA 拷贝数和低水平异质性的灵敏且稳健的方法。",
+      "translationSource": "54048e04348f1d69"
+    },
+    {
+      "pmid": "43014319",
+      "title": "A genetically encoded system to purify senescent cells.",
+      "titleZh": "纯化衰老细胞的基因编码系统。",
+      "journal": "Cell Reports Methods",
+      "year": 2026,
+      "published": "2026-11-11",
+      "doi": "10.1016/j.crmeth.2026.101665",
+      "doiUrl": "https://doi.org/10.1016/j.crmeth.2026.101665",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014319/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Cellular senescence is a state of irreversible cell-cycle arrest that prevents cancer but promotes aging and inflammation. Conflicting molecular profiles of senescence may arise from contamination by neighboring proliferating cells. Here, we developed SenLect (senescence selection), a genetically encoded system for purifying senescent cells in culture. SenLect expresses mCherry-2A-PuroR under the senescence-activated miR-146a promoter, providing senescent cells a selective advantage over proliferating cells during puromycin treatment. We validated SenLect in primary and immortal cells undergoing replicative senescence or various modes of stress-induced senescence. Selected cells were enriched for cell-cycle arrest, increased cell size, and lysosomal β-galactosidase activity. Removing proliferating cells revealed proteome rewiring during senescence induced by cyclin-dependent kinase 4/6 inhibition, improving detection of senescence-associated secretory phenotype (SASP) signatures, metabolic shifts, and organelle remodeling. SenLect provides a reliable method for isolating senescent cells for downstream applications.",
+      "summaryZh": "细胞衰老是一种不可逆的细胞周期停滞状态，可以预防癌症，但会促进衰老和炎症。相互冲突的衰老分子谱可能是由邻近增殖细胞的污染引起的。在这里，我们开发了 SenLect（衰老选择），这是一种用于纯化培养物中衰老细胞的基因编码系统。 SenLect 在衰老激活的 miR-146a 启动子下表达 mCherry-2A-PuroR，在嘌呤霉素治疗期间为衰老细胞提供相对于增殖细胞的选择性优势。我们在经历复制性衰老或各种应激诱导衰老模式的原代细胞和永生细胞中验证了 SenLect。选定的细胞因细胞周期停滞、细胞大小增加和溶酶体 β-半乳糖苷酶活性而富集。去除增殖细胞揭示了细胞周期蛋白依赖性激酶 4/6 抑制诱导的衰老过程中蛋白质组的重新布线，改善了衰老相关分泌表型 (SASP) 特征、代谢变化和细胞器重塑的检测。 SenLect 提供了一种可靠的方法来分离下游应用的衰老细胞。",
+      "translationSource": "30f1337bf5daa7ce"
     },
     {
       "pmid": "42880255",
@@ -585,6 +776,27 @@
       "translationSource": "ab4b6902fd1afa92"
     },
     {
+      "pmid": "42907506",
+      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis.",
+      "titleZh": "寒冷会激活 BH2 代谢网络，从而促进长寿和蛋白质稳态。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41586-026-11152-9",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11152-9",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42907506/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
+      "abstractEn": "Moderately cold temperatures extend lifespan and promote health across species 1-3 , yet the molecular mechanisms underlying these benefits remain unclear. Here we define a metabolite-driven, multi-tissue signalling system that links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans. Cold temperature upregulates the biopterin-synthesis enzyme CAT-4 (GCH1 in humans), increasing production of dihydrobiopterin (BH2), a transportable reservoir for the bioactive cofactor tetrahydrobiopterin (BH4). BH2 is produced in muscle and transported to distal tissues, including the intestine and neurons, where it is converted into BH4 by the salvage enzyme DHFR-1. BH4 functions as an essential cofactor for phenylalanine hydroxylase PAH-1, promoting tyrosine synthesis and extending lifespan. This BH2-BH4 axis also prevents disease-related protein aggregation and subsequent neuronal dysfunction during ageing. Importantly, increasing BH2 synthesis specifically in muscle is sufficient to promote longevity and suppress pathological protein aggregation in distal tissues, even at normal or elevated temperatures. In human cells, BH2 or tyrosine supplementation reduces aggregation of polyQ-expanded proteins associated with Huntington's disease, as well as mutant variants of TDP-43 and FUS that cause amyotrophic lateral sclerosis. Together, these findings identify BH2 as a cold-induced metabolite of which the synthesis, intertissue transport and conversion into bioactive BH4 preserve organism-wide proteostasis and extend lifespan.",
+      "summaryZh": "适度寒冷的温度可延长物种的寿命并促进健康 1-3 ，但这些益处背后的分子机制仍不清楚。在这里，我们定义了一个代谢物驱动的多组织信号系统，该系统将低温与秀丽隐杆线虫的寿命延长和蛋白质稳态联系起来。寒冷的温度会上调生物蝶呤合成酶 CAT-4（人类的 GCH1），增加二氢生物蝶呤 (BH2) 的产量，二氢生物蝶呤 (BH2) 是生物活性辅因子四氢生物蝶呤 (BH4) 的可运输储存库。 BH2 在肌肉中产生并转运至远端组织，包括肠道和神经元，并在其中被补救酶 DHFR-1 转化为 BH4。 BH4 作为苯丙氨酸羟化酶 PAH-1 的重要辅助因子，促进酪氨酸合成并延长寿命。该 BH2-BH4 轴还可以防止衰老过程中与疾病相关的蛋白质聚集和随后的神经元功能障碍。重要的是，即使在正常或升高的温度下，特别是在肌肉中增加 BH2 合成也足以延长寿命并抑制远端组织中的病理性蛋白质聚集。在人类细胞中，补充 BH2 或酪氨酸可减少与亨廷顿病相关的 PolyQ 扩增蛋白的聚集，以及导致肌萎缩侧索硬化症的 TDP-43 和 FUS 突变体的聚集。总之，这些发现将 BH2 确定为一种冷诱导代谢物，其合成、组织间运输和转化为生物活性 BH4 可维持整个生物体的蛋白质稳态并延长寿命。",
+      "translationSource": "fb5815f70ad5a519"
+    },
+    {
       "pmid": "42816627",
       "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation.",
       "titleZh": "TBK1/ULK1 信号轴将溶酶体应激与 TFEB 激活结合起来。",
@@ -1033,27 +1245,6 @@
       "abstractEn": "Current vaccine adjuvants, such as aluminum salts and emulsions, are limited by weak induction of cytotoxic T cell immunity and restricted ability to promote T helper type 1 responses, highlighting the need for safer and more effective alternatives. Here we show that microparticles generated from erythrocytes by controlled ultraviolet irradiation function as potent T helper type 1-skewing adjuvants that enhance tumour antigen-specific cytotoxic T cell responses in vitro and in multiple mouse tumour models. Following uptake by dendritic cells, these microparticles traffic to lysosomes and deliver haem cargo that is subsequently transported to the nucleus. Mechanistically, the particles elevate lysosomal pH, promoting lysosome movement towards the nucleus and enabling haem transfer, where haem activates REV-ERB⍺ and forms a co-repressor complex that suppresses peroxisome proliferator-activated receptor gamma, thereby relieving inhibition of dendritic cell maturation and antigen presentation. In vaccination settings, combining tumour antigens with erythrocyte-derived microparticles enhances cytotoxic T cell activation and suppresses tumour growth with minimal toxicity. These findings establish host-derived vesicles as a promising platform for next-generation cancer vaccine adjuvants.",
       "summaryZh": "目前的疫苗佐剂，如铝盐和乳剂，受到细胞毒性 T 细胞免疫诱导能力弱和促进 1 型辅助 T 反应的能力有限的限制，这凸显了对更安全、更有效的替代品的需求。在这里，我们表明，通过受控紫外线照射由红细胞产生的微粒可作为有效的 1 型辅助性 T 佐剂，在体外和多种小鼠肿瘤模型中增强肿瘤抗原特异性细胞毒性 T 细胞反应。被树突状细胞摄取后，这些微粒运输至溶酶体并输送血红素货物，随后将其转运至细胞核。从机制上讲，这些颗粒提高了溶酶体的 pH 值，促进溶酶体向细胞核移动并实现血红素转移，其中血红素激活 REV-ERB⍺ 并形成抑制过氧化物酶体增殖物激活受体 γ 的共阻遏物复合物，从而缓解对树突状细胞成熟和抗原呈递的抑制。在疫苗接种环境中，将肿瘤抗原与红细胞衍生的微粒结合可以增强细胞毒性 T 细胞的激活并以最小的毒性抑制肿瘤生长。这些发现确立了宿主来源的囊泡作为下一代癌症疫苗佐剂的有前景的平台。",
       "translationSource": "f8e00f4841757b1f"
-    },
-    {
-      "pmid": "42907506",
-      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis.",
-      "titleZh": "寒冷会激活 BH2 代谢网络，从而促进长寿和蛋白质稳态。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-10-21",
-      "doi": "10.1038/s41586-026-11152-9",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-11152-9",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42907506/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteostasis。",
-      "abstractEn": "Moderately cold temperatures extend lifespan and promote health across species 1-3 , yet the molecular mechanisms underlying these benefits remain unclear. Here we define a metabolite-driven, multi-tissue signalling system that links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans. Cold temperature upregulates the biopterin-synthesis enzyme CAT-4 (GCH1 in humans), increasing production of dihydrobiopterin (BH2), a transportable reservoir for the bioactive cofactor tetrahydrobiopterin (BH4). BH2 is produced in muscle and transported to distal tissues, including the intestine and neurons, where it is converted into BH4 by the salvage enzyme DHFR-1. BH4 functions as an essential cofactor for phenylalanine hydroxylase PAH-1, promoting tyrosine synthesis and extending lifespan. This BH2-BH4 axis also prevents disease-related protein aggregation and subsequent neuronal dysfunction during ageing. Importantly, increasing BH2 synthesis specifically in muscle is sufficient to promote longevity and suppress pathological protein aggregation in distal tissues, even at normal or elevated temperatures. In human cells, BH2 or tyrosine supplementation reduces aggregation of polyQ-expanded proteins associated with Huntington's disease, as well as mutant variants of TDP-43 and FUS that cause amyotrophic lateral sclerosis. Together, these findings identify BH2 as a cold-induced metabolite of which the synthesis, intertissue transport and conversion into bioactive BH4 preserve organism-wide proteostasis and extend lifespan.",
-      "summaryZh": "适度寒冷的温度可延长物种的寿命并促进健康 1-3 ，但这些益处背后的分子机制仍不清楚。在这里，我们定义了一个代谢物驱动的多组织信号系统，该系统将低温与秀丽隐杆线虫的寿命延长和蛋白质稳态联系起来。寒冷的温度会上调生物蝶呤合成酶 CAT-4（人类的 GCH1），增加二氢生物蝶呤 (BH2) 的产量，二氢生物蝶呤 (BH2) 是生物活性辅因子四氢生物蝶呤 (BH4) 的可运输储存库。 BH2 在肌肉中产生并转运至远端组织，包括肠道和神经元，并在其中被补救酶 DHFR-1 转化为 BH4。 BH4 作为苯丙氨酸羟化酶 PAH-1 的重要辅助因子，促进酪氨酸合成并延长寿命。该 BH2-BH4 轴还可以防止衰老过程中与疾病相关的蛋白质聚集和随后的神经元功能障碍。重要的是，即使在正常或升高的温度下，特别是在肌肉中增加 BH2 合成也足以延长寿命并抑制远端组织中的病理性蛋白质聚集。在人类细胞中，补充 BH2 或酪氨酸可减少与亨廷顿病相关的 PolyQ 扩增蛋白的聚集，以及导致肌萎缩侧索硬化症的 TDP-43 和 FUS 突变体的聚集。总之，这些发现将 BH2 确定为一种冷诱导代谢物，其合成、组织间运输和转化为生物活性 BH4 可维持整个生物体的蛋白质稳态并延长寿命。",
-      "translationSource": "fb5815f70ad5a519"
     },
     {
       "pmid": "42716028",
