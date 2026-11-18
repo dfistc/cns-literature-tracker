@@ -144,6 +144,11 @@ def main() -> None:
             except Exception as error:
                 errors.append(f"{doi}: {error}")
                 print(f"[{original_index + 1}/{len(data['items'])}] {doi} failed: {error}", flush=True)
+                if "HTTP Error 429" in str(error):
+                    for outstanding in futures:
+                        outstanding.cancel()
+                    print("Translation service rate-limited; remaining records will be retried on the next run.", flush=True)
+                    break
                 continue
 
             data["items"][index]["titleZh"] = title_zh
@@ -157,7 +162,7 @@ def main() -> None:
     DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Translated {translated_count} records")
     if errors:
-        raise RuntimeError(f"{len(errors)} translations failed; first error: {errors[0]}")
+        print(f"::warning::Translation incomplete; pending records will be retried. First error: {errors[0]}")
 
 
 if __name__ == "__main__":

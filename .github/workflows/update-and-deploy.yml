@@ -51,7 +51,7 @@ jobs:
 
       - name: Translate new or changed records
         if: ${{ !inputs.deploy_only }}
-        run: python scripts/translate_literature.py --workers 4
+        run: python scripts/translate_literature.py --workers 1
 
       - name: Generate static website
         if: ${{ !inputs.deploy_only }}

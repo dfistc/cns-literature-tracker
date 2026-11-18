@@ -36,10 +36,6 @@ def main() -> None:
         pubmed_url = item.get("pubmedUrl", "")
         if urlparse(pubmed_url).netloc != "pubmed.ncbi.nlm.nih.gov":
             raise SystemExit(f"Invalid PubMed URL: {pubmed_url}")
-        if not item.get("titleZh"):
-            raise SystemExit(f"Missing Chinese title: {doi}")
-        if not item.get("summaryZh"):
-            raise SystemExit(f"Missing Chinese abstract: {doi}")
         if not item.get("matchedTerms") or "待人工复核" in item.get("categories", []):
             raise SystemExit(f"Missing explicit inclusion keyword: {doi}")
 
@@ -60,6 +56,9 @@ def main() -> None:
         raise SystemExit("Website record count does not match data/literature.json")
 
     print(f"Validated {len(items)} records")
+    pending = sum(not item.get("titleZh") or not item.get("summaryZh") for item in items)
+    if pending:
+        print(f"::warning::{pending} records have translations pending")
 
 
 if __name__ == "__main__":
