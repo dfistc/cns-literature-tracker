@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-11-18T14:55:07+00:00",
+  "updatedAt": "2026-11-19T04:40:47+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "43050535",
+      "title": "TRIM28-mediated SUMOylation of ERG at K389 conveys PARP inhibitor resistance by inhibiting 53BP1 expression in CRPC.",
+      "titleZh": "TRIM28 介导的 K389 处 ERG 的 SUMO 化通过抑制 CRPC 中的 53BP1 表达来传递 PARP 抑制剂耐药性。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1126/sciadv.aec9042",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec9042",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43050535/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "ubiquitin-proteasome"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, ubiquitin-proteasome。",
+      "abstractEn": "Both intrinsic and acquired resistance to poly (ADP-ribose) polymerase inhibitors (PARPis) have emerged as a formidable challenge in clinical practice. Here, we report that the transcription factor E-twenty-six (Ets)-related gene ( ERG ) was highly expressed in PARPi-resistant prostate cancer and was correlated with PARPi resistance in castration-resistant prostate cancer (CRPC) cells. ERG was posttranslationally modified by tripartite motif-containing 28 (TRIM28) as SUMOylation at lysine 389 (K389), which promotes DNA homologous recombination repair (HRR), thereby weakening the efficacy of PARPis. Mechanistically, the SUMOylation of ERG (K389) inhibited protein degradation mediated by the SPOP-mediated ubiquitin-proteasome pathway, thereby stabilizing the protein. Concurrently, this posttranslational modification increased HRR capacity by inhibiting 53BP1 expression, which in turn reduced PARPi sensitivity. Blockade of ERG K389 SUMOylation can effectively impair DNA repair efficacy and overcome PARPi resistance. These findings suggest that TRIM28-mediated ERG SUMOylation conveys resistance to PARPis by inhibiting 53BP1 expression; combined TRIM28/ERG targeting and PARPi therapy may improve outcomes for ERG-positive CRPC patients.",
+      "summaryZh": "对聚（ADP-核糖）聚合酶抑制剂（PARPis）的内在耐药性和获得性耐药性已成为临床实践中的巨大挑战。在这里，我们报道转录因子 E-26 (Ets) 相关基因 ( ERG ) 在 PARPi 耐药性前列腺癌中高表达，并且与去势抵抗性前列腺癌 (CRPC) 细胞中的 PARPi 耐药性相关。 ERG被含有三联基序的28（TRIM28）翻译后修饰为赖氨酸389（K389）处的SUMO化，促进DNA同源重组修复（HRR），从而削弱PARPis的功效。从机制上讲，ERG (K389) 的 SUMO 化抑制了 SPOP 介导的泛素蛋白酶体途径介导的蛋白质降解，从而稳定了蛋白质。同时，这种翻译后修饰通过抑制 53BP1 表达来增加 HRR 能力，从而降低 PARPi 敏感性。阻断 ERG K389 SUMOylation 可以有效削弱 DNA 修复功效并克服 PARPi 耐药性。这些发现表明 TRIM28 介导的 ERG SUMO 化通过抑制 53BP1 表达来传递对 PARPis 的抗性； TRIM28/ERG 靶向和 PARPi 联合治疗可能会改善 ERG 阳性 CRPC 患者的预后。",
+      "translationSource": "cb9afdcb29811d1f"
+    },
     {
       "pmid": "43043758",
       "title": "Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.",
@@ -4180,28 +4202,6 @@
       "translationSource": "be886f98784c1cea"
     },
     {
-      "pmid": "42664354",
-      "title": "Transglutaminase 2 regulates vimentin-dependent proteostasis during macrophage activation.",
-      "titleZh": "转谷氨酰胺酶 2 在巨噬细胞激活过程中调节波形蛋白依赖性蛋白质稳态。",
-      "journal": "Science Advances",
-      "year": 2026,
-      "published": "2026-08-28",
-      "doi": "10.1126/sciadv.aea7513",
-      "doiUrl": "https://doi.org/10.1126/sciadv.aea7513",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664354/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "proteasome",
-        "proteostasis"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, proteostasis。",
-      "abstractEn": "Sepsis-associated liver dysfunction is a life-threatening condition with a high mortality rate and no mechanism-based therapy. In this study, we identify the cross-linking enzyme transglutaminase 2 (TG2) as a driver of liver inflammation by activating macrophages in a mouse model of sepsis. Pharmacological inhibition of TG2 improves survival and reduces multiorgan inflammation, with the liver as a primary therapeutic target. Mechanistically, TG2 activity was up-regulated in macrophages, where it cross-linked vimentin to promote oligomerization and intermediate filament remodeling. Genetic ablation of TG2 or vimentin suppressed macrophage cytokine production and attenuated lipopolysaccharide-induced inflammation. Notably, vimentin-deficient macrophages exhibited enhanced proteasome recruitment to detergent-insoluble protein aggregates, accelerating the degradation of proinflammatory mediators such as Traf6, thereby dampening nuclear factor κB signaling. Proteomic profiling revealed a previously unrecognized Rab27a-positive vesicle trafficking pathway for inflammatory aggregate clearance. Together, these findings define a TG2-vimentin axis that controls macrophage activation through proteostasis regulation, linking cytoskeletal remodeling to inflammatory signaling.",
-      "summaryZh": "脓毒症相关的肝功能障碍是一种危及生命的疾病，死亡率高，并且没有基于机制的治疗。在这项研究中，我们通过激活脓毒症小鼠模型中的巨噬细胞，确定交联酶转谷氨酰胺酶 2 (TG2) 是肝脏炎症的驱动因素。 TG2 的药理学抑制可提高生存率并减少多器官炎症，其中肝脏是主要治疗靶点。从机制上讲，TG2 活性在巨噬细胞中上调，它与波形蛋白交联以促进寡聚化和中间丝重塑。 TG2 或波形蛋白的基因消除抑制了巨噬细胞细胞因子的产生并减轻了脂多糖诱导的炎症。值得注意的是，波形蛋白缺陷的巨噬细胞表现出增强的蛋白酶体募集到去污剂不溶性蛋白质聚集体的能力，加速促炎介质（如 Traf6）的降解，从而抑制核因子 κB 信号传导。蛋白质组学分析揭示了以前未被识别的用于炎症聚集物清除的 Rab27a 阳性囊泡运输途径。总之，这些发现定义了 TG2-波形蛋白轴，该轴通过蛋白质稳态调节控制巨噬细胞激活，将细胞骨架重塑与炎症信号传导联系起来。",
-      "translationSource": "1a96e80b8d82d84a"
-    },
-    {
       "pmid": "42664324",
       "title": "Progressive oxygenation of developing leaves directs morphogenesis.",
       "titleZh": "发育中的叶子的渐进氧化指导形态发生。",
@@ -4243,6 +4243,28 @@
       "abstractEn": "Triple-negative breast cancer (TNBC) is an aggressive subtype with a high propensity for bone metastasis and limited treatment options. Although many proteins drive metastasis, most remain inaccessible to conventional small-molecule drugs due to lack of suitable binding sites, prompting interest in upstream RNA regulators. Using integrative bioinformatics and machine learning, we identified hsa-microRNA-301a-3p as a central regulator of TNBC bone metastasis. However, current nucleic acid-based therapies are limited by instability and inefficient delivery. To overcome these challenges, we designed a ribonuclease-targeting chimera (RIBOTAC) that recruits endogenous RNase L to degrade the primary transcript pri-microRNA-301a. The resulting RIBOTAC efficiently reduced hsa-microRNA-301a-3p levels, restored NEDD4L expression, and promoted degradation of the oncogenic protein YAP, thereby suppressing TNBC bone metastasis. These findings identify hsa-microRNA-301a-3p as a key driver and demonstrate RNA-targeted degradation as a therapeutic strategy in TNBC bone metastasis.",
       "summaryZh": "三阴性乳腺癌（TNBC）是一种侵袭性亚型，骨转移倾向高，治疗选择有限。尽管许多蛋白质驱动转移，但由于缺乏合适的结合位点，大多数蛋白质仍然无法被传统小分子药物接近，这引发了人们对上游 RNA 调节剂的兴趣。利用综合生物信息学和机器学习，我们确定 hsa-microRNA-301a-3p 是 TNBC 骨转移的中心调节因子。然而，当前基于核酸的疗法受到不稳定和低效递送的限制。为了克服这些挑战，我们设计了一种核糖核酸酶靶向嵌合体 (RIBOTAC)，它招募内源性 RNase L 来降解初级转录本 pri-microRNA-301a。由此产生的 RIBOTAC 有效降低 hsa-microRNA-301a-3p 水平，恢复 NEDD4L 表达，并促进致癌蛋白 YAP 降解，从而抑制 TNBC 骨转移。这些发现将 hsa-microRNA-301a-3p 确定为关键驱动因素，并证明 RNA 靶向降解可作为 TNBC 骨转移的治疗策略。",
       "translationSource": "91cc5a19701d4f31"
+    },
+    {
+      "pmid": "42664354",
+      "title": "Transglutaminase 2 regulates vimentin-dependent proteostasis during macrophage activation.",
+      "titleZh": "转谷氨酰胺酶 2 在巨噬细胞激活过程中调节波形蛋白依赖性蛋白质稳态。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aea7513",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aea7513",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664354/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "proteasome",
+        "proteostasis"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：proteasome, proteostasis。",
+      "abstractEn": "Sepsis-associated liver dysfunction is a life-threatening condition with a high mortality rate and no mechanism-based therapy. In this study, we identify the cross-linking enzyme transglutaminase 2 (TG2) as a driver of liver inflammation by activating macrophages in a mouse model of sepsis. Pharmacological inhibition of TG2 improves survival and reduces multiorgan inflammation, with the liver as a primary therapeutic target. Mechanistically, TG2 activity was up-regulated in macrophages, where it cross-linked vimentin to promote oligomerization and intermediate filament remodeling. Genetic ablation of TG2 or vimentin suppressed macrophage cytokine production and attenuated lipopolysaccharide-induced inflammation. Notably, vimentin-deficient macrophages exhibited enhanced proteasome recruitment to detergent-insoluble protein aggregates, accelerating the degradation of proinflammatory mediators such as Traf6, thereby dampening nuclear factor κB signaling. Proteomic profiling revealed a previously unrecognized Rab27a-positive vesicle trafficking pathway for inflammatory aggregate clearance. Together, these findings define a TG2-vimentin axis that controls macrophage activation through proteostasis regulation, linking cytoskeletal remodeling to inflammatory signaling.",
+      "summaryZh": "脓毒症相关的肝功能障碍是一种危及生命的疾病，死亡率高，并且没有基于机制的治疗。在这项研究中，我们通过激活脓毒症小鼠模型中的巨噬细胞，确定交联酶转谷氨酰胺酶 2 (TG2) 是肝脏炎症的驱动因素。 TG2 的药理学抑制可提高生存率并减少多器官炎症，其中肝脏是主要治疗靶点。从机制上讲，TG2 活性在巨噬细胞中上调，它与波形蛋白交联以促进寡聚化和中间丝重塑。 TG2 或波形蛋白的基因消除抑制了巨噬细胞细胞因子的产生并减轻了脂多糖诱导的炎症。值得注意的是，波形蛋白缺陷的巨噬细胞表现出增强的蛋白酶体募集到去污剂不溶性蛋白质聚集体的能力，加速促炎介质（如 Traf6）的降解，从而抑制核因子 κB 信号传导。蛋白质组学分析揭示了以前未被识别的用于炎症聚集物清除的 Rab27a 阳性囊泡运输途径。总之，这些发现定义了 TG2-波形蛋白轴，该轴通过蛋白质稳态调节控制巨噬细胞激活，将细胞骨架重塑与炎症信号传导联系起来。",
+      "translationSource": "1a96e80b8d82d84a"
     },
     {
       "pmid": "42664344",
