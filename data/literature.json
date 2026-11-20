@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:40:47+00:00",
+  "updatedAt": "2026-11-20T04:31:49+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -24,6 +24,27 @@
       "abstractEn": "Both intrinsic and acquired resistance to poly (ADP-ribose) polymerase inhibitors (PARPis) have emerged as a formidable challenge in clinical practice. Here, we report that the transcription factor E-twenty-six (Ets)-related gene ( ERG ) was highly expressed in PARPi-resistant prostate cancer and was correlated with PARPi resistance in castration-resistant prostate cancer (CRPC) cells. ERG was posttranslationally modified by tripartite motif-containing 28 (TRIM28) as SUMOylation at lysine 389 (K389), which promotes DNA homologous recombination repair (HRR), thereby weakening the efficacy of PARPis. Mechanistically, the SUMOylation of ERG (K389) inhibited protein degradation mediated by the SPOP-mediated ubiquitin-proteasome pathway, thereby stabilizing the protein. Concurrently, this posttranslational modification increased HRR capacity by inhibiting 53BP1 expression, which in turn reduced PARPi sensitivity. Blockade of ERG K389 SUMOylation can effectively impair DNA repair efficacy and overcome PARPi resistance. These findings suggest that TRIM28-mediated ERG SUMOylation conveys resistance to PARPis by inhibiting 53BP1 expression; combined TRIM28/ERG targeting and PARPi therapy may improve outcomes for ERG-positive CRPC patients.",
       "summaryZh": "对聚（ADP-核糖）聚合酶抑制剂（PARPis）的内在耐药性和获得性耐药性已成为临床实践中的巨大挑战。在这里，我们报道转录因子 E-26 (Ets) 相关基因 ( ERG ) 在 PARPi 耐药性前列腺癌中高表达，并且与去势抵抗性前列腺癌 (CRPC) 细胞中的 PARPi 耐药性相关。 ERG被含有三联基序的28（TRIM28）翻译后修饰为赖氨酸389（K389）处的SUMO化，促进DNA同源重组修复（HRR），从而削弱PARPis的功效。从机制上讲，ERG (K389) 的 SUMO 化抑制了 SPOP 介导的泛素蛋白酶体途径介导的蛋白质降解，从而稳定了蛋白质。同时，这种翻译后修饰通过抑制 53BP1 表达来增加 HRR 能力，从而降低 PARPi 敏感性。阻断 ERG K389 SUMOylation 可以有效削弱 DNA 修复功效并克服 PARPi 耐药性。这些发现表明 TRIM28 介导的 ERG SUMO 化通过抑制 53BP1 表达来传递对 PARPis 的抗性； TRIM28/ERG 靶向和 PARPi 联合治疗可能会改善 ERG 阳性 CRPC 患者的预后。",
       "translationSource": "cb9afdcb29811d1f"
+    },
+    {
+      "pmid": "42685690",
+      "title": "Targeted O-GlcNAcylation enables functional rewiring of c-Myc.",
+      "titleZh": "靶向 O-GlcNAcylation 能够实现 c-Myc 的功能性重新布线。",
+      "journal": "Cell Chemical Biology",
+      "year": 2026,
+      "published": "2026-11-19",
+      "doi": "10.1016/j.chembiol.2026.08.008",
+      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.008",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42685690/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
+      "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
+      "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
+      "translationSource": "4434e4f437b40da3"
     },
     {
       "pmid": "43043758",
@@ -1097,6 +1118,27 @@
       "translationSource": "44bbbfab74681155"
     },
     {
+      "pmid": "42816619",
+      "title": "GPCR antagonism via rewiring of receptor trafficking and degradation.",
+      "titleZh": "通过受体运输和降解的重新布线发挥 GPCR 拮抗作用。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41586-026-11088-0",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11088-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816619/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "G-protein-coupled receptors (GPCRs) represent one of the most important yet incompletely addressed classes of therapeutic targets 1 . Here we report a strategy for functional GPCR antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation. GPCR-TfR1 targeting chimeras (GTACs) achieve potent and selective downregulation of multiple GPCRs, including BILF1, RXFP1 and CCR6-viral, cancer and immune targets that have been difficult to drug 2-4 . GTACs lead to complete inhibition of receptor signalling, including constitutive signalling, with more than one to two orders of magnitude greater potency than conventional antibody antagonists. Using protein engineering and multicolour live-cell imaging, we establish a context-dependent degrader design and explain the cellular mechanisms, with broad relevance for degrader technology. The GTAC platform establishes induced endocytosis and rewiring protein trafficking as a model for therapeutic GPCR modulation.",
+      "summaryZh": "G 蛋白偶联受体 (GPCR) 是最重要但尚未完全解决的治疗靶点之一 1 。在这里，我们报告了一种通过双特异性抗体介导的内吞作用和溶酶体降解来实现功能性 GPCR 拮抗的策略。 GPCR-TfR1 靶向嵌合体 (GTAC) 可实现多种 GPCR 的有效选择性下调，包括 BILF1、RXFP1 和 CCR6 病毒、癌症和免疫靶点，这些靶点一直难以药物治疗 2-4 。 GTAC 可完全抑制受体信号传导，包括组成型信号传导，其效力比传统抗体拮抗剂高一到两个数量级以上。利用蛋白质工程和多色活细胞成像，我们建立了上下文相关的降解剂设计并解释了细胞机制，与降解剂技术具有广泛的相关性。 GTAC 平台建立了诱导内吞作用和重新布线蛋白质运输作为治疗性 GPCR 调节的模型。",
+      "translationSource": "3daa0938a97c6713"
+    },
+    {
       "pmid": "42965863",
       "title": "Arbitrium crosstalk enables shared signaling among phages.",
       "titleZh": "任意串扰可以实现噬菌体之间的共享信号。",
@@ -1523,6 +1565,27 @@
       "abstractEn": "Current vaccine adjuvants, such as aluminum salts and emulsions, are limited by weak induction of cytotoxic T cell immunity and restricted ability to promote T helper type 1 responses, highlighting the need for safer and more effective alternatives. Here we show that microparticles generated from erythrocytes by controlled ultraviolet irradiation function as potent T helper type 1-skewing adjuvants that enhance tumour antigen-specific cytotoxic T cell responses in vitro and in multiple mouse tumour models. Following uptake by dendritic cells, these microparticles traffic to lysosomes and deliver haem cargo that is subsequently transported to the nucleus. Mechanistically, the particles elevate lysosomal pH, promoting lysosome movement towards the nucleus and enabling haem transfer, where haem activates REV-ERB⍺ and forms a co-repressor complex that suppresses peroxisome proliferator-activated receptor gamma, thereby relieving inhibition of dendritic cell maturation and antigen presentation. In vaccination settings, combining tumour antigens with erythrocyte-derived microparticles enhances cytotoxic T cell activation and suppresses tumour growth with minimal toxicity. These findings establish host-derived vesicles as a promising platform for next-generation cancer vaccine adjuvants.",
       "summaryZh": "目前的疫苗佐剂，如铝盐和乳剂，受到细胞毒性 T 细胞免疫诱导能力弱和促进 1 型辅助 T 反应的能力有限的限制，这凸显了对更安全、更有效的替代品的需求。在这里，我们表明，通过受控紫外线照射由红细胞产生的微粒可作为有效的 1 型辅助性 T 佐剂，在体外和多种小鼠肿瘤模型中增强肿瘤抗原特异性细胞毒性 T 细胞反应。被树突状细胞摄取后，这些微粒运输至溶酶体并输送血红素货物，随后将其转运至细胞核。从机制上讲，这些颗粒提高了溶酶体的 pH 值，促进溶酶体向细胞核移动并实现血红素转移，其中血红素激活 REV-ERB⍺ 并形成抑制过氧化物酶体增殖物激活受体 γ 的共阻遏物复合物，从而缓解对树突状细胞成熟和抗原呈递的抑制。在疫苗接种环境中，将肿瘤抗原与红细胞衍生的微粒结合可以增强细胞毒性 T 细胞的激活并以最小的毒性抑制肿瘤生长。这些发现确立了宿主来源的囊泡作为下一代癌症疫苗佐剂的有前景的平台。",
       "translationSource": "f8e00f4841757b1f"
+    },
+    {
+      "pmid": "43052329",
+      "title": "Chronic TFE3 activation in TFE3-associated neurodevelopmental disorder drives metabolic rigidity, lysosomal failure, and cell-extracellular matrix destabilization.",
+      "titleZh": "",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-21",
+      "doi": "10.1038/s41467-026-78845-7",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-78845-7",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43052329/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "The transcription factor TFE3 coordinates cellular adaptation to stress. While its acute activation is cytoprotective, chronic TFE3 dysregulation is linked to diverse pathologies. Here, we characterize the cellular landscape of TFE3-NDD, a recently described neurodevelopmental disorder caused by mutations that disrupt the TFE3-Rag GTPase interface, leading to constitutive TFE3 nuclear localization. Using patient-derived fibroblasts, we show that TFE3-NDD is primarily a metabolic and homeostatic disorder. Mutant cells undergo a profound rewiring toward oxidative phosphorylation (OXPHOS), resulting in metabolic rigidity and a vulnerability to energy failure. Despite a massive expansion of the lysosomal compartment, we observe a paradoxical qualitative failure characterized by impaired acidification, defective protease maturation, increased lysosomal exocytosis, and aberrant cathepsin K secretion. This secretory phenotype is coupled with a destabilized cell-extracellular matrix interface, marked by impaired migration, defective coordination between actomyosin tension and focal adhesion maturation, and a loss of synaptic stabilizers. Notably, TFE3-NDD shares a signature of high OXPHOS and ferroptosis resistance with TFE3-dependent cancers, such as translocation renal cell carcinoma. Our findings reveal how the chronic hyperactivation of a protective stress-response factor collapses cellular homeostasis, providing a mechanistic framework for the tissue malformations and neurodevelopmental deficits that define TFE3-NDD.",
+      "summaryZh": "",
+      "translationSource": "68f82635ac63caee"
     },
     {
       "pmid": "42716028",
@@ -2555,27 +2618,6 @@
       "abstractEn": "Mutations in the PRPF31 gene cause retinitis pigmentosa type 11 (RP11), a progressive blinding disease triggered by defects in the spliceosome, the cellular machinery responsible for RNA processing. Although gene replacement holds therapeutic promise, it remains unclear whether it can effectively rescue both primary target cell types across different disease stages. Here we show that viral-mediated delivery of PRPF31 to patient-derived retinal pigment epithelium (RPE) cells and 3D retinal organoids restores RNA splicing activity and reverses core cellular pathology. Gene delivery cleared toxic protein aggregates, restored essential RPE functions, including structural polarity, cilia integrity, and cellular waste clearance, and boosted light-evoked activity in photoreceptors. Notably, robust rescue was achievable even in mature cells, whereas combining gene therapy with autophagy-activating drugs offered no added benefit. These findings demonstrate that restoring splicing homeostasis alone drives functional recovery, supporting a broad clinical window for PRPF31 gene therapy in RP11.",
       "summaryZh": "PRPF31 基因突变会导致 11 型视网膜色素变性 (RP11)，这是一种由剪接体缺陷引发的进行性致盲疾病，剪接体是负责 RNA 加工的细胞机制。尽管基因替代具有治疗前景，但目前尚不清楚它是否可以有效地拯救不同疾病阶段的两种主要靶细胞类型。在这里，我们展示了病毒介导的 PRPF31 递送至患者来源的视网膜色素上皮 (RPE) 细胞和 3D 视网膜类器官，恢复了 RNA 剪接活性并逆转了核心细胞病理学。基因传递清除了有毒蛋白质聚集体，恢复了基本的 RPE 功能，包括结构极性、纤毛完整性和细胞废物清除，并增强了光感受器的光诱发活性。值得注意的是，即使在成熟细胞中也可以实现强有力的拯救，而将基因疗法与自噬激活药物相结合并没有带来额外的好处。这些发现表明，仅恢复剪接稳态即可促进功能恢复，为 RP11 中的 PRPF31 基因治疗提供广阔的临床窗口。",
       "translationSource": "24b1e03ea2b3c228"
-    },
-    {
-      "pmid": "42816619",
-      "title": "GPCR antagonism via rewiring of receptor trafficking and degradation.",
-      "titleZh": "通过受体运输和降解的重新布线发挥 GPCR 拮抗作用。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-09-30",
-      "doi": "10.1038/s41586-026-11088-0",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-11088-0",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816619/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
-      "abstractEn": "G-protein-coupled receptors (GPCRs) represent one of the most important yet incompletely addressed classes of therapeutic targets 1 . Here we report a strategy for functional GPCR antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation. GPCR-TfR1 targeting chimeras (GTACs) achieve potent and selective downregulation of multiple GPCRs, including BILF1, RXFP1 and CCR6-viral, cancer and immune targets that have been difficult to drug 2-4 . GTACs lead to complete inhibition of receptor signalling, including constitutive signalling, with more than one to two orders of magnitude greater potency than conventional antibody antagonists. Using protein engineering and multicolour live-cell imaging, we establish a context-dependent degrader design and explain the cellular mechanisms, with broad relevance for degrader technology. The GTAC platform establishes induced endocytosis and rewiring protein trafficking as a model for therapeutic GPCR modulation.",
-      "summaryZh": "G 蛋白偶联受体 (GPCR) 是最重要但尚未完全解决的治疗靶点之一 1 。在这里，我们报告了一种通过双特异性抗体介导的内吞作用和溶酶体降解来实现功能性 GPCR 拮抗的策略。 GPCR-TfR1 靶向嵌合体 (GTAC) 可实现多种 GPCR 的有效选择性下调，包括 BILF1、RXFP1 和 CCR6 病毒、癌症和免疫靶点，这些靶点一直难以药物治疗 2-4 。 GTAC 可完全抑制受体信号传导，包括组成型信号传导，其效力比传统抗体拮抗剂高一到两个数量级以上。利用蛋白质工程和多色活细胞成像，我们建立了上下文相关的降解剂设计并解释了细胞机制，与降解剂技术具有广泛的相关性。 GTAC 平台建立了诱导内吞作用和重新布线蛋白质运输作为治疗性 GPCR 调节的模型。",
-      "translationSource": "3daa0938a97c6713"
     },
     {
       "pmid": "42957684",
@@ -3699,27 +3741,6 @@
       "translationSource": "30d8d2e625181149"
     },
     {
-      "pmid": "42685690",
-      "title": "Targeted O-GlcNAcylation enables functional rewiring of c-Myc.",
-      "titleZh": "靶向 O-GlcNAcylation 能够实现 c-Myc 的功能性重新布线。",
-      "journal": "Cell Chemical Biology",
-      "year": 2026,
-      "published": "2026-09-02",
-      "doi": "10.1016/j.chembiol.2026.08.008",
-      "doiUrl": "https://doi.org/10.1016/j.chembiol.2026.08.008",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42685690/",
-      "categories": [
-        "靶向蛋白降解"
-      ],
-      "matchedTerms": [
-        "targeted protein degradation"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation。",
-      "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
-      "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
-      "translationSource": "4434e4f437b40da3"
-    },
-    {
       "pmid": "42624901",
       "title": "The hallmarks of skeletal muscle health.",
       "titleZh": "骨骼肌健康的标志。",
@@ -4179,29 +4200,6 @@
       "translationSource": "a470727fdee54b68"
     },
     {
-      "pmid": "42664358",
-      "title": "Sorting of lysosomal enzyme and autophagy are regulated by the GGA1-induced TGN lipid scrambling.",
-      "titleZh": "溶酶体酶的分选和自噬受 GGA1 诱导的 TGN 脂质扰乱的调节。",
-      "journal": "Science Advances",
-      "year": 2026,
-      "published": "2026-08-28",
-      "doi": "10.1126/sciadv.aec4519",
-      "doiUrl": "https://doi.org/10.1126/sciadv.aec4519",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664358/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosome",
-        "lysosomal",
-        "autophagy"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
-      "abstractEn": "The physiological role of lipid asymmetry in intracellular membranes remains poorly understood. Here, we show that sphingomyelin (SM), typically confined to the lumen of the trans-Golgi network (TGN), is exposed on its cytoplasmic surface by the action of the Golgi-associated protein, Golgi-associated gamma-adaptin ear-containing adenosine 5'-diphosphate-ribosylation factor-binding protein 1 (GGA1). This exposure is driven by the GGA1 GAT domain, which induces lipid scrambling in a manner dependent on membrane curvature and cholesterol. SM exposure coincides with the exit of mannose 6-phosphate receptors from the TGN, a process essential for lysosomal enzyme trafficking. Furthermore, SM is transferred to autophagic membranes, where it facilitates autophagosome-lysosome fusion. These findings reveal a previously unrecognized role for lipid remodeling in membrane trafficking and autophagy.",
-      "summaryZh": "细胞内膜脂质不对称的生理作用仍然知之甚少。在这里，我们发现，鞘磷脂（SM）通常局限于跨高尔基体网络（TGN）的管腔，通过高尔基体相关蛋白（高尔基体相关γ-适应素耳含腺苷5'-二磷酸核糖基化因子结合蛋白1（GGA1））的作用，暴露在其细胞质表面。这种暴露是由 GGA1 GAT 结构域驱动的，该结构域以依赖于膜曲率和胆固醇的方式诱导脂质扰乱。 SM 暴露与 6-磷酸甘露糖受体从 TGN 中退出同时发生，这是溶酶体酶运输所必需的过程。此外，SM 被转移到自噬膜，促进自噬体-溶酶体融合。这些发现揭示了脂质重塑在膜运输和自噬中的先前未被认识的作用。",
-      "translationSource": "be886f98784c1cea"
-    },
-    {
       "pmid": "42664324",
       "title": "Progressive oxygenation of developing leaves directs morphogenesis.",
       "titleZh": "发育中的叶子的渐进氧化指导形态发生。",
@@ -4243,6 +4241,29 @@
       "abstractEn": "Triple-negative breast cancer (TNBC) is an aggressive subtype with a high propensity for bone metastasis and limited treatment options. Although many proteins drive metastasis, most remain inaccessible to conventional small-molecule drugs due to lack of suitable binding sites, prompting interest in upstream RNA regulators. Using integrative bioinformatics and machine learning, we identified hsa-microRNA-301a-3p as a central regulator of TNBC bone metastasis. However, current nucleic acid-based therapies are limited by instability and inefficient delivery. To overcome these challenges, we designed a ribonuclease-targeting chimera (RIBOTAC) that recruits endogenous RNase L to degrade the primary transcript pri-microRNA-301a. The resulting RIBOTAC efficiently reduced hsa-microRNA-301a-3p levels, restored NEDD4L expression, and promoted degradation of the oncogenic protein YAP, thereby suppressing TNBC bone metastasis. These findings identify hsa-microRNA-301a-3p as a key driver and demonstrate RNA-targeted degradation as a therapeutic strategy in TNBC bone metastasis.",
       "summaryZh": "三阴性乳腺癌（TNBC）是一种侵袭性亚型，骨转移倾向高，治疗选择有限。尽管许多蛋白质驱动转移，但由于缺乏合适的结合位点，大多数蛋白质仍然无法被传统小分子药物接近，这引发了人们对上游 RNA 调节剂的兴趣。利用综合生物信息学和机器学习，我们确定 hsa-microRNA-301a-3p 是 TNBC 骨转移的中心调节因子。然而，当前基于核酸的疗法受到不稳定和低效递送的限制。为了克服这些挑战，我们设计了一种核糖核酸酶靶向嵌合体 (RIBOTAC)，它招募内源性 RNase L 来降解初级转录本 pri-microRNA-301a。由此产生的 RIBOTAC 有效降低 hsa-microRNA-301a-3p 水平，恢复 NEDD4L 表达，并促进致癌蛋白 YAP 降解，从而抑制 TNBC 骨转移。这些发现将 hsa-microRNA-301a-3p 确定为关键驱动因素，并证明 RNA 靶向降解可作为 TNBC 骨转移的治疗策略。",
       "translationSource": "91cc5a19701d4f31"
+    },
+    {
+      "pmid": "42664358",
+      "title": "Sorting of lysosomal enzyme and autophagy are regulated by the GGA1-induced TGN lipid scrambling.",
+      "titleZh": "溶酶体酶的分选和自噬受 GGA1 诱导的 TGN 脂质扰乱的调节。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-08-28",
+      "doi": "10.1126/sciadv.aec4519",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec4519",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664358/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, autophagy。",
+      "abstractEn": "The physiological role of lipid asymmetry in intracellular membranes remains poorly understood. Here, we show that sphingomyelin (SM), typically confined to the lumen of the trans-Golgi network (TGN), is exposed on its cytoplasmic surface by the action of the Golgi-associated protein, Golgi-associated gamma-adaptin ear-containing adenosine 5'-diphosphate-ribosylation factor-binding protein 1 (GGA1). This exposure is driven by the GGA1 GAT domain, which induces lipid scrambling in a manner dependent on membrane curvature and cholesterol. SM exposure coincides with the exit of mannose 6-phosphate receptors from the TGN, a process essential for lysosomal enzyme trafficking. Furthermore, SM is transferred to autophagic membranes, where it facilitates autophagosome-lysosome fusion. These findings reveal a previously unrecognized role for lipid remodeling in membrane trafficking and autophagy.",
+      "summaryZh": "细胞内膜脂质不对称的生理作用仍然知之甚少。在这里，我们发现，鞘磷脂（SM）通常局限于跨高尔基体网络（TGN）的管腔，通过高尔基体相关蛋白（高尔基体相关γ-适应素耳含腺苷5'-二磷酸核糖基化因子结合蛋白1（GGA1））的作用，暴露在其细胞质表面。这种暴露是由 GGA1 GAT 结构域驱动的，该结构域以依赖于膜曲率和胆固醇的方式诱导脂质扰乱。 SM 暴露与 6-磷酸甘露糖受体从 TGN 中退出同时发生，这是溶酶体酶运输所必需的过程。此外，SM 被转移到自噬膜，促进自噬体-溶酶体融合。这些发现揭示了脂质重塑在膜运输和自噬中的先前未被认识的作用。",
+      "translationSource": "be886f98784c1cea"
     },
     {
       "pmid": "42664354",
