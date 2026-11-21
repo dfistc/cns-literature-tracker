@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-11-20T04:31:49+00:00",
+  "updatedAt": "2026-11-21T04:26:05+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "43063282",
+      "title": "Mycobacterium tuberculosis CpsA interferes with the TBK1-p62 axis to inhibit xenophagy.",
+      "titleZh": "",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1126/sciadv.aei4136",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aei4136",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063282/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "autophagy"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
+      "abstractEn": "Mycobacterium tuberculosis (Mtb) survives in macrophages by interfering with host lysosomal trafficking. Previously, we demonstrated that the Mtb protein, CpsA, is critical for bacterial survival in macrophages and infection in mice and that it can inhibit a noncanonical autophagy pathway. We also found that CpsA can interact with NDP52 and TAX1BP1, selective autophagy receptors that recognize cytosolic bacteria and target them for degradation, raising the possibility that CpsA also disrupts canonical autophagy. Here, we show that CpsA binds NDP52 and TAX1BP1 in their SKICH domains, which normally recruit the autophagy initiation machinery and TBK1. We demonstrate that CpsA prevents phagosomal recruitment of FIP200, a component of the autophagy initiation machinery, and blocks TBK1-dependent phosphorylation of p62, leading to impaired xenophagy. Our findings provide mechanistic insight into how Mtb subverts host defenses, revealing that in addition to blocking noncanonical autophagy, CpsA inhibits the TBK1-p62 axis to block xenophagy.",
+      "summaryZh": "",
+      "translationSource": "9bb8e2f05ce8a717"
+    },
+    {
+      "pmid": "43063273",
+      "title": "Light-guided photophosphorylation nanorobot rescues injured cardiomyocytes via in situ bioenergetic restoration.",
+      "titleZh": "",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1126/sciadv.aej7353",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aej7353",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063273/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Myocardial injury is a leading cause of death worldwide and is accompanied by profound mitochondrial bioenergetic dysfunction in impaired cardiomyocytes. Restoring cellular bioenergetic homeostasis could be a promising strategy to promote cardiac repair; however, current clinical adenosine triphosphate (ATP) injection therapies yield limited efficacy due to the inability to achieve in situ, targeted delivery. Here, we develop a photoactivated phosphorylation nanorobot engineered to rescue impaired metabolism via targeted, in situ ATP synthesis within cardiomyocytes. These Janus photophosphorylation nanorobots are fabricated through mechanical extrusion-assisted phase separation, enabling the asymmetric integration of chromatophore-coupled F o F l -ATPases. Under structured near-infrared irradiation, the nanorobots exhibit synergistic F o F l -ATPase rotation, which simultaneously drives active propulsion and high-yield ATP catalysis. Following targeted internalization and efficient lysosomal escape, the nanorobots achieve deep penetration into injured myocardial tissue. Intracellularly, the localized elevation of ATP rebalances the NAD + /NADH ratio, suppresses pathological mitochondrial permeability transition pore (mPTP) opening, and mitigates calcium ion overload-collectively restoring mitochondrial integrity and promoting functional myocardial recovery. This self-propelled, bioenergy-restoring nanoplatform represents a rationally designed strategy for targeted therapy of energy-deficient cardiomyopathies.",
+      "summaryZh": "",
+      "translationSource": "6141d4507b197a23"
+    },
+    {
+      "pmid": "43063270",
+      "title": "Self-assembly of bacterial volumetric patterns directed by a synthetic reaction-diffusion circuit.",
+      "titleZh": "",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1126/sciadv.aec9323",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aec9323",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43063270/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic gene circuit",
+        "gene circuit"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic gene circuit, gene circuit。",
+      "abstractEn": "Reaction-diffusion (RD) has long been proposed as a mechanism underlying biological pattern formation. However, quantitative frameworks linking circuit design to spatial organization remain limited. Here, we engineered a synthetic gene circuit, MINPAC, that couples gene expression regulation (reaction) with bacterial colony expansion and quorum sensing (diffusion) to guide bacterial cells to self-organize into periodic volumetric patterns across multiple scales, from single cells to three-dimensional colonies. The patterns exhibit robustness against environmental variations and size-dependent complexity. Mathematical modeling supports a clock-and-wavefront mechanism, where oscillatory gene expression interacts with outward expanding diffusions to generate these periodic spatial structures. Topological analysis reveals that specific network architecture is essential for pattern formation. Guided by model predictions, we further show that pattern complexity can be systematically tuned by gene dosage, with lower expression levels favoring multiple rings through faster dynamics. This work establishes a framework uniting circuit engineering and mathematical analysis for programming multicellular self-organization through RD mechanisms, with potential applications in regenerative medicine and biomaterials.",
+      "summaryZh": "",
+      "translationSource": "a5a11848b9ad2ea1"
+    },
     {
       "pmid": "43050535",
       "title": "TRIM28-mediated SUMOylation of ERG at K389 conveys PARP inhibitor resistance by inhibiting 53BP1 expression in CRPC.",
@@ -26,6 +91,73 @@
       "translationSource": "cb9afdcb29811d1f"
     },
     {
+      "pmid": "43062995",
+      "title": "Modulating BCL11A levels and DNA binding to control fetal hemoglobin production in adult-like HUDEP-2 cells.",
+      "titleZh": "",
+      "journal": "Cell Reports",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1016/j.celrep.2026.118340",
+      "doiUrl": "https://doi.org/10.1016/j.celrep.2026.118340",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43062995/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "molecular glue degrader",
+        "molecular glue"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
+      "abstractEn": "BCL11A is a pleiotropic transcription factor required for neurodevelopment, hematopoiesis, and the fetal-to-adult hemoglobin switch. Its erythroid-specific activity is a major therapeutic target for sickle cell disease and β-thalassemia. We investigate BCL11A function and regulation through three complementary approaches. First, we show that BCL11A ZF2-3 and ZF4-6 zinc-finger arrays recognize related 6-bp TGnCCA motifs through distinct strand-specific interactions, supporting a model in which BCL11A oligomers engage multiple DNA motifs. Second, we demonstrate that small-molecule inhibitors targeting DNA methylation, H3K9 methylation, or H3K27 methylation increase fetal hemoglobin (HbF) expression in HUDEP-2 cells, with low-dose combinations producing synergistic effects. The H3K27 methylation inhibitor FTX6058 also reduces BCL11A expression, potentially through LIN28B activation. Third, screening 213 molecular glue degraders identifies compounds that promote degradation of the zinc-finger proteins IKZF1 and ZFP91 and induce HbF expression. Together, these findings define multiple regulatory mechanisms and complementary pharmacological strategies for HbF reactivation.",
+      "summaryZh": "",
+      "translationSource": "cd6261aa2d462c58"
+    },
+    {
+      "pmid": "43058249",
+      "title": "Programmable functional RNA design with a virtual scientist.",
+      "titleZh": "",
+      "journal": "Nature Biotechnology",
+      "year": 2026,
+      "published": "2026-11-19",
+      "doi": "10.1038/s41587-026-03362-3",
+      "doiUrl": "https://doi.org/10.1038/s41587-026-03362-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43058249/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Programmable functional RNA design is central to synthetic biology and therapeutics, yet both human expertise and existing computational methods struggle to directly program the three-dimensional structures that govern function. Here we introduce RhoAgent, an agentic system that designs RNA candidates and iteratively refines them using experimental feedback. RhoAgent uses RDiff, a diffusion-based generative tool conditioned on base interactions and functional motifs. First, we validate RhoAgent by generating diverse and active ribozymes with only 40-70% sequence similarity to their wild-type counterparts. Second, we enhance the cleavage efficiency of the structurally uncharacterized hovlinc ribozyme by up to sixfold relative to the human-expert-truncated construct. Furthermore, RhoAgent generates a fluorogenic aptamer scaffold that improves fluorescence by 230% relative to the wild-type aptamer. Finally, we design three-dimensional scaffolds that spatially position two distinct functional cores, creating aptamer-based Förster resonance energy transfer systems. This design overcomes a key barrier in compositional RNA design by preserving the binding activities of both components.",
+      "summaryZh": "",
+      "translationSource": "5824386b50fec087"
+    },
+    {
+      "pmid": "43057211",
+      "title": "Beneath the surface: Hidden degrons and untapped ligases for molecular glue degrader discovery.",
+      "titleZh": "",
+      "journal": "Molecular Cell",
+      "year": 2026,
+      "published": "2026-11-19",
+      "doi": "10.1016/j.molcel.2026.10.028",
+      "doiUrl": "https://doi.org/10.1016/j.molcel.2026.10.028",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43057211/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "targeted protein degradation",
+        "molecular glue degrader",
+        "molecular glue",
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue degrader, molecular glue, degron。",
+      "abstractEn": "For decades, many disease-associated proteins have been considered undruggable due to the absence of catalytic pockets or their dynamic, disordered structures. Targeted protein degradation (TPD) is reshaping this paradigm, enabling pharmacological control of such proteins. Among TPD strategies, molecular glue degraders (MGDs), small molecules that stabilize interactions between E3 ligases and non-native substrates, have emerged as powerful tools for selective protein elimination. While most MGDs have historically focused on cereblon (CRBN), recent discoveries of new effector ligases signal a major shift in the field. This review examines these advances, highlighting structural principles of ligase-substrate recognition and strategies for rational glue design. We envision a future where the full spectrum of E3 ligases serves as a platform for glue-based therapeutics, with multimeric Cullin-RING ligases (CRLs) offering modular blueprints for precision targeting. Finally, we outline frameworks linking MGD design to synthetic lethality and resistance mechanisms, providing a basis for next-generation TPD therapies.",
+      "summaryZh": "",
+      "translationSource": "a89013da9bb32ba0"
+    },
+    {
       "pmid": "42685690",
       "title": "Targeted O-GlcNAcylation enables functional rewiring of c-Myc.",
       "titleZh": "靶向 O-GlcNAcylation 能够实现 c-Myc 的功能性重新布线。",
@@ -45,6 +177,27 @@
       "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
       "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
       "translationSource": "4434e4f437b40da3"
+    },
+    {
+      "pmid": "43057230",
+      "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism.",
+      "titleZh": "",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-11-19",
+      "doi": "10.1016/j.cell.2026.07.057",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.07.057",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43057230/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genome writing"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
+      "abstractEn": "Human retrotransposon insertions are often associated with diseases. Regarding neurodegenerative X-linked dystonia-parkinsonism (XDP), a human-specific SINE-VNTR-Alu (SVA) subfamily F retrotransposon was inserted in intron 32 of the TAF1 gene. Here, we genomically rewrote a portion of the mouse Taf1 allele with the corresponding 78-kb XDP patient-derived TAF1 allele. In mouse embryonic stem cells (mESCs), the presence of the intronic SVA-rather than the hybrid gene structure-reduces hyTAF1 (hybrid TAF1 mRNA) levels. This leads to transcriptional downregulation of genes with TATA boxes enriched in their promoters and triggers apoptosis. Chromatin and transcriptome profiling revealed that intronic SVAs are actively transcribed, forming barriers that likely impede transcription elongation. In mice, neuronal-lineage TAF1 humanization resulted in lethality in male progeny within 2 months. XDP male mice developed severe atrophy centered on the striatum-the same brain region affected in XDP patients. Lastly, CRISPRa-mediated activation of hyTAF1 restored mESC viability, suggesting that boosting TAF1 transcription could be a therapeutic approach.",
+      "summaryZh": "",
+      "translationSource": "a79cb6dd13ca1981"
     },
     {
       "pmid": "43043758",
