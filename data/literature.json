@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-21T04:26:05+00:00",
+  "updatedAt": "2026-11-22T03:40:32+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
     {
       "pmid": "43063282",
       "title": "Mycobacterium tuberculosis CpsA interferes with the TBK1-p62 axis to inhibit xenophagy.",
-      "titleZh": "",
+      "titleZh": "结核分枝杆菌 CpsA 干扰 TBK1-p62 轴以抑制异体吞噬。",
       "journal": "Science Advances",
       "year": 2026,
       "published": "2026-11-20",
@@ -22,13 +22,13 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, autophagy。",
       "abstractEn": "Mycobacterium tuberculosis (Mtb) survives in macrophages by interfering with host lysosomal trafficking. Previously, we demonstrated that the Mtb protein, CpsA, is critical for bacterial survival in macrophages and infection in mice and that it can inhibit a noncanonical autophagy pathway. We also found that CpsA can interact with NDP52 and TAX1BP1, selective autophagy receptors that recognize cytosolic bacteria and target them for degradation, raising the possibility that CpsA also disrupts canonical autophagy. Here, we show that CpsA binds NDP52 and TAX1BP1 in their SKICH domains, which normally recruit the autophagy initiation machinery and TBK1. We demonstrate that CpsA prevents phagosomal recruitment of FIP200, a component of the autophagy initiation machinery, and blocks TBK1-dependent phosphorylation of p62, leading to impaired xenophagy. Our findings provide mechanistic insight into how Mtb subverts host defenses, revealing that in addition to blocking noncanonical autophagy, CpsA inhibits the TBK1-p62 axis to block xenophagy.",
-      "summaryZh": "",
+      "summaryZh": "结核分枝杆菌 (Mtb) 通过干扰宿主溶酶体运输在巨噬细胞中存活。此前，我们证明 Mtb 蛋白 CpsA 对于巨噬细胞中细菌的存活和小鼠感染至关重要，并且它可以抑制非典型自噬途径。我们还发现 CpsA 可以与 NDP52 和 TAX1BP1 相互作用，这两种选择性自噬受体识别胞质细菌并靶向它们进行降解，这增加了 CpsA 也破坏典型自噬的可能性。在这里，我们表明 CpsA 在其 SKICH 结构域中结合 NDP52 和 TAX1BP1，通常会招募自噬启动机制和 TBK1。我们证明，CpsA 可以阻止 FIP200（自噬启动机制的一个组成部分）在吞噬体中的募集，并阻断 TBK1 依赖性的 p62 磷酸化，从而导致异体吞噬受损。我们的研究结果提供了关于 Mtb 如何颠覆宿主防御的机制见解，表明除了阻断非典型自噬之外，CpsA 还可以抑制 TBK1-p62 轴以阻断异体自噬。",
       "translationSource": "9bb8e2f05ce8a717"
     },
     {
       "pmid": "43063273",
       "title": "Light-guided photophosphorylation nanorobot rescues injured cardiomyocytes via in situ bioenergetic restoration.",
-      "titleZh": "",
+      "titleZh": "光导光磷酸化纳米机器人通过原位生物能修复来拯救受损的心肌细胞。",
       "journal": "Science Advances",
       "year": 2026,
       "published": "2026-11-20",
@@ -43,13 +43,13 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
       "abstractEn": "Myocardial injury is a leading cause of death worldwide and is accompanied by profound mitochondrial bioenergetic dysfunction in impaired cardiomyocytes. Restoring cellular bioenergetic homeostasis could be a promising strategy to promote cardiac repair; however, current clinical adenosine triphosphate (ATP) injection therapies yield limited efficacy due to the inability to achieve in situ, targeted delivery. Here, we develop a photoactivated phosphorylation nanorobot engineered to rescue impaired metabolism via targeted, in situ ATP synthesis within cardiomyocytes. These Janus photophosphorylation nanorobots are fabricated through mechanical extrusion-assisted phase separation, enabling the asymmetric integration of chromatophore-coupled F o F l -ATPases. Under structured near-infrared irradiation, the nanorobots exhibit synergistic F o F l -ATPase rotation, which simultaneously drives active propulsion and high-yield ATP catalysis. Following targeted internalization and efficient lysosomal escape, the nanorobots achieve deep penetration into injured myocardial tissue. Intracellularly, the localized elevation of ATP rebalances the NAD + /NADH ratio, suppresses pathological mitochondrial permeability transition pore (mPTP) opening, and mitigates calcium ion overload-collectively restoring mitochondrial integrity and promoting functional myocardial recovery. This self-propelled, bioenergy-restoring nanoplatform represents a rationally designed strategy for targeted therapy of energy-deficient cardiomyopathies.",
-      "summaryZh": "",
+      "summaryZh": "心肌损伤是全世界死亡的主要原因，并伴有受损心肌细胞中严重的线粒体生物能功能障碍。恢复细胞生物能量稳态可能是促进心脏修复的一个有前途的策略；然而，目前的临床三磷酸腺苷（ATP）注射疗法由于无法实现原位靶向递送而疗效有限。在这里，我们开发了一种光激活磷酸化纳米机器人，旨在通过心肌细胞内有针对性的原位 ATP 合成来挽救受损的代谢。这些 Janus 光磷酸化纳米机器人是通过机械挤压辅助相分离制造的，能够实现染色质偶联的 F o F l -ATP 酶的不对称整合。在结构化近红外照射下，纳米机器人表现出协同的 F o F l -ATPase 旋转，同时驱动主动推进和高产 ATP 催化。在有针对性的内化和有效的溶酶体逃逸之后，纳米机器人可以深度渗透到受伤的心肌组织中。在细胞内，ATP 的局部升高可重新平衡 NAD + /NADH 比率，抑制病理性线粒体通透性转换孔 (mPTP) 打开，并减轻钙离子超载，从而共同恢复线粒体完整性并促进功能性心肌恢复。这种自驱动的生物能量恢复纳米平台代表了一种合理设计的能量缺乏型心肌病靶向治疗策略。",
       "translationSource": "6141d4507b197a23"
     },
     {
       "pmid": "43063270",
       "title": "Self-assembly of bacterial volumetric patterns directed by a synthetic reaction-diffusion circuit.",
-      "titleZh": "",
+      "titleZh": "由合成反应扩散回路引导的细菌体积模式的自组装。",
       "journal": "Science Advances",
       "year": 2026,
       "published": "2026-11-20",
@@ -65,7 +65,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic gene circuit, gene circuit。",
       "abstractEn": "Reaction-diffusion (RD) has long been proposed as a mechanism underlying biological pattern formation. However, quantitative frameworks linking circuit design to spatial organization remain limited. Here, we engineered a synthetic gene circuit, MINPAC, that couples gene expression regulation (reaction) with bacterial colony expansion and quorum sensing (diffusion) to guide bacterial cells to self-organize into periodic volumetric patterns across multiple scales, from single cells to three-dimensional colonies. The patterns exhibit robustness against environmental variations and size-dependent complexity. Mathematical modeling supports a clock-and-wavefront mechanism, where oscillatory gene expression interacts with outward expanding diffusions to generate these periodic spatial structures. Topological analysis reveals that specific network architecture is essential for pattern formation. Guided by model predictions, we further show that pattern complexity can be systematically tuned by gene dosage, with lower expression levels favoring multiple rings through faster dynamics. This work establishes a framework uniting circuit engineering and mathematical analysis for programming multicellular self-organization through RD mechanisms, with potential applications in regenerative medicine and biomaterials.",
-      "summaryZh": "",
+      "summaryZh": "反应扩散（RD）长期以来一直被认为是生物模式形成的潜在机制。然而，将电路设计与空间组织联系起来的定量框架仍然有限。在这里，我们设计了一个合成基因电路 MINPAC，它将基因表达调控（反应）与细菌菌落扩张和群体感应（扩散）结合起来，引导细菌细胞自组织成跨多个尺度的周期性体积模式，从单细胞到三维菌落。这些模式对环境变化和尺寸相关的复杂性表现出鲁棒性。数学模型支持时钟和波前机制，其中振荡基因表达与向外扩展的扩散相互作用，生成这些周期性空间结构。拓扑分析表明，特定的网络架构对于模式的形成至关重要。在模型预测的指导下，我们进一步表明，模式复杂性可以通过基因剂量进行系统地调整，较低的表达水平通过更快的动态有利于多个环。这项工作建立了一个结合电路工程和数学分析的框架，通过 RD 机制对多细胞自组织进行编程，在再生医学和生物材料方面具有潜在的应用。",
       "translationSource": "a5a11848b9ad2ea1"
     },
     {
@@ -91,9 +91,32 @@
       "translationSource": "cb9afdcb29811d1f"
     },
     {
+      "pmid": "43064811",
+      "title": "Endolysosomal damage promotes intraluminal protein condensate formation that limits cytosolic leakage.",
+      "titleZh": "内溶酶体损伤促进管腔内蛋白质冷凝物的形成，从而限制细胞溶质渗漏。",
+      "journal": "Nature Cell Biology",
+      "year": 2026,
+      "published": "2026-11-20",
+      "doi": "10.1038/s41556-026-02119-z",
+      "doiUrl": "https://doi.org/10.1038/s41556-026-02119-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43064811/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosome",
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosome, lysosomal, endolysosomal。",
+      "abstractEn": "Endolysosomal membrane damage is a detrimental process in mammalian cells that results in leakage of the luminal contents into the cytosol. However, the nature and extent of the leakage during membrane damage are unknown. Here we show that endomembrane damage induces the rapid formation of intraluminal condensates in endolysosomes. A subset of resident luminal proteins undergoes spatially coordinated condensation on endomembrane damage. Electron microscopy reveals distinct luminal morphology, and cryo-electron tomography confirms the compact ultrastructure in their native state. Condensate formation occurs across mechanistically distinct modes of membrane injury, and the condensates are reversibly dissociated on lysosomal recovery. Remarkably, these condensates impose a barrier to endolysosomal escape of therapeutic oligonucleotides. Despite endomembrane damage, luminal oligonucleotide therapeutics are sequestered in damaged endolysosomes through condensate-mediated biophysical immobilization. Targeting condensate sequestration could represent a strategy to improve oligonucleotide-based therapeutics.",
+      "summaryZh": "内溶酶体膜损伤是哺乳动物细胞中的一个有害过程，导致管腔内容物渗漏到细胞质中。然而，膜损坏期间泄漏的性质和程度尚不清楚。在这里，我们发现内膜损伤诱导内溶酶体中管腔内冷凝物的快速形成。常驻管腔蛋白的一个子集在内膜损伤时经历空间协调的凝结。电子显微镜揭示了独特的管腔形态，冷冻电子断层扫描证实了其自然状态下的致密超微结构。冷凝物的形成发生在机械上不同的膜损伤模式中，并且冷凝物在溶酶体恢复时可逆地解离。值得注意的是，这些缩合物对治疗性寡核苷酸的内溶酶体逃逸施加了屏障。尽管存在内膜损伤，但管腔寡核苷酸治疗剂通过冷凝物介导的生物物理固定被隔离在受损的内溶酶体中。以冷凝物封存为目标可能代表一种改进基于寡核苷酸的治疗方法的策略。",
+      "translationSource": "a5e2bbc02db09660"
+    },
+    {
       "pmid": "43062995",
       "title": "Modulating BCL11A levels and DNA binding to control fetal hemoglobin production in adult-like HUDEP-2 cells.",
-      "titleZh": "",
+      "titleZh": "调节 BCL11A 水平和 DNA 结合以控制成人样 HUDEP-2 细胞中胎儿血红蛋白的产生。",
       "journal": "Cell Reports",
       "year": 2026,
       "published": "2026-11-20",
@@ -109,13 +132,13 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：molecular glue degrader, molecular glue。",
       "abstractEn": "BCL11A is a pleiotropic transcription factor required for neurodevelopment, hematopoiesis, and the fetal-to-adult hemoglobin switch. Its erythroid-specific activity is a major therapeutic target for sickle cell disease and β-thalassemia. We investigate BCL11A function and regulation through three complementary approaches. First, we show that BCL11A ZF2-3 and ZF4-6 zinc-finger arrays recognize related 6-bp TGnCCA motifs through distinct strand-specific interactions, supporting a model in which BCL11A oligomers engage multiple DNA motifs. Second, we demonstrate that small-molecule inhibitors targeting DNA methylation, H3K9 methylation, or H3K27 methylation increase fetal hemoglobin (HbF) expression in HUDEP-2 cells, with low-dose combinations producing synergistic effects. The H3K27 methylation inhibitor FTX6058 also reduces BCL11A expression, potentially through LIN28B activation. Third, screening 213 molecular glue degraders identifies compounds that promote degradation of the zinc-finger proteins IKZF1 and ZFP91 and induce HbF expression. Together, these findings define multiple regulatory mechanisms and complementary pharmacological strategies for HbF reactivation.",
-      "summaryZh": "",
+      "summaryZh": "BCL11A 是神经发育、造血和胎儿到成人血红蛋白转换所需的多效性转录因子。其红细胞特异性活性是镰状细胞病和β地中海贫血的主要治疗靶点。我们通过三种互补的方法研究 BCL11A 的功能和调节。首先，我们证明 BCL11A ZF2-3 和 ZF4-6 锌指阵列通过不同的链特异性相互作用识别相关的 6 bp TGnCCA 基序，支持 BCL11A 寡聚物接合多个 DNA 基序的模型。其次，我们证明针对 DNA 甲基化、H3K9 甲基化或 H3K27 甲基化的小分子抑制剂可增加 HUDEP-2 细胞中胎儿血红蛋白 (HbF) 的表达，低剂量组合可产生协同效应。 H3K27 甲基化抑制剂 FTX6058 还可能通过 LIN28B 激活降低 BCL11A 表达。第三，筛选 213 种分子胶降解剂，鉴定出促进锌指蛋白 IKZF1 和 ZFP91 降解并诱导 HbF 表达的化合物。这些发现共同定义了 HbF 重新激活的多种调节机制和补充药理学策略。",
       "translationSource": "cd6261aa2d462c58"
     },
     {
       "pmid": "43058249",
       "title": "Programmable functional RNA design with a virtual scientist.",
-      "titleZh": "",
+      "titleZh": "与虚拟科学家一起进行可编程功能 RNA 设计。",
       "journal": "Nature Biotechnology",
       "year": 2026,
       "published": "2026-11-19",
@@ -130,13 +153,13 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
       "abstractEn": "Programmable functional RNA design is central to synthetic biology and therapeutics, yet both human expertise and existing computational methods struggle to directly program the three-dimensional structures that govern function. Here we introduce RhoAgent, an agentic system that designs RNA candidates and iteratively refines them using experimental feedback. RhoAgent uses RDiff, a diffusion-based generative tool conditioned on base interactions and functional motifs. First, we validate RhoAgent by generating diverse and active ribozymes with only 40-70% sequence similarity to their wild-type counterparts. Second, we enhance the cleavage efficiency of the structurally uncharacterized hovlinc ribozyme by up to sixfold relative to the human-expert-truncated construct. Furthermore, RhoAgent generates a fluorogenic aptamer scaffold that improves fluorescence by 230% relative to the wild-type aptamer. Finally, we design three-dimensional scaffolds that spatially position two distinct functional cores, creating aptamer-based Förster resonance energy transfer systems. This design overcomes a key barrier in compositional RNA design by preserving the binding activities of both components.",
-      "summaryZh": "",
+      "summaryZh": "可编程功能 RNA 设计是合成生物学和治疗学的核心，但人类专业知识和现有计算方法都难以直接对控制功能的三维结构进行编程。在这里，我们介绍 RhoAgent，这是一种代理系统，可以设计 RNA 候选物并使用实验反馈迭代地完善它们。 RhoAgent 使用 RDiff，这是一种基于扩散的生成工具，以基础相互作用和功能基序为条件。首先，我们通过生成与野生型对应物仅具有 40-70% 序列相似性的多样化活性核酶来验证 RhoAgent。其次，我们将结构上未表征的 hovlinc 核酶的切割效率相对于人类专家截短的构建体提高了六倍。此外，RhoAgent 生成荧光适体支架，相对于野生型适体，荧光提高了 230%。最后，我们设计了三维支架，在空间上定位两个不同的功能核心，创建基于适体的福斯特共振能量转移系统。该设计通过保留两种成分的结合活性，克服了组合 RNA 设计中的一个关键障碍。",
       "translationSource": "5824386b50fec087"
     },
     {
       "pmid": "43057211",
       "title": "Beneath the surface: Hidden degrons and untapped ligases for molecular glue degrader discovery.",
-      "titleZh": "",
+      "titleZh": "表面之下：隐藏的降解决定子和未开发的连接酶用于发现分子胶降解剂。",
       "journal": "Molecular Cell",
       "year": 2026,
       "published": "2026-11-19",
@@ -154,7 +177,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：targeted protein degradation, molecular glue degrader, molecular glue, degron。",
       "abstractEn": "For decades, many disease-associated proteins have been considered undruggable due to the absence of catalytic pockets or their dynamic, disordered structures. Targeted protein degradation (TPD) is reshaping this paradigm, enabling pharmacological control of such proteins. Among TPD strategies, molecular glue degraders (MGDs), small molecules that stabilize interactions between E3 ligases and non-native substrates, have emerged as powerful tools for selective protein elimination. While most MGDs have historically focused on cereblon (CRBN), recent discoveries of new effector ligases signal a major shift in the field. This review examines these advances, highlighting structural principles of ligase-substrate recognition and strategies for rational glue design. We envision a future where the full spectrum of E3 ligases serves as a platform for glue-based therapeutics, with multimeric Cullin-RING ligases (CRLs) offering modular blueprints for precision targeting. Finally, we outline frameworks linking MGD design to synthetic lethality and resistance mechanisms, providing a basis for next-generation TPD therapies.",
-      "summaryZh": "",
+      "summaryZh": "几十年来，许多与疾病相关的蛋白质由于缺乏催化口袋或其动态的无序结构而被认为是不可成药的。靶向蛋白质降解（TPD）正在重塑这一范式，从而实现对此类蛋白质的药理学控制。在 TPD 策略中，分子胶降解剂 (MGD) 是稳定 E3 连接酶和非天然底物之间相互作用的小分子，已成为选择性蛋白质消除的强大工具。虽然大多数 MGD 历史上都专注于 cereblon (CRBN)，但最近新效应连接酶的发现标志着该领域的重大转变。这篇综述研究了这些进展，强调了连接酶底物识别的结构原理和合理的胶水设计策略。我们设想未来全系列 E3 连接酶将作为基于胶水的疗法的平台，其中多聚体 Cullin-RING 连接酶 (CRL) 将为精确靶向提供模块化蓝图。最后，我们概述了将 MGD 设计与合成致死率和耐药机制联系起来的框架，为下一代 TPD 疗法提供了基础。",
       "translationSource": "a89013da9bb32ba0"
     },
     {
@@ -181,7 +204,7 @@
     {
       "pmid": "43057230",
       "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism.",
-      "titleZh": "",
+      "titleZh": "基因组写作揭示了 X 连锁肌张力障碍帕金森病中 SVA 逆转录转座子的后果。",
       "journal": "Cell",
       "year": 2026,
       "published": "2026-11-19",
@@ -196,7 +219,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
       "abstractEn": "Human retrotransposon insertions are often associated with diseases. Regarding neurodegenerative X-linked dystonia-parkinsonism (XDP), a human-specific SINE-VNTR-Alu (SVA) subfamily F retrotransposon was inserted in intron 32 of the TAF1 gene. Here, we genomically rewrote a portion of the mouse Taf1 allele with the corresponding 78-kb XDP patient-derived TAF1 allele. In mouse embryonic stem cells (mESCs), the presence of the intronic SVA-rather than the hybrid gene structure-reduces hyTAF1 (hybrid TAF1 mRNA) levels. This leads to transcriptional downregulation of genes with TATA boxes enriched in their promoters and triggers apoptosis. Chromatin and transcriptome profiling revealed that intronic SVAs are actively transcribed, forming barriers that likely impede transcription elongation. In mice, neuronal-lineage TAF1 humanization resulted in lethality in male progeny within 2 months. XDP male mice developed severe atrophy centered on the striatum-the same brain region affected in XDP patients. Lastly, CRISPRa-mediated activation of hyTAF1 restored mESC viability, suggesting that boosting TAF1 transcription could be a therapeutic approach.",
-      "summaryZh": "",
+      "summaryZh": "人类逆转录转座子插入通常与疾病相关。关于神经退行性 X 连锁肌张力障碍帕金森症 (XDP)，人类特异性 SINE-VNTR-Alu (SVA) 亚家族 F 逆转录转座子被插入到 TAF1 基因的内含子 32 中。在这里，我们用相应的 78-kb XDP 患者来源的 TAF1 等位基因在基因组上重写了小鼠 Taf1 等位基因的一部分。在小鼠胚胎干细胞 (mESC) 中，内含子 SVA（而不是杂合基因结构）的存在降低了 hyTAF1（杂合 TAF1 mRNA）水平。这会导致启动子中富含 TATA 盒的基因转录下调，并引发细胞凋亡。染色质和转录组分析表明，内含子 SVA 转录活跃，形成可能阻碍转录延伸的障碍。在小鼠中，神经元谱系 TAF1 人源化导致雄性后代在 2 个月内死亡。 XDP 雄性小鼠出现以纹状体为中心的严重萎缩，这与 XDP 患者受影响的大脑区域相同。最后，CRISPRa 介导的 hyTAF1 激活恢复了 mESC 的活力，表明增强 TAF1 转录可能是一种治疗方法。",
       "translationSource": "a79cb6dd13ca1981"
     },
     {
@@ -1722,7 +1745,7 @@
     {
       "pmid": "43052329",
       "title": "Chronic TFE3 activation in TFE3-associated neurodevelopmental disorder drives metabolic rigidity, lysosomal failure, and cell-extracellular matrix destabilization.",
-      "titleZh": "",
+      "titleZh": "TFE3 相关神经发育障碍中的慢性 TFE3 激活会导致代谢僵化、溶酶体衰竭和细胞-细胞外基质不稳定。",
       "journal": "Nature Communications",
       "year": 2026,
       "published": "2026-10-21",
@@ -1737,7 +1760,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
       "abstractEn": "The transcription factor TFE3 coordinates cellular adaptation to stress. While its acute activation is cytoprotective, chronic TFE3 dysregulation is linked to diverse pathologies. Here, we characterize the cellular landscape of TFE3-NDD, a recently described neurodevelopmental disorder caused by mutations that disrupt the TFE3-Rag GTPase interface, leading to constitutive TFE3 nuclear localization. Using patient-derived fibroblasts, we show that TFE3-NDD is primarily a metabolic and homeostatic disorder. Mutant cells undergo a profound rewiring toward oxidative phosphorylation (OXPHOS), resulting in metabolic rigidity and a vulnerability to energy failure. Despite a massive expansion of the lysosomal compartment, we observe a paradoxical qualitative failure characterized by impaired acidification, defective protease maturation, increased lysosomal exocytosis, and aberrant cathepsin K secretion. This secretory phenotype is coupled with a destabilized cell-extracellular matrix interface, marked by impaired migration, defective coordination between actomyosin tension and focal adhesion maturation, and a loss of synaptic stabilizers. Notably, TFE3-NDD shares a signature of high OXPHOS and ferroptosis resistance with TFE3-dependent cancers, such as translocation renal cell carcinoma. Our findings reveal how the chronic hyperactivation of a protective stress-response factor collapses cellular homeostasis, providing a mechanistic framework for the tissue malformations and neurodevelopmental deficits that define TFE3-NDD.",
-      "summaryZh": "",
+      "summaryZh": "转录因子 TFE3 协调细胞对压力的适应。虽然其急性激活具有细胞保护作用，但慢性 TFE3 失调与多种病理有关。在这里，我们描述了 TFE3-NDD 的细胞景观，这是一种最近描述的神经发育障碍，由破坏 TFE3-Rag GTPase 界面的突变引起，导致组成型 TFE3 核定位。使用患者来源的成纤维细胞，我们发现 TFE3-NDD 主要是一种代谢和稳态紊乱。突变细胞经历了一次深刻的氧化磷酸化（OXPHOS）重组，导致代谢僵化和能量衰竭的脆弱性。尽管溶酶体区室大量扩张，但我们观察到矛盾的定性失败，其特征是酸化受损、蛋白酶成熟缺陷、溶酶体胞吐作用增加和组织蛋白酶 K 分泌异常。这种分泌表型与不稳定的细胞-细胞外基质界面相结合，其特点是迁移受损、肌动球蛋白张力和粘着斑成熟之间的协调缺陷以及突触稳定剂的丧失。值得注意的是，TFE3-NDD 与 TFE3 依赖性癌症（例如易位肾细胞癌）具有高 OXPHOS 和铁死亡抗性的特征。我们的研究结果揭示了保护性应激反应因子的慢性过度激活如何破坏细胞稳态，为定义 TFE3-NDD 的组织畸形和神经发育缺陷提供了机制框架。",
       "translationSource": "68f82635ac63caee"
     },
     {
