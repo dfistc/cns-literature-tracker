@@ -1,8 +1,73 @@
 {
-  "updatedAt": "2026-11-25T05:47:33+00:00",
+  "updatedAt": "2026-11-26T05:38:55+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
+    {
+      "pmid": "43084693",
+      "title": "A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics.",
+      "titleZh": "",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-27",
+      "doi": "10.1126/sciadv.aej1558",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aej1558",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43084693/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "gene circuit",
+        "cell-free system",
+        "programmable cell"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：gene circuit, cell-free system, programmable cell。",
+      "abstractEn": "Cell-free systems provide a versatile platform for engineering customizable, gene circuit-based biosensors for decentralized, low-cost molecular diagnostics. Nevertheless, their performance in complex samples is often compromised by matrix interference, necessitating laborious preprocessing that restricts field deployment. Here, we developed a programmable, on-demand, cell-free kit (POCKit) that integrates sample pretreatment with point-of-care detection. The POCKit device comprises a negative pressure storage chamber and a sampling-sensing chamber, which can be connected to a microneedle array or pipette module for sample collection, filtration and target detection via a freeze-dried cell-free molecular reaction network. The POCKit enables detection of Pseudomonas aeruginosa infection in wound exudates, interstitial fluids and artificial sputum within one hour. It also detects tetracycline in food and environmental water, distinguishing tetracycline-spiked samples from negative controls without specialized equipment or tedious preparation. A portable fluorescence imaging box and smartphone application further support real-time signal acquisition and analysis, offering a ready-to-use platform for on-site diagnostics across biomedicine, food safety, and environmental monitoring.",
+      "summaryZh": "",
+      "translationSource": "47ecc763f5480346"
+    },
+    {
+      "pmid": "43057230",
+      "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism.",
+      "titleZh": "基因组写作揭示了 X 连锁肌张力障碍帕金森病中 SVA 逆转录转座子的后果。",
+      "journal": "Cell",
+      "year": 2026,
+      "published": "2026-11-25",
+      "doi": "10.1016/j.cell.2026.07.057",
+      "doiUrl": "https://doi.org/10.1016/j.cell.2026.07.057",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43057230/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "genome writing"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
+      "abstractEn": "Human retrotransposon insertions are often associated with diseases. Regarding neurodegenerative X-linked dystonia-parkinsonism (XDP), a human-specific SINE-VNTR-Alu (SVA) subfamily F retrotransposon was inserted in intron 32 of the TAF1 gene. Here, we genomically rewrote a portion of the mouse Taf1 allele with the corresponding 78-kb XDP patient-derived TAF1 allele. In mouse embryonic stem cells (mESCs), the presence of the intronic SVA-rather than the hybrid gene structure-reduces hyTAF1 (hybrid TAF1 mRNA) levels. This leads to transcriptional downregulation of genes with TATA boxes enriched in their promoters and triggers apoptosis. Chromatin and transcriptome profiling revealed that intronic SVAs are actively transcribed, forming barriers that likely impede transcription elongation. In mice, neuronal-lineage TAF1 humanization resulted in lethality in male progeny within 2 months. XDP male mice developed severe atrophy centered on the striatum-the same brain region affected in XDP patients. Lastly, CRISPRa-mediated activation of hyTAF1 restored mESC viability, suggesting that boosting TAF1 transcription could be a therapeutic approach.",
+      "summaryZh": "人类逆转录转座子插入通常与疾病相关。关于神经退行性 X 连锁肌张力障碍帕金森症 (XDP)，人类特异性 SINE-VNTR-Alu (SVA) 亚家族 F 逆转录转座子被插入到 TAF1 基因的内含子 32 中。在这里，我们用相应的 78-kb XDP 患者来源的 TAF1 等位基因在基因组上重写了小鼠 Taf1 等位基因的一部分。在小鼠胚胎干细胞 (mESC) 中，内含子 SVA（而不是杂合基因结构）的存在降低了 hyTAF1（杂合 TAF1 mRNA）水平。这会导致启动子中富含 TATA 盒的基因转录下调，并引发细胞凋亡。染色质和转录组分析表明，内含子 SVA 转录活跃，形成可能阻碍转录延伸的障碍。在小鼠中，神经元谱系 TAF1 人源化导致雄性后代在 2 个月内死亡。 XDP 雄性小鼠出现以纹状体为中心的严重萎缩，这与 XDP 患者受影响的大脑区域相同。最后，CRISPRa 介导的 hyTAF1 激活恢复了 mESC 的活力，表明增强 TAF1 转录可能是一种治疗方法。",
+      "translationSource": "a79cb6dd13ca1981"
+    },
+    {
+      "pmid": "43078854",
+      "title": "Bidirectional control of a metabolic transition by the GID ubiquitin ligase.",
+      "titleZh": "",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-24",
+      "doi": "10.1038/s41467-026-79519-0",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-79519-0",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43078854/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "The GID/CTLH ubiquitin ligase is a multisubunit E3 conserved across eukaryotes. GID/CTLH has been implicated in a variety of processes, including metabolic regulation, cell proliferation, embryonic development and cell differentiation. However, our understanding of substrate recognition by GID/CTLH remains incomplete. Here, we characterize the regulation, specificity and functions of the putative substrate receptor Gid11 in budding yeast. We find that upon its expression during the switch of carbon source from glucose to ethanol, Gid11 associates with the core GID complex, likely assembling into a ring-like complex. Through systematic mutagenesis, we identify a negatively charged pocket on Gid11 that binds substrates carrying N-terminal degrons starting with threonine and define the Thr/N-degron motif. Such Thr/N-degrons are exposed upon co-translational removal of the initiator methionine, while escaping N-terminal acetylation. Finally, we show that during the glucose-to-ethanol transition, GID Gid11 targets for degradation factors linked to ribosomal biogenesis, amino acid, nucleotide and central carbon metabolism, opposing the established role of GID during the reverse transition from ethanol to glucose. Taken together, our results establish Gid11 as a bona fide GID substrate receptor and highlight GID as a regulator of metabolic transitions.",
+      "summaryZh": "",
+      "translationSource": "3d20e75f300c8fec"
+    },
     {
       "pmid": "43063282",
       "title": "Mycobacterium tuberculosis CpsA interferes with the TBK1-p62 axis to inhibit xenophagy.",
@@ -200,27 +265,6 @@
       "abstractEn": "Chemically induced proximity has transformed targeted protein degradation but has been applied far less extensively to directly reprogram protein function through post-translational modification (PTM). Here, we develop an O-GlcNAcylation-targeting Chimera (OGTAC) that recruits O-GlcNAc transferase (OGT) to the oncogenic transcription factor c-Myc, enabling targeted O-GlcNAcylation in living cells without globally perturbing cellular O-GlcNAcylation. OGTAC suppresses HeLa cell proliferation, rewires c-Myc genomic occupancy, and reprograms expression of the downstream oncogene MALAT1 in an O-GlcNAcylation-dependent manner. By selectively modulating the regulatory state of c-Myc rather than its abundance, OGTAC establishes targeted O-GlcNAcylation as a chemically induced proximity strategy for functional rewiring of transcription factors. More broadly, this work expands proximity-induced protein regulation beyond degradation to programmable PTM.",
       "summaryZh": "化学诱导的接近已经改变了目标蛋白质的降解，但在通过翻译后修饰 (PTM) 直接重新编程蛋白质功能方面的应用要广泛得多。在这里，我们开发了一种 O-GlcNAcNAc 靶向嵌合体 (OGTAC)，它将 O-GlcNAc 转移酶 (OGT) 募集到致癌转录因子 c-Myc，从而实现活细胞中的靶向 O-GlcNAc 化，而不会全局干扰细胞 O-GlcNAc 化。 OGTAC 抑制 HeLa 细胞增殖，重新连接 c-Myc 基因组占据，并以 O-GlcNAcNAc 依赖的方式重新编程下游癌基因 MALAT1 的表达。通过选择性地调节 c-Myc 的调节状态而不是其丰度，OGTAC 建立了靶向 O-GlcNAcylation 作为转录因子功能性重连的化学诱导邻近策略。更广泛地说，这项工作将邻近诱导的蛋白质调节从降解扩展到可编程 PTM。",
       "translationSource": "4434e4f437b40da3"
-    },
-    {
-      "pmid": "43057230",
-      "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism.",
-      "titleZh": "基因组写作揭示了 X 连锁肌张力障碍帕金森病中 SVA 逆转录转座子的后果。",
-      "journal": "Cell",
-      "year": 2026,
-      "published": "2026-11-19",
-      "doi": "10.1016/j.cell.2026.07.057",
-      "doiUrl": "https://doi.org/10.1016/j.cell.2026.07.057",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43057230/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "genome writing"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：genome writing。",
-      "abstractEn": "Human retrotransposon insertions are often associated with diseases. Regarding neurodegenerative X-linked dystonia-parkinsonism (XDP), a human-specific SINE-VNTR-Alu (SVA) subfamily F retrotransposon was inserted in intron 32 of the TAF1 gene. Here, we genomically rewrote a portion of the mouse Taf1 allele with the corresponding 78-kb XDP patient-derived TAF1 allele. In mouse embryonic stem cells (mESCs), the presence of the intronic SVA-rather than the hybrid gene structure-reduces hyTAF1 (hybrid TAF1 mRNA) levels. This leads to transcriptional downregulation of genes with TATA boxes enriched in their promoters and triggers apoptosis. Chromatin and transcriptome profiling revealed that intronic SVAs are actively transcribed, forming barriers that likely impede transcription elongation. In mice, neuronal-lineage TAF1 humanization resulted in lethality in male progeny within 2 months. XDP male mice developed severe atrophy centered on the striatum-the same brain region affected in XDP patients. Lastly, CRISPRa-mediated activation of hyTAF1 restored mESC viability, suggesting that boosting TAF1 transcription could be a therapeutic approach.",
-      "summaryZh": "人类逆转录转座子插入通常与疾病相关。关于神经退行性 X 连锁肌张力障碍帕金森症 (XDP)，人类特异性 SINE-VNTR-Alu (SVA) 亚家族 F 逆转录转座子被插入到 TAF1 基因的内含子 32 中。在这里，我们用相应的 78-kb XDP 患者来源的 TAF1 等位基因在基因组上重写了小鼠 Taf1 等位基因的一部分。在小鼠胚胎干细胞 (mESC) 中，内含子 SVA（而不是杂合基因结构）的存在降低了 hyTAF1（杂合 TAF1 mRNA）水平。这会导致启动子中富含 TATA 盒的基因转录下调，并引发细胞凋亡。染色质和转录组分析表明，内含子 SVA 转录活跃，形成可能阻碍转录延伸的障碍。在小鼠中，神经元谱系 TAF1 人源化导致雄性后代在 2 个月内死亡。 XDP 雄性小鼠出现以纹状体为中心的严重萎缩，这与 XDP 患者受影响的大脑区域相同。最后，CRISPRa 介导的 hyTAF1 激活恢复了 mESC 的活力，表明增强 TAF1 转录可能是一种治疗方法。",
-      "translationSource": "a79cb6dd13ca1981"
     },
     {
       "pmid": "43043758",
@@ -884,6 +928,27 @@
       "abstractEn": "The chaperonin T-complex protein ring complex (TRiC) is an essential protein-folding machine in eukaryotic cells. Although its cytosolic role in folding newly synthesized proteins is well established, nuclear TRiC remains less well described. Here, we combined cryo-electron tomography (cryo-ET), cross-linking and affinity purification mass spectrometry with AlphaFold3 (AF3)-based structural modeling to examine nuclear TRiC in human cells. We detected intermediates of the TRiC duty cycle in the nucleus and identified several nuclear proteins that bind to TRiC. The respective AF3 models suggest interaction surfaces at the inside of the TRiC chamber. Our findings point toward compartment-specific roles of TRiC and a potential function in maintaining nuclear proteostasis. By data-mining very large datasets, our study establishes that rather low-abundant events can be analyzed by cryo-ET. It thus paves the way toward broader applications.",
       "summaryZh": "伴侣蛋白 T 复合物蛋白环复合物 (TRiC) 是真核细胞中重要的蛋白质折叠机器。尽管其在折叠新合成蛋白质中的胞质作用已得到充分证实，但核 TRiC 的描述仍较少。在这里，我们将冷冻电子断层扫描 (cryo-ET)、交联和亲和纯化质谱与基于 AlphaFold3 (AF3) 的结构模型相结合，以检查人类细胞中的核 TRiC。我们检测了细胞核中 TRiC 工作循环的中间体，并鉴定了几种与 TRiC 结合的核蛋白。各自的 AF3 模型表明了 TRiC 室内部的相互作用表面。我们的研究结果指出了 TRiC 的区室特异性作用以及维持核蛋白质稳态的潜在功能。通过对非常大的数据集进行数据挖掘，我们的研究表明，可以通过冷冻电子断层扫描来分析相当低丰度的事件。因此，它为更广泛的应用铺平了道路。",
       "translationSource": "e6d2aa5f3b282451"
+    },
+    {
+      "pmid": "43078838",
+      "title": "Pathology-adapted peptide-oligonucleotide nanohybrid mitigates glucocorticoid-induced bone loss.",
+      "titleZh": "",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-11-05",
+      "doi": "10.1038/s41467-026-79320-z",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-79320-z",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43078838/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Glucocorticoid-induced bone loss (GIBL) remains a major clinical challenge, manifested by both systemic osteopenia and osteonecrosis of the femoral head under chronic glucocorticoid exposure, yet current therapies are limited in coordinately addressing bone deterioration and vascular impairment. With advances in precision medicine, oligonucleotide therapeutics offer opportunities for pathophysiology-informed intervention. Here, we report a pathology-adapted peptide-oligonucleotide nanohybrid (PON) developed for targeted miR-26a-5p delivery to glucocorticoid-injured bone. By integrating self-assembly, bone targeting, enzyme responsiveness, cell penetration, and lysosomal escape, PONs were designed to incorporate pathology-responsive delivery features and address key barriers to oligonucleotide delivery. Mechanistically, PON-mediated miR-26a-5p delivery reduced GSK-3β expression and promoted HIF-1α stabilization, thereby preserving osteogenesis-angiogenesis coupling and attenuating apoptosis. In a rat model of GIBL, systemic PON administration protects against early skeletal and vascular injury and limits progression after disease establishment. These findings identify the therapeutic relevance of miR-26a-5p in GIBL, and support the potential of PON system for bone-targeted oligonucleotide therapy.",
+      "summaryZh": "",
+      "translationSource": "aa6150f0657713f3"
     },
     {
       "pmid": "42933405",
@@ -3980,28 +4045,6 @@
       "translationSource": "548891f28d5e372d"
     },
     {
-      "pmid": "41942734",
-      "title": "Munc13-4-STX7 inhibitors impair endosomal TLR activation and systemic inflammation.",
-      "titleZh": "Munc13-4-STX7 抑制剂会损害内体 TLR 激活和全身炎症。",
-      "journal": "Nature Chemical Biology",
-      "year": 2026,
-      "published": "2026-09-01",
-      "doi": "10.1038/s41589-026-02181-6",
-      "doiUrl": "https://doi.org/10.1038/s41589-026-02181-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942734/",
-      "categories": [
-        "溶酶体/蛋白酶体"
-      ],
-      "matchedTerms": [
-        "lysosomal",
-        "endolysosomal"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
-      "abstractEn": "Endosomal function is essential for pattern recognition receptor signaling, through endosomal Toll-like receptor (TLR) sensing of nonself RNA and DNA. The specific interaction of the calcium sensor Munc13-4 with syntaxin 7 (STX7) regulates endosomal flux and Munc13-4 depletion decreases the systemic inflammatory response to unmethylated DNA. Using high-throughput screening and orthogonal cell-based validation, we identified small-molecule inhibitors of the Munc13-4-STX7 interaction, ENDOtollins (ENDOs). ENDOs inhibit extracellular signal-regulated kinase signaling in neutrophils and interferon (IFN) regulatory factor signaling in plasmacytoid dendritic cells (DCs) in response to endosomal TLR ligands but not to plasma membrane agonists, highlighting specificity for the endocytic pathway. Mechanistically, ENDOs inhibit endolysosomal flux and decrease endolysosomal cargo degradation. Chemical optimization identified ENDO12 as the most potent inhibitor. ENDO12 inhibited primary DC responses to TLR3, TLR7 and TLR9 and reduced CpG-induced systemic inflammation, manifested as decreased levels of the proinflammatory mediators myeloperoxidase, interleukin 6 and IFNγ. Our findings have significant implications for immunodeficiency, inflammation and innate immunity.",
-      "summaryZh": "通过内体 Toll 样受体 (TLR) 感知非自身 RNA 和 DNA，内体功能对于模式识别受体信号转导至关重要。钙传感器 Munc13-4 与突触蛋白 7 (STX7) 的特异性相互作用可调节内体通量，而 Munc13-4 的消耗会降低对非甲基化 DNA 的全身炎症反应。通过高通量筛选和正交细胞验证，我们鉴定了 Munc13-4-STX7 相互作用的小分子抑制剂 ENDOtollins (ENDO)。 ENDO 响应内体 TLR 配体，但不响应质膜激动剂，抑制中性粒细胞中的细胞外信号调节激酶信号传导和浆细胞样树突状细胞 (DC) 中的干扰素 (IFN) 调节因子信号传导，突出了内吞途径的特异性。从机制上讲，ENDO 抑制内溶酶体通量并减少内溶酶体货物降解。化学优化确定 ENDO12 是最有效的抑制剂。 ENDO12 抑制原发性 DC 对 TLR3、TLR7 和 TLR9 的反应，并减少 CpG 诱导的全身炎症，表现为促炎介质髓过氧化物酶、白细胞介素 6 和 IFNγ 水平降低。我们的研究结果对免疫缺陷、炎症和先天免疫具有重要意义。",
-      "translationSource": "1458f2ff2f499c85"
-    },
-    {
       "pmid": "41942733",
       "title": "Charged molecular glue discovery enabled by targeted degron display.",
       "titleZh": "通过靶向降解决定子显示实现带电分子胶的发现。",
@@ -4088,6 +4131,28 @@
       "abstractEn": "Molecules that facilitate protein-protein interactions are immensely impactful. However, such compounds typically rely on accessory proteins to function, such as E3 ligases for targeted degradation, which may restrict their scope or lead to resistance. We alleviate the need for accessory proteins with a strategy that exploits protein symmetry as a selective vulnerability and is widely applicable because of the ubiquitous nature of homomeric proteins. We target homomeric proteins with PINCHs (polymerization-inducing chimeras)-bifunctional molecules composed of two linked ligands that bridge homomers and trigger their supramolecular assembly into insoluble polymers. We design PINCHs that achieve efficient polymerization of four targets. In cells, we observed that a PINCH targeting Keap1 exhibited a longer duration of action and a PINCH targeting BCL6 displayed selective lowering of B cell viability compared to their monomeric parents. Our results highlight PINCHs as a novel and general strategy to modulate and knock out protein function.",
       "summaryZh": "促进蛋白质-蛋白质相互作用的分子具有巨大的影响力。然而，此类化合物通常依赖辅助蛋白发挥作用，例如用于靶向降解的 E3 连接酶，这可能会限制其范围或导致耐药性。我们通过利用蛋白质对称性作为选择性脆弱性的策略来减少对辅助蛋白质的需求，并且由于同聚蛋白质的普遍存在性而被广泛应用。我们用 PINCH（聚合诱导嵌合体）双功能分子来靶向同聚蛋白，该双功能分子由两个连接的配体组成，可桥接同聚体并触发其超分子组装成不溶性聚合物。我们设计的 PINCH 可以实现四个目标的有效聚合。在细胞中，我们观察到，与单体亲本相比，靶向 Keap1 的 PINCH 表现出更长的作用持续时间，而靶向 BCL6 的 PINCH 显示选择性降低 B 细胞活力。我们的结果强调了 PINCH 是一种调节和敲除蛋白质功能的新颖且通用的策略。",
       "translationSource": "c00716701c21bc02"
+    },
+    {
+      "pmid": "41942734",
+      "title": "Munc13-4-STX7 inhibitors impair endosomal TLR activation and systemic inflammation.",
+      "titleZh": "Munc13-4-STX7 抑制剂会损害内体 TLR 激活和全身炎症。",
+      "journal": "Nature Chemical Biology",
+      "year": 2026,
+      "published": "2026-09-01",
+      "doi": "10.1038/s41589-026-02181-6",
+      "doiUrl": "https://doi.org/10.1038/s41589-026-02181-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41942734/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal",
+        "endolysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal, endolysosomal。",
+      "abstractEn": "Endosomal function is essential for pattern recognition receptor signaling, through endosomal Toll-like receptor (TLR) sensing of nonself RNA and DNA. The specific interaction of the calcium sensor Munc13-4 with syntaxin 7 (STX7) regulates endosomal flux and Munc13-4 depletion decreases the systemic inflammatory response to unmethylated DNA. Using high-throughput screening and orthogonal cell-based validation, we identified small-molecule inhibitors of the Munc13-4-STX7 interaction, ENDOtollins (ENDOs). ENDOs inhibit extracellular signal-regulated kinase signaling in neutrophils and interferon (IFN) regulatory factor signaling in plasmacytoid dendritic cells (DCs) in response to endosomal TLR ligands but not to plasma membrane agonists, highlighting specificity for the endocytic pathway. Mechanistically, ENDOs inhibit endolysosomal flux and decrease endolysosomal cargo degradation. Chemical optimization identified ENDO12 as the most potent inhibitor. ENDO12 inhibited primary DC responses to TLR3, TLR7 and TLR9 and reduced CpG-induced systemic inflammation, manifested as decreased levels of the proinflammatory mediators myeloperoxidase, interleukin 6 and IFNγ. Our findings have significant implications for immunodeficiency, inflammation and innate immunity.",
+      "summaryZh": "通过内体 Toll 样受体 (TLR) 感知非自身 RNA 和 DNA，内体功能对于模式识别受体信号转导至关重要。钙传感器 Munc13-4 与突触蛋白 7 (STX7) 的特异性相互作用可调节内体通量，而 Munc13-4 的消耗会降低对非甲基化 DNA 的全身炎症反应。通过高通量筛选和正交细胞验证，我们鉴定了 Munc13-4-STX7 相互作用的小分子抑制剂 ENDOtollins (ENDO)。 ENDO 响应内体 TLR 配体，但不响应质膜激动剂，抑制中性粒细胞中的细胞外信号调节激酶信号传导和浆细胞样树突状细胞 (DC) 中的干扰素 (IFN) 调节因子信号传导，突出了内吞途径的特异性。从机制上讲，ENDO 抑制内溶酶体通量并减少内溶酶体货物降解。化学优化确定 ENDO12 是最有效的抑制剂。 ENDO12 抑制原发性 DC 对 TLR3、TLR7 和 TLR9 的反应，并减少 CpG 诱导的全身炎症，表现为促炎介质髓过氧化物酶、白细胞介素 6 和 IFNγ 水平降低。我们的研究结果对免疫缺陷、炎症和先天免疫具有重要意义。",
+      "translationSource": "1458f2ff2f499c85"
     },
     {
       "pmid": "41513854",
