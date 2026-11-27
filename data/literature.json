@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:38:55+00:00",
+  "updatedAt": "2026-11-27T05:31:39+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
@@ -1101,27 +1101,6 @@
       "translationSource": "d7a12c32bf257f09"
     },
     {
-      "pmid": "42983087",
-      "title": "An AI-native experimental laboratory for autonomous biomolecular operations.",
-      "titleZh": "用于自主生物分子操作的人工智能原生实验实验室。",
-      "journal": "Nature",
-      "year": 2026,
-      "published": "2026-11-04",
-      "doi": "10.1038/s41586-026-11228-6",
-      "doiUrl": "https://doi.org/10.1038/s41586-026-11228-6",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42983087/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "synthetic biology"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
-      "abstractEn": "Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging 1-4 , especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an 'add-on' architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, such as reagent and labware replenishment. Across four representative applications, AutoDNA matched expert-optimized enzymatic DNA synthesis yields, accelerated concurrent protocol execution by 3.2-fold, completed an end-to-end DNA data storage cycle with exact recovery of the original digital content, and identified and validated a clinically detected KRAS G13D mutation. AutoDNA establishes a blueprint towards science-as-a-service, accelerating biological discovery and advancing various applications in synthetic biology and information storage.",
-      "summaryZh": "开发人工智能（AI）原生实验实验室，以最少的人为干预进行自主科学探索是一个长期目标。尽管自主实验系统正在兴起 1-4 ，特别是在化学和材料科学领域，但它们仍然主要局限于具有单一目标、明确定义的工作流程和简单仪器的领域。这种限制可能反映了一种“附加”架构，该架构使用人工智能作为特定于任务的工具，而不是为其提供对实验的全局理解，尤其是在面向工程的情况下。在这里，我们介绍 AutoDNA，这是一个人工智能原生自主生物分子工程实验室，旨在跨不同仪器进行多目标实验。通过模型、实验和仪器的协同设计，AutoDNA在端到端多用户框架内实现了人工智能和自动化系统的共同进化。该系统自主协调20多种类型的仪器，跨越11,000多个步骤来执行核心核酸操作，包括合成、转录、扩增和测序，而人工干预仅限于硬件维护任务，例如试剂和实验室器具补充。在四个代表性应用中，AutoDNA 匹配了专家优化的酶 DNA 合成产量，将并发协议执行速度加快了 3.2 倍，完成了端到端 DNA 数据存储周期，准确恢复了原始数字内容，并识别和验证了临床检测到的 KRAS G13D 突变。 AutoDNA 制定了科学即服务的蓝图，加速生物发现并推进合成生物学和信息存储方面的各种应用。",
-      "translationSource": "e57695ec8c30ae86"
-    },
-    {
       "pmid": "42977750",
       "title": "Ca 2+ signature gates responsiveness to exogenous auxin in Arabidopsis roots.",
       "titleZh": "Ca 2+ 特征门控拟南芥根部对外源生长素的反应。",
@@ -1314,6 +1293,27 @@
       "abstractEn": "Senescent cell accumulation contributes to aging, and their clearance represents an effective anti-aging strategy. Current senolytic strategies focus on drug-mediated senescent cell clearance, but it is unknown whether a hypobaric condition can induce senescent cell death. Here we show that hypobaric pressure (HP) at -375 mmHg without hypoxia induces cells to undergo lysosome-dependent cell death (LDCD). Mechanistically, we unveil that HP activates transmembrane protein 59 (TMEM59) to induce cellular Ca 2+ influx, which triggers calpain 2 to cleave lysosomal associated membrane protein 2 (LAMP2), leading to lysosomal membrane permeabilization and subsequent LDCD. Furthermore, given that senescent cells contain elevated numbers of lysosomes, we report intermittent HP treatment to specifically induce senescent cells to undergo LDCD and reduce the senescence-associated secretory phenotype. Eventually, we report that intermittent HP treatment can substantially extend the lifespan and rescue the osteoporosis phenotype in aged mice. This study reveals a previously unknown role of HP as a natural senolytic to eliminate senescent cells, and identifies TMEM59 as a new HP-activated ion channel protein.",
       "summaryZh": "衰老细胞的积累会导致衰老，清除它们是一种有效的抗衰老策略。目前的衰老策略侧重于药物介导的衰老细胞清除，但尚不清楚低压条件是否会诱导衰老细胞死亡。在这里，我们表明，在不缺氧的情况下，-375 mmHg 的低压（HP）会诱导细胞经历溶酶体依赖性细胞死亡（LDCD）。从机制上讲，我们揭示了 HP 激活跨膜蛋白 59 (TMEM59) 诱导细胞 Ca 2+ 内流，从而触发钙蛋白酶 2 裂解溶酶体相关膜蛋白 2 (LAMP2)，导致溶酶体膜透化和随后的 LDCD。此外，鉴于衰老细胞含有大量的溶酶体，我们报告间歇性 HP 治疗可特异性诱导衰老细胞经历 LDCD 并减少衰老相关的分泌表型。最终，我们报告间歇性 HP 治疗可以显着延长老年小鼠的寿命并挽救骨质疏松表型。这项研究揭示了 HP 作为天然抗衰老剂消除衰老细胞的先前未知的作用，并将 TMEM59 鉴定为一种新的 HP 激活离子通道蛋白。",
       "translationSource": "bd2109086802909b"
+    },
+    {
+      "pmid": "42983087",
+      "title": "An AI-native experimental laboratory for autonomous biomolecular operations.",
+      "titleZh": "用于自主生物分子操作的人工智能原生实验实验室。",
+      "journal": "Nature",
+      "year": 2026,
+      "published": "2026-11-01",
+      "doi": "10.1038/s41586-026-11228-6",
+      "doiUrl": "https://doi.org/10.1038/s41586-026-11228-6",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42983087/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "synthetic biology"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：synthetic biology。",
+      "abstractEn": "Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging 1-4 , especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an 'add-on' architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, such as reagent and labware replenishment. Across four representative applications, AutoDNA matched expert-optimized enzymatic DNA synthesis yields, accelerated concurrent protocol execution by 3.2-fold, completed an end-to-end DNA data storage cycle with exact recovery of the original digital content, and identified and validated a clinically detected KRAS G13D mutation. AutoDNA establishes a blueprint towards science-as-a-service, accelerating biological discovery and advancing various applications in synthetic biology and information storage.",
+      "summaryZh": "开发人工智能（AI）原生实验实验室，以最少的人为干预进行自主科学探索是一个长期目标。尽管自主实验系统正在兴起 1-4 ，特别是在化学和材料科学领域，但它们仍然主要局限于具有单一目标、明确定义的工作流程和简单仪器的领域。这种限制可能反映了一种“附加”架构，该架构使用人工智能作为特定于任务的工具，而不是为其提供对实验的全局理解，尤其是在面向工程的情况下。在这里，我们介绍 AutoDNA，这是一个人工智能原生自主生物分子工程实验室，旨在跨不同仪器进行多目标实验。通过模型、实验和仪器的协同设计，AutoDNA在端到端多用户框架内实现了人工智能和自动化系统的共同进化。该系统自主协调20多种类型的仪器，跨越11,000多个步骤来执行核心核酸操作，包括合成、转录、扩增和测序，而人工干预仅限于硬件维护任务，例如试剂和实验室器具补充。在四个代表性应用中，AutoDNA 匹配了专家优化的酶 DNA 合成产量，将并发协议执行速度加快了 3.2 倍，完成了端到端 DNA 数据存储周期，准确恢复了原始数字内容，并识别和验证了临床检测到的 KRAS G13D 突变。 AutoDNA 制定了科学即服务的蓝图，加速生物发现并推进合成生物学和信息存储方面的各种应用。",
+      "translationSource": "e57695ec8c30ae86"
     },
     {
       "pmid": "42907506",
@@ -1527,6 +1527,27 @@
       "abstractEn": "Neurons depend on tightly regulated positioning of cellular components to maintain long-distance signaling, but the mechanisms guiding specific mRNAs to distant regions remain unclear. Here, we show that late endosomes function as selective RNA carriers in human motor neurons and uncover the molecular logic guiding their loading. Using APEX2-mediated proximity labeling, we identify the external transcriptome of RAB7A-positive endosomes and find a specific population of mRNAs enriched for endosomal, axonal, and synaptic functions. We find that mRNAs enriched in RAB7A endosomes contain evolutionarily conserved 5'UTRs that act as localization signals, and that the RNA-binding protein GEMIN5 interacts with these regions to promote endosomal RNA recruitment. Finally, we show that there is a conspicuous loss of endosome-associated transcripts in amyotrophic lateral sclerosis-associated conditions, accompanied by the mislocalization of GEMIN5 from endosomes. These findings uncover fundamental principles of RNA compartmentalization and highlight endosomal mRNA loading as a vulnerable axis in neuronal homeostasis.",
       "summaryZh": "神经元依靠严格调节的细胞成分定位来维持长距离信号传导，但引导特定 mRNA 到达远处区域的机制仍不清楚。在这里，我们展示了晚期内体在人类运动神经元中作为选择性 RNA 载体发挥作用，并揭示了指导其装载的分子逻辑。使用 APEX2 介导的邻近标记，我们鉴定了 RAB7A 阳性内体的外部转录组，并找到了富含内体、轴突和突触功能的特定 mRNA 群体。我们发现，RAB7A 内体中富集的 mRNA 含有进化上保守的 5'UTR，可作为定位信号，并且 RNA 结合蛋白 GEMIN5 与这些区域相互作用，促进内体 RNA 募集。最后，我们发现，在肌萎缩侧索硬化症相关病症中，内体相关转录物明显丢失，并伴有 GEMIN5 从内体的错误定位。这些发现揭示了 RNA 区室化的基本原理，并强调内体 mRNA 负载是神经元稳态中的一个脆弱轴。",
       "translationSource": "e06578859058c4ae"
+    },
+    {
+      "pmid": "43086211",
+      "title": "CPRISP: an interpretable deep learning framework predicting circRNA-RBP interactions and guiding therapeutic discovery in neurodegeneration.",
+      "titleZh": "",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-10-28",
+      "doi": "10.1038/s41467-026-79009-3",
+      "doiUrl": "https://doi.org/10.1038/s41467-026-79009-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43086211/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Circular RNAs regulate gene expression through interactions with ribonucleic acid binding proteins, but their binding sites remain difficult to predict across proteins and cellular contexts. Existing methods often focus on transcript features while making limited use of protein-specific information and structural context. Here, we show that an integrated deep learning framework combining circular transcript sequence composition, physicochemical properties, secondary structure, pretrained representations and protein features improves interaction-site prediction across 37 benchmark datasets and generalizes across cell lines; model interpretation recovers conserved single-stranded sequence patterns, while analyses of proteins linked to Alzheimer disease, Parkinson disease and amyotrophic lateral sclerosis identify recurrent pathways involving nucleocytoplasmic transport, lysosomal signaling and guanosine triphosphatase activity and prioritize compounds for experimental follow-up, supporting accurate and interpretable mapping of circular ribonucleic acid protein interactions without implying therapeutic efficacy.",
+      "summaryZh": "",
+      "translationSource": "e0292b44adb3c01d"
     },
     {
       "pmid": "42949915",
