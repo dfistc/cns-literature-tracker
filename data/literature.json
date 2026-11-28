@@ -1,12 +1,75 @@
 {
-  "updatedAt": "2026-11-27T05:31:39+00:00",
+  "updatedAt": "2026-11-28T05:08:07+00:00",
   "source": "PubMed E-utilities / NCBI",
   "scope": "2020 年以来；CNS 正刊及 Cell/Nature/Science 系列子刊；合成生物学、靶向蛋白降解、溶酶体或蛋白酶体相关关键词。",
   "items": [
     {
+      "pmid": "42749893",
+      "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.",
+      "titleZh": "编码原噬菌体的工程细菌能够对小鼠肠道感染进行预防性裂解噬菌体治疗。",
+      "journal": "Nature Microbiology",
+      "year": 2026,
+      "published": "2026-12-01",
+      "doi": "10.1038/s41564-026-02484-3",
+      "doiUrl": "https://doi.org/10.1038/s41564-026-02484-3",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749893/",
+      "categories": [
+        "合成生物学"
+      ],
+      "matchedTerms": [
+        "engineered bacteria"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
+      "abstractEn": "Phage therapy is a promising antibacterial approach but it has limited efficacy against enteric bacterial infections, such as Salmonella enterica Typhimurium (STm). Here we hypothesized that establishing high concentrations of a pathogen-targeting phage in the gut before infection would prophylactically protect against future infection. To this end, we engineered non-pathogenic Escherichia coli to encode a prophage that produces obligately lytic phage progeny targeting STm while overcoming its host defence systems, including restriction-modification systems. We show that prophylactic gut colonization with this lytic phage-producing lysogen of E. coli produces high levels of lytic phage before infection, inhibits the establishment of STm after infection and improves survival in mouse models of STm-induced colitis. Using a mutant STm strain limited to intestinal colonization, we show that phage-producing E. coli consistently colonized, produced high phage levels and eliminated STm from the intestinal tract. Our findings present a proof-of-concept that prophylactic prophage therapy can protect against an enteric infection.",
+      "summaryZh": "噬菌体疗法是​​一种有前途的抗菌方法，但其对抗肠道细菌感染（例如鼠伤寒沙门氏菌（STm））的功效有限。在这里，我们假设在感染前在肠道中建立高浓度的针对病原体的噬菌体可以预防性地防止未来的感染。为此，我们设计了非致病性大肠杆菌来编码一种原噬菌体，该原噬菌体产生针对 STm 的专性裂解噬菌体后代，同时克服其宿主防御系统，包括限制性修饰系统。我们发现，用这种产生裂解性噬菌体的大肠杆菌溶原菌进行预防性肠道定植，可以在感染前产生高水平的裂解性噬菌体，抑制感染后 STm 的建立，并提高 STm 诱导的结肠炎小鼠模型的存活率。使用仅限于肠道定植的突变 STm 菌株，我们发现产生噬菌体的大肠杆菌持续定殖，产生高水平的噬菌体并从肠道中消除 STm。我们的研究结果证明了预防性前噬菌体疗法可以预防肠道感染。",
+      "translationSource": "896defdcac2589cd"
+    },
+    {
+      "pmid": "43102954",
+      "title": "Small-molecule targeting of CMTM6 induces dual degradation of PD-L1 and SLC1A5 to enhance cancer immunotherapy.",
+      "titleZh": "CMTM6 的小分子靶向诱导 PD-L1 和 SLC1A5 双重降解，从而增强癌症免疫治疗。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-27",
+      "doi": "10.1126/sciadv.aei8376",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aei8376",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43102954/",
+      "categories": [
+        "溶酶体/蛋白酶体"
+      ],
+      "matchedTerms": [
+        "lysosomal"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
+      "abstractEn": "Immune checkpoint blockade (ICB) has revolutionized oncology; however, emerging therapeutic resistance and the pharmacokinetic limitations of monoclonal antibodies necessitate the development of potent, small-molecule alternatives. CMTM6 (CKLF-like MARVEL transmembrane domain-containing protein 6) has recently been identified as a master posttranslational regulator of PD-L1 stability. Here, we characterize GIC-001 and its derivative, GIC-005, as first-in-class small-molecule inhibitors that directly target CMTM6. GIC-001 binds directly to CMTM6, competitively disrupting its association with PD-L1 and the glutamine transporter SLC1A5 (ASCT2) while crucially preserving its interaction with the essential costimulatory ligand CD58. This targeted dissociation facilitates the polyubiquitination and subsequent lysosomal degradation of both PD-L1 and SLC1A5. Consequently, pharmacological inhibition of the CMTM6 axis blunts PD-L1 expression, restricts glutamine uptake in tumor cells, and restores T cell-mediated cytotoxicity. In syngeneic MC38 and Lewis lung carcinoma (LLC) models, GIC-001 significantly suppressed tumor progression and prolonged overall survival. Single-cell transcriptomics revealed that this efficacy is driven by a profound remodeling of the tumor microenvironment (TME), characterized by the notable expansion of effector and memory CD8 + T cells alongside the repolarization of suppressive macrophages toward an activated phenotype. Furthermore, GIC-001 exhibited durable antitumor efficacy as a monotherapy and synergized with anti-PD-L1 antibodies, and GIC-005 demonstrated potent in vivo activity. Our findings establish CMTM6-targeted small molecules as a distinct class of dual-action agents that integrate immune and metabolic checkpoint modulation, providing a transformative strategy for cancer immunotherapy.",
+      "summaryZh": "免疫检查点封锁（ICB）彻底改变了肿瘤学；然而，新出现的治疗耐药性和单克隆抗体的药代动力学限制使得开发有效的小分子替代品成为必要。 CMTM6（CKLF 样 MARVEL 跨膜结构域蛋白 6）最近被确定为 PD-L1 稳定性的主要翻译后调节因子。在这里，我们将 GIC-001 及其衍生物 GIC-005 描述为直接靶向 CMTM6 的一流小分子抑制剂。 GIC-001 直接与 CMTM6 结合，竞争性地破坏其与 PD-L1 和谷氨酰胺转运蛋白 SLC1A5 (ASCT2) 的关联，同时关键地保留其与必需的共刺激配体 CD58 的相互作用。这种靶向解离促进了 PD-L1 和 SLC1A5 的多泛素化和随后的溶酶体降解。因此，对 CMTM6 轴的药理抑制会减弱 PD-L1 的表达，限制肿瘤细胞对谷氨酰胺的摄取，并恢复 T 细胞介导的细胞毒性。在同基因 MC38 和 Lewis 肺癌 (LLC) 模型中，GIC-001 显着抑制肿瘤进展并延长总体生存期。单细胞转录组学显示，这种功效是由肿瘤微环境 (TME) 的深刻重塑驱动的，其特征是效应和记忆 CD8 + T 细胞显着扩张，同时抑制性巨噬细胞向激活表型重新极化。此外，GIC-001 作为单一疗法并与抗 PD-L1 抗体协同作用时表现出持久的抗肿瘤功效，GIC-005 表现出有效的体内活性。 我们的研究结果将 CMTM6 靶向小分子确立为一类独特的双重作用药物，整合了免疫和代谢检查点调节，为癌症免疫治疗提供了变革性策略。",
+      "translationSource": "e274317efa809df6"
+    },
+    {
+      "pmid": "43102931",
+      "title": "Whole-plant visualization of endogenous RNA with an RNA-sensing fluorescence reporter toward single-molecule imaging.",
+      "titleZh": "使用 RNA 感应荧光报告基因对内源 RNA 进行全植物可视化，实现单分子成像。",
+      "journal": "Science Advances",
+      "year": 2026,
+      "published": "2026-11-27",
+      "doi": "10.1126/sciadv.aeh1555",
+      "doiUrl": "https://doi.org/10.1126/sciadv.aeh1555",
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43102931/",
+      "categories": [
+        "靶向蛋白降解"
+      ],
+      "matchedTerms": [
+        "degron"
+      ],
+      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
+      "abstractEn": "Spatiotemporal mapping of endogenous RNA expression and trafficking in living plants remains challenging. Here, we introduce the plant endogenous RNA reporting system (PERS), an RNA-sensing fluorescent platform for in vivo visualization of unmodified native transcripts. PERS integrates an engineered target-binding allosteric RNA switch that sterically shields a miniature degron on a modular green fluorescent protein reporter, coupled with a SunTag-based signal amplification module. This design enables noninvasive, single molecule-sensitive imaging of plant endogenous RNAs with substantially improved signal-to-background performance, without detectable perturbation to plant growth or tested target-gene expression. Using PERS, we resolved subcellular localization and trafficking of individual RNAs and quantitatively tracked gene expression dynamics from single cells to whole plants across multiple contexts, including constitutive housekeeping genes, tissue-specific expression patterns, circadian rhythm oscillations, and acute stress-responsive programs. By enabling programmable, high-specificity detection of endogenous RNAs across scales, PERS provides a platform to map RNA localization and trafficking in vivo, opening avenues to dissect and engineer systemic signaling networks in plant biology.",
+      "summaryZh": "活体植物中内源 RNA 表达和运输的时空绘图仍然具有挑战性。在这里，我们介绍植物内源 RNA 报告系统 (PERS)，这是一种 RNA 传感荧光平台，用于未修饰的天然转录本的体内可视化。 PERS 集成了一种工程化的靶标结合变构 RNA 开关，可在空间上屏蔽模块化绿色荧光蛋白报告基因上的微型降解决定子，并结合基于 SunTag 的信号放大模块。该设计能够对植物内源 RNA 进行非侵入性、单分子敏感成像，并显着改善信号背景性能，且不会对植物生长或测试的靶基因表达造成可检测到的干扰。使用 PERS，我们解决了单个 RNA 的亚细胞定位和运输问题，并定量跟踪了多种背景下从单细胞到整个植物的基因表达动态，包括组成型管家基因、组织特异性表达模式、昼夜节律振荡和急性应激反应程序。通过实现跨尺度内源 RNA 的可编程、高特异性检测，PERS 提供了一个绘制体内 RNA 定位和运输的平台，为剖析和设计植物生物学中的系统信号网络开辟了途径。",
+      "translationSource": "4c870ac2850ad3b3"
+    },
+    {
       "pmid": "43084693",
       "title": "A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics.",
-      "titleZh": "",
+      "titleZh": "一种可编程无细胞生物传感器设备，用于按需检测病原体和抗生素。",
       "journal": "Science Advances",
       "year": 2026,
       "published": "2026-11-27",
@@ -23,7 +86,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：gene circuit, cell-free system, programmable cell。",
       "abstractEn": "Cell-free systems provide a versatile platform for engineering customizable, gene circuit-based biosensors for decentralized, low-cost molecular diagnostics. Nevertheless, their performance in complex samples is often compromised by matrix interference, necessitating laborious preprocessing that restricts field deployment. Here, we developed a programmable, on-demand, cell-free kit (POCKit) that integrates sample pretreatment with point-of-care detection. The POCKit device comprises a negative pressure storage chamber and a sampling-sensing chamber, which can be connected to a microneedle array or pipette module for sample collection, filtration and target detection via a freeze-dried cell-free molecular reaction network. The POCKit enables detection of Pseudomonas aeruginosa infection in wound exudates, interstitial fluids and artificial sputum within one hour. It also detects tetracycline in food and environmental water, distinguishing tetracycline-spiked samples from negative controls without specialized equipment or tedious preparation. A portable fluorescence imaging box and smartphone application further support real-time signal acquisition and analysis, offering a ready-to-use platform for on-site diagnostics across biomedicine, food safety, and environmental monitoring.",
-      "summaryZh": "",
+      "summaryZh": "无细胞系统为工程可定制的、基于基因电路的生物传感器提供了一个多功能平台，用于分散的、低成本的分子诊断。然而，它们在复杂样品中的性能常常受到基质干扰的影响，需要进行繁琐的预处理，从而限制了现场部署。在这里，我们开发了一种可编程、按需、无细胞试剂盒 (POCKit)，它将样品预处理与即时检测集成在一起。 POCKit装置包括负压储存室和采样传感室，可连接微针阵列或移液器模块，通过冻干无细胞分子反应网络进行样品采集、过滤和目标检测。 POCKit 能够在一小时内检测伤口渗出液、组织液和人工痰中的铜绿假单胞菌感染。它还可以检测食品和环境水中的四环素，无需专门的设备或繁琐的准备即可将四环素加标样品与阴性对照区分开来。便携式荧光成像盒和智能手机应用程序进一步支持实时信号采集和分析，为生物医学、食品安全和环境监测的现场诊断提供即用型平台。",
       "translationSource": "47ecc763f5480346"
     },
     {
@@ -50,7 +113,7 @@
     {
       "pmid": "43078854",
       "title": "Bidirectional control of a metabolic transition by the GID ubiquitin ligase.",
-      "titleZh": "",
+      "titleZh": "GID 泛素连接酶对代谢转变的双向控制。",
       "journal": "Nature Communications",
       "year": 2026,
       "published": "2026-11-24",
@@ -65,7 +128,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：degron。",
       "abstractEn": "The GID/CTLH ubiquitin ligase is a multisubunit E3 conserved across eukaryotes. GID/CTLH has been implicated in a variety of processes, including metabolic regulation, cell proliferation, embryonic development and cell differentiation. However, our understanding of substrate recognition by GID/CTLH remains incomplete. Here, we characterize the regulation, specificity and functions of the putative substrate receptor Gid11 in budding yeast. We find that upon its expression during the switch of carbon source from glucose to ethanol, Gid11 associates with the core GID complex, likely assembling into a ring-like complex. Through systematic mutagenesis, we identify a negatively charged pocket on Gid11 that binds substrates carrying N-terminal degrons starting with threonine and define the Thr/N-degron motif. Such Thr/N-degrons are exposed upon co-translational removal of the initiator methionine, while escaping N-terminal acetylation. Finally, we show that during the glucose-to-ethanol transition, GID Gid11 targets for degradation factors linked to ribosomal biogenesis, amino acid, nucleotide and central carbon metabolism, opposing the established role of GID during the reverse transition from ethanol to glucose. Taken together, our results establish Gid11 as a bona fide GID substrate receptor and highlight GID as a regulator of metabolic transitions.",
-      "summaryZh": "",
+      "summaryZh": "GID/CTLH 泛素连接酶是真核生物中保守的多亚基 E3。 GID/CTLH 涉及多种过程，包括代谢调节、细胞增殖、胚胎发育和细胞分化。然而，我们对 GID/CTLH 底物识别的理解仍然不完整。在这里，我们描述了芽殖酵母中假定底物受体 Gid11 的调节、特异性和功能。我们发现，在碳源从葡萄糖转换为乙醇的过程​​中，Gid11 表达后，会与核心 GID 复合物结合，可能组装成环状复合物。通过系统诱变，我们在 Gid11 上识别出一个带负电荷的口袋，该口袋结合携带以苏氨酸开始的 N 末端降解决定子的底物，并定义了 Thr/N-降解决定子基序。这种Thr/N-降解决定子在共翻译去除引发剂甲硫氨酸时暴露，同时逃脱N-末端乙酰化。最后，我们发现，在葡萄糖到乙醇的转变过程中，GID Gid11 以与核糖体生物发生、氨基酸、核苷酸和中心碳代谢相关的降解因子为目标，与 GID 在从乙醇到葡萄糖的反向转变过程中既定的作用相反。总而言之，我们的结果证实 Gid11 是真正的 GID 底物受体，并强调 GID 作为代谢转变的调节剂。",
       "translationSource": "3d20e75f300c8fec"
     },
     {
@@ -932,7 +995,7 @@
     {
       "pmid": "43078838",
       "title": "Pathology-adapted peptide-oligonucleotide nanohybrid mitigates glucocorticoid-induced bone loss.",
-      "titleZh": "",
+      "titleZh": "适应病理学的肽-寡核苷酸纳米杂化物可减轻糖皮质激素引起的骨质流失。",
       "journal": "Nature Communications",
       "year": 2026,
       "published": "2026-11-05",
@@ -947,7 +1010,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
       "abstractEn": "Glucocorticoid-induced bone loss (GIBL) remains a major clinical challenge, manifested by both systemic osteopenia and osteonecrosis of the femoral head under chronic glucocorticoid exposure, yet current therapies are limited in coordinately addressing bone deterioration and vascular impairment. With advances in precision medicine, oligonucleotide therapeutics offer opportunities for pathophysiology-informed intervention. Here, we report a pathology-adapted peptide-oligonucleotide nanohybrid (PON) developed for targeted miR-26a-5p delivery to glucocorticoid-injured bone. By integrating self-assembly, bone targeting, enzyme responsiveness, cell penetration, and lysosomal escape, PONs were designed to incorporate pathology-responsive delivery features and address key barriers to oligonucleotide delivery. Mechanistically, PON-mediated miR-26a-5p delivery reduced GSK-3β expression and promoted HIF-1α stabilization, thereby preserving osteogenesis-angiogenesis coupling and attenuating apoptosis. In a rat model of GIBL, systemic PON administration protects against early skeletal and vascular injury and limits progression after disease establishment. These findings identify the therapeutic relevance of miR-26a-5p in GIBL, and support the potential of PON system for bone-targeted oligonucleotide therapy.",
-      "summaryZh": "",
+      "summaryZh": "糖皮质激素引起的骨丢失（GIBL）仍然是一个主要的临床挑战，表现为慢性糖皮质激素暴露下的全身性骨质减少和股骨头坏死，但目前的治疗方法在协调解决骨退化和血管损伤方面受到限制。随着精准医学的进步，寡核苷酸疗法为病理生理学干预提供了机会。在这里，我们报告了一种适应病理学的肽-寡核苷酸纳米杂化物（PON），用于将 miR-26a-5p 靶向递送到糖皮质激素损伤的骨中。通过整合自组装、骨靶向、酶响应性、细胞渗透和溶酶体逃逸，PON 被设计为结合病理响应性递送特征并解决寡核苷酸递送的关键障碍。从机制上讲，PON介导的miR-26a-5p递送降低了GSK-3β表达并促进HIF-1α稳定，从而保持成骨-血管生成耦合并减弱细胞凋亡。在 GIBL 大鼠模型中，全身 PON 给药可防止早期骨骼和血管损伤，并限制疾病建立后的进展。这些发现确定了 GIBL 中 miR-26a-5p 的治疗相关性，并支持 PON 系统用于骨靶向寡核苷酸治疗的潜力。",
       "translationSource": "aa6150f0657713f3"
     },
     {
@@ -1531,7 +1594,7 @@
     {
       "pmid": "43086211",
       "title": "CPRISP: an interpretable deep learning framework predicting circRNA-RBP interactions and guiding therapeutic discovery in neurodegeneration.",
-      "titleZh": "",
+      "titleZh": "CPRISP：一个可解释的深度学习框架，预测 circRNA-RBP 相互作用并指导神经退行性疾病的治疗发现。",
       "journal": "Nature Communications",
       "year": 2026,
       "published": "2026-10-28",
@@ -1546,7 +1609,7 @@
       ],
       "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：lysosomal。",
       "abstractEn": "Circular RNAs regulate gene expression through interactions with ribonucleic acid binding proteins, but their binding sites remain difficult to predict across proteins and cellular contexts. Existing methods often focus on transcript features while making limited use of protein-specific information and structural context. Here, we show that an integrated deep learning framework combining circular transcript sequence composition, physicochemical properties, secondary structure, pretrained representations and protein features improves interaction-site prediction across 37 benchmark datasets and generalizes across cell lines; model interpretation recovers conserved single-stranded sequence patterns, while analyses of proteins linked to Alzheimer disease, Parkinson disease and amyotrophic lateral sclerosis identify recurrent pathways involving nucleocytoplasmic transport, lysosomal signaling and guanosine triphosphatase activity and prioritize compounds for experimental follow-up, supporting accurate and interpretable mapping of circular ribonucleic acid protein interactions without implying therapeutic efficacy.",
-      "summaryZh": "",
+      "summaryZh": "环状RNA通过与核糖核酸结合蛋白的相互作用来调节基因表达，但它们的结合位点仍然难以在蛋白质和细胞环境中预测。现有方法通常关注转录本特征，同时有限地利用蛋白质特异性信息和结构背景。在这里，我们展示了一个集成的深度学习框架，结合了循环转录序列组成、理化性质、二级结构、预训练表示和蛋白质特征，改进了跨 37 个基准数据集的相互作用位点预测，并在细胞系之间进行了推广；模型解释恢复了保守的单链序列模式，而对与阿尔茨海默病、帕金森病和肌萎缩侧索硬化症相关的蛋白质的分析则确定了涉及核细胞质转运、溶酶体信号传导和鸟苷三磷酸酶活性的循环通路，并优先考虑用于实验随访的化合物，支持准确且可解释的环状核糖核酸蛋白质相互作用图谱，而不暗示治疗效果。",
       "translationSource": "e0292b44adb3c01d"
     },
     {
@@ -3466,27 +3529,6 @@
       "abstractEn": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful computational system capable of simulating the activity and behavior of a living cell. Such a system could shift cell biology from trial-and-error experimentation with cell-culture models in the wet lab toward systematic simulation of combinatorial interventions in a digital laboratory. In this paper, we propose the world model as an operational framework for realizing this vision-an emerging AI paradigm that supports action-conditioned simulation, counterfactual reasoning and long-horizon planning in complex dynamic environments. In this formulation, a virtual cell world model (VCWM) represents a persistent cellular state and simulates its evolution under genetic, chemical, environmental, and other biological interventions. In contrast to predictive foundation models optimized for specific tasks or endpoints, a VCWM seeks to model the underlying cellular system, allowing interventions to propagate through an evolving state and generate coherent molecular, structural, interactional, and morphological outcomes over time. We outline an architecture, a data framework, training strategy, and evaluation principles for realizing this vision and discuss how existing biological foundation models can serve as its building blocks. We envisage that VCWMs could transform biological discovery from exhaustive experimental search toward structured navigation of learned cellular worlds, enabling counterfactual exploration, rational intervention design, and ultimately more predictive, designable, and programmable cell biology.",
       "summaryZh": "人工智能驱动的数字有机体（AIDO）（例如虚拟细胞）的前景最近引起了人工智能和生物学界日益增长的兴奋和想象力。我们将虚拟细胞设想为一个多模式、多尺度、动态和有状态的计算系统，能够模拟活细胞的活动和行为。这样的系统可以将细胞生物学从湿实验室中细胞培养模型的试错实验转向数字实验室中组合干预的系统模拟。在本文中，我们提出世界模型作为实现这一愿景的操作框架——一种新兴的人工智能范式，支持复杂动态环境中的动作条件模拟、反事实推理和长期规划。在这个公式中，虚拟细胞世界模型（VCWM）代表持久的细胞状态，并模拟其在遗传、化学、环境和其他生物干预下的进化。与针对特定任务或终点优化的预测基础模型相比，VCWM 寻求对底层细胞系统进行建模，允许干预措施通过不断演变的状态传播，并随着时间的推移产生连贯的分子、结构、相互作用和形态结果。我们概述了实现这一愿景的架构、数据框架、培训策略和评估原则，并讨论了现有的生物基础模型如何作为其构建块。我们设想 VCWM 可以将生物发现从详尽的实验搜索转变为学习细胞世界的结构化导航，从而实现反事实探索、合理的干预设计，并最终实现更具预测性、可设计性和可编程性的细胞生物学。",
       "translationSource": "40c4d106c1cbcfe1"
-    },
-    {
-      "pmid": "42749893",
-      "title": "Prophage-encoding engineered bacteria enable prophylactic lytic phage therapy for enteric infection in mice.",
-      "titleZh": "编码原噬菌体的工程细菌能够对小鼠肠道感染进行预防性裂解噬菌体治疗。",
-      "journal": "Nature Microbiology",
-      "year": 2026,
-      "published": "2026-09-16",
-      "doi": "10.1038/s41564-026-02484-3",
-      "doiUrl": "https://doi.org/10.1038/s41564-026-02484-3",
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42749893/",
-      "categories": [
-        "合成生物学"
-      ],
-      "matchedTerms": [
-        "engineered bacteria"
-      ],
-      "standard": "2020 年以来；期刊属于 CNS 正刊或 Cell/Nature/Science 系列子刊；题名/摘要命中：engineered bacteria。",
-      "abstractEn": "Phage therapy is a promising antibacterial approach but it has limited efficacy against enteric bacterial infections, such as Salmonella enterica Typhimurium (STm). Here we hypothesized that establishing high concentrations of a pathogen-targeting phage in the gut before infection would prophylactically protect against future infection. To this end, we engineered non-pathogenic Escherichia coli to encode a prophage that produces obligately lytic phage progeny targeting STm while overcoming its host defence systems, including restriction-modification systems. We show that prophylactic gut colonization with this lytic phage-producing lysogen of E. coli produces high levels of lytic phage before infection, inhibits the establishment of STm after infection and improves survival in mouse models of STm-induced colitis. Using a mutant STm strain limited to intestinal colonization, we show that phage-producing E. coli consistently colonized, produced high phage levels and eliminated STm from the intestinal tract. Our findings present a proof-of-concept that prophylactic prophage therapy can protect against an enteric infection.",
-      "summaryZh": "噬菌体疗法是​​一种有前途的抗菌方法，但其对抗肠道细菌感染（例如鼠伤寒沙门氏菌（STm））的功效有限。在这里，我们假设在感染前在肠道中建立高浓度的针对病原体的噬菌体可以预防性地防止未来的感染。为此，我们设计了非致病性大肠杆菌来编码一种原噬菌体，该原噬菌体产生针对 STm 的专性裂解噬菌体后代，同时克服其宿主防御系统，包括限制性修饰系统。我们发现，用这种产生裂解性噬菌体的大肠杆菌溶原菌进行预防性肠道定植，可以在感染前产生高水平的裂解性噬菌体，抑制感染后 STm 的建立，并提高 STm 诱导的结肠炎小鼠模型的存活率。使用仅限于肠道定植的突变 STm 菌株，我们发现产生噬菌体的大肠杆菌持续定殖，产生高水平的噬菌体并从肠道中消除 STm。我们的研究结果证明了预防性前噬菌体疗法可以预防肠道感染。",
-      "translationSource": "896defdcac2589cd"
     },
     {
       "pmid": "42881157",
